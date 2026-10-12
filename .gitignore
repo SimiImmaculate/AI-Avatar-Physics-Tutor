@@ -1,0 +1,89 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local student data and generated caches
+data/student_progress.json
+data/pyq_answers/pyq_explanation_cache.json
+data/pyq_mastery.json
+
+# Local verification reports and temporary files
+*.backup_*
+app_before_*.py
+pyq_ui_before_*.py
+pyq_answer_engine_backup.py
+deployment_backup_*/
+.pytest_cache/
+.streamlit/cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Timestamped README and configuration backups
+README_before_*.md
+.streamlit/config_before_repair_*.toml
+
+# Development patch and deployment backup directories
+backup_before_physics_patch/
+config_patch_backup_*/
+pre_deployment_patch_*/
+deployment_backup_*/
+
+# Temporary copies of source files
+*_before_*.py
+*_backup*.py
+pyq_ui_backup.py
+pyq_answer_engine_encoding_backup_*.py
+
+# Local audit reports and generated review artifacts
+/full_syllabus_retrieval_audit.csv
+/full_syllabus_retrieval_audit.json
+/outputs
+*.log
+
+# Temporary PYQ extraction batches
+data/pyq_questions/batch_temp/
+
+# Local test and repair scripts that are not application entry points
+apply_deployment_config_patch.py
+apply_next_patch.py
+audit_full_syllabus.py
+audit_pyq_mapping.py
+batch_extract_all_pyqs.py
+check_missing_pyqs.py
+create_mcq_verification_sheet.py
+diagnose_ingestion.py
+find_unit_pages.py
+find_unit_starts.py
+fix_encoding.py
+fix_pyq_mapping_html.py
+fix_pyq_presentation.py
+ingest_textbooks.py
+inspect_mcq_mismatches.py
+inspect_pyq.py
+polish_learning_labels.py
+polish_pyq_ui.py
+pyq_database_audit.py
+pyq_verify_all_mcqs.py
+qa_local.py
+qa_textbook_diagrams.py
+recover_xi2024_q4_q10.py
+remove_duplicate_pyq_mapping.py
+repair_missing_pyqs.py
+repair_pyq_mcq_classification.py
+repair_pyq_metadata.py
+repair_pyq_structure.py
+repair_pyq_verified_options.py
+repair_streamlit_config.py
+validate_pyq.py
