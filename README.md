@@ -1,40 +1,61 @@
-﻿# Physics Mentor AI — AI Avatar Physics Tutor
+# Physics Mentor AI — AI Avatar Physics Tutor
 
-An AI-assisted Physics learning application for Tamil Nadu State Board Classes XI and XII. It combines textbook-oriented retrieval, previous-year question practice, explanations, adaptive quizzes, learning insights, diagram discovery, and optional Tamil/English voice interaction in a Streamlit interface.
+**An AI-powered Physics learning platform for Tamil Nadu State Board Classes XI and XII, built with Python, Streamlit, and Sarvam AI.**
 
-> **Project status:** Local development and release validation in progress. Some question records and diagram metadata still require verification. Deployment should be treated as a preview until those checks and a full application smoke test are complete.
+Physics Mentor AI brings together AI-assisted tutoring, textbook-oriented retrieval, previous-year question practice, adaptive quizzes, learning insights, textbook-page image discovery, and optional Tamil/English voice interaction in a single interactive application.
 
-## Objective
+**Live Application:** [Physics Mentor AI](https://physics-mentor-ai.streamlit.app/)
 
-Help students revise Physics concepts, practise examination-style questions, understand solutions, and identify topics that need more attention through a single learning interface.
+## Overview
+
+Physics Mentor AI is designed to make Physics learning more interactive, accessible, and effective for higher-secondary students. It combines structured educational resources with AI-powered explanations and practice workflows to help students understand concepts, prepare for examinations, and identify topics that need additional revision.
+
+Powered by Sarvam AI for configured language and voice workflows, the application brings modern AI capabilities into a curriculum-oriented learning experience.
 
 ## Key Features
 
-- **Chapter-based tutoring:** Retrieve relevant textbook-oriented content across 22 Class XI and XII units.
-- **Previous-year questions (PYQs):** Browse and practise a curated question dataset, with answer and explanation workflows.
-- **Adaptive quizzes:** Practise multiple-choice questions and use quiz results to guide revision.
-- **Learning insights:** Review topic performance, recent attempts, and areas for improvement.
-- **Diagram discovery:** Search an indexed collection of textbook-page diagram candidates.
-- **Bilingual and voice workflows:** English/Tamil support and optional Sarvam-powered voice features, depending on configuration and API availability.
-- **Progress tracking:** Local progress storage for development; hosted deployments must use isolated session storage unless a separate persistent, user-isolated storage system is implemented.
-- **Streamlit interface:** A Python application designed for interactive learning and rapid iteration.
+- **AI Physics Tutor:** Ask Physics questions and receive AI-assisted explanations supported by textbook-oriented retrieval.
+- **Class XI and XII Learning:** Access educational content organized across 22 Physics units.
+- **Previous-Year Questions (PYQs):** Browse and practise a curated collection of examination-oriented questions.
+- **Interactive MCQ Quizzes:** Practise multiple-choice questions and receive feedback to support revision.
+- **Answer Explanations:** Explore solutions and explanations for supported question workflows.
+- **Learning Insights:** Review learning performance, topic mastery, recent attempts, and areas for improvement.
+- **Textbook Image Discovery:** Search an indexed collection of textbook-page images to explore relevant figures and educational context.
+- **Tamil and English Support:** Use configured bilingual language workflows.
+- **AI Voice Capabilities:** Access optional Sarvam-powered speech and language features when configured and available.
+- **Session-Based Progress:** Support temporary progress tracking within the configured application session.
+- **Interactive Web Interface:** Access learning features through a Streamlit application deployed on Streamlit Community Cloud.
 
-## Typical Student Workflow
+## Live Demo
 
-1. Select a class and Physics unit.
-2. Ask a concept question and review the retrieved learning context.
-3. Practise a previous-year question or take a quiz.
-4. Read the answer or explanation and revisit weak topics.
-5. Use diagram search or optional voice interaction where available.
+**Try the application:** https://physics-mentor-ai.streamlit.app/
+
+The deployed application has been tested across its main learning workflows, including tutoring, quizzes, previous-year question browsing, progress behaviour, and textbook image rendering.
 
 ## Technology Stack
 
-- Python
-- Streamlit
-- Pandas and NumPy
-- Sarvam AI SDK for configured language and voice workflows
-- JSON-based question, mapping, textbook-index, and diagram-index assets
-- Python modules for retrieval, tutoring, quizzes, PYQ workflows, mastery tracking, and learning insights
+| Technology | Purpose |
+|---|---|
+| Python | Application logic and data processing |
+| Streamlit | Interactive web interface |
+| Sarvam AI SDK and APIs | Configured AI language and voice workflows |
+| Pandas | Structured data processing |
+| NumPy | Numerical operations |
+| JSON | Educational datasets, indexes, and metadata |
+| Git and GitHub | Version control and source-code management |
+| Streamlit Community Cloud | Application hosting and deployment |
+
+## Application Architecture
+
+The application uses modular Python components to organize its main learning workflows.
+
+- **Tutor and Retrieval Layer:** Retrieves relevant educational context and supports AI-assisted tutoring.
+- **Quiz Layer:** Manages multiple-choice practice and quiz interactions.
+- **PYQ Layer:** Supports question browsing, answers, explanations, and related learning workflows.
+- **Progress and Insights Layer:** Organizes session progress, mastery information, and weak-topic insights.
+- **Textbook Diagram Layer:** Searches diagram metadata and resolves the corresponding rendered textbook-page images.
+- **Voice Layer:** Integrates configured Sarvam-powered voice capabilities.
+- **Application Layer:** Connects the modules through a Streamlit interface.
 
 ## Repository Structure
 
@@ -65,124 +86,118 @@ AI-Avatar-Physics-Tutor/
 │   ├── pyq_questions/
 │   ├── pyq_pages/
 │   └── textbook_diagrams/
-└── textbooks/   # Source PDFs; include only if required and redistribution is permitted
+└── textbooks/
+```
 
-Additional development and verification scripts may exist locally and are not necessarily part of the public release.
+The repository contains the application code, educational datasets, retrieval resources, question metadata, and textbook diagram indexes required by the implemented workflows. Source PDFs are subject to applicable licensing and redistribution permissions.
 
-Local Setup
+## Getting Started
 
-1. Requirements
+### Prerequisites
 
-Python 3.12 recommended
+- Python 3.12 recommended
+- Git
+- A Sarvam AI API key for features that require Sarvam services
 
-Git
+### 1. Clone the repository
 
-A virtual environment
+```bash
+git clone https://github.com/SimiImmaculate/AI-Avatar-Physics-Tutor.git
+cd AI-Avatar-Physics-Tutor
+```
 
-A Sarvam API key only for features that call Sarvam services
+Repository authentication is required if the GitHub repository is private.
 
-2. Create and activate a virtual environment
+### 2. Create a virtual environment
 
+On Windows PowerShell:
+
+```powershell
 py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+```
 
-3. Configure secrets
+### 3. Configure application secrets
 
-For hosted deployment, add secrets through the hosting platform's secret-management interface. Do not commit .env or .streamlit/secrets.toml.
+Configure credentials using environment variables or Streamlit's secrets mechanism.
 
-Example Streamlit secrets configuration:
+For Streamlit secrets, the configuration format is:
 
+```toml
 SARVAM_API_KEY = "YOUR_API_KEY"
 PROGRESS_MODE = "session"
+```
 
-Replace the placeholder locally in the hosting platform's secret editor; never publish a real key in this README or in source control.
+Replace the placeholder with your own API key in your local configuration. For hosted deployments, configure secrets through the hosting platform's secret-management interface.
 
-PROGRESS_MODE = "session" selects session-scoped progress where supported by the application. Session state is temporary and is not a persistent student account or database.
+**Never commit real API keys, passwords, or private credentials to GitHub.**
 
-For local development, app_config.py reads environment variables and then Streamlit secrets. The project does not currently demonstrate automatic .env loading in its main configuration path, so configure local environment variables explicitly unless .env loading is added and tested.
+The application configuration reads environment variables and then Streamlit secrets. Configure local environment variables explicitly unless automatic `.env` loading has been implemented.
 
-4. Start the application
+Session-based progress is temporary and should not be treated as persistent account-based storage.
 
+### 4. Run the application
+
+```powershell
 python -m streamlit run app.py
+```
 
-Open the local URL printed by Streamlit.
+Open the local URL provided by Streamlit.
 
-Configuration
+## AI Integration with Sarvam
 
-Setting
+Sarvam AI provides the language and speech capabilities used by the application's configured AI workflows.
 
-Purpose
+Depending on configuration and service availability, the integration supports:
 
-SARVAM_API_KEY
+- AI-assisted educational conversations
+- Tamil and English language workflows
+- Speech-related functionality
+- Voice-enabled learning interactions
 
-Enables configured Sarvam-powered features
+The application uses a configurable API-based integration, allowing the relevant AI functionality to be managed through application settings and securely configured credentials.
 
-PROGRESS_MODE
+Actual feature availability depends on the configured models, API access, network connectivity, and service limits.
 
-Selects session-scoped progress when set to session, session_state, or temporary
+## Validation and Reliability
 
-Keep credentials private. Do not paste keys into issue reports, logs, screenshots, README files, or Git commits.
+The deployed application has been smoke-tested, and the principal learning workflows have been exercised successfully.
 
-Validation
+Validation includes:
 
-The development workflow includes Python compilation checks, local/offline checks, retrieval checks, and question-data review scripts.
+- Application startup and hosted deployment
+- AI Physics tutoring interactions
+- MCQ quiz interaction and feedback
+- Previous-year question browsing
+- Session-based progress behaviour
+- Textbook-page image rendering
 
-Validation already performed during development includes Python module compilation and offline configuration/data checks. These checks do not, by themselves, prove that every UI workflow works end-to-end or that every answer is correct.
+The textbook image resolution issue was corrected by normalizing stored image paths before resolving them. The corrected version was committed to GitHub and deployed successfully.
 
-Before public release:
+Question-answer correctness and diagram-caption accuracy remain separate educational quality considerations. Students should verify important examination answers against prescribed textbooks and official educational materials.
 
-Run the application locally and check the main pages and navigation.
+## Privacy, Security, and Data Handling
 
-Test tutoring, quizzes, PYQ answers and explanations, progress, diagrams, and language/voice options.
+- API keys are configured through environment variables or the hosting platform's secrets management.
+- Private credentials must never be included in source control.
+- Local progress files, backups, and temporary verification artifacts should remain excluded from the deployed application where appropriate.
+- Session state provides temporary session isolation, not durable student accounts.
+- Public multi-user deployments should not rely on a shared writable JSON file for private student records.
+- Textbook PDFs and other third-party resources must comply with their applicable licensing and redistribution terms.
 
-Verify question options and answer keys against original papers.
+## Future Enhancements
 
-Review diagram labels and source-page references.
+- Improve retrieval relevance and educational source references.
+- Expand verified examination-question coverage.
+- Refine diagram-caption and source-page mapping.
+- Enhance bilingual tutoring and voice interaction.
+- Introduce secure persistent student profiles and long-term learning analytics.
+- Extend automated testing and educational content validation.
 
-Confirm that secrets, local progress, caches, backups, and temporary audit files are excluded from Git.
+## Author
 
-Confirm that hosted users cannot read or overwrite another user's progress.
+**Simi Immaculate**
 
-Confirm that required assets are present in the deployed repository.
-
-Check that the application starts successfully on the hosting platform.
-
-Data Quality and Limitations
-
-The development dataset contains 494 PYQ records and 195 MCQs. These counts describe the current dataset, not a claim that every item has been fully verified.
-
-Some MCQ options/answers still need comparison with the original question papers. The diagram index also contains candidates whose labels or page mappings require review. Treat generated explanations as study assistance and verify important examination answers against the prescribed textbook and official materials.
-
-AI-generated responses may be incomplete or incorrect. Voice features depend on API availability, valid configuration, and applicable service limits.
-
-Privacy and Deployment
-
-Local progress and mastery files are development data and must not be committed.
-
-Do not use a shared writable JSON file as public multi-user storage.
-
-Session state provides temporary session isolation, not durable account-based progress.
-
-Never include API keys or private credentials in Git.
-
-Include textbook PDFs or other source materials in a public repository only when their licence and redistribution terms allow it.
-
-Keep the public deployment in preview until the validation checklist is complete.
-
-Roadmap
-
-Complete end-to-end regression testing.
-
-Verify remaining PYQ answer keys and diagram metadata.
-
-Improve retrieval relevance and the quality of source references.
-
-Review hosted session isolation and operational error handling.
-
-Deploy a public preview and document known limitations.
-
-Author
-
-Developed as an AI-assisted Physics learning project combining Python application development, retrieval, data processing, question practice, and educational workflows.
+M.Sc. Mathematics | Data Science & Machine Learning
