@@ -141,7 +141,7 @@ def search_textbook_diagrams(
             score = 1
 
         if score > 0:
-            image_path = record["_image_path"]
+            image_path = record["_image_path"].replace("\\", "/")
             if image_path:
                 resolved = Path(image_path)
                 if not resolved.is_absolute():
