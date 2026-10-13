@@ -1,0 +1,6322 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit IV – Work, Energy and Power
+
+TEXTBOOK_PAGE_RANGE:
+167–207
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 159
+PDF_PAGE: 167
+------------------------------------------------------------
+
+159
+Unit 3 Laws of Motion
+C O N C E P T M A P
+Motion
+Newton
+Force = Change of motion
+Aristotle
+Force          Motion
+Galileo
+Force          Motion
+Law of inertia
+V = constant
+Second Law
+Third Law
+Equal & Opposite forces
+Conservation of
+Momentum 
+Frictional force
+Free body diagram
+Circular Motion
+Static friction
+Kinetic friction
+Centripetal force
+Centrifugal force
+ 
+dt
+p
+d
+F
+
+
+=
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 168
+------------------------------------------------------------
+
+160
+Unit 3 Laws of Motion
+EXERCISE 
+ I. Multiple Choice Questions
+ 1. When a car takes a sudden left  turn in 
+the curved road, passengers are pushed 
+towards the right due to 
+(a) inertia of direction
+(b) inertia of motion
+(c) inertia of rest
+(d) absence of inertia
+ 2. An object of mass m held against a 
+vertical wall by applying horizontal 
+force F as shown in the fi gure. Th e 
+minimum value of the force F is
+(IIT JEE 1994)
+(a) Less than mg
+(b) Equal to mg
+(c) Greater than mg
+(d) Cannot determine
+ 3. A vehicle is moving along the positive 
+x direction, if sudden brake is applied, 
+then
+(a)  frictional force acting on the 
+vehicle is along negative x 
+direction
+(b)  frictional force acting on the 
+vehicle is along positive x direction
+(c)  no frictional force acts on the 
+vehicle
+(d)  frictional force acts in downward 
+direction
+ 4. A book is at rest on the table which 
+exerts a normal force on the book. If 
+this force is considered as reaction 
+force, what is the action force according 
+to Newton’s third law?
+(a)  Gravitational force exerted by 
+Earth on the book
+(b)  Gravitational force exerted by the 
+book on Earth
+(c)  Normal force exerted by the book 
+on the table
+(d)  None of the above
+ 5. Two masses m1 and m2 are experiencing 
+the same force where m
+m
+1
+2
+<
+. Th e ratio 
+of their acceleration a
+a
+1
+2
+ is 
+(a) 1
+(b) less than 1
+(c) greater than 1
+(d) all the three cases
+ 6. Choose appropriate free body diagram 
+for the particle experiencing net 
+acceleration along negative y direction. 
+(Each arrow mark represents the force 
+acting on the system).
+a) 
+  b) 
+c) 
+  d) 
+ 7. A particle of mass m sliding on the 
+smooth double inclined plane (shown 
+in fi gure) will experience
+m
+F
+Wall
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 169
+------------------------------------------------------------
+
+161
+Unit 3 Laws of Motion
+(a)  greater acceleration along the 
+path AB
+(b)  greater acceleration along the 
+path AC
+(c) same acceleration in both the paths 
+(d) no acceleration in both the paths.
+ 8. Two blocks of masses m and 2m are 
+placed on a smooth horizontal surface 
+as shown. In the first case only a force 
+F1 is applied from the left. Later only a 
+force F2 is applied from the right. If the 
+force acting at the interface of the two 
+blocks in the two cases is same, then 
+F F
+1
+2
+:
+ is
+(Physics Olympiad 2016)
+(a) 1:1 
+(b) 1:2
+(c) 2:1 
+(d) 1:3
+ 9. Force acting on the particle moving 
+with constant speed is
+(a) always zero
+(b) need not be zero
+(c) always non zero
+(d) cannot be concluded
+10. An object of mass m begins to move 
+on the plane inclined at an angle T . 
+The coefficient of static friction of 
+inclined surface is ms. The maximum 
+static friction experienced by the 
+mass is
+(a) mg 
+(b) msmg
+(c)  msmg sinT
+(d)  ms  mg cos T
+11. When the object is moving at constant 
+velocity on the rough surface, 
+(a) net force on the object is zero
+(b) no force acts on the object
+(c)  only external force acts on the 
+object
+(d)  only kinetic friction acts on the 
+object
+12. When an object is at rest on the inclined 
+rough surface,
+(a)  static and kinetic frictions acting 
+on the object is zero
+(b)  static friction is zero but kinetic 
+friction is not zero
+(c)  static friction is not zero and 
+kinetic friction is zero
+(d)  static and kinetic frictions are not 
+zero
+13. The centrifugal force appears to 
+exist 
+(a) only in inertial frames
+(b) only in rotating frames
+(c) in any accelerated frame
+(d)  both in inertial and non-inertial 
+frames
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 162
+PDF_PAGE: 170
+------------------------------------------------------------
+
+162
+Unit 3 Laws of Motion
+14. Choose the correct statement from the 
+following
+(a)  Centrifugal and centripetal forces 
+are action reaction pairs
+(b)  Centripetal forces is a natural force
+(c)  Centrifugal force arises from 
+gravitational force
+(d)  Centripetal force acts towards 
+the center and centrifugal force 
+appears to act away from the center 
+in a circular motion
+15. If a person moving from pole to 
+equator, the centrifugal force acting on 
+him
+(a) increases
+(b) decreases
+(c) remains the same
+(d) increases and then decreases
+Answers
+ 1) a 
+2) c 
+3) a 
+4) c 
+5) c
+ 6) c 
+7) b 
+8) c 
+9) b 
+10) d
+ 11) a 
+12) c 
+13) b 
+14) d 
+15) a
+II. Short Answer Questions
+ 1. Explain the concept of inertia. Write 
+two examples each for inertia of 
+motion, inertia of rest and inertia of 
+direction.
+ 2. State Newton’s second law.
+ 3. Define one newton.
+ 4. Show that impulse is the change of 
+momentum.
+ 5. Using free body diagram, show that it 
+is easy to pull an object than to push it.
+ 6. Explain various types of friction. 
+Suggest a few methods to reduce 
+friction.
+ 7. What is the meaning by ‘pseudo force’?
+ 8. State the empirical laws of static and 
+kinetic friction.
+ 9. State Newton’s third law.
+ 10. What are inertial frames?
+11. Under what condition will a car skid 
+on a leveled circular road?
+III. Long Answer Questions
+ 1. Prove the law of conservation of linear 
+momentum. Use it to find the recoil 
+velocity of a gun when a bullet is fired 
+from it.
+ 2. What are concurrent forces? State 
+Lami’s theorem.
+ 3. Explain the motion of blocks connected 
+by a string in i) Vertical motion ii) 
+Horizontal motion.
+ 4. Briefly explain the origin of friction. 
+Show that in an inclined plane, angle 
+of friction is equal to angle of repose.
+ 5. State Newton’s three laws and discuss 
+their significance. 
+ 6. Explain the similarities and differences 
+of centripetal and centrifugal forces.
+ 7. Briefly explain ‘centrifugal force’ with 
+suitable examples.
+ 8. Briefly explain ‘rolling friction’.
+ 9. Describe the method of measuring 
+angle of repose.
+ 10. Explain the need for banking of tracks.
+ 11. Calculate the centripetal acceleration 
+of Moon towards the Earth.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 163
+PDF_PAGE: 171
+------------------------------------------------------------
+
+163
+Unit 3 Laws of Motion
+IV. Conceptual Questions
+ 1. Why it is not possible to push a car 
+from inside?
+ 2. There is a limit beyond which the 
+polishing of a surface increases 
+frictional 
+resistance 
+rather 
+than 
+decreasing it why?
+ 3. Can a single isolated force exist in 
+nature? Explain your answer.
+ 4. Why does a parachute descend slowly?
+ 5. When walking on ice one should take 
+short steps. Why?
+ 6. When a person walks on a surface, 
+the frictional force exerted by the 
+surface on the person is opposite to the 
+direction of motion. True or false?
+ 7. Can the coefficient of friction be more 
+than one?
+ 8. Can we predict the direction of motion of 
+a body from the direction of force on it?
+ 9. The momentum of a system of particles 
+is always conserved. True or false?
+V. Numerical Problems
+ 1. A force of 50N act on the object of mass 
+20 kg. shown in the figure. Calculate 
+the acceleration of the object in x and y 
+directions.
+50 N
+y
+30°
+Ans: ax=2.165 ms2; ay=1.25 ms2
+ 2. A spider of mass 50 g is hanging on 
+a string of a cob web as shown in the 
+figure. What is the tension in the string?
+Ans: T=0.49N
+ 3. What is the reading shown in spring 
+balance?
+Spring balance
+4 kg
+4 kg
+30°
+m
+m = 2kg
+Ans: Zero, 9.8 N
+ 4. The physics books are stacked on each 
+other in the sequence: +1 volumes 1 
+and 2; +2 volumes 1 and 2 on a table.
+ 
+ a)  Identify the forces acting on each 
+book and draw the free body diagram.
+ 
+ b)  Identify the forces exerted by each 
+book on the other.
+ 5. A bob attached to the string oscillates 
+back and forth. Resolve the forces 
+acting on the bob in to components. 
+What is the acceleration experience by 
+the bob at an angle T.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 172
+------------------------------------------------------------
+
+164
+Unit 3 Laws of Motion
+Ans:  Tangential acceleration = g sinθ ; 
+centripetal acceleration = 
+m
+(T−mg cosθ).
+ 6. Two masses m1 and m2 are connected 
+with 
+a 
+string 
+passing 
+over 
+a 
+frictionless pulley fixed at the corner 
+of the table as shown in the figure. 
+The coefficient of static friction 
+of mass m1 with the table is μs. 
+Calculate the minimum mass m3 
+that may be placed on m1to prevent 
+it from sliding. Check if m1=15 kg, 
+m2=10 kg, m3=25 and μs =0.2
+m3
+m1
+m2
+Ans: m
+m
+m
+s
+3
+2
+1
+=
+−
+μ
+, the combined masses 
+m1+m3 will slide.
+ 7. Calculate the acceleration of the bicycle 
+of mass 25 kg as shown in Figures 1 and 2.
+500 N
+400 N
+400 N
+400 N
+ 
+Ans: a=4 ms2, zero
+ 8. Apply Lami’s theorem on sling shot and 
+calculate the tension in each string ?
+T
+F = 50N
+30°
+T
+Ans: T= 28.868N.
+ 9. A football player kicks a 0.8 kg ball 
+and imparts it a velocity 12 ms1. Th e 
+contact between the foot and ball is 
+only for one- sixtieth of a second. Find 
+the average kicking force.
+Ans: 576N.
+ 10. A stone of mass 2 kg is attached to a 
+string of length 1 meter. Th e string can 
+withstand maximum tension 200 N. 
+What is the maximum speed that stone 
+can have during the whirling motion?
+Ans: vmax=10ms1
+ 11. Imagine that the gravitational force 
+between Earth and Moon is provided 
+by an invisible string that exists 
+between the Moon and Earth. What is 
+the tension that exists in this invisible 
+string due to Earth’s centripetal force? 
+(Mass of the Moon = 7.34 × 1022 kg, 
+Distance between Moon and Earth = 
+3.84 × 108 m)
+Moon
+Earth
+Invisible
+string
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 200
+PDF_PAGE: 173
+------------------------------------------------------------
+
+165
+Unit 3 Laws of Motion
+Ans: T 	 2 1020 N.
+12.  Two bodies of masses 15 kg and 10 kg 
+are connected with light string kept on 
+a smooth surface. A horizontal force 
+F=500 N is applied to a 15 kg as shown 
+in the fi gure. Calculate the tension 
+acting in the string 
+Ans: T
+N
+ 200
+.
+13. People oft en say “For every action there 
+is an equivalent opposite reaction”. 
+Here they meant ‘action of a human’. Is 
+it correct to apply Newton’s third law 
+to human actions? What is mean by 
+‘action’ in Newton third law? Give your 
+arguments based on Newton’s laws.
+ 
+ Ans: Newton’s third law is applicable 
+to only human’s actions which involves 
+physical force. Th ird law is not 
+applicable to human’s psychological 
+actions or thoughts
+14. A car takes a turn with velocity 
+50 ms-1 on the circular road of radius 
+of curvature 10 m. calculate the 
+centrifugal force experienced by a 
+person of mass 60kg inside the car?
+Ans: 15,000 N
+15. A long stick rests on the surface. A 
+person standing 10 m away from the 
+stick. With what minimum speed an 
+object of mass 0.5 kg should he thrown 
+so that it hits the stick. (Assume the 
+coeffi  cient of kinetic friction is 0.7).
+Ans: 11.71 ms1
+BOOKS FOR REFERENCE
+ 1. Charles Kittel, Walter Knight, Malvin Ruderman, Carl Helmholtz and Moyer, Mechanics, 
+2nd edition, Mc Graw Hill Pvt Ltd,
+ 2. A.P.French, Newtonian Mechanics, Viva-Norton Student edition
+ 3. SomnathDatta, Mechanics, Pearson Publication
+ 4. H.C.Verma, Concepts of physics volume 1 and Volume 2, Bharati Bhawan Publishers
+ 5. Serway and Jewett, Physics for scientist and Engineers with modern physics, Brook/Coole 
+publishers, Eighth edition
+ 6. Halliday, Resnick & Walker, Fundamentals of Physics, Wiley Publishers, 10th edition
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 166
+PDF_PAGE: 174
+------------------------------------------------------------
+
+166
+Unit 3 Laws of Motion
+ Force and motion
+Through this activity you will 
+understand the Force and motion
+STEPS:
+•  Open the browser and type the given URL to open the PhET simulation on 
+force and motion. Click OK to open the java applet.
+• Select the values of the applied force to observe the change.
+• Observe the change of the ramp angle by changing the position of the object.
+•  You can also observe the variations in force and ramp angle by changing 
+the weights.
+PhET simulation’s URL:
+https://phet.colorado.edu/en/simulation/ramp-forces-and-motion 
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 4
+PDF_PAGE: 175
+------------------------------------------------------------
+
+167
+U N I T
+4
+WORK, ENERGY AND POWER
+Th e term work is used in diverse contexts in 
+daily life. It refers to both physical as well as 
+mental work. In fact, any activity can generally 
+be called as work. But in Physics, the term work 
+is treated as a physical quantity with a precise 
+defi nition. Work is said to be done by the force 
+when the force applied on a body displaces 
+it. To do work, energy is required. In simple 
+words, energy is defi ned as the ability to do 
+work. Hence, work and energy are equivalents 
+and have same dimension. Energy, in Physics 
+exists in diff erent forms such as mechanical, 
+electrical, thermal, nuclear and so on. Many 
+machines consume one form of energy and 
+deliver energy in a diff erent form. In this 
+chapter we deal mainly with mechanical 
+energy and its two types namely kinetic 
+energy and potential energy. Th e next 
+LEARNING OBJECTIVES
+4.1
+INTRODUCTION
+In this unit, student is exposed to
+• defi nition of work
+• work done by a constant and a variable force
+• various types of energy
+• law of conservation of energy
+• vertical circular motion
+• defi nition of power 
+• various types of collisions
+quantity in this sequence of discussion is 
+the rate of work done or the rate of energy 
+delivered. Th e rate of work done is called 
+power. A powerful strike in cricket refers to 
+a hit on the ball at a fast rate. Th is chapter 
+aims at developing a good understanding 
+of these three physical quantities namely 
+work, energy and power and their physical 
+signifi cance.
+4.1.1
+WORK
+Let us consider a force (
+G
+F), acting on a body 
+which moves it by a displacement in some 
+direction (dr
+G
+) as shown in Figure 4.1
+Th e expression for work done (w) by the 
+force on the body is mathematically written as,
+ 
+W
+F dr
+=
+⋅
+G
+G 
+(4.1)
+“Matter is Energy. Energy is Light. We are all Light Beings.” – Albert Einstein
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 176
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+168
+Th e work done by the force depends 
+on the force (F), displacement (dr) and the 
+angle (θ) between them. 
+Figure 4.2 Calculating work done.
+dr
+F
+w = (F cos3)dr
+F cos3
+3
+Work done is zero in the following cases. 
+(i) 
+ When the force is zero (F = 0). 
+For example, a body moving on a 
+horizontal smooth frictionless surface 
+will continue to do so as no force (not 
+even friction) is acting along the plane. 
+(Th is is an ideal situation.) 
+(ii)  When the displacement is zero (dr = 0). 
+For example, when force is applied on 
+a rigid wall it does not produce any 
+displacement. Hence, the work done is 
+zero as shown in Figure. 4.3(a). 
+Figure 4.1 Work done by a force
+Here, the product 
+G
+G
+F dr
+
+ is a scalar product 
+(or dot product). Th e scalar product of two 
+vectors is a scalar (refer section 2.5.1). Th us, 
+work done is a scalar quantity. It has only 
+magnitude and no direction. In SI system, 
+unit of work done is N m (or) joule (J). Its 
+dimensional formula is [ML2T-2].
+Th e equation (4.1) is, 
+ 
+W Fdrcos 
+(4.2 )
+which can be realised using Figure 4.2 
+(as G G
+a b
+ab
+"
+
+cos3) where, T is the angle 
+between applied force and the displacement 
+of the body.
+Displacement
+F
+dr
+Centripetal
+force
+Figure 4.3 Diff erent cases of zero work done
+(a)
+θ
+F cosθ
+dr
+F
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 90
+PDF_PAGE: 177
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+169
+Figure 4.4 Negative work done
+dr
+F
+EXAMPLE 4.1
+A box is pulled with a force of 25 N to 
+produce a displacement of 15 m. If the 
+angle between the force and displacement 
+is 30o, fi nd the work done by the force.
+Solution
+ 
+Force, F = 25 N
+ 
+Displacement, dr = 15 m
+ 
+Angle between F and dr, θ = 30o
+(iii)  When the force and displacement are 
+perpendicular (θ = 90o) to each other. 
+when a body moves on a horizontal 
+direction, the gravitational force (mg) 
+does no work on the body, since it acts at 
+right angles to the displacement  as shown 
+in Figure 4.3(b). In circular motion the 
+centripetal force does not do work on the 
+object moving on a circle as it is always 
+perpendicular to the displacement as 
+shown in Figure 4.3(c). 
+For a given force (F) and displacement (dr), 
+the angle (θ) between them decides the value 
+of work done as consolidated in Table 4.1.
+Th ere are many examples for the negative 
+work done by a force. In a football game, the 
+goalkeeper catches the ball coming towards 
+him by applying a force such that the force is 
+applied in a direction opposite to that of the 
+motion of the ball till it comes to rest in his 
+hands. During the time of applying the force, 
+he does a negative work on the ball as shown 
+in Figure 4.4. We will discuss many more 
+situations of negative work further in this unit.
+Table 4.1 Angl
+e ( θ) a nd t
+he na tur e of w ork 
+Angle (θ)
+cosθ
+Work
+θ = 0 o
+1
+Positive, Maximum
+0 < θ< 90
+o (acut e)
+0 < c osθ< 1
+Positive 
+θ = 90
+o (right
+ a ngl
+e)
+0
+Zero 
+90
+o<θ< 180
+o
+-1 < c osθ< 0
+Negative 
+θ = 180
+o
+-1
+Negative, Maximum 
+30o
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 178
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+170
+EXAMPLE 4.2
+An object of mass 2 kg falls from a height of 
+5 m to the ground. What is the work done 
+by the gravitational force on the object? 
+(Neglect air resistance; Take g = 10 m s-2)
+dr
+5m
+F = mg
+Solution
+In this case the force acting on the object is 
+downward gravitational force mgG. This is a 
+constant force. 
+Work done by gravitational force is
+ 
+W = 
+r
+r
+i
+f
+F dr
+C "
+G
+G
+W
+F cos
+dr
+r
+r
+i
+f
+= (
+)∫
+θ
+ = ( mg cosθ) (r
+r
+f
+i
+ ).
+The object also moves downward which 
+is in the direction of gravitational force 
+(
+G
+F = mgG) as shown in figure. Hence, the 
+angle between them is θ = °
+0 ; cos0
+1
+  and 
+the displacement, r
+r
+m
+f
+i
+
+
+  5
+ 
+W = mg r
+r
+f
+i
+
+
+ 
+ 
+W = 2 × 10 
+× 5 = 10 J
+The work done by the gravitational force 
+on the object is positive.
+Work done, W
+Fdrcos
+ 
+θ 
+ 
+W
+cos
+
+
+
+
+
+
+25 15
+30
+25 15
+3
+2
+ 
+W
+J
+= 324 76
+.
+4.1.2  Work done by a 
+constant force
+When a constant force F acts on a body, 
+the small work done (dW) by the force in 
+producing a small displacement dr is given 
+by the relation, 
+ 
+dW
+F cos
+ dr
+= (
+)
+θ
+ 
+(4.3)
+The total work done in producing a 
+displacement from initial position ri to final 
+position rf is,
+ W
+dW
+r
+r
+i
+f
+ C
+ 
+(4.4)
+ 
+W
+F cos
+ dr
+F cos
+dr
+= (
+)
+= (
+)
+∫
+∫
+r
+r
+r
+r
+i
+f
+i
+f
+θ
+θ
+ =  
+ 
+ 
+(F cos
+r
+r
+f
+i
+θ)
+−
+(
+)  
+(4.5)
+The graphical representation of the 
+work done by a constant force is shown in 
+Figure 4.5. The area under the graph shows 
+the work done by the constant force.
+Figure 4.5 Work done by the constant force
+ri
+rf
+r
+F cos3
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 179
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+171
+W = F dr = ( mg sin
+ 
+θ) ( dr) 
+ (
+dr =  length of the inclined place)
+ W = 1 u 10 u sin (30°) u 10 = 100
+1
+2
+50
+
+
+J
+The component mg cos
+ 
+θ and the normal 
+force N are perpendicular to the direction 
+of motion of the object, so they do not 
+perform any work.
+EXAMPLE 4.4
+If an object of mass 2 kg is thrown up 
+from the ground reaches a height of 5 m 
+and falls back to the Earth (neglect the air 
+resistance). Calculate 
+(a) The work done by gravity when the 
+object reaches 5 m height
+(b) The work done by gravity when the 
+object comes back to Earth
+(c) Total work done by gravity both in 
+upward and downward motion and 
+mention the physical significance of 
+the result.
+Solution
+When the object goes up, the displacement 
+points in the upward direction whereas 
+the gravitational force acting on the object 
+points in downward direction. Therefore, 
+the angle between gravitational force and 
+displacement of the object is 180°.
+(a) The work done by gravitational force 
+in the upward motion.
+Given that 'r
+m
+ 5
+ and F
+mg
+ 
+ 
+W
+ 
+ 
+up 
+
+
+F r cos
+mg r
+'
+'
+3
+cos180
+ 
+Wup  
+  
+
+  
+2 10 5
+1
+100 joule.  
+ 
+[cos 180° = −1]
+EXAMPLE 4.3
+An object of mass m=1 kg is sliding from 
+top to bottom in the frictionless inclined 
+plane of inclination angle 3 
+
+30 and the 
+length of inclined plane is 10 m as shown 
+in the figure. Calculate the work done by 
+gravitational force and normal force on 
+the object. Assume acceleration due to 
+gravity, g = 10 m s-2
+mg
+mg sin θ
+mg cos θ
+N
+m
+10 m
+θ
+θ
+Solution
+We calculated in the previous chapter that 
+the acceleration experienced by the object 
+in the inclined plane as gsinθ .
+According to Newton’s second law, the 
+force acting on the mass along the inclined 
+plane F = mgsinθ. Note that this force is 
+constant throughout the motion of the 
+mass.
+The work done by the parallel 
+component of gravitational force mg sin
+ 
+θ
+(
+) 
+is given by
+ 
+W = 
+G G
+F dr
+Fdr
+.
+cos
+
+ࢥ
+where ࢥ LV WKH DQJOH EHWZHHQ WKH IRUFH
+(mg 
+sin θ) and 
+the di rection 
+of motion  
+(dr). In this case, force (mg sin θ) and the 
+displacement (drG) are in the same direction. 
+Hence ࢥ 0 and cos ࢥ= 1
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 180
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+172
+(b) When the weight lifter lifts the mass, 
+the gravity acts downwards which 
+means that the force and displacement 
+are in opposite direction. Therefore, 
+the angle between them 3 1800
+ 
+ 
+W
+ 
+gravity 
+
+
+ 
+F h
+mgh
+g
+cos
+cos
+3
+1800
+ 
+ 
+
+  
+
+ 
+250 10 5
+1
+ 
+ 12 500
+,
+ joule = -12.5 k J
+(c) The net workdone (or total work done) 
+on the object 
+W
+W
+W
+net
+weight lifter
+gravity
+
+
+   
+   = 25 k J – 12.5 k J = + 12.5 k J
+4.1.3  Work done by a 
+variable force
+When the component of a variable force F 
+acts on a body, the small work done (dW) by 
+the force in producing a small displacement 
+dr is given by the relation 
+ 
+dW
+F cos
+dr
+ 
+ 
+3
+ 
+[F cos θ is the component  
+of the variable force F]
+where, F and θ are variables. The total work 
+done for a displacement from initial position 
+ri to final position rf is given by the relation,
+ 
+W
+r
+r
+r
+r
+i
+f
+i
+f
+
+ C
+C dW
+F cos dr
+3
+ 
+(4.6)
+A graphical representation of the 
+work done by a variable force is shown in 
+Figure 4.6. The area under the graph is the 
+work done by the variable force. 
+(b) When the object falls back, both the 
+gravitational force and displacement 
+of the object are in the same direction. 
+This implies that the angle between 
+gravitational force and displacement 
+of the object is 0°.
+ 
+W
+W
+down
+down
+
+
+ 
+  
+F r
+joule
+' cos0
+2 10 5
+1
+100
+ 
+ 
+[cos 0° = 1]
+(c) The total work done by gravity in the entire 
+trip (upward and downward motion)
+W
+W
+W
+joule
+joule
+total
+up
+down
+
+
+ 
+
+
+100
+100
+0
+It implies that the gravity does not transfer 
+any energy to the object. When the object is 
+thrown upwards, the energy is transferred to 
+the object by the external agency, which means 
+that the object gains some energy. As soon as 
+it comes back and hits the Earth, the energy 
+gained by the object is transferred to the surface 
+of the Earth (i.e., dissipated to the Earth).
+EXAMPLE 4.5
+A weight lifter lifts a mass of 250 kg with a 
+force 5000 N to the height of 5 m. 
+(a) What is the workdone by the weight 
+lifter?
+(b) What is the workdone by the gravity?
+(c) What is the net workdone on the object?
+Solution
+(a) When the weight lifter lifts the mass, 
+force and displacement are in the same 
+direction, which means that the angle 
+between them 3  00.  Therefore, the 
+work done by the weight lifter,
+ 
+W
+ 
+weight lifter 
+
+
+ 
+F h
+F h
+w
+w
+cos
+cos
+3
+00
+ 
+ 
+  
+5000 5
+1
+25 000
+,
+ joule = 25 kJ
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 64
+PDF_PAGE: 181
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+173
+The important aspect of energy is that 
+for an isolated system, the sum of all forms 
+of energy i.e., the total energy remains the 
+same in any process irrespective of whatever 
+internal changes may take place. This means 
+that the energy disappearing in one form 
+reappears in another form. This is known 
+as the law of conservation of energy. In this 
+chapter we shall take up only the mechanical 
+energy for discussion. 
+In a broader sense, mechanical energy is 
+classified into two types
+1. Kinetic energy 
+2. Potential energy
+The energy possessed by a body due 
+to its motion is called kinetic energy. The 
+energy possessed by the body by virtue of 
+its position is called potential energy.
+The SI unit of energy is the same as 
+that of work done i.e., N m (or) joule 
+(J). The dimension of energy is also the 
+same as that of work done. It is given 
+by [ML2T-2]. The other units of energy 
+and their SI equivalent values are given 
+in Table 4.2.
+Table 4.2  SI equivalent of other 
+units of energy
+Unit 
+Equivalent in 
+joule
+1 erg (CGS unit)
+107 J
+1 electron volt (eV)
+1.6x1 019 J
+1 calorie (cal)
+4.186 J
+1 kilowatt hour (kWh)
+3.6x106 J
+EXAMPLE 4.6 
+A variable force F = k x2 acts on a particle 
+which is initially at rest. Calculate the work 
+done by the force during the displacement 
+of the particle from x 0 m to x 4 m. 
+(Assume the constant k 1 N m-2)
+Solution
+Work done, 
+ 
+W
+F
+d
+k
+d
+=
+( )
+=
+=
+∫
+∫
+x
+x
+i
+f
+x
+x
+x
+x
+0
+4
+2
+64
+3 N m
+Figure 4.6 Work done by a variable force
+ri
+rf
+S
+ri
+rf
+S
+F cosθ
+F cosθ
+4.2
+ENERGY
+Energy is defined as the capacity to do 
+work. In other words, work done is the 
+manifestation of energy. That is why work 
+and energy have the same dimension 
+(ML2T−2)
+ 
+Work  Energy
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 182
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+174
+The third equation of motion (refer 
+section 2.10.3) can be written as,
+ 
+v
+u
+as
+a
+v
+u
+2
+2
+2
+2
+2
+2
+
+
+
+
+s
+Substituting for a in equation (4.8), 
+ 
+F
+m v
+u
+
+
+4
+8
+6
+5
+9
+7
+2
+2
+2s
+ 
+(4.9)
+Substituting equation (4.9) in (4.7), 
+ 
+W
+m v s
+m u
+s s
+W
+mv
+mu
+=
+⎛
+⎝⎜
+⎞
+⎠⎟−
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+−
+2
+2
+2
+2
+2
+2
+1
+2
+1
+2
+s
+ (4.10)
+The expression for kinetic energy:
+The term 1
+2
+2
+mv
+4
+86
+5
+97 in the above equation is 
+the kinetic energy of the body of mass (m) 
+moving with velocity (v). 
+ 
+KE
+mv
+ 1
+2
+2 
+(4.11)
+Kinetic energy of the body is always positive. 
+From equations (4.10) and (4.11)
+ 
+'
+
+
+KE
+mv
+mu
+1
+2
+1
+2
+2
+2 
+(4.12)
+ 
+Thus, W = ΔKE
+4.2.1 Kinetic energy
+Kinetic energy is the energy possessed by 
+a body by virtue of its motion. All moving 
+objects have kinetic energy. A body that is 
+in motion has the ability to do work. For 
+example a hammer kept at rest on a nail does 
+not push the nail into the wood. Whereas 
+the same hammer when it strikes the nail, 
+draws the nail into the wood as shown in 
+Figure 4.7. Kinetic energy is measured by the 
+amount of work that the body can perform 
+before it comes to rest. The amount of work 
+done by a moving body depends both on the 
+mass of the body and the magnitude of its 
+velocity. A body which is not in motion does 
+not have kinetic energy.
+4.2.2  Work–Kinetic Energy 
+Theorem
+Work and energy are equivalents. This is 
+true in the case of kinetic energy also. To 
+prove this, let us consider a body of mass m 
+at rest on a frictionless horizontal surface. 
+The work (W) done by the constant 
+force (F) for a displacement (s) in the same 
+direction is, 
+ 
+W
+Fs
+ 
+ 
+(4.7)
+The constant force is given by the equation,
+ 
+F
+ma
+ 
+ 
+(4.8)
+Figure 4.7 Demonstration of kinetic energy
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 183
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+175
+ 
+ = 1
+2
+mG
+G
+G
+G
+v
+mv
+m
+p
+mv
+(
+) (
+)
+=
+.
+[
+] 
+ 
+ = 1
+2
+G G
+p p
+m
+.  
+ 
+ = p2
+2m
+ 
+ 
+ K E = p2
+2m  
+(4.14)
+where Gp is the magnitude of the momentum. 
+The magnitude of the linear momentum can 
+be obtained by
+ 
+ Gp = p
+m
+=
+2
+ KE)
+(
+  
+(4.15)
+Note that if kinetic energy and mass are 
+given, only the magnitude of the momentum 
+can be calculated but not the direction of 
+momentum. It is because the kinetic energy 
+and mass are scalars.
+EXAMPLE 4.7
+Two objects of masses 2 kg and 4 kg are 
+moving with the same momentum of 
+20 kg m s-1. 
+(a) Will they have same kinetic energy?
+(b) Will they have same speed?
+Solution
+(a) The kinetic energy of the mass is given 
+by KE
+p
+m
+=
+2
+2
+For the object of mass 2 kg, kinetic 
+energy is KE
+J
+1
+2
+20
+2
+2
+400
+4
+100
+= (
+)
+×
+=
+=
+The expression on the right hand side 
+(RHS) of equation (4.12) is the change in 
+kinetic energy (ΔKE) of the body.
+This implies that the work done by the 
+force on the body changes the kinetic energy 
+of the body. This is called work-kinetic energy 
+theorem.
+The work-kinetic energy theorem 
+implies the following.
+1. If the work done by the force on the 
+body is positive then its kinetic energy 
+increases.
+2. If the work done by the force on the 
+body is negative then its kinetic energy 
+decreases.
+3. If there is no work done by the force 
+on the body then there is no change in 
+its kinetic energy, which means that 
+the body has moved at constant speed 
+provided its mass remains constant.
+4.2.3  Relation between 
+Momentum and  
+Kinetic Energy
+Consider an object of mass m moving with 
+a velocity Gv. Then its linear momentum is 
+Gp = mGv and its kinetic energy, KE
+mv
+ 1
+2
+2. 
+ 
+KE
+mv
+m
+=
+=
+(
+)
+1
+2
+1
+2
+2
+G G
+v v.
+  ( 4.13)
+Multiplying both the numerator and 
+denominator of equation (4.13) by mass, m 
+ 
+ KE
+m
+=
+(
+)
+1
+2
+2 G G
+v v
+m
+.
+ 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 184
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+176
+(ii) The energy due to spring force and 
+other similar forces give rise to elastic 
+potential energy.
+(iii) The energy due to electrostatic force 
+on charges gives rise to electrostatic 
+potential energy.
+We will learn more about conservative 
+forces in the section 4.2.7. Now, we continue 
+to discuss more about gravitational potential 
+energy and elastic potential energy.
+4.2.5  Potential energy near 
+the surface of the 
+Earth
+The gravitational potential energy (U) at 
+some height h is equal to the amount of work 
+required to take the object from ground to 
+that height h with constant velocity.
+Let us consider a body of mass m being 
+moved from ground to the height h against 
+the gravitational force as shown in Figure 4.8. 
+Figure 4.8 Gravitational potential energy
+h
+The gravitational force 
+G
+Fg acting on 
+the body is, 
+m ˆ
+= −
+
+gF
+g j (as the force is in 
+y direction, unit vector ˆj is used). Here, 
+negative sign implies that the force is acting 
+For the object of mass 4 kg, kinetic 
+energy is KE
+J
+2
+2
+20
+2
+4
+400
+8
+50
+ 
+ 
+
+
+
+Note that KE
+KE
+1
+2
+≠
+ i.e., even though 
+both are having the same momentum, the 
+kinetic energy of both masses is not the 
+same. The kinetic energy of the heavier 
+object has lesser kinetic energy than smaller 
+mass. It is because the kinetic energy is 
+inversely proportional to the mass (KE
+m
+v 1 ) 
+for a given momentum.
+(b) As the momentum, p = mv, the two 
+objects will not have same speed.
+4.2.4 Potential Energy
+The potential energy of a body is associated 
+with its position and configuration with 
+respect to its surroundings. This is because 
+the various forces acting on the body also 
+depends on position and configuration. 
+“Potential energy of an object at a point P 
+is defined as the amount of work done by an 
+external force in moving the object at constant 
+velocity from the point O (initial location) to 
+the point P (final location). At initial point O 
+potential energy can be taken as zero. 
+Mathematically, potential energy is  
+ 
+defined as U
+F dr
+a
+ C
+G
+G
+.
+ 
+(4.16)  
+where the limit of integration ranges from 
+initial location point O to final location 
+point P. 
+We have various types of potential 
+energies. Each type is associated with a 
+particular force. For example, 
+(i) 
+The energy possessed by the body 
+due to gravitational force gives rise to 
+gravitational potential energy.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 185
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+177
+ 
+It is possible when there is another 
+force which acts exactly opposite 
+to the external applied force. Th ey 
+both cancel each other and the 
+resulting net force becomes zero, 
+hence the object moves with zero 
+acceleration.  
+• Why should the object be moved at 
+constant velocity when we defi ne 
+potential energy? 
+ 
+If the object does not move at 
+constant velocity, then it will have 
+diff erent velocities at the initial and 
+fi nal locations. According to work-
+kinetic energy theorem, the external 
+force will impart some extra kinetic 
+energy. But we associate potential 
+energy to the forces like gravitational 
+force, spring force and coulomb 
+force. So the external agency should 
+not impart any kinetic energy when 
+the object is taken from initial to 
+fi nal location. 
+Note
+• How can an object move with 
+zero acceleration (constant 
+velocity) when the external 
+force is acting on the object? 
+EXAMPLE 4.8
+An object of mass 2 kg is taken to a height 
+5 m from the ground g 
+
+ 
+10ms-2 . 
+(a) Calculate the potential energy stored 
+in the object.
+(b) Where does this potential energy come 
+from? 
+(c) What external force must act to bring 
+the mass to that height?
+(d) What is the net force that acts on the 
+object while the object is taken to the 
+height ‘h’?
+vertically downwards. In order to move 
+the body without acceleration (or with 
+constant velocity), an external applied force 
+G
+Fa equal in magnitude but opposite to that 
+of gravitational force 
+G
+Fg has to be applied 
+on the body i.e., 
+G
+G
+F
+F
+a
+g
+ 
+. Th is implies that 
+m ˆ
+= +
+
+aF
+g j. Th e positive sign implies that 
+the applied force is in vertically upward 
+direction. Hence, when the body is lift ed up 
+its velocity remains unchanged and thus its 
+kinetic energy also remains constant.
+Th e gravitational potential energy (U) 
+at some height h is equal to the amount of 
+work required to take the object from the 
+ground to that height h.
+ 
+U
+F dr
+h
+a
+
+
+C
+C
+G
+G
+G
+G
+F dr
+a.
+cos
+0
+θ (4.17)
+Since the displacement and the applied force 
+are in the same upward direction, the angle 
+between them, 3  
+0 . Hence, cos0
+1
+0  and 
+G
+F
+mg
+a 
+ and dr
+dr
+G 
+. 
+ 
+U
+mg dr
+h
+
+C
+0
+ 
+(4.18)
+ 
+U
+mg r
+h
+
+K L 
+0
+mgh 
+(4.19)
+Note that the potential energy stored in 
+the object is defi ned through work done 
+by the external force which is positive. 
+Physically this implies that the agency 
+which is applying the external force is 
+transferring the energy to the object which 
+is then stored as potential energy. If the 
+object is allowed to fall from a height h then 
+the stored potential energy is converted 
+into kinetic energy. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 178
+PDF_PAGE: 186
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+178
+horizontal table as shown in Figure 4.9. 
+Here, x = 0 is the equilibrium position. One 
+end of the spring is attached to a rigid wall 
+and the other end to the mass.
+Fa
+Fs
+Fs
+x
+x
+x
+ x = 0
+x
+x
+Fa
+Figure 4.9 Potential energy of the spring 
+(elastic potential energy)
+As long as the spring remains in 
+equilibrium position, its potential energy is 
+zero. Now an external force 
+G
+F a is applied so 
+that it is stretched by a distance (x) in the 
+direction of the force.
+There is a restoring force called spring 
+force 
+G
+F s developed in the spring which 
+tries to bring the mass back to its original 
+position. This applied force and the spring 
+force are equal in magnitude but opposite in 
+direction i.e., 
+G
+G
+F
+F
+a
+s
+ 
+. According Hooke’s 
+law, the restoring force developed in the 
+spring is
+ 
+ 
+G
+G
+F
+k
+s   x 
+(4.20)
+The negative sign in the above expression 
+implies that the spring force is always 
+opposite to that of displacement Gx and k 
+Solution
+(a) The potential energy U
+m g h
+ 
+ = 
+2 10 5
+u
+u = 100 J
+ 
+Here the positive sign implies that the 
+energy is stored on the mass.
+(b) This potential energy is transferred 
+from external agency which applies 
+the force on the mass.
+(c) The external applied force 
+G
+Fa which 
+takes the object to the height 5 m is 
+G
+G
+F
+F
+a
+g
+ 
+ 
+
+
+
+F
+mg j
+mg j
+a = −−(
+) =
+ 
+ 
+where, j represents unit vector along 
+vertical upward direction.
+(d) From the definition of potential energy, 
+the object must be moved at constant 
+velocity. So the net force acting on the 
+object is zero.
+ 
+G
+G
+F
+F
+g
+a
+
+ 0
+4.2.6  Elastic Potential 
+Energy
+When a spring is elongated, it develops a 
+restoring force. The potential energy possessed 
+by a spring due to a deforming force which 
+stretches or compresses the spring is termed 
+as elastic potential energy. The work done by 
+the applied force against the restoring force 
+of the spring is stored as the elastic potential 
+energy in the spring.
+Consider a spring-mass system. Let 
+us assume a mass, m lying on a smooth 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 187
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+179
+spring depends on the force constant k and 
+elongation or compression x.
+Th e potential energy stored 
+in the spring does not 
+depend on the mass that is 
+attached to the spring.
+Note
+Force-displacement graph for 
+a spring
+Since the restoring spring force and 
+displacement are linearly related as F = – k x, 
+and are opposite in direction, the graph 
+between F and x is a straight line with 
+dwelling only in the second and fourth 
+quadrant as shown in Figure 4.10. Th e elastic 
+potential energy can be easily calculated 
+by drawing a F - x graph. Th e shaded area 
+(triangle) is the work done by the spring 
+force. 
+Area = 1
+2
+1
+2
+1
+2
+2
+(
+)(
+)
+( ) (
+)
+base height
+k
+k
+
+
+
+
+x
+x
+x
+.
+Displacement (x)
+Force (-kx)
+0
+Figure 4.10 Force–displacement 
+graph for a spring
+is the force constant. Th erefore applied 
+force is 
+G
+Fa = k Gx. Th e positive sign implies 
+that the applied force is in the direction 
+of displacement Gx. Th e spring force is an 
+example of variable force as it depends on the 
+displacement Gx. Let the spring be stretched 
+to a small distance dxG. Th e work done by the 
+applied force on the spring to stretch it by a 
+displacement Gx is stored as elastic potential 
+energy. 
+  
+U
+F
+dr
+dx
+x
+a
+=
+=
+=
+∫
+∫
+∫
+G
+G
+G
+G
+F dr
+F
+a
+x
+a
+.
+cos
+cos
+0
+0
+θ
+θ
+ 
+(4.21)
+The applied force 
+G
+Fa and the displacement 
+dr (i.e., here dx ) are in the same 
+direction. As, the initial position is 
+taken as the equilibrium position or 
+mean position, x=0 is the lower limit of 
+integration. 
+ 
+U
+k
+x
+= ∫
+0
+x x
+d 
+(4.2)
+ 
+U
+k
+=
+⎡
+⎣⎢
+⎤
+⎦⎥
+x
+x
+2
+0
+2
+ 
+(4.23)
+ 
+U = 1
+2
+2
+kx 
+(4.24)
+If the initial position is not zero, and if the 
+mass is changed from position xi to xf , then 
+the elastic potential energy is
+ 
+ U
+k
+f
+i
+=
+−
+(
+)
+1
+2
+2
+2
+x
+x 
+(4.25)
+From equations (4.24) and (4.25), we observe 
+that the potential energy of the stretched 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 188
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+180
+The work done on the springs are stored as 
+potential energy in the springs.
+ 
+UA = 1
+2
+2
+k x
+A
+ A ; UB  1
+2
+2
+k x
+B
+B
+ 
+U
+U
+k x
+k x
+k
+F
+k
+k
+F
+k
+k
+k
+U
+U
+k
+k
+A
+B
+A
+A
+B
+B
+A
+A
+B
+B
+A
+B
+A
+B
+B
+A
+
+
+4
+8
+6
+5
+9
+7
+4
+8
+6
+5
+9
+7
+
+
+2
+2
+2
+2
+1
+1 
+kA>kB implies that UB>UA . Thus, more 
+work is done on B than A.
+EXAMPLE 4.10
+A body of mass m is attached to the spring 
+which is elongated to 25 cm by an applied 
+force from its equilibrium position. 
+(a) Calculate the potential energy stored 
+in the spring-mass system? 
+(b) What is the work done by the spring 
+force in this elongation?
+(c) Suppose the spring is compressed 
+to the same 25 cm, calculate the 
+potential energy stored and also the 
+work done by the spring force during 
+compression. (The spring constant, 
+k = 0.1 N m−1).
+Solution
+The spring constant, k = 0.1 N m-1
+The displacement, x = 25 cm = 0.25 m
+(a) The potential energy stored in the 
+spring is given by
+ 
+U = 1
+2
+1
+2
+0 1
+0 25
+0 0031
+2
+2
+k
+J
+x 
+
+
+ 
+.
+.
+.
+Potential energy-displacement graph for 
+a spring
+A compressed or extended spring will 
+transfer its stored potential energy into 
+kinetic energy of the mass attached to the 
+spring. The potential energy-displacement 
+graph is shown in Figure 4.11.
+Total energy
+Kinetic energy
+Potential energy
+Displacement
+O
+Figure 4.11 Potential energy–
+displacement graph for a spring-
+mass system
+In a frictionless environment, the energy 
+gets transferred from kinetic to potential 
+and potential to kinetic repeatedly such 
+that the total energy of the system remains 
+constant. At the mean position, 
+ 
+Δ.( ΔU 
+(4.26)
+EXAMPLE 4.9
+Let the two springs A and B be such that 
+kA>kB. On which spring will more work 
+has to be done if they are stretched by the 
+same force?
+Solution
+ 
+F = kA
+A
+B
+B
+x
+k x
+ 
+ 
+x
+F
+k
+A
+A
+ 
+;  
+x
+F
+k
+B
+B
+ 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 189
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+181
+4.2.7  Conservative and non-
+conservative forces
+Conservative force
+A force is said to be a conservative force 
+if the work done by or against the force in 
+moving the body depends only on the initial 
+and final positions of the body and not on 
+the nature of the path followed between the 
+initial and final positions.
+Let us consider an object at point A on 
+the Earth. It can be taken to another point B 
+at a height h above the surface of the Earth 
+by three paths as shown in Figure 4.12.
+Whatever may be the path, the work 
+done against the gravitational force is 
+the same as long as the initial and final 
+positions are the same. This is the reason 
+why gravitational force is a conservative 
+force. Conservative force is equal to the 
+negative gradient of the potential energy. 
+In one dimensional case,
+Figure 4.12 Conservative force
+A
+B
+ 
+F
+dU
+dx
+x 
+ 
+(4.27)
+Examples for conservative forces are elastic 
+spring force, electrostatic force, magnetic 
+force, gravitational force, etc.
+(b) The work done Ws by the spring force 
+G
+F s is given by,
+ 
+
+
+s
+s
+0
+0
+W
+F dr
+ˆ
+k i
+(d i)
+ 
+
+ 
+
+
+³
+³
+G
+G
+
+x
+x
+x
+x
+ 
+The spring force 
+G
+Fs acts in the negative 
+x direction while elongation acts in the 
+positive x direction.
+ 
+W
+k
+d
+k
+s =
+−(
+)
+= −
+∫
+0
+2
+1
+2
+x
+x
+x
+x
+ 
+W
+J
+s = −
+×
+×(
+) = −
+1
+2
+0 1
+0 25
+0 0031
+2
+.
+.
+.
+Note that the potential energy is defined 
+through the work done by the external 
+agency. The positive sign in the potential 
+energy 
+implies 
+that 
+the 
+energy 
+is 
+transferred from the agency to the object. 
+But the work done by the restoring force 
+in this case is negative since restoring 
+force is in the opposite direction to the 
+displacement direction. 
+(c) During compression also the potential 
+energy stored in the object is the same. 
+U = 1
+2
+0 0031
+2
+kx
+J
+ .
+.
+Work done by the restoring spring force 
+during compression is given by
+ 
+Ws = 
+
+ 
+
+s
+0
+0
+F .d
+k iˆ
+r
+ˆ
+.
+d i
+ 
+
+³
+³
+G
+G
+x
+x
+x
+x
+In the case of compression, the restoring 
+spring force acts towards positive x-axis and 
+displacement is along negative x direction.
+ 
+W
+k
+d
+k
+J
+s 
+
+
+ 
+ 
+ 
+C
+0
+2
+1
+2
+0 0031
+x
+x
+x
+x
+.
+h
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 190
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+182
+A
+C
+B
+D
+Path 2
+(ACDB)
+y
+x
+0
+h
+Solution
+Force 
+
+
+F
+mg
+mg
+=
+−( ) = −
+j
+j
+Displacement vector dr
+dx
+dy
+
+
+
+=
++
+i
+j
+(As the displacement is in two dimension; 
+unit vectors ˆi and ˆj are used)
+(a) Since the motion is only vertical, 
+horizontal displacement component 
+dx is zero. Hence, work done by the 
+force along path 1 (of distance h).
+ 
+W
+F dr
+mg
+dy
+mg dy
+mgh
+A
+B
+A
+B
+h
+path 
+j
+j
+1
+0
+=
+=
+−(
+) (
+)
+= −
+= −
+∫
+∫
+∫
+
+
+
+
+.
+.
+ 
+W
+F dr
+F dr
+F dr
+F dr
+A
+B
+A
+C
+C
+D
+D
+B
+path 2 =
+=
++
++
+∫
+∫
+∫
+∫
+G
+G
+G
+G
+G
+G
+G
+G
+.
+.
+.
+.
+Non-conservative force
+A force is said to be non-conservative if the 
+work done by or against the force in moving 
+a body depends upon the path between 
+the initial and final positions. This means 
+that the value of work done is different in 
+different paths.
+1. Frictional forces are non-conservative 
+forces as the work done against friction 
+depends on the length of the path moved 
+by the body.
+2. The force due to air resistance, viscous 
+force are also non-conservative forces as 
+the work done by or against these forces 
+depends upon the velocity of motion.
+The properties of conservative and non-
+conservative forces are summarized in the 
+Table 4.3.
+EXAMPLE 4.11
+Compute the work done by the gravitational 
+force for the following cases
+A
+B
+Path 1
+(AB)
+y
+x
+0
+h
+Table 4.3 Comparison of conservative and non-conservative forces
+S.No
+Conservative forces
+Non-conservative forces
+1.
+Work done is independent of the path
+Work done depends upon the path
+2.
+Work done in a round trip is zero
+Work done in a round trip is not zero
+3
+Total energy remains constant
+Energy is dissipated as heat energy
+4
+Work done is completely recoverable
+Work done is not completely recoverable.
+5
+Force is the negative gradient of  
+potential energy
+No such relation exists.
+Total work done for path 2 is
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 10
+PDF_PAGE: 191
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+183
+The work done by the external force 
+W
+F d
+ext 
+
+
+
+20 10
+200J
+The work done by the force of kinetic 
+friction W
+f d
+k
+k
+ 
+ = 
+−(
+)×
+= −
+18
+10
+180 J. 
+Here the negative sign implies that the 
+force of kinetic friction is opposite to the 
+direction of displacement.
+The total work done on the object 
+W
+W
+W
+total
+ext
+k
+=
++
+=
+−
+=
+200
+180
+20
+J
+J
+J .
+Since the friction is a non-conservative 
+force, out of 200 J given by the external 
+force, the 180 J is lost and it can not be 
+recovered.
+4.2.8  Law of conservation of 
+energy
+When an object is thrown upwards its 
+kinetic energy goes on decreasing and 
+consequently its potential energy keeps 
+increasing (neglecting air resistance). When 
+it reaches the highest point its energy is 
+completely potential. Similarly, when the 
+object falls back from a height its kinetic 
+energy increases whereas its potential 
+energy decreases. When it touches the 
+ground its energy is completely kinetic. At 
+the intermediate points the energy is both 
+kinetic and potential as shown in Figure 4.13. 
+When the body reaches the ground the 
+kinetic energy is completely dissipated into 
+some other form of energy like sound, heat, 
+light and deformation of the body etc.
+In this example the energy transformation 
+takes place at every point. The sum of kinetic 
+energy and potential energy i.e., the total 
+mechanical energy always remains constant, 
+implying that the total energy is conserved. 
+This is stated as the law of conservation of 
+energy.
+But 
+ 
+A
+C
+A
+C
+F dr
+mg
+dx
+∫
+∫
+=
+−(
+) (
+) =
+ 
+
+
+.
+.
+j
+i
+0
+ 
+ 
+C
+D
+C
+D
+h
+F dr
+mg
+dy
+mg dy
+mgh
+∫
+∫
+∫
+=
+−(
+) (
+)
+= −
+= −
+ 
+
+
+.
+.
+j
+j
+0
+ 
+D
+B
+D
+B
+F dr
+mg
+dx
+∫
+∫
+=
+−(
+) −(
+) =
+ 
+
+
+.
+.
+j
+i
+0 
+Therefore, the total work done by the force 
+along the path 2 is 
+ 
+W
+F dr
+mgh
+A
+B
+path 2 
+ 
+C
+G G
+.
+Note that the work done by the conservative 
+force is independent of the path. 
+EXAMPLE 4.12
+Consider an object of mass 2 kg moved 
+by an external force 20 N in a surface 
+having coefficient of kinetic friction 0.9 
+to a distance 10 m. What is the work 
+done by the external force and kinetic 
+friction ? Comment on the result. (Assume 
+g = 10 ms2)
+Solution
+m = 2 kg, d = 10 m, Fext = 20 N, μk = 0.9.
+When an object is in motion on the 
+horizontal surface, it experiences two 
+forces. 
+(a) External force, Fext 20 N
+(b) Kinetic friction,  
+fk = Fk mg 
+ 
+0 9
+2
+.
+
+10
+18N .
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 60
+PDF_PAGE: 192
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+184
+(d) What will be the speed of the object 
+when it hits the ground?
+(Assume g 10 m s-2)
+Solution
+(a) The gravitational force is a conservative 
+force. So the total energy remains 
+constant throughout the motion. At 
+h 10 m, the total energy E is entirely 
+potential energy.
+ 
+E
+U
+mgh
+=
+=
+= ×
+×
+=
+1 10
+10
+100 J 
+(b) The potential energy of the object at 
+h 4 m is 
+ 
+U
+mgh
+
+ 
+
+
+1 10
+4
+40J 
+(c) Since the total energy is constant 
+throughout 
+the 
+motion, 
+the 
+kinetic energy at h 4 m must be 
+KE
+E
+U
+=
+=
+=
+−
+−
+100
+40
+60J 
+Alternatively, the kinetic energy could 
+also be found from velocity of the object at 
+4 m. At the height 4 m, the object has fallen 
+through a height of 6 m. 
+The velocity after falling 6 m is calculated 
+from the equation of motion,
+ 
+v
+gh
+
+
+
+
+
+2
+2 10 6
+120 m s-1;
+v2
+120
+ 
+The kinetic energy is KE
+mv
+=
+=
+×
+1
+2
+1
+2
+1
+2
+J
+×
+=
+120
+60
+(d) When the object is just about to hit the 
+ground, the total energy is completely 
+kinetic and the potential energy, U 0.
+Figure 4.13 Conservation of energy
+h
+y
+h−y
+C
+U = mgh, KE = 0, E = U 
+U ≠ 0, KE ≠ 0, E = U + KE 
+U = 0, KE ≠ 0, E = KE 
+B
+A
+The law of conservation of energy 
+states that energy can neither be created nor 
+destroyed. It may be transformed from one 
+form to another but the total energy of an 
+isolated system remains constant.
+Figure 4.13 illustrates that, if an object 
+starts from rest at height h, the total energy 
+is purely potential energy (U=mgh) and the 
+kinetic energy (KE) is zero at h. When the 
+object falls at some distance y, the potential 
+energy and the kinetic energy are not zero 
+whereas, the total energy remains same as 
+measured at height h. When the object is 
+about to touch the ground, the potential 
+energy is zero and total energy is purely 
+kinetic.
+EXAMPLE 4.13
+An object of mass 1 kg is falling from the 
+height h = 10 m. Calculate
+(a) The total energy of an object at h 10 m
+(b) Potential energy of the object when it 
+is at h 4 m
+(c) Kinetic energy of the object when it is 
+at h 4 m
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 193
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+185
+be equal to the gravitational force, 
+F
+mg
+1
+100 10
+1000
+
+
+
+
+ N
+The distance moved along path (1) is, 
+h 10 m
+The work done on the object along 
+path (1) is 
+ 
+W
+F h
+ 
+ 
+ 
+1000 
+
+10
+10 000
+,
+ J
+Along path (2):
+In the case of the ramp, the minimum force 
+F2 that we apply on the object to take it 
+up is not equal to mg, it is rather equal to 
+mg sinT . mgsin3 M
+
+ 
+mg . 
+Here, angle θ = 30o
+Therefore, F2 = mg sinθ = 100 × 10 × 
+sin30o = 100 × 10 × 0.5  500N
+Hence, mgsin3 M
+
+ 
+mg
+The path covered along the ramp is, 
+l = 
+h
+m
+sin
+.
+30
+10
+0 5
+20
+ 
+ 
+The work done on the object along path 
+(2) is, W = F2 l = 500 × 20 = 10,000 J
+Since the gravitational force is a 
+conservative force, the work done by 
+gravity on the object is independent of the 
+path taken.
+In both the paths the work done by the 
+gravitational force is 10,000 J
+Along path (1):  more force needs to be 
+applied against gravity to 
+cover lesser distance .
+Along path (2):  lesser force needs to be 
+applied against the gravity 
+to cover more distance. 
+As the force needs to be applied along 
+the ramp is less, it is easier to move the 
+object along the ramp.
+ 
+E
+KE
+mv
+J
+=
+=
+=
+1
+2
+100
+2
+ v
+m KE
+1
+100
+m s
+=
+=
+×
+=
+≈
+−
+2
+2
+200 14 12
+1
+.
+EXAMPLE 4.14
+A body of mass 100 kg is lifted to a height 10 
+m from the ground in two different ways as 
+shown in the figure. What is the work done 
+by the gravity in both the cases? Why is it 
+easier to take the object through a ramp?
+Path (1) straight up
+Path (2) along the ramp
+Solution
+m = 100 kg, h = 10 m
+Along path (1):
+The minimum force F1 required to move 
+the object to the height of 10 m should 
+h = 10 m
+30°
+30°
+h = 10 m
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 194
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+186
+EXAMPLE 4.16
+An object of mass 2 kg attached to a spring 
+is moved to a distance x 10 m from its 
+equilibrium position. The spring constant 
+k 1 N m-1 and assume that the surface is 
+frictionless.
+(a) When the mass crosses the equilibrium 
+position, what is the speed of the mass? 
+(b) What is the force that acts on the object 
+when the mass crosses the equilibrium 
+position and extremum position 
+x = r 10 m.
+Solution
+(a) Since the spring force is a conservative 
+force, the total energy is constant. At 
+x 10 m, the total energy is purely 
+potential.
+ 
+E = U = 1
+2
+1
+2
+1
+10
+50
+2
+2
+k x =
+×( ) ×( ) =
+J
+When the mass crosses the equilibrium 
+position x 
+
+ 
+0 , the potential energy 
+ 
+U = 1
+2 1
+0
+0
+    J
+The entire energy is purely kinetic energy 
+at this position. 
+ 
+E
+KE
+mv
+=
+=
+=
+1
+2
+50
+2
+J
+The speed 
+v
+KE
+m
+ms
+ms
+=
+=
+×
+=
+≈
+−
+−
+2
+2
+50
+2
+50
+7 07
+1
+1
+.
+EXAMPLE 4.15
+An object of mass m is projected from the 
+ground with initial speed v0. 
+Find the speed at height h.
+Solution
+Since the gravitational force is conservative; 
+the total energy is conserved throughout 
+the motion. 
+Initial
+Final
+Kinetic 
+energy
+1
+2
+0
+2
+mv
+1
+2
+2
+mv
+Potential 
+energy
+0
+mgh
+Total 
+energy
+1
+2
+0
+1
+2
+0
+2
+0
+2
+mv
+mv
+
+
+1
+2
+2
+mv
+mgh
+
+Final values of potential energy, kinetic 
+energy and total energy are measured at 
+the height h. 
+By law of conservation of energy, 
+the initial and final total energies are the 
+same.
+ 
+1
+2
+1
+2
+0
+2
+2
+mv
+mv
+mgh
+
+
+ 
+v
+v
+gh
+0
+2
+2
+2
+
+
+ 
+v
+v
+gh
+
+
+0
+2
+2
+Note that in section (2.11.2) similar result 
+is obtained  using kinematic equation 
+based on calculus method. However, 
+calculation through energy conservation 
+method is much easier than calculus 
+method.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 97
+PDF_PAGE: 195
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+187
+Figure 4.14 Motion in vertical circle
+C
+B
+D
+O
+r
+A
+T
+r
+θ
+θ
+v
+mgcos θ
+mgsinθ
+mg
+where, a
+dv
+dt is tangential retardation
+t  
+In the radial direction,
+ 
+T
+mg cos
+m a
+T
+mg cos
+mv
+r
+r
+−
+=
+−
+=
+θ
+θ
+2 
+(4.29)
+  where, a
+v
+r
+r 
+2
+ is the centripetal  
+acceleration.
+The circle can be divided into four 
+sections A, B, C, D for better understanding 
+of the motion. The four important facts to 
+be understood from the two equations are 
+as follows:
+(i) The 
+mass 
+is 
+having 
+tangential 
+acceleration (g sin θ) for all values of 
+θ (except θ = 0o), it is clear that this 
+vertical cirular motion is not a uniform 
+circular motion.
+(ii) From the equations (4.28) and (4.29) it 
+is understood that as the magnitude of 
+velocity is not a constant in the course 
+of motion, the tension in the string is 
+also not constant. 
+(b) Since the restoring spring force is 
+F = - kx, when the object crosses the 
+equilibrium position, it experiences 
+no force. Note that at equilibrium 
+position, the object moves very fast. 
+When the object is at x = +10 m 
+(elongation), the force F = − k x
+F = − (1) (10) = − 10 N. Here the 
+negative sign implies that the force 
+is towards equilibrium i.e., towards 
+negative x-axis and when the object is at 
+x = − 10m (compression), it experiences 
+a forces F = − (1) (− 10) = +10 N. Here 
+the positive sign implies that the force 
+points towards positive x-axis.
+The object comes to momentary rest 
+at x = r10m even though it experiences 
+a maximum force at both these points.
+4.2.9  Motion in a vertical circle
+Imagine that a body of mass (m) attached 
+to one end of a massless and inextensible 
+string executes circular motion in a vertical 
+plane with the other end of the string fixed. 
+The length of the string becomes the radius 
+( Gr ) of the circular path (Figure 4.14). 
+Let us discuss the motion of the body 
+by taking the free body diagram (FBD) at 
+a position where the position vector ( Gr ) 
+makes an angle θ with the vertically 
+downward direction and the instantaneous 
+velocity is as shown in Figure 4.14.
+There are two forces acting on the mass.
+1. Gravitational force which acts downward
+2. Tension along the string.
+Applying Newton’s second law on the mass, 
+In the tangential direction,
+ 
+mg
+ma
+mg
+m dv
+dt
+t
+sin
+sin
+3
+3
+
+ 
+4
+86
+5
+97
+ 
+(4.28)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 196
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+188
+body (vertically downwards) and another 
+one is the tension 
+G
+T 1 acting vertically 
+upwards, i.e. towards the center. From the 
+equation (4.29), we get 
+ 
+T
+mg
+mv
+r
+1
+1
+2
+
+
+ 
+(4.30)
+ 
+T
+mv
+r
+mg
+1
+1
+2
+
+
+ 
+(4.31)
+V2
+V1
+T 2
+T 1
+r
+2
+mg
+mg
+1
+Figure 4.15 Motion in 
+vertical circle shown for 
+lowest and highest points
+For the highest point (2)
+At the highest point 2, both the gravitational 
+force mgG on the body and the tension 
+G
+T2 act 
+downwards, i.e. towards the center again.
+ 
+T
+mg
+mv
+r
+2
+2
+2
++
+=
+ 
+(4.32)
+ 
+T
+mv
+r
+mg
+2
+2
+2
+=
+−
+ 
+(4.3)
+ 
+From equations (4.31) and (4.33), it is 
+understood that T
+T
+1
+2
+!
+. The difference in 
+tension T
+T
+1
+2
+
+ is obtained by subtracting 
+equation (4.33) from equation (4.31).
+(iii) The equation (4.29),T
+mg cosθ
+mv
+r
+=
++
+2
+highlights that in sections A and D 
+of the circle, 
+for
+ cos 
+
+M
+M
+4
+86
+
+3
+
+3
+2
+2 ;
+is positive5
+97, the term mg cosθ is  always 
+greater than zero. Hence the tension 
+cannot vanish even when the velocity 
+vanishes.
+(iv) The equation (4.29), mv
+r
+T mgcos
+2
+
+
+3; 
+further highlights that in sections B 
+and C of the circle, for 
+ 
+
+
+2
+3
+2
+M
+M
+4
+86
+3
+;
+cos is negative5
+97
+3
+, the second term 
+is always greater than zero. Hence 
+velocity cannot vanish, even when the 
+tension vanishes.
+These points are to be kept in mind 
+while solving problems related to motion in 
+vertical circle. 
+To start with let us consider only two 
+positions, say the lowest point 1 and the 
+highest point 2 as shown in Figure 4.15 for 
+further analysis. Let the velocity of the body 
+at the lowest point 1 be Gv1, at the highest 
+point 2 be Gv2 and Gv at any other point. 
+The direction of velocity is tangential to 
+the circular path at all points. Let 
+G
+T1 be the 
+tension in the string at the lowest point and 
+G
+T2 be the tension at the highest point and 
+G
+T 
+be the tension at any other point. Tension 
+at each point acts towards the center. 
+The tensions and velocities at these two 
+points can be found by applying the law of 
+conservation of energy. 
+For the lowest point (1)
+When the body is at the lowest point 1,  the 
+gravitational force m gG which acts on the 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 197
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+189
+From the law of conservation of energy 
+given in equation (4.35), we get
+ 
+1
+2
+2
+1
+2
+1
+2
+2
+2
+mv
+mgr
+mv
+
+
+Aft er rearranging,
+ 
+1
+2
+2
+1
+2
+2
+2
+m v
+v
+mgr
+
+
+ 
+ 
+v
+v
+gr
+1
+2
+2
+2
+4
+
+
+ 
+(4.36)
+Substituting equation (4.36) in equation 
+(4.34) we get,
+ 
+T
+T
+m
+r
+gr
+mg
+1
+2
+4
+2
+−
+=
+[
+]+
+Th erefore, the diff erence in tension is 
+ 
+T
+T
+ mg
+1
+2
+6
+
+
+ 
+(4.37)
+Minimum speed at the highest point (2)
+Th e body must have a minimum speed 
+at point 2 otherwise, the string will slack 
+before reaching point 2 and the body will 
+not loop the circle. To fi nd this minimum 
+speed let us take the tension T2 = 0 in 
+equation (4.33).
+ 
+0
+2
+2
+
+
+mv
+r
+mg
+ 
+mv
+r
+mg
+2
+2
+ 
+ 
+v
+rg
+2
+2 
+ 
+v
+gr
+2 
+ 
+(4.38)
+ 
+ 
+T
+T
+mv
+r
+mg
+mv
+r
+mg
+1
+2
+1
+2
+2
+2
+
+
+
+
+
+4
+8
+6
+5
+9
+7
+ 
+= mv
+r
+mg
+mv
+r
+mg
+1
+2
+2
+2
+
+
+
+  T
+T
+m
+r
+v
+v
+mg
+1
+2
+1
+2
+2
+2
+2
+
+
+
+NO
+PQ 
+ 
+(4.34)
+Th e term v
+v
+1
+2
+2
+2
+
+NO
+PQ can be found easily 
+by applying law of conservation of energy at 
+point 1 and also at point 2.
+Th e tension will not do any 
+work on the mass as the tension 
+and the direction of motion is 
+always perpendicular.
+Th e gravitational force is doing work 
+on the mass, as it is a conservative 
+force the total energy of the mass is 
+conserved throughout the motion.
+Note
+ Total Energy at point 1(E1) is same as the 
+total energy at a point 2 (E2)
+ 
+E1 = E2 
+(4.35)
+Potential Energy at point 1, U1
+0
+  (by 
+taking reference as point 1)
+Kinetic Energy at point 1, KE1
+1
+2
+1
+2
+=
+mv
+Total Energy at point 1, E
+U
+KE
+1
+1
+1
+=
++
+=
+1
+2
+1
+2
+0
+1
+2
+1
+2
+=
++
+=
+mv
+mv
+Similarly, Potential Energy at point 2, 
+U2
+2
+ mg 
+r)
+(
+ (h is 2r from point 1)
+Kinetic Energy at point 2, KE2
+2
+2
+1
+2
+=
+mv
+Total Energy at point 2, E
+U
+KE
+2
+2
+2
+=
+=
++
+2
+2
+2
+1
+2
++
+ mg r
+mv
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 198
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+190
+4.3
+Solution
+Radius of circle r = 0.5 m
+The required speed at the highest point 
+v
+gr
+2
+10 0 5
+5
+
+
+
+
+.
+ ms1. The speed 
+at lowest point v
+gr
+gr
+1
+5
+5
+5
+
+
+
+
+ 
+u 5 = 5 ms1
+POWER
+4.3.1 'H¿QLWLRQRISRZHU
+Power is a measure of how fast or slow a 
+work is done. Power is defined as the rate of 
+work done or energy delivered. 
+  Power P
+work done W
+time taken t
+ 
+
+ 
+ 
+ 
+ 
+P
+W
+t
+ 
+ 
+Average power
+The average power (Pav) is defined as the 
+ratio of the total work done to the total time 
+taken.
+   
+P
+total work done
+total time taken
+av 
+ 
+The body must have a speed at point 2, 
+v
+gr
+2 t
+ to stay in the circular path.
+Minimum speed at the lowest point 1
+To have this minimum speed v
+gr
+2 
+
+  
+at point 2, the body must have minimum 
+speed also at point 1. 
+By making use of equation (4.36) we can 
+find the minimum speed at point 1.
+ 
+v
+v
+gr
+1
+2
+2
+2
+4
+
+
+Substituting equation (4.38) in (4.36),
+ 
+v
+gr
+gr
+1
+2
+4
+
+
+ 
+v
+gr
+1
+2
+5
+ 
+ 
+v
+gr
+1
+5
+ 
+ 
+(4.39)
+The body must have a speed at point 1, 
+v
+gr
+1
+5
+t
+ to stay in the circular path.
+From equations (4.38) and (4.39), it is 
+clear that the minimum speed at the lowest 
+point 1 should be 5 times more than the 
+minimum speed at the highest point 2, so 
+that the body loops without leaving the 
+circle.
+EXAMPLE 4.17
+Water in a bucket tied with rope is whirled 
+around in a vertical circle of radius 0.5 m. 
+Calculate the minimum velocity at the 
+lowest point so that the water does not 
+spill from it in the course of motion. 
+(g = 10 ms-2)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 191
+PDF_PAGE: 199
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+191
+in watt and time in second is written as, 
+1 J =1 W s. When electrical appliances are 
+put in use for long hours, they consume 
+a large amount of energy. Measuring the 
+electrical energy in a small unit watt.
+second (W s) leads to handling large 
+numerical values. Hence, electrical energy 
+is measured in the unit called kilowatt 
+hour (kWh).
+ 1 electrical unit =  1 kWh = 1 u (103 W)  
+u (3600 s)
+ 1 electrical unit = 3600×103 W s 
+ 
+1 electrical unit = 3.6×106 J 
+ 
+1 kWh = 3.6×106 J
+Electricity bills are generated in units 
+of kWh for electrical energy consumption. 
+1 unit of electrical energy is 1 kWh. 
+(Note: kWh is unit of energy and not of 
+power.)
+EXAMPLE 4.18
+Calculate the energy consumed in 
+electrical units when a 75 W fan is 
+used for 8 hours daily for one month 
+(30 days).
+Solution
+Power, P = 75 W
+Time of usage, t = 8 hour × 30 days = 
+240 hours
+Electrical energy consumed is the 
+product of power and time of usage.
+Instantaneous power
+The instantaneous power (Pinst) is defined as 
+the power delivered at an instant (as time 
+interval approaches zero),
+ 
+P
+dW
+dt
+inst 
+ 
+4.3.2 8QLWRISRZHU
+Power is a scalar quantity. Its dimension is 
+[ML2T–3]. The SI unit of power is watt (W), 
+named after the inventor of the steam engine 
+James Watt. One watt is defined as the power 
+when one joule of work is done in one second, 
+(1 W = 1 J s–1).
+The higher units are kilowatt(kW), 
+megawatt(MW), and Gigawatt(GW).
+ 
+1kW = 1000 W = 103 watt
+ 
+1MW = 106 watt
+ 
+1GW = 109 watt
+For 
+motors, 
+engines 
+and 
+some 
+automobiles an old unit of power still 
+commercially in use which is called as the 
+horse-power (hp). We have a conversion 
+for horse-power (hp) into watt (W) 
+which is,
+ 
+1 hp = 746 W  
+All electrical goods come with a 
+definite power rating in watt printed on 
+them. A 100 watt bulb consumes 100 joule 
+of electrical energy in one second. The 
+energy measured in joule in terms of power 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 97
+PDF_PAGE: 200
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+192
+Substituting equation (4.41) and equation 
+(4.42) in equation (4.40), we get
+ 
+C
+C
+
+"
+
+ 
+dW
+dt dt
+F
+dt
+G Gv
+ 
+C
+
+"
+4
+86
+5
+97
+
+dW
+dt
+F
+dt
+G Gv
+0
+This relation is true for any arbitrary value 
+of dt. This implies that the term within the 
+bracket must be equal to zero, i.e., 
+ 
+dW
+dt
+F
+
+"
+
+G Gv
+0 
+Or 
+ 
+dW
+dt
+F
+
+"
+G Gv 
+(4.43)
+EXAMPLE 4.19
+A vehicle of mass 1250 kg is driven with an 
+acceleration 0.2 ms2 along a straight level 
+road against an external resistive force 500 N. 
+Calculate the power delivered by the 
+vehicle’s engine if the velocity of the vehicle 
+is 30 ms1. 
+Solution
+The vehicle’s engine has to do work against 
+resistive force and make vechile to move 
+with an acceleration. Therefore, power 
+delivered by the vehicle engine is 
+P =  (resistive force + mass u  
+acceleration) (velocity) 
+ P
+F
+v
+F
+F v
+P
+F
+v
+F
+ma v
+tot
+resistive
+tot
+resistive
+
+
+
+
+"
+
+
+
+G
+G
+G
+G
+G
+G
+(
+)
+(
+)
+   =  (500 N + (1250 kg) u (0.2 ms2))  
+(30 ms1) = 22.5 kW
+Electrical energy = power × time of 
+usage = P × t
+ 
+
+
+75
+240
+ watt
+ hour
+ 
+ 18000 watt hour
+ 
+ 
+ 
+18
+18
+ kilowatt hour
+kWh
+ 
+1
+1
+ electrical unit
+ kWh
+ 
+ 
+Electrical energy
+ unit
+ 18
+Incandescent lamps glow for 
+1000 hours. CFL lamps glow 
+for 6000 hours. But LED lamps 
+glow for 50000 hrs (almost 25 years at 5.5 
+hour per day).
+4.3.3  Relation between 
+SRZHUDQGYHORFLW\
+The work done by a force 
+G
+F for a displacement 
+drG is 
+ 
+W
+F dr
+
+"
+C
+G
+G 
+(4.40)
+Left hand side of the equation (4.40) can be 
+written as 
+ 
+W
+dW
+dW
+dt dt
+
+
+C
+C
+  
+ 
+(multiplied and divided by dt) 
+ 
+(4.41)
+Since, velocity is G
+G
+v
+dr
+dt
+ 
+; dr
+v dt
+G
+G
+ 
+. Right 
+hand side of the equation (4.40) can be 
+written as 
+C
+C
+C
+"
+
+"
+4
+86
+5
+97
+
+"
+
+ 
+
+N
+OR
+P
+QS
+G
+G
+G
+G
+G G
+G
+G
+F dr
+F
+dt
+F
+dt
+dr
+dt
+v
+v
+dr
+dt 
+ 
+ 
+(4.42)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 201
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+193
+ 
+lim
+'
+'
+'
+t
+p
+p
+p
+p
+H
+
+
+ 
+
+
+ 
+0
+1
+2
+1
+2
+0
+G
+G
+G
+G
+t
+d
+dt
+The above expression implies that the total 
+linear momentum is a conserved quantity. 
+Note: The momentum is a vector quantity. 
+Hence, vector addition has to be followed to 
+find the total momentum of the individual 
+bodies in collision.
+4.4.1 7\SHVRI&ROOLVLRQV
+In any collision process, the total linear 
+momentum and total energy are always 
+conserved whereas the total kinetic energy 
+need not be conserved always. Some part 
+of the initial kinetic energy is transformed 
+to other forms of energy. This is because, 
+the impact of collisions and deformation 
+occurring due to collisions may in general, 
+produce heat, sound, light etc. By taking 
+these effects into account, we classify the 
+types of collisions as follows:
+(a) Elastic collision 
+(b) Inelastic collision
+(a) Elastic collision
+In a collision, the total initial kinetic energy 
+of the bodies (before collision) is equal to 
+the total final kinetic energy of the bodies 
+(after collision) then, it is called as elastic 
+collision. i.e.,
+Total kinetic energy before collision = 
+Total kinetic energy after collision
+(b) Inelastic collision
+In a collision, the total initial kinetic energy 
+of the bodies (before collision) is not equal 
+4.4
+COLLISIONS
+Collision is a common phenomenon that 
+happens around us every now and then. 
+For example, carom, billiards, marbles, etc.,. 
+Collisions can happen between two bodies 
+with or without physical contacts. 
+Linear momentum is conserved in 
+all collision processes. When two bodies 
+collide, the mutual impulsive forces acting 
+between them during the collision time 
+(Δt) produces a change in their respective 
+momenta. That is, the first body exerts a 
+force 
+G
+F12 on the second body. From Newton’s 
+third law, the second body exerts a force 
+G
+F21 
+on the first body. This causes a change in 
+momentum ΔGp1 and ΔGp2 of the first body 
+and second body respectively. Now, the 
+relations could be written as, 
+ 
+ '
+'
+G
+G
+p
+F
+t
+1
+12
+
+ 
+(4.44)
+ 
+ '
+'
+G
+G
+p
+F
+t
+2
+21
+
+ 
+ (4.45)
+Adding equation (4.44) and equation (4.45), 
+we get 
+ '
+'
+'
+'
+'
+G
+G
+G
+G
+G
+G
+p
+p
+F
+t
+F
+t
+F
+F
+t
+1
+2
+12
+21
+12
+21
+
+
+
+
+
+
+ 
+According to Newton’s third law, 
+G
+G
+F
+F
+12
+21
+ 
+ 
+'
+'
+G
+G
+p
+p
+1
+2
+0
+
+
+ 
+' G
+G
+p
+p
+1
+2
+0
+
+
+ 
+Dividing both sides by 't and taking limit 
+'t H 0 , we get
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 9
+PDF_PAGE: 202
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+194
+vehicle and they move together with the 
+same velocity. 
+4.4.2  Elastic collisions in one 
+dimension
+Consider two elastic bodies of masses m1 and 
+m2 moving in a straight line (along positive 
+x direction) on a frictionless horizontal 
+surface as shown in Figure 4.16. 
+Before collision
+u1
+m1
+m1
+m2
+m2
+u2
+v1
+After collision
+v2
+Figure 4.16 Elastic collision in one 
+dimension
+Mass
+Initial velocity Final velocity
+Mass m1
+u1
+v1
+Mass m2
+u2
+v2
+In order to have collision, we assume that 
+the mass m1 moves faster than mass m2 i.e., 
+u
+u
+1
+2
+!
+. For elastic collision, the total linear 
+momentum and kinetic energies of the 
+two bodies before and after collision must 
+remain the same.
+to the total final kinetic energy of the bodies 
+(after collision) then, it is called as inelastic 
+collision. i.e.,
+Total kinetic energy before collision ≠ 
+Total kinetic energy after collision
+Total kinetic energy
+after collision
+Total kinetic en
+ 
+ 
+ 
+ 
+ 
+4
+8
+6
+5
+9
+7
+
+ergy
+before collision
+ 
+4
+8
+6
+5
+9
+7
+  
+ 
+    
+loss in energy
+during collision
+ 
+ 
+ 
+4
+8
+6
+5
+9
+7  ΔQ 
+Even though kinetic energy is not conserved 
+but the total energy is conserved. This is 
+because the total energy contains the kinetic 
+energy term and also a term ΔQ , which 
+includes all the losses that take place during 
+collision. Note that loss in kinetic energy 
+during collision is transformed to another 
+form of energy like sound, thermal, etc. 
+Further, if the two colliding bodies stick 
+together after collision such collisions are 
+known as completely inelastic collision or 
+perfectly inelastic collision. Such a collision 
+is found very often. For example when a clay 
+putty is thrown on a moving vehicle, the clay 
+putty (or Bubblegum) sticks to the moving 
+Table 4.4 Comparison between elastic and inelastic collisions
+S.No.
+Elastic Collision
+Inelastic Collision
+1.
+Total momentum is conserved
+Total momentum is conserved
+2.
+Total kinetic energy is conserved
+Total kinetic energy is not conserved
+3.
+Forces involved are conservative forces
+Forces involved are non-conservative 
+forces
+4.
+Mechanical energy is not dissipated.
+Mechanical energy is dissipated into heat, 
+light, sound etc.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 203
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+195
+From the law of conservation of linear 
+momentum, 
+Total 
+momentum 
+before 
+collision 
+(pi) = Total momentum after collision (pf)
+Momentum of  
+mass m1
+Momentum of  
+mass m2
+Total linear momentum 
+Before collision
+pi1
+1
+1
+ m u
+pi2
+2
+2
+ m u
+p
+p
+p
+i
+i
+i
+
+
+1
+2
+pi 
+
+m u
+m u
+1
+1
+2
+2
+After collision
+pf 1
+1
+1
+ m v
+pf 2
+2
+2
+ m v
+p
+p
+p
+f
+f
+f
+
+
+1
+2
+pf 
+
+m v
+m v
+1
+1
+2
+2
+  
+m u
+m u
+m v
+m v
+1
+1
+2
+2
+1
+1
+2
+2
+
+
+
+ 
+ (4.46)
+ Or m
+u
+v
+m
+v
+u
+1
+1
+1
+2
+2
+2
+
+
+ 
+
+
+  
+(4.47)
+Further, 
+Kinetic energy of  
+mass m1
+Kinetic energy of  
+mass m2
+Total kinetic energy
+Before 
+collision
+ 
+KEi1
+1
+1
+2
+1
+2
+=
+m u
+ 
+KEi2
+2
+2
+2
+1
+2
+=
+m u
+ 
+KE
+KE
+KE
+i
+i
+i
+=
++
+1
+2
+ 
+KEi 
+
+1
+2
+1
+2
+1
+1
+2
+2
+2
+2
+m u
+m u
+After 
+collision
+ 
+KE f 1
+1
+1
+2
+1
+2
+=
+m v
+ 
+KE f 2
+2
+2
+2
+1
+2
+=
+m v
+ 
+KE
+KE
+KE
+i
+i
+i
+=
++
+1
+2
+ 
+KE f =
++
+1
+2
+1
+2
+1
+1
+2
+2
+2
+2
+m v
+m v
+For elastic collision,
+Total kinetic energy before collision KEi 
+= Total kinetic energy after collision KE f
+ 
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+m u
+m u
+m v
+m v
+
+
+
+ 
+ 
+ 
+ 
+ (4.48)
+After simplifying and rearranging the 
+terms,
+m
+u
+v
+m
+v
+u
+1
+1
+2
+1
+2
+2
+2
+2
+2
+2
+
+
+ 
+
+
+ 
+Using the formula a
+b
+a
+b
+a
+b
+2
+2
+
+
+
+
+ 
+
+
+ , 
+we can rewrite the above equation as 
+m
+u
+v
+u
+v
+m
+v
+u
+v
+u
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+  
+ 
+(4.49)
+Dividing equation (4.49) by (4.47) gives, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 7
+PDF_PAGE: 204
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+196
+Similarly, 
+by 
+substituting 
+(4.51) 
+in 
+equation (4.47) or substituting equation 
+(4.53) in equation (4.52), we get the final 
+velocity of m2 as 
+ v
+m
+m
+m
+u
+m
+m
+m
+m
+u
+2
+1
+1
+2
+1
+2
+1
+1
+2
+2
+2
+
+
+4
+8
+6
+5
+9
+7
+
+
+
+4
+8
+6
+5
+9
+7
+ (4.54)
+Case 1: When bodies has the same mass 
+i.e., m1 = m2,
+ e qua
+tion ( 4.53)
+ ⇒ v
+ u
+m
+m
+u
+1
+1
+2
+2
+2
+0
+2
+2
+  
+ 4
+8
+6
+5
+9
+7
+  
+ 
+ 
+            v
+u
+1
+2
+ 
+ 
+(4.5)
+ equa
+tion ( 4.54)
+ ⇒ v
+m
+m
+u
+u
+2
+1
+1
+1
+2
+2
+2
+0
+ 4
+8
+6
+5
+9
+7
+ 
+ 
+ 
+            v
+u
+2
+1
+ 
+ 
+(4.56)
+The equations (4.55) and (4.56) show 
+that in one dimensional elastic collision, 
+when two bodies of equal mass collide 
+after the collision their velocities are 
+exchanged. 
+Case 2: When bodies have the same 
+mass i.e., m1   m2 and second body (usually 
+called target) is at rest (u2   0),
+By substituting m
+m
+1
+2
+ 
+ and u2
+0
+  in 
+equations (4.53) and equations (4.54) 
+we get,
+ from e qua
+tion ( 4.53)
+ ⇒ v1
+0
+  
+(4.57)
+ from e qua
+tion ( 4.54)
+ ⇒ v
+u
+2
+1
+ 
+ 
+(4.58)
+Equations (4.57) and (4.58) show that 
+when the first body comes to rest the second 
+ 
+ 
+m
+u
+v
+u
+v
+m
+u
+v
+m
+v
+u
+v
+u
+m
+v
+u
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+ 
+u
+v
+v
+u
+u
+u
+v
+v
+1
+1
+2
+2
+1
+2
+2
+1
+
+
+
+
+
+
+ Rearranging, (4.50)
+Equation (4.50) can be rewritten as 
+ 
+u
+u
+v
+v
+1
+2
+1
+2
+
+ 
+
+(
+)
+This means that for any elastic head 
+on collision, the relative speed of the two 
+elastic bodies after the collision has the 
+same magnitude as before collision but in 
+opposite direction. Further note that this 
+result is independent of mass. 
+Rewriting the above equation for v1 
+and v2 ,
+ 
+v
+v
+u
+u
+1
+2
+2
+1
+
+
+
+ 
+(4.51)
+Or 
+ 
+v
+u
+v
+u
+2
+1
+1
+2
+
+
+
+ 
+(4.52)
+To find the final velocities v1 and v2:
+Substituting equation (4.52) in equation 
+(4.47) gives the velocity of m1 as
+ 
+m
+u
+v
+m
+u
+v
+u
+u
+1
+1
+1
+2
+1
+1
+2
+2
+
+
+ 
+
+
+
+
+ 
+ 
+m
+u
+v
+m
+u
+v
+u
+1
+1
+1
+2
+1
+1
+2
+2
+
+
+ 
+
+
+
+ 
+ 
+m u
+m v
+m u
+m v
+m u
+1
+1
+1
+1
+2
+1
+2
+1
+2
+2
+2
+
+
+
+
+ 
+m u
+m u
+m u
+m v
+m v
+1
+1
+2
+1
+2
+2
+1
+1
+2
+1
+2
+
+
+
+
+ 
+m
+m
+u
+m u
+m
+m
+v
+1
+2
+1
+2
+2
+1
+2
+1
+2
+
+
+ 
+
+
+
+
+ 
+ or v
+m
+m
+m
+m
+u
+m
+m
+m
+u
+1
+1
+2
+1
+2
+1
+2
+1
+2
+2
+2
+
+
+
+4
+8
+6
+5
+9
+7
+
+
+4
+8
+6
+5
+9
+7
+ 
+(4.53)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 7
+PDF_PAGE: 205
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+197
+(rebounds) in the opposite direction with the 
+same initial velocity as it has a negative sign. 
+The equation (4.60) implies that the second 
+body which is heavier in mass continues 
+to remain at rest even after collision. For 
+example, if a ball is thrown at a fixed wall, 
+the ball will bounce back from the wall with 
+the same velocity with which it was thrown 
+but in opposite direction. 
+Case 4: 
+The second body is very much lighter than 
+the first body 
+m
+m m
+m
+2
+1
+2
+1
+1
+
+
+,
+⎛
+⎝⎜
+⎞
+⎠⎟ the n the ratio m
+m
+2
+1
+ ≈0
+and a
+lso i f t he t arge t i s a t r est u2
+0
+
+
+ 
+Dividing numerator and denominator of 
+equation (4.53) by m1, we get
+ 
+ v
+m
+m
+m
+m
+u
+m
+m
+m
+m
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+0
+
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+ 
+ 
+ v
+u
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+
+
+
+4
+86
+5
+97
+
+
+4
+86
+5
+97 
+ 
+v
+u
+1
+1
+ 
+ 
+(4.61)
+Similarly, 
+Dividing numerator and denominator of 
+equation (4.58) by m1, we get
+ 
+v
+m
+m
+u
+m
+m
+m
+m
+2
+2
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+0
+
+
+4
+8
+6
+66
+5
+9
+7
+77
+
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+ 
+ 
+v
+u
+2
+1
+2
+1
+0
+
+
+4
+86
+5
+97
+ 
+v
+u
+2
+1
+2
+ 
+ 
+(4.62) 
+body moves with the initial velocity of the 
+first body. 
+Case 3: 
+The first body is very much lighter than the 
+second body 
+m
+m
+m
+m
+1
+2
+1
+2
+1
+
+
+,
+⎛
+⎝⎜
+⎞
+⎠⎟ the n the ratio m
+m
+1
+2
+ ≈ 0 
+and a
+lso i f t he t arge t i s a t r est u2
+0
+
+
+ 
+Dividing numerator and denominator of 
+equation (4.53) by m2, we get
+ 
+ v
+m
+m
+m
+m
+u
+m
+m
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+0
+
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+ 
+ 
+v
+u
+1
+1
+0
+1
+0
+1
+
+
+
+4
+86
+5
+97
+ 
+v
+u
+1
+1
+ 
+ 
+(4.59)
+Similarly, 
+Dividing numerator and denominator of 
+equation (4.54) by m2, we get
+ 
+v
+m
+m
+m
+m
+u
+m
+m
+m
+m
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+2
+1
+1
+1
+0
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+ 
+ 
+v
+u
+m
+m
+m
+m
+2
+1
+1
+2
+1
+2
+0
+1
+1
+0
+  
+
+
+
+4
+8
+6
+6
+6
+6
+5
+9
+7
+7
+7
+7
+ 
+ 
+v2
+0
+   
+ (4.60)
+The equation (4.59) implies that the 
+first body which is lighter returns back 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 7
+PDF_PAGE: 206
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+198
+ 
+v
+m
+m
+m
+m
+m
+m
+m
+1
+2
+2
+10
+2 2
+2
+5
+
+
+
+4
+86
+5
+97
+
+
+
+4
+86
+5
+97
+ 
+v1
+1
+3 10
+4
+3 5
+10
+20
+3
+10
+3
+ 4
+86
+5
+97
+ 4
+86
+5
+97  
+
+
+ 
+v
+ms
+1
+1
+3 33
+
+
+.
+ 
+v
+m
+m
+m
+u
+m
+m
+m
+m
+u
+2
+1
+1
+2
+1
+2
+1
+1
+2
+2
+2
+
+
+4
+8
+6
+5
+9
+7
+
+
+
+4
+8
+6
+5
+9
+7
+ 
+v
+m
+m
+m
+m
+m
+m
+m
+2
+2
+2
+10
+2
+2
+5
+
+
+4
+86
+5
+97
+
+
+
+4
+86
+5
+97
+ 
+v2
+2
+3 10
+1
+3 5
+20
+5
+3
+25
+3
+ 4
+86
+5
+97
+ 4
+86
+5
+97 
+
+
+ 
+v
+ms
+2
+1
+8 33
+
+
+.
+As the two speeds v1 and v2 are positive, 
+they move in the same direction with 
+the velocities, 3.33 m s−1 and 8.33 m s−1 
+respectively.
+4.4.3  Perfect inelastic 
+collision
+In a perfectly inelastic or completely 
+inelastic collision, the objects stick together 
+permanently aft er collision such that they 
+move with common velocity. Let the two 
+bodies with masses m1 and m2 move with 
+initial velocities u1 and u2 respectively 
+before  collision. Aft er perfect inelastic 
+collision both the objects move together 
+with a common velocity v as shown in 
+Figure (4.17).
+Since, the linear momentum is conserved 
+during collisions, 
+ 
+m1 u1 + m2 u2 = (m1+ m2) v
+Th e equation (4.61) implies that the fi rst 
+body which is heavier continues to move 
+with the same initial velocity. Th e equation 
+(4.62) suggests that the second body which 
+is lighter will move with twice the initial 
+velocity of the fi rst body. It means that the 
+lighter body is thrown away from the point 
+of collision.
+EXAMPLE 4.20
+A lighter particle moving with a speed of 
+10 m s-1 collides with an object of double 
+its mass moving in the same direction with 
+half its speed. Assume that the collision is 
+a one dimensional elastic collision. What 
+will be the speed of both particles aft er the 
+collision?
+Solution
+m1=m 
+u2=5 ms-1
+u1=10 ms-1
+ 
+m2=2m 
+Let the mass of the fi rst body be m which 
+moves with an initial velocity, u1 = 10 m s-1. 
+Th erefore, the mass of second body is 
+2m and its initial velocity is u2 = 1
+2
+ u1 =
+1
+2 10
+1
+m s−
+(
+), 
+Th en, the fi nal velocities of the bodies 
+can be calculated from the equation (4.53) 
+and equation (4.54) 
+ 
+v
+m
+m
+m
+m
+u
+m
+m
+m
+u
+1
+1
+2
+1
+2
+1
+2
+1
+2
+2
+2
+
+
+
+4
+8
+6
+5
+9
+7
+
+
+4
+8
+6
+5
+9
+7
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 207
+------------------------------------------------------------
+
+Unit 4 Work, Energy and Power
+199
+The speed of the bullet is u1. The second 
+body is at rest u2
+0
+
+
+ . Let the common 
+velocity of the bullet and the object after the 
+bullet is embedded into the object is v. 
+ 
+v
+m u
+m u
+m
+m
+
+
+
+
+ 
+1
+1
+2
+2
+1
+2
+ 
+v
+u
+u
+=
++
+×
++
+(
+)
+=
+0 05
+0 45
+0
+0 05
+0 45
+0 05
+0 50
+1
+1
+.
+( .
+)
+.
+.
+.
+.
+The combined velocity is the initial 
+velocity for the vertical upward motion of 
+the combined bullet and the object. From 
+second equation of motion, 
+ 
+v
+gh
+ 
+2
+ 
+v 
+
+
+
+2 10 1 8
+36
+.
+ 
+v
+ms
+
+
+6
+1
+Substituting this in the above equation, the 
+value of u1 is
+ 
+6
+0 05
+0 50
+1
+ .
+.
+u or 
+u1
+0 50
+0 05
+6
+10 6
+
+
+
+
+.
+.
+     u1
+1
+60
+
+
+ms
+4.4.4  Loss of kinetic energy 
+LQSHUIHFWLQHODVWLF
+collision
+In perfectly inelastic collision, the loss 
+in kinetic energy during collision is 
+transformed to another form of energy 
+like sound, thermal, heat, light etc. Let KEi 
+be the total kinetic energy before collision 
+and KEf be the total kinetic energy after 
+collision.
+Total kinetic energy before collision,  
+Before collision
+u1
+m1
+m1
+m2
+m2
+u2
+v
+After collision
+Figure 4.17 Perfect inelastic collision in 
+one dimension
+Velocity  
+Linear 
+momentum
+Initial
+Final
+Initial
+Final
+Mass m1
+u1
+v
+m1u1
+m1v
+Mass m2
+u2
+v
+m2u2
+m2v
+Total
+m1u1 + 
+m2u2
+(m1+ 
+m2) v
+The common velocity can be computed by 
+ 
+ v
+m u
+m u
+m
+m
+
+
+
+
+ 
+1
+1
+2
+2
+1
+2
+ 
+ (4.63)
+EXAMPLE 4.21
+A bullet of mass 50 g is fired from below into 
+a suspended object of mass 450 g. The object 
+rises through a height of 1.8 m with bullet 
+remaining inside the object. Find the speed 
+of the bullet. Take g = 10 ms-2. 
+Solution
+m1 = 50 g = 0.05 kg;  m2 = 450 g = 0.45 kg
+www.tntextbooks.in
+

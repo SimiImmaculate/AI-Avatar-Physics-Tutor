@@ -1,0 +1,7816 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 11 – Waves
+
+TEXTBOOK_PAGE_RANGE:
+224–280
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 224
+
+PDF_PAGE: 232
+
+------------------------------------------------------------
+
+224
+11.1
+Learning Objectives
+In this unit, the student is exposed to 
+•	 waves and their types (transverse and longitudinal)
+•	 basic terms like wavelength, frequency, time period and amplitude of a wave
+•	 velocity of transverse waves and longitudinal waves
+•	 velocity of sound waves
+•	 reflection of sound waves from plane and curved surfaces and its applications
+•	 progressive waves and their graphical representation 
+•	 superposition principle, interference of waves, beats and standing waves
+•	 characteristics of stationary waves, sonometer
+•	 fundamental frequency, harmonics and overtones
+•	 intensity and loudness
+•	 vibration of air column – closed organ pipe, open organ pipe and resonance air column
+•	 Doppler effect and its applications
+INTRODUCTION
+In the previous chapter, we have discussed the 
+oscillation of a particle. Consider a medium 
+which consists of a collection of particles. 
+If the disturbance is created at one end, it 
+U N I T
+11
+WAVES
+We are slowed down sound and light waves, a walking bundle of frequencies tuned into the cosmos. 
+We are souls dressed up in sacred biochemical garments and our bodies are the instruments through 
+which our souls play their music – Albert Einstein
+propagates and reaches the other end. That 
+is, the disturbance produced at the first mass 
+point is transmitted to the next neighbouring 
+mass point, and so on. Notice that here, only 
+the disturbance is transmitted, not the mass 
+points. Similarly, the speech we deliver is due 
+to the vibration of our vocal chord inside 
+the throat. This leads to the vibration of the 
+surrounding air molecules and hence, the 
+effect of speech (information) is transmitted 
+from one point in space to another point 
+in space without the medium carrying the 
+particles. Thus, the disturbance which carries 
+energy and momentum from one point in space 
+to another point in space without the transfer of 
+the medium is known as a wave. 
+Figure 11.1  Standing waves in a violin 
+UNIT-11(XI-Physics_Vol-2).indd   224
+UNIT-11(XI-Physics_Vol-2).indd   224
+26-03-2022   17:24:13
+26-03-2022   17:24:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 225
+
+PDF_PAGE: 233
+
+------------------------------------------------------------
+
+225
+Unit 11  Waves
+surface as shown in Figure 11.3. We find 
+that this disturbance spreads out (diverges 
+out) in the form of concentric circles of 
+ever increasing radii (ripples) and strike 
+the boundary of the trough. This is because 
+some of the kinetic energy of the stone is 
+transmitted to the water molecules on the 
+surface. Actually the particles of the water 
+(medium) themselves do not move outward 
+with the disturbance. This can be observed 
+by keeping a paper strip on the water 
+surface. The strip moves up and down when 
+the disturbance (wave) passes on the water 
+surface. This shows that the water molecules 
+only undergo vibratory motion about their 
+mean positions.
+11.1.2  Formation of waves 
+on stretched string
+Let us take a long string and tie one end of 
+the string to the wall as shown in Figure 
+11.4 (a). If we give a quick jerk, a bump (like 
+pulse) is produced in the string as shown 
+in Figure 11.4 (b). Such a disturbance is 
+sudden and it lasts for a short duration, 
+hence it is known as a wave pulse. If jerks 
+are given continuously then the waves 
+produced are standing waves. Similar 
+waves are produced by a plucked string in 
+a guitar.
+Standing near a beach, one can observe waves 
+in the ocean reaching the seashore with a 
+similar wave pattern; hence they are called 
+ocean waves. A rubber band when plucked 
+vibrates like a wave which is an example of 
+a standing wave. These are shown in Figure 
+11.2. Other examples of waves are light 
+waves (electromagnetic waves), through 
+which we see and enjoy the beauty of nature 
+and sound waves using which we hear and 
+enjoy pleasant melodious songs. Day to day 
+applications of waves are numerous, such 
+as mobile phone communication, laser 
+surgery, etc. 
+11.1.1  Ripples and wave 
+formation on the water 
+surface
+Figure 11.3  Ripples formed on the 
+surface of water
+Suppose we drop a stone in a trough of still 
+water, we can see a disturbance produced at 
+the place where the stone strikes the water 
+Figure 11.2  Waves formed in (a) ocean, (b) standing waves in plucking rubber band and 
+(c) ripples formed on water surface
+(b)
+(c)
+(a)
+UNIT-11(XI-Physics_Vol-2).indd   225
+UNIT-11(XI-Physics_Vol-2).indd   225
+26-03-2022   17:24:13
+26-03-2022   17:24:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 226
+
+PDF_PAGE: 234
+
+------------------------------------------------------------
+
+226
+Unit 11  Waves
+11.1.4  Characteristics of 
+wave motion
+•	 For the propagation of the waves, the 
+medium must possess both inertia and 
+elasticity, which decide the velocity of 
+the wave in that medium.
+•	 In a given medium, the velocity of a wave 
+is a constant whereas the constituent 
+particles in that medium move with 
+different velocities at different positions. 
+Velocity is maximum at their mean 
+position and zero at extreme positions. 
+•	 Waves undergo reflections, refraction, 
+interference, diffraction and polarization. 
+11.1.3  Formation of waves 
+in a tuning fork
+When we strike a tuning fork on a rubber 
+pad, the prongs of the tuning fork vibrate 
+about their mean positions. The prong 
+vibrating about a mean position means 
+moving outward and inward, as indicated 
+in the Figure 11.5. When a prong moves 
+outward, it pushes the layer of air in its 
+neighbourhood which means there is more 
+accumulation of air molecules in this region. 
+Hence, the density and also the pressure 
+increase. These regions are known as 
+compressed regions or compressions. This 
+compressed air layer moves forward and 
+compresses the next neighbouring layer in a 
+similar manner. Thus a wave of compression 
+advances or passes through air. When the 
+prong moves inwards, the particles of the 
+medium are moved to the right. In this 
+region both density and pressure are low. It 
+is known as a rarefaction or elongation.
+Figure 11.4:  Wave pulse created during 
+jerk produced on one end of the string 
+Figure 11.5  Waves due to strike of a 
+tuning fork on a rubber pad
+Compression
+Rarefaction
+Mean position
+Compression
+Compression
+Expansion
+Expansion
+Mean position
+Mean position
+(a)
+(b)
+(c)
+Point to ponder
+The medium possesses both inertia and 
+elasticity for propagation of waves.
+Light is an electromagnetic wave. what is 
+the medium for its transmission?
+UNIT-11(XI-Physics_Vol-2).indd   226
+UNIT-11(XI-Physics_Vol-2).indd   226
+26-03-2022   17:24:14
+26-03-2022   17:24:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 227
+
+PDF_PAGE: 235
+
+------------------------------------------------------------
+
+227
+Unit 11  Waves
+In transverse wave motion, the constituents 
+of the medium oscillate or vibrate about their 
+mean positions in a direction perpendicular 
+to the direction of propagation (direction 
+of energy transfer) of waves as shown in 
+Figure 11.6.
+Example: light (electromagnetic waves)
+11.1.7  Longitudinal wave 
+motion
+In longitudinal wave motion, the constituents 
+of the medium oscillate or vibrate about their 
+mean positions in a direction parallel to the 
+direction of propagation (direction of energy 
+transfer) of waves as shown in Figure 11.7. 
+Example: Sound waves travelling in air.
+11.1.5  Mechanical wave 
+motion and its types
+Wave motion can be classified into two 
+types
+a.	 Mechanical wave – Waves which require 
+a medium for propagation are known as 
+mechanical waves. 
+Examples:  sound waves, ripples formed 
+on the surface of water, etc. 
+b.	 Non mechanical wave – Waves which do 
+not require any medium for propagation 
+are known as non-mechanical waves. 
+Example:  light waves, Infra red rays etc.
+Further, waves can also be classified into 
+two types
+a.	 Transverse waves 
+b.	 Longitudinal waves 
+11.1.6  Transverse wave 
+motion
+Figure 11.6  Transverse wave
+P
+Discuss with your Teacher
+•  Tsunami (pronounced soo-nah-mee 
+in Japanese) means Harbour waves.
+•  Tsunami is a series of huge and giant 
+waves which come with great speed 
+and huge force. What happened on 
+26th December2004 in southern part 
+of India? - Discuss
+•  Gravitational waves and LIGO (Laser 
+lnterferometer 
+Gravitational 
+wave 
+Observatory) experiment. 
+•  Nobel Prize winners in Physics 2017 are
+Prof. Rainer Weiss, Prof. Barry 
+C. Barish and Prof. Kip S. Thorne 
+for decisive contributions to the 
+LIGO detector and observation of 
+gravitational forces.
+Motion
+Longitudinal waves
+Stretched
+Stretched
+Compressed
+Compressed
+Figure 11.7  Longitudinal waves
+UNIT-11(XI-Physics_Vol-2).indd   227
+UNIT-11(XI-Physics_Vol-2).indd   227
+26-03-2022   17:24:14
+26-03-2022   17:24:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 228
+
+PDF_PAGE: 236
+
+------------------------------------------------------------
+
+228
+Unit 11  Waves
+11.2
+If we are interested in counting the number 
+of waves created, let us put a reference level 
+(mean position) as shown in Figure 11.9. Here 
+the mean position is the horizontal line shown.
+The highest point in the shaded portion is 
+called crest. With respect to the reference level, 
+the lowest point on the un-shaded portion is 
+called trough. This wave contains repetition of 
+a section O to B and hence we define the length 
+of the smallest section without repetition 
+as one wavelength as shown in Figure 11.10. 
+In Figure 11.10 the length OB or length BD 
+is one wavelengh. A Greek letter lambda λ is 
+used to denote one wavelength.
+Figure 11.10  Defining wavelength
+O
+A
+O
+A
+B
+B
+C
+D
+Two wavelength = 2λ
+One wavelength = λ
+λ
+λ
+λ
+For transverse waves (as shown in Figure 
+11.11), the distance between two neighbouring 
+crests or troughs is known as the wavelength.
+For longitudinal waves, (as shown in 
+Figure 11.12) the distance between two 
+neighbouring compressions or rarefactions 
+is known as the wavelength. The SI unit of 
+wavelength is meter.
+TERMS AND DEFINITIONS 
+USED IN WAVE MOTION
+Figure 11.8  Two different sinusoidal 
+waves 
+X
+Y
+O
+Suppose we have two waves as shown in 
+Figure 11.8. Are these two waves identical? No. 
+Though, the two waves are both sinusoidal, there 
+are many difference between them. Therefore, 
+we have to define some basic terminologies to 
+distinguish one wave from another. 
+Consider a wave produced in a stretched 
+string as shown in Figure 11.9. 
+Figure 11.9  Crest and Trough of a wave 
+O
+A
+B
+C
+D
+Trough
+Crest
+Table 11.1:  Comparison of transverse and longitudinal waves
+S.No. 
+Transverse waves
+Longitudinal waves
+1.
+The direction of vibration of particles 
+of the medium is perpendicular to the 
+direction of propagation of waves.
+The direction of vibration of particles of 
+the medium is parallel to the direction of 
+propagation of waves.
+2.
+The disturbances are in the form of crests 
+and troughs.
+The disturbances are in the form of 
+compressions and rarefactions.
+3.
+Transverse waves are possible in elastic 
+medium.
+Longitudinal waves are possible in all 
+types of media (solid, liquid and gas).
+NOTE:  
+1. Absence of medium is also known as vacuum.  Only electromagnetic waves can travel through vacuum. 
+2. Rayleigh waves are considered to be mixture of transverse and longitudinal.
+UNIT-11(XI-Physics_Vol-2).indd   228
+UNIT-11(XI-Physics_Vol-2).indd   228
+26-03-2022   17:24:15
+26-03-2022   17:24:15
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 229
+
+PDF_PAGE: 237
+
+------------------------------------------------------------
+
+229
+Unit 11  Waves
+Figure 11.13  A wave consisting of three 
+wavelengths passing a point A at time  
+(a) t = 0 s and (b) after time t = 1 s
+A
+t = 0s
+If two waves take one second (time) to cross 
+the point A then the time taken by one wave 
+to cross the point A is half a second. This 
+defines the time period T as
+	
+T =
+=
+1
+2
+0 5. s
+(11.2)
+From equation (11.1) and equation (11.2), 
+frequency and time period are inversely 
+related i.e., 
+	
+T
+f
+= 1
+
+(11.3)
+Time period is defined as the time taken by 
+one wave to cross a point.
+EXAMPLE 11.2 
+Three waves are shown in the figure below.
+(c)
+(b)
+(a)
+Write down 
+(a)	
+the frequency in ascending order
+(b)	
+the wavelength in ascending order 
+Solution
+(a)	
+fc < fa < fb
+(b)	
+λb < λa < λc
+EXAMPLE 11.1
+Which of the following has longer 
+wavelength?
+y
+0
+x
+1
+2
+y
+0
+1
+3
+4
+2
+y
+0
+x
+x
+1
+3 4
+2
+(a)
+(b)
+(c)
+Answer is (c) 
+In order to understand frequency and time 
+period, let us consider waves (made of three 
+wavelengths) as shown in Figure 11.13 (a). 
+At time t = 0 s, the wave reaches the point A 
+from left. After time t = 1 s (shown in figure 
+11.13(b)), the number of waves which have 
+crossed the point A is two. Therefore, the 
+frequency is defined as the number of waves 
+crossing a point per second. It is measured in 
+hertz whose symbol is Hz. In this example,
+ 	
+f = 2 Hz
+(11.1)
+Figure 11.11  Wavelength for transverse waves
+Wavelength
+λ
+λ
+λ
+X
+Y
+Figure 11.12  Wavelength for 
+longitudinal waves
+Stretched
+Stretched
+Compressed
+Compressed
+λ
+λ
+Expansion
+Compression
+A
+t = 1s
+(a)
+(b)
+UNIT-11(XI-Physics_Vol-2).indd   229
+UNIT-11(XI-Physics_Vol-2).indd   229
+26-03-2022   17:24:17
+26-03-2022   17:24:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 230
+
+PDF_PAGE: 238
+
+------------------------------------------------------------
+
+230
+Unit 11  Waves
+EXAMPLE 11.3
+The average range of frequencies at which 
+human beings can hear sound waves 
+varies from 20 Hz to 20 kHz. Calculate 
+the wavelength of the sound wave in these 
+limits. (Assume the speed of sound to be 
+340 m s–1. 
+Solution
+	
+1= 
+m
+v
+f1
+340
+20
+17
+
+
+	
+2= 
+m
+v
+f2
+3
+340
+20 10
+0 017
+
+
+.
+Therefore, the audible wavelength region is 
+from 0.017 m to 17 m when the velocity of 
+sound in that region is 340 m s–1.
+EXAMPLE 11.4
+A man saw a toy duck on a wave in an 
+ocean. He noticed that the duck moved 
+up and down 15 times per minute. He 
+roughly measured the wavelength of the 
+ocean wave as 1.2 m. Calculate the time 
+taken by the toy duck for going one time 
+up and down and also the velocity of the 
+ocean wave.
+Solution
+Given that the number of times the toy duck 
+moves up and down is 15 times per minute. 
+This information gives us frequency (the 
+number of times the toy duck moves up 
+and down)
+From the example 11.2, we observe that 
+the frequency is inversely related to the 
+wavelength, f 1
+. 
+Then, fλ is equal to what? 
+[(i.e) f?]
+A simple dimensional argument will help 
+us to determine this unknown physical 
+quantity. 
+Dimension of wavelength is,
+[λ] = L
+Frequency f
+Time period
+=
+1
+, which implies 
+that the dimension of frequency is, 
+	
+[ f ] = 
+1
+1
+T
+T
+[ ]
+=
+− 
+	
+⇒ [λf] = [λ][f ]= LT–1 = [velocity]
+Therefore, 
+    Velocity,  λf = v
+(11.4)
+ where v is known as the wave velocity or 
+phase velocity. This is the velocity with 
+which the wave propagates. Wave velocity 
+is the distance travelled by a wave in one 
+second. 
+Note:
+1.	 The number of cycles (or revolutions) 
+per unit time is called angular frequency. 
+Angular frequency, ω = 2π
+T = 2πf (unit is 
+radians/second)
+2.	 The number of cycles per unit distance 
+or number of waves per unit distance is 
+called wave number. 
+	
+wave number, k = 2π
+λ (unit is radians/
+meter)
+	
+The velocity v, angular frequency ω and 
+wave number k are related as:
+	
+velocity, v = λf = λ
+π
+2 (2πf ) = (
+)
+/
+2
+2
+π
+π λ
+f = ω
+k 
+UNIT-11(XI-Physics_Vol-2).indd   230
+UNIT-11(XI-Physics_Vol-2).indd   230
+26-03-2022   17:24:20
+26-03-2022   17:24:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 231
+
+PDF_PAGE: 239
+
+------------------------------------------------------------
+
+231
+Unit 11  Waves
+11.3
+axis (for example in this case x-axis). Here, 
+it is denoted by A. 
+EXAMPLE 11.5
+Consider a string whose one end is 
+attached to a wall. Then compute the 
+following in both situations given in figure 
+(assume waves crosses the distance in one 
+second)
+12 m
+12 m
+(a)  Wavelength,  (b)  Frequency  and 
+(c)  Velocity
+Solution
+First case
+Second case
+(a)  Wavelength
+λ = 6 m
+λ = 2 m
+(b)  Frequency
+f = 2 Hz
+f = 6 Hz
+(c)  Velocity
+v = 6 × 2 
+= 12 m s–1
+v = 2 × 6  
+= 12 m s–1
+This means that the speed of the wave along 
+a string is a constant. Higher the frequency, 
+shorter the wavelength and vice versa, and 
+their product is velocity which remains the 
+same. 
+f = 15times toy duck moves up and down
+one minute
+But one minute is 60 second, therefore, 
+expressing time in terms of second
+	
+f =
+=
+=
+15
+60
+1
+4
+0 25
+.
+Hz
+The time taken by the toy duck for going 
+one time up and down is time period which 
+is inverse of frequency
+	
+T
+f
+=
+=
+=
+1
+1
+0 25
+4
+.
+s
+The velocity of ocean wave is 
+v = λf = 1.2 ×0.25 = 0.3 m s–1. 
+Amplitude of a wave:
+Figure 11.14  Waves of different 
+amplitude
+A2
+x
+y
+-y
+-y
+λ
+A1
+x
+y
+λ
+The waves shown in the Figure 11.14 have 
+same wavelength, same frequency and 
+same time period and also move with 
+same velocity. The only difference between 
+two waves is the height of either crest or 
+trough. This means, the height of the crest 
+or trough also signifies a wave character. 
+So we define a quantity called an amplitude 
+of the wave, as the maximum displacement 
+of the medium with respect to a reference 
+VELOCITY OF WAVES IN 
+DIFFERENT MEDIA 
+Suppose a hammer is struck on long rails at 
+a distance and when a person keeps his ear 
+near the rails at the other end he/she will hear 
+two sounds, at different instants. The sound 
+that is heard through the rails (solid medium) 
+UNIT-11(XI-Physics_Vol-2).indd   231
+UNIT-11(XI-Physics_Vol-2).indd   231
+26-03-2022   17:24:21
+26-03-2022   17:24:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 232
+
+PDF_PAGE: 240
+
+------------------------------------------------------------
+
+232
+Unit 11  Waves
+	
+µ = dm
+dl 
+(11.5)
+	
+dm = μ dl
+(11.6)
+The elemental string AB has a curvature 
+which looks like an arc of a circle with centre 
+at O, radius R and the arc subtending an angle 
+θ at the origin O as shown in Figure 11.15(b). 
+The angle θ can be written in terms of arc 
+length and radius as θ = dl
+R . The centripetal 
+acceleration supplied by the tension in the 
+string is  
+	
+acp = v
+R
+2
+
+(11.7)
+Then, centripetal force is
+	
+Fcp = (
+)
+dm v
+R
+2
+
+(11.8)
+From eqn 11.6,
+	
+(dm)
+dl
+v
+R
+v
+R
+2
+2
+= µ
+
+(11.9)
+The tension T acts along the tangent of the 
+elemental segment of the string at A and B. 
+Since the arc length is very small, variation 
+is faster than the sound we hear through 
+the air (gaseous medium). This implies the 
+velocity of sound is different in different 
+media. 
+In this section, we shall derive the velocity 
+of waves in two different cases:
+1.	 The velocity of a transverse waves along 
+a stretched string. 
+2.	 The velocity of a longitudinal waves in 
+an elastic medium.
+11.3.1  Velocity of transverse 
+waves in a stretched string
+Let us compute the velocity of transverse 
+travelling waves on a string. When a jerk is 
+given at one end (left end) of the rope, the wave 
+pulses move towards right end with a velocity v 
+with respect to an observer who is at rest frame. 
+Consider an elemental segment in the string 
+as shown in the Figure 11.15. Let A and B be 
+two points on the string at an instant of time. 
+Let dl and dm be the length and mass of the 
+elemental string, respectively. By definition, 
+linear mass density, μ is 
+Figure 11.15  Elemental segment in a stretched string is zoomed and the pulse seen from an 
+observer frame who moves with velocity v.
+T cos (
+θ
+
+T sin (
+θ
+
+T sin (
+θ
+
+T cos (
+θ
+
+θ
+
+θ
+
+θ
+
+θ
+
+θ
+
+θ
+
+θ
+
+θ
+
+
+A
+B
+O
+O
+V
+∆x
+∆x
+T
+T
+R
+R
+F
+Note
+v (pulse)
+v (pulse)
+UNIT-11(XI-Physics_Vol-2).indd   232
+UNIT-11(XI-Physics_Vol-2).indd   232
+26-03-2022   17:24:23
+26-03-2022   17:24:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 233
+
+PDF_PAGE: 241
+
+------------------------------------------------------------
+
+233
+Unit 11  Waves
+EXAMPLE 11.6 
+Calculate the velocity of the travelling 
+pulse as shown in the figure below. The 
+linear mass density of pulse is 0.25 kg m–1. 
+Further, compute the time taken by the 
+travelling pulse to cover a distance of 
+30 cm on the string.
+1.2 kg
+Solution
+The tension in the string is T = m g = 
+1.2 × 9.8 = 11.76 N
+The mass per unit length is μ = 0.25 kg m–1
+Therefore, velocity of the wave pulse is 
+v
+T
+m s
+m s
+=
+=
+=
+=
+−
+−
+µ
+11 76
+0 25
+6 858
+6 8
+1
+1
+.
+.
+.
+.
+The time taken by the pulse to cover the 
+distance of 30 cm is 
+t
+d
+s
+ms
+v
+
+
+
+
+
+
+30 10
+6 8
+0 044
+44
+2
+.
+.
+ where, 
+ms = milli second. 
+11.3.2  Velocity of 
+longitudinal waves in an 
+elastic medium
+Consider an elastic medium (here we assume 
+air) having a fixed mass contained in a long 
+tube (cylinder) whose cross sectional area is 
+A and maintained under a pressure P. One 
+can generate longitudinal waves in the fluid 
+either by displacing the fluid using a piston or 
+by keeping a vibrating tuning fork at one end 
+of the tube. Let us assume that the direction 
+of propagation of waves coincides with the 
+axis of the cylinder. Let ρ be the density of 
+in the tension force can be ignored. We 
+can resolve T into horizontal component 
+T cos θ
+2
+
+
+
+
+
+ and vertical component T sin θ
+2
+
+
+
+
+
+. 
+The horizontal components at A and B 
+are equal in magnitude but opposite in 
+direction; therefore, they cancel each other. 
+Since the elemental arc length AB is taken 
+to be very small, the vertical components at 
+A and B appears to acts vertical towards the 
+centre of the arc and hence, they add up. The 
+net radial force Fr is  
+	
+Fr   = 2T sin θ
+2
+
+
+
+
+
+
+(11.10)
+Since the amplitude of the wave is very small 
+when it is compared with the length of the 
+string, sin θ
+θ
+2
+2
+
+
+
+
+
+≈
+. Hence,  
+	
+Fr   = 2T × θ
+2
+ = Tθ
+(11.11)
+But θ = dl
+R , we get
+	
+Fr   = T dl
+R 
+(11.12)
+Applying Newton’s second law to the 
+elemental string in the radial direction, 
+under equilibrium, the radial component 
+of the force is equal to the centripetal 
+force. Hence equating equation (11.9) and 
+equation (11.12), we have
+	
+T dl
+R
+v dl
+R
+= µ
+2
+	
+v
+T
+=
+µ 
+(11.13)
+Observations: 
+•	 The velocity of the string is 
+a.	 directly proportional to the square 
+root of the tension force
+b.	 inversely proportional to the square 
+root of linear mass density
+c.	 independent of shape of the waves. 
+UNIT-11(XI-Physics_Vol-2).indd   233
+UNIT-11(XI-Physics_Vol-2).indd   233
+26-03-2022   17:24:26
+26-03-2022   17:24:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 234
+
+PDF_PAGE: 242
+
+------------------------------------------------------------
+
+234
+Unit 11  Waves
+∆P
+K
+V
+V
+=
+∆
+where, V is original volume and K is known 
+as bulk modulus of the elastic medium. 
+But V = A ∆x = A v ∆t and 
+∆V = A ∆d =A u ∆t
+Therefore, 
+	
+∆
+=
+∆
+∆=
+P
+K Au
+t
+Av
+t
+K u
+v 
+(11.15)
+Comparing equation (11.14) and equation 
+(11.15), we get
+	
+ρvu
+K u
+v
+=
+ or v
+K
+2 = ρ
+	
+⇒=
+v
+K
+ρ 
+(11.16)
+In general, the velocity of a longitudinal 
+wave in elastic medium is v
+E
+=
+ρ , where E 
+is the modulus of elasticity of the medium. 
+Cases: For a solid :
+(i) one dimensional rod (1D)
+	
+v
+Y
+=
+ρ 
+(11.17)
+where Y is the Young’s modulus of the 
+material of the rod and ρ is the density of 
+the rod. The 1D rod will have only Young’s 
+modulus.
+(ii) Three dimensional rod (3D) The speed 
+of longitudinal wave in a solid is 
+	
+v
+K
+=
++ 4
+3 η
+ρ
+
+(11.18)
+where η is the modulus of rigidity, K is the 
+bulk modulus and ρ is the density of the rod. 
+the fluid which is initially at rest. At t = 0, the 
+piston at left end of the tube is set in motion 
+toward the right with a speed u. 
+Let u be the velocity of the piston and v 
+be the velocity of the elastic wave. In time 
+interval Δt, the distance moved by the piston 
+Δd = u Δt. Now, the distance moved by the 
+elastic disturbance is Δx = vΔt. Let Δm be the 
+mass of the air that has attained a velocity v 
+in a time Δt . Therefore, 
+Δm = ρ A Δx = ρ A (v Δt)
+Then, the momentum imparted due to 
+motion of piston with velocity u is 
+Δp = [ρ A (v Δt)]u
+But the change in momentum is impulse. 
+The net impulse is 
+I = (ΔP A)Δt
+  Or	
+(ΔP A)Δt = [ρ A (v Δt)]u
+	
+ΔP = ρ v u
+(11.14)
+When the sound wave passes through 
+air, the small volume element (ΔV) of the 
+air undergoes regular compressions and 
+rarefactions. So, the change in pressure can 
+also be written as 
+Air
+V
+Air
+F = PA
+ρ P
+v∆t
+u∆t
+F = (P+∆P) A
+PA
+Figure 11.16  Longitudinal waves in the 
+fluid by displacing the fluid using a piston
+UNIT-11(XI-Physics_Vol-2).indd   234
+UNIT-11(XI-Physics_Vol-2).indd   234
+26-03-2022   17:24:28
+26-03-2022   17:24:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 235
+
+PDF_PAGE: 243
+
+------------------------------------------------------------
+
+235
+Unit 11  Waves
+Cases: For liquids:
+	
+v
+K
+=
+ρ 
+(11.19)
+where, K (or) B is the bulk modulus and ρ is 
+the density of the rod. 
+EXAMPLE 11.7 
+Calculate the speed of sound in a steel rod 
+whose Young’s modulus Y = 2 × 1011 N m–2 
+and ρ = 7800 kg m–3. 
+Solution
+v
+Y
+=
+=
+×
+=
+×
+=
+ρ
+2 10
+7800
+0 2564 10
+11
+8
+.
+ms
+ms
+=
+×
+= ×
+−
+−
+0 506 10
+5 10
+4
+1
+3
+1
+.
+Therefore, longitudinal waves travel faster 
+in a solid than in a liquid or a gas. Now you 
+may understand why a shepherd checks 
+before crossing railway track by keeping 
+his ears on the rails to safegaurd his cattle. 
+EXAMPLE 11.8 
+An increase in pressure of 100 kPa causes 
+a certain volume of water to decrease by 
+0.005% of its original volume.
+(a) Calculate the bulk modulus of 
+water? 
+(b) Compute the speed of sound 
+(compressional waves) in water? 
+Solution
+(a) Bulk modulus 
+B
+V
+P
+V
+=
+∆
+∆
+=
+×
+×
+=
+−
+100 10
+0 005 10
+3
+2
+.
+   
+MPa
+=
+×
+×
+=
+−
+100 10
+5 10
+2000
+3
+5
+, where  
+   MPa is mega pascal
+(b) Speed of sound in water is 
+v
+K
+ms
+=
+=
+×
+=
+−
+ρ
+2000 10
+1000
+1414
+6
+1
+The 
+velocities 
+of 
+both 
+transverse 
+waves 
+and 
+longitudinal waves depend 
+on elastic property (like string tension 
+T or bulk modulus K) and inertial 
+property (like density or mass per 
+unit length) i.e., 
+Note
+Table 11.2: Speed of sound in 
+various media
+S.No.
+Medium
+Speed in m s–1
+Solids
+1.
+Rubber
+1600
+2.
+Gold
+3240
+3.
+Brass
+4700
+4.
+Copper
+5010
+5.
+Iron
+5950
+6.
+Aluminum
+6420
+Liquids at 25°C
+1.
+Kerosene
+1324
+2.
+Mercury
+1450
+3.
+Water
+1493
+4.
+Sea Water
+1533
+Gas (at 0°C)
+1.
+Oxygen
+317
+2.
+Air
+331
+3.
+Helium
+972
+4.
+Hydrogen
+1286
+Gas (at 20°C)
+1.
+Air
+343
+UNIT-11(XI-Physics_Vol-2).indd   235
+UNIT-11(XI-Physics_Vol-2).indd   235
+26-03-2022   17:24:30
+26-03-2022   17:24:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 236
+
+PDF_PAGE: 244
+
+------------------------------------------------------------
+
+236
+Unit 11  Waves
+Since P is the pressure of air whose value at 
+NTP (Normal Temperature and Pressure) is 
+76 cm of mercury, we have P = hρg
+	
+P = (0.76 × 13.6 ×103 × 9.8) N m–2
+	
+ρ = 1.293 kg m–3. Here ρ is density of air
+Then the speed of sound in air at Normal 
+Temperature and Pressure (NTP) is 
+	
+vT = 
+0 76 13 6 10
+9 8
+1 293
+3
+.
+.
+.
+.
+×
+×
+×
+(
+)
+	
+= 279.80 m s–1 ≈ 280 ms–1 (theoretical 
+value)
+But the speed of sound in air at 0°C is 
+experimentally 
+observed 
+as 
+332 m s–1 
+which is close upto 16% more than 
+theoretical value (Percentage error is 
+332
+280
+332
+100
+15 6
+
+
+
+
+%
+. %). This error is 
+not small
+11.4.2  Laplace’s correction
+In 1816, Laplace satisfactorily corrected 
+this discrepancy by assuming that when 
+the sound propagates through a medium, 
+the particles oscillate very rapidly such that 
+the compression and rarefaction occur very 
+fast. Hence the exchange of heat produced 
+due to compression and cooling effect due 
+to rarefaction do not take place, because, 
+air (medium) is a bad conductor of heat. 
+Since, temperature is no longer considered 
+as a constant here, sound propagation 
+is an adiabatic process. By adiabatic 
+considerations, the gas obeys Poisson’s 
+law (not Boyle’s law as Newton assumed), 
+which is 
+	
+PVγ = constant
+(11.23)
+11.4
+PROPAGATION OF SOUND 
+WAVES
+We know that sound waves are longitudinal 
+waves, 
+and 
+when 
+they 
+propagate 
+compressions and rarefactions are formed. 
+In the following section, we compute the 
+speed of sound in air by Newton’s method 
+and also discuss the Laplace correction and 
+the factors affecting sound in air. 
+11.4.1  Newton’s formula for 
+speed of sound waves in air
+Sir Isaac Newton assumed that when 
+sound propagates in air, the formation of 
+compression and rarefaction takes place 
+in a very slow manner so that the process 
+is isothermal in nature. That is, the heat 
+produced during compression (pressure 
+increases, volume decreases), and heat lost 
+during rarefaction (pressure decreases, 
+volume increases) occur over a period 
+of time such that the temperature of the 
+medium remains constant. Therefore, by 
+treating the air molecules to form an ideal 
+gas, the changes in pressure and volume 
+obey Boyle’s law, Mathematically
+	
+PV = Constant
+(11.20)
+Differentiating equation (11.20), we get
+	
+PdV + VdP = 0
+   or,	
+P = − V dP
+dV = KI
+(11.21)
+where, KI is an isothermal bulk modulus of 
+air. Substituting equation (11.21) in equation 
+(11.16), the speed of sound in air is
+	
+v
+K
+P
+T
+I
+=
+=
+ρ
+ρ 
+(11.22)
+UNIT-11(XI-Physics_Vol-2).indd   236
+UNIT-11(XI-Physics_Vol-2).indd   236
+26-03-2022   17:24:31
+26-03-2022   17:24:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 237
+
+PDF_PAGE: 245
+
+------------------------------------------------------------
+
+237
+Unit 11  Waves
+	
+P
+cT
+ρ =
+
+(11.29)
+where c is constant.  
+The speed of sound in air given in equation 
+(11.25) can be written as  
+	
+v
+P
+cT
+=
+=
+γ
+ρ
+γ
+
+(11.30)
+From the above relation we observe the 
+following
+(a) Effect of pressure : 
+For a fixed temperature, when the pressure 
+varies, correspondingly density also varies 
+such that the ratio P
+ρ
+
+
+
+
+
+ becomes constant. 
+This means that the speed of sound 
+is independent of pressure for a fixed 
+temperature. If the temperature remains 
+same at the top and the bottom of a mountain 
+then the speed of sound will remain same 
+at these two points. But, in practice, the 
+temperatures are not same at top and bottom 
+of a mountain; hence, the speed of sound is 
+different at different points. 
+(b) Effect of temperature :
+Since  v ∝ T ,
+the speed of sound varies directly to the 
+square root of temperature in kelvin. 
+Let v0 be the speed of sound at temperature 
+at 0° C or 273 K and v be the speed of sound 
+at any arbitrary temperature T (in kelvin), 
+then
+	
+v
+v
+T
+t
+0
+273
+273
+273
+=
+=
++
+	
+v
+v
+t
+v
+t
+=
++
+≅
++
+
+
+
+
+0
+0
+1
+273
+1
+546  
+	
+(using binomial expansion)
+where, γ = C
+C
+P
+v
+, which is the ratio between 
+specific heat at constant pressure and 
+specific heat at constant volume. 
+Differentiating equation (11.23) on both the 
+sides, we get
+	
+Vγ dP + P (γVγ–1 dV) = 0
+  or,	
+γP
+V dp
+dV
+K A
+ = −
+=
+
+(11.24)
+where, KA is the adiabatic bulk modulus of 
+air. Now, substituting equation (11.24) in 
+equation (11.16), the speed of sound in air is
+	
+v
+K
+P
+v
+A
+A
+T
+ = 
+‡
+‡
+ρ
+ρ
+=
+=
+
+(11.25)
+Since air contains mainly, nitrogen, oxygen, 
+hydrogen etc, (diatomic gas), we take 
+γ = 1.4. Hence, speed of sound in air is 
+vA = ( 1 4. )(280 m s–1)= 331.30 m s–1, which 
+is very much closer to experimental data.
+11.4.3  Factors affecting 
+speed of sound in gases
+Let us consider an ideal gas whose equation 
+of state is 
+	
+PV = μ R T
+(11.26)
+where, P is pressure, V is volume, T is 
+temperature, μ is number of mole and R is 
+universal gas constant. For a given mass of a 
+molecule, equation (11.26) can be written as
+	
+PV
+T = Constant
+(11.27)
+For a fixed mass m, density of the gas 
+inversely varies with volume. i.e.,  
+	
+ρ
+ρ
+∝
+=
+1
+V
+V
+m
+,
+
+(11.28)
+Substituting equation (11.28) in equation 
+(11.27), we get
+UNIT-11(XI-Physics_Vol-2).indd   237
+UNIT-11(XI-Physics_Vol-2).indd   237
+26-03-2022   17:24:35
+26-03-2022   17:24:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 238
+
+PDF_PAGE: 246
+
+------------------------------------------------------------
+
+238
+Unit 11  Waves
+	
+v
+p
+=
+γ
+ρ
+Let ρ1, v1 and ρ2, v2 be the density and 
+speeds of sound in dry air and moist air, 
+respectively. Then
+	
+v
+v
+P
+P
+1
+2
+1
+1
+2
+2
+2
+1
+=
+=
+γ
+ρ
+γ
+ρ
+ρ
+ρ  
+if  γ1 = γ2
+Since P is the total atmospheric pressure, 
+According to Dalton’s law of partial pressure, 
+it can be shown that 
+	
+ρ
+ρ
+2
+1
+1
+2
+0 625
+=
++
+P
+p
+p
+.
+
+where p1 and p2 are the partial pressures of 
+dry air and water vapour respectively. Then
+	
+v
+v
+P
+p
+p
+1
+2
+1
+2
+0 625
+=
++ .
+
+(11.34)
+(e) Effect of wind:
+The speed of sound is also affected by 
+blowing of wind. In the direction along the 
+wind blowing, the speed of sound increases 
+whereas in the direction opposite to wind 
+blowing, the speed of sound decreases. 
+EXAMPLE 11.9
+The ratio of the densities of oxygen and 
+nitrogen is 16:14. Calculate the temperature 
+when the speed of sound in nitrogen gas 
+at 17°C is equal to the speed of sound in 
+oxygen gas.
+Solution
+From equation (11.25), we have 
+	
+v
+P
+=
+γ
+ρ
+Since v0 = 331m s–1 at 0°C, v at any 
+temperature in t°C is
+	
+v = (331 + 0.61t) m s–1
+Thus the speed of sound in air increases 
+by 0.61 m s–1 per degree celcius rise in 
+temperature. Note that when the temperature 
+is increased, the molecules will vibrate faster 
+due to gain in thermal energy and hence, 
+speed of sound increases. 
+(c) Effect of density :  
+Let us consider two gases with different 
+densities having same temperature and 
+pressure. Then the speed of sound in the two 
+gases are 
+	
+v
+P
+1
+1
+1
+=
+γ
+ρ
+
+(11.31)
+and 
+	
+v
+P
+2
+2
+2
+=
+γ
+ρ
+
+(11.32)
+Taking ratio of equation (11.31) and 
+equation (11.32), we get
+	
+v
+v
+P
+P
+1
+2
+1
+1
+2
+2
+1
+2
+2
+1
+=
+=
+γ
+ρ
+γ
+ρ
+γ ρ
+γ ρ
+For gases having same value of γ, 
+	
+v
+v
+1
+2
+2
+1
+=
+ρ
+ρ 
+(11.33)    
+Thus the velocity of sound in a gas is 
+inversely proportional to the square root of 
+the density of the gas.
+(d) Effect of moisture (humidity): 
+We know that density of moist air is 0.625 of that 
+of dry air, which means the presence of 
+moisture in air (increase in humidity) decreases 
+its density. Therefore, speed of sound increases 
+with rise in humidity. From equation (11.30)
+UNIT-11(XI-Physics_Vol-2).indd   238
+UNIT-11(XI-Physics_Vol-2).indd   238
+26-03-2022   17:24:38
+26-03-2022   17:24:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 239
+
+PDF_PAGE: 247
+
+------------------------------------------------------------
+
+239
+Unit 11  Waves
+11.5
+But ρ = M
+V
+Therefore, 
+	
+v
+PV
+M
+=
+γ
+Using equation (11.26)
+	
+v
+RT
+M
+=
+γ
+Where, R is the universal gas constant and 
+M is the molecular mass of the gas. The 
+speed of sound in nitrogen gas at 17°C is 
+	
+v
+R
+K
+K
+M
+N
+N
+=
++
+γ (
+)
+273
+17
+	
+=
+γR
+K
+MN
+(
+)
+290
+
+(1)
+Similarly, the speed of sound in oxygen gas 
+at temperature t 
+	
+v
+R
+K
+t
+M
+0
+0
+273
+=
++
+γ (
+) 
+(2) 
+Given that the value of γ is same for 
+both the gases, the two speeds must be 
+equal. Hence, equating equation (1) and 
+(2), we get
+vO  = vN
+γ
+γ
+R
+t
+M
+R
+MN
+(
+)
+(
+)
+273
+290
+0
++
+=
+Squaring on both sides and cancelling γ R 
+term and rearranging, we get
+	
+M
+M
+t
+N
+0
+273
+290
+=
++ 
+(3)
+Since the densities of oxygen and nitrogen 
+is 16:14, 
+	
+ρ
+ρ
+0
+16
+14
+N
+=
+
+(4)
+	
+ρ
+ρ
+0
+0
+0
+16
+14
+N
+O
+N
+N
+N
+M
+V
+M
+V
+M
+M
+M
+M
+=
+=
+⇒
+=
+
+(5)
+Substituting equation (5) in equation (3), 
+we get
+273
+290
+16
+14
+3822 14
+4640
++
+=
+⇒
++
+=
+t
+t
+⇒  t = 58.4 °C
+REFLECTION OF SOUND 
+WAVES
+When sound wave passes from one medium 
+to another medium, the following things 
+can happen
+(a)  Reflection of sound: If the medium is 
+highly dense (highly rigid), the sound 
+can be reflected completely (bounced 
+back) to the original medium. 
+(b)  Refraction of sound: When the sound 
+waves propagate from one medium to 
+another medium such that there can be 
+some energy loss due to absorption by 
+the second medium.
+In this section, we will consider only the 
+reflection of sound waves in a medium 
+when it experiences a harder surface. Sound 
+can also obey the laws of reflection, which 
+state that 
+Figure 11.17  Reflection of sound in 
+different surfaces
+A smooth 
+plane 
+surface
+A convex 
+surface
+A concave
+surface
+A corner
+surface
+UNIT-11(XI-Physics_Vol-2).indd   239
+UNIT-11(XI-Physics_Vol-2).indd   239
+26-03-2022   17:24:41
+26-03-2022   17:24:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 240
+
+PDF_PAGE: 248
+
+------------------------------------------------------------
+
+240
+Unit 11  Waves
+(i)	 The angle of incidence of sound is equal 
+to the angle of reflection.
+(ii)	 When the sound wave is reflected by a 
+surface then the incident wave, reflected 
+wave and the normal at the point of 
+incidence all lie in the same plane. 
+Similar to reflection of light from a mirror, 
+sound also reflects from a harder flat surface, 
+This is called as specular reflection. 
+Specular reflection is observed only when 
+the wavelength of the source is smaller than 
+dimensions of the reflecting surface, as well 
+as smaller than surface irregularities. 
+11.5.1  Reflection of sound 
+through the plane 
+surface 
+Figure 11.18  Reflection of sound 
+through the plane surface
+Wall
+Listener
+Sound source
+Virtual 
+source
+Reﬂected 
+spherical wave
+Incident 
+spherical wave
+Paper tube
+Paper tube
+Ear
+Clock
+Insulation
+board
+WALL
+When the sound waves hit the plane wall, 
+they bounce off in a manner similar to 
+that of light. Suppose a loudspeaker is kept 
+at an angle with respect to a wall (plane 
+surface), then the waves coming from the 
+source (assumed to be a point source) can 
+be treated as spherical wave fronts (say, 
+compressions moving like a spherical wave 
+front). Therefore, the reflected wave front 
+from the plane surface is also spherical, such 
+that its centre of curvature (which lies on the 
+other side of plane surface) can be treated 
+as the image of the sound source (virtual or 
+imaginary loud speaker). These are shown 
+in Figures 11.18, 11.19.
+Reflected sound     
+Reflected 
+sound     
+Direct sound 
+Figure 11.19  Common examples for 
+reflection of sound in real situation
+11.5.2  Reflection of sound 
+through the curved surface 
+The behaviour of sound is different when 
+it is reflected from different surfaces like 
+convex or concave or plane. The sound 
+reflected from a convex surface is spread 
+out and so it is easily attenuated and 
+weakened. Whereas, if it is reflected from 
+the concave surface it will converge at a 
+point and this can be easily amplified. 
+The parabolic reflector (curved reflector) 
+which is used to focus the sound precisely 
+to a point is used in designing the parabolic 
+mics which are known as high directional 
+microphones. 
+UNIT-11(XI-Physics_Vol-2).indd   240
+UNIT-11(XI-Physics_Vol-2).indd   240
+26-03-2022   17:24:42
+26-03-2022   17:24:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 241
+
+PDF_PAGE: 249
+
+------------------------------------------------------------
+
+241
+Unit 11  Waves
+Concave Surface
+Dais
+Figure 11.21  Sound in a big auditorium
+11.5.3  Applications of 
+reflection of sound waves 
+(a)  Stethoscope: It works on the principle 
+of multiple reflections. 
+Multiple reﬂections of sound
+in the tube of stethescope
+Stethescope
+Figure 11.22  Stethoscope and multiple 
+reflection of signal in a rubber tube
+We know that any surface (smooth or 
+rough) can absorb sound. For example, the 
+sound produced in a big hall or auditorium 
+or theatre is absorbed by the walls, ceilings, 
+floor, seats etc. To avoid such losses, a curved 
+sound board (concave board) is kept in front 
+of the speaker, so that the board reflects the 
+sound waves of the speaker towards the 
+audience. This method will minimize the 
+spreading of sound waves in all possible 
+directions in that hall and also enhances the 
+uniform distribution of sound throughout 
+the hall. That is why a person sitting at any 
+position in that hall can hear the sound 
+without any disturbance. 
+Wave Front
+Sound 
+Source
+Convex 
+Reflector
+Concave Reflector
+Wave Front
+Sound Source
+Concave Reflector
+Figure 11.20  Reflection of sound 
+through the curved surface
+UNIT-11(XI-Physics_Vol-2).indd   241
+UNIT-11(XI-Physics_Vol-2).indd   241
+26-03-2022   17:24:42
+26-03-2022   17:24:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 242
+
+PDF_PAGE: 250
+
+------------------------------------------------------------
+
+242
+Unit 11  Waves
+at 344 m away, then the sound will take 1 
+second to reach the wall. After reflection, 
+the sound will take one more second to 
+reach us. Therefore, we hear the echo after 
+two seconds.
+(c)  SONAR: SOund NAvigation and 
+Ranging.  Sonar systems make use of 
+reflections of sound waves in water 
+to locate the position or motion of an 
+object.  Similarly, dolphins and bats use 
+the sonar principle to find their way in 
+the darkness. 
+(d)  Reverberation: In a closed room the 
+sound is repeatedly reflected from the walls 
+and it is even heard long after the sound 
+source ceases to function. The residual 
+sound remaining in an enclosure and the 
+phenomenon of multiple reflections of 
+sound is called reverberation. The duration 
+for which the sound persists is called 
+reverberation time.  It should be noted that 
+the reverberation time greatly affects the 
+quality of sound heard in a hall. Therefore, 
+halls are constructed with some optimum 
+reverberation time.  
+EXAMPLE 11.10
+Suppose a man stands at a distance from 
+a cliff and claps his hands. He receives 
+an echo from the cliff after 4 second. 
+Calculate the distance between the man 
+and the cliff. Assume the speed of sound 
+to be 343 m s–1.  
+Solution
+The time taken by the sound to come back as 
+echo is 2t = 4 ⇒ t = 2 s
+∴The distance is d = vt =(343 m s–1)(2 s) 
+= 686 m.
+It consists of three main parts:
+	
+(i)	 Chest piece
+	
+(ii)	 Ear piece
+	
+(iii)	Rubber tube
+	
+(i)	 Chest piece: It consists of a small 
+disc-shaped resonator (diaphragm) which 
+is very sensitive to sound and amplifies the 
+sound it detects. 
+	
+(ii)	 Ear piece: It is made up of metal 
+tubes which are used to hear sounds detected 
+by the chest piece.
+	
+(iii)	Rubber tube: This tube connects 
+both chest piece and ear piece. It is used to 
+transmit the sound signal detected by the 
+diaphragm, to the ear piece. The sound of 
+heart beats (or lungs) or any sound produced 
+by internal organs can be detected, and it 
+reaches the ear piece through this tube by 
+multiple reflections.
+Scientists 
+have 
+estimated 
+that 
+we 
+can 
+hear 
+two 
+sounds 
+properly 
+if 
+the 
+time gap or time interval between 
+each sound is 
+1
+10
+
+
+
+
+
+
+th
+ of a second 
+(persistence of hearing) i.e., 0.1 s. Then, 
+velocity = Distance travelled
+time taken
+= 2d
+t
+	
+2d = 344 × 0.1 = 34.4 m
+	
+d = 17.2 m
+The minimum distance from a sound 
+reflecting wall to hear an echo at 20°C 
+is 17.2 meter.
+Note
+(b)  Echo: An echo is a repetition of sound 
+produced by the reflection of sound waves 
+from a wall, mountain or other obstructing 
+surfaces. The speed of sound in air at 20°C 
+is 344 m s–1. If we shout at a wall which is 
+UNIT-11(XI-Physics_Vol-2).indd   242
+UNIT-11(XI-Physics_Vol-2).indd   242
+26-03-2022   17:24:43
+26-03-2022   17:24:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 243
+
+PDF_PAGE: 251
+
+------------------------------------------------------------
+
+243
+Unit 11  Waves
+11.6
+Note: Classification of sound waves: 
+Sound waves can be classified in three 
+groups according to their range of 
+frequencies: 
+(1)  Infrasonic waves:
+	
+Sound waves having frequencies below 
+20 Hz are called infrasonic waves. 
+These waves are produced during 
+earthquakes. Human beings cannot 
+hear these frequencies. Snakes can 
+hear these frequencies.
+(2)  Audible waves:
+	
+Sound waves having frequencies 
+between 20 Hz to 20,000 Hz (20kHz) 
+are called audible waves. Human 
+beings can hear these frequencies.
+(3)  Ultrasonic waves:
+	
+Sound waves having frequencies 
+greater than 20 kHz are known as 
+ultrasonic waves. Human beings 
+cannot hear these frequencies. Bats can 
+produce and hear these frequencies.
+(1.)  Supersonic speed:
+	
+An object moving 
+with a speed greater 
+than the speed of sound 
+is said to move with a 
+supersonic speed.
+(2.)  Mach number:
+	
+It is the ratio of the velocity of 
+source to the velocity of sound.
+PROGRESSIVE WAVES 
+(OR) TRAVELLING WAVES
+If a wave that propagates in a medium is 
+continuous then it is known as progressive 
+wave or travelling wave. 
+11.6.1  Characteristics of 
+progressive waves
+1.	 Particles in the medium vibrate about 
+their mean positions with the same 
+amplitude. 
+2.	 The phase of every particle ranges from 
+0 to 2π. 
+3.	 No particle remains at rest permanently. 
+During wave propagation, particles 
+come to the rest position only twice at 
+the extreme points.
+4.	 Transverse 
+progressive 
+waves 
+are 
+characterized by crests and troughs 
+whereas longitudinal progressive waves 
+are characterized by compressions and 
+rarefactions. 
+5.	 When the particles pass through the 
+mean position they always move with 
+the same maximum velocity.
+6.	 The 
+displacement, 
+velocity 
+and 
+acceleration of particles separated from 
+each other by nλ are the same, where n is 
+an integer, and λ is the wavelength.
+11.6.2  Equation of a plane 
+progressive wave 
+(b) Pulse at time t 
+vt
+P
+P
+O
+O
+(a)  Pulse at t = 0 
+Y
+Y
+X
+X
+A
+V
+V
+Figure 11.23  Wave pulse moving with velocity 
+v at two instants at t = 0 and at time t
+Suppose we give a jerk on a stretched string 
+at time t = 0 s. Let us assume that the wave 
+pulse created during this disturbance moves 
+along positive x direction with constant 
+speed v as shown in Figure 11.23 (a). 
+We can represent the shape of the wave 
+pulse mathematically as y = y(x, 0) = f(x) at time 
+t = 0 s. Assume that the shape of the wave pulse 
+UNIT-11(XI-Physics_Vol-2).indd   243
+UNIT-11(XI-Physics_Vol-2).indd   243
+26-03-2022   17:24:43
+26-03-2022   17:24:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 244
+
+PDF_PAGE: 252
+
+------------------------------------------------------------
+
+244
+Unit 11  Waves
+a = vt, y = x − vt satisfies the differential 
+equation. Though this function satisfies 
+the differential equation, it is not finite 
+for all values of x and t. Hence, it does not 
+represent a wave. 
+y
+x
+a=0a=1
+a=3
+a=2
+o
+y=x-a
+where, a = vt
+lines moves towards right
+a
+(Increases)
+1
+2
+3
+EXAMPLE 11.12
+How does the wave y = sin(x − a) for a = 0, 
+a = π
+4 , a = π
+2 , a = 3
+2
+π and a = π look like?. 
+Sketch this wave.
+Solution
+y
+0
+0
+0
+0
+0
+x
+x
+x
+x
+x
+π
+2π
+π
+2π
+π
+2π
+π
+2π
+π
+2π
+π
+4
+π
+2
+3π
+4
+π
+4
+π
+2
+3π
+4
+π
+4
+π
+2
+3π
+4
+π
+4
+π
+2
+3π
+4
+π
+4
+π
+2
+3π
+4
+sin x
+π
+4
+sin(x-  )
+π
+2
+sin(x-  )
+3π
+4
+sin(x-  )
+sin(x-π  )
+From the above picture we observe that 
+y = sin (x−a) for a = 0, a = π
+4 , a = π
+2 , 
+a = 3
+2
+π and a = π, the function y = sin (x−a)
+shifts towards right. Further, we can take 
+a = vt and v = π
+4 , and sketching for different 
+remains the same during the propagation. 
+After some time t, the pulse moving 
+towards the right and any point on it can 
+be represented by x' (read it as x prime) as 
+shown in Figure 11.23 (b). Then,
+	
+y(x, t) = f(x´) = f(x − vt)
+(11.35) 
+Similarly, if the wave pulse moves towards left 
+with constant speed v, then y = f(x + vt). Both 
+waves y = f(x + vt) and y = f(x − vt) will satisfy 
+the following one dimensional differential 
+equation known as the wave equation
+	
+∂
+∂
+=
+∂
+∂
+2
+2
+2
+2
+2
+1
+y
+x
+v
+y
+t 
+(11.36)  
+where the symbol ∂ represents partial 
+derivative (read ¶
+¶
+y
+x as partial y by partial 
+x). Not all the solutions satisfying this 
+differential equation can represent waves, 
+because any physical acceptable wave must 
+take finite values for all values of x and t. But 
+if the function represents a wave then it must 
+satisfy the differential equation. Since, in one 
+dimension (one independent variable), the 
+partial derivative with respect to x is the same 
+as total derivative in coordinate x, we write 
+	
+d y
+dx
+v
+d y
+dt
+2
+2
+2
+2
+2
+1
+=
+
+(11.37)
+This can be extended to more than one 
+dimension (two, three, etc.). Here, for 
+simplicity, we focus only on the one 
+dimensional wave equation. 
+EXAMPLE 11.11
+Sketch y = x −a for different values of a. 
+Solution
+This implies, when increasing the value 
+of a, the line shifts towards right side. For 
+UNIT-11(XI-Physics_Vol-2).indd   244
+UNIT-11(XI-Physics_Vol-2).indd   244
+26-03-2022   17:24:45
+26-03-2022   17:24:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 245
+
+PDF_PAGE: 253
+
+------------------------------------------------------------
+
+245
+Unit 11  Waves
+11.6.3  Graphical 
+representation of the wave
+Let us graphically represent the two forms 
+of the wave variation
+(a)  Space (or Spatial) variation graph
+(b)  Time (or Temporal) variation graph
+(a)  Space variation graph
+x+λ
+2π
+λ
+π
+o
+x
+x
+       y 
+Figure 11.24  Graph of sinusoidal function 
+y = A sin(kx) 
+By keeping the time fixed, the change in 
+displacement with respect to x is plotted. Let 
+us consider a sinusoidal graph, y = A sin(kx)
+as shown in the Figure 11.24, where k is a 
+constant. Since the wavelength λ denotes 
+the distance between any two points in the 
+same state of motion, the displacement y is 
+the same at both the ends 
+y = x and y = x + λ, i.e.,
+  y = A sin(kx) = A sin(k(x + λ))
+	
+= A sin(kx + k λ)
+(11.38)
+The sine function is a periodic function with 
+period 2π. Hence, 
+  y = A sin(kx + 2π) = A sin(kx)
+(11.39)
+Comparing equation (11.38) and equation 
+(11.39), we get
+	
+kx + k λ = kx + 2π
+This implies 
+	
+k = 2π
+λ rad m–1
+(11.40)
+where k is called wave number. This measures 
+how many wavelengths are present in 2π 
+radians. 
+times t = 0s, t = 1s, t = 2s etc., we once again 
+observe that y = sin(x−vt) moves towards 
+the right. Hence, y = sin(x−vt) is a travelling 
+(or progressive) wave moving towards the 
+right. If y = sin(x+vt) then the travelling 
+(or progressive) wave moves towards the 
+left. Thus, any arbitrary function of type 
+y = f(x−vt) characterising the wave must 
+move towards right and similarly, any 
+arbitrary function of type y = f(x+vt) 
+characterizing the wave must move towards 
+left.
+EXAMPLE 11.13
+Check the dimensional of the wave 
+y = sin(x−vt). If it is dimensionally wrong, 
+write the above equation in the correct 
+form.
+Solution
+Dimensionally it is not correct. we know 
+that y = sin(x−vt) must be a dimensionless 
+quantity but x−vt has dimension. The 
+correct equation is y = sin (k x−ωt), where 
+k and ω have the dimensions of inverse 
+of length and inverse of time respectively. 
+The sine functions and cosine functions 
+are periodic functions with period 2π. 
+Therefore, the correct expression is 
+y = sin 2
+2
+π
+λ
+π
+x
+T t
+−
+
+
+
+
+
+ where λ and T are 
+wavelength and time period, respectively. 
+In general, y(x,t)=A sin(k x−ωt). 
+Amplitude
+y(x,t) = A sin(kx -ωt)
+Phase 
+Oscillating 
+term
+Displacement
+Angular 
+wave number 
+Position
+Angular 
+frequency
+Time
+UNIT-11(XI-Physics_Vol-2).indd   245
+UNIT-11(XI-Physics_Vol-2).indd   245
+26-03-2022   17:24:46
+26-03-2022   17:24:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 246
+
+PDF_PAGE: 254
+
+------------------------------------------------------------
+
+246
+Unit 11  Waves
+per second. Since inverse of frequency is 
+time period, we have,
+	
+T
+f
+= 1 in seconds
+This is the time taken by a medium particle 
+to complete one oscillation. Hence, we can 
+define the speed of a wave (wave speed, v) as 
+the distance traversed by the wave per second 
+	
+v
+T
+f
+=
+=
+λ
+λ in m s-1
+ 
+which is the same relation as we obtained in 
+equation (11.4). 
+11.6.4  Particle velocity and 
+wave velocity
+In a plane progressive harmonic wave, 
+the constituent particles in the medium 
+oscillate simple harmonically about their 
+equilibrium positions. When a particle is in 
+motion, the rate of change of displacement 
+at any instant of time is defined as velocity 
+of the particle at that instant of time. This is 
+known as particle velocity. 
+	
+v
+dy
+dt
+P =
+ m s-1
+(11.41)
+But 	 y(x, t)= A sin(k x - ω t)
+(11.42)
+Therefore, dy
+dt = − ω A cos(k x− ω t)(11.43)
+Similarly, we can define velocity (here speed) 
+for the travelling wave (or progressive 
+wave). In order to determine the velocity 
+of a progressive wave, let us consider 
+a progressive wave (shown in Figure 
+11.23) moving towards right. This can be 
+mathematically represented as a sinusoidal 
+wave. Let P be any point on the phase of the 
+wave and yP be its displacement with respect 
+The spatial periodicity of the wave is
+λ
+π
+= 2
+k in m
+Then,
+At t = 0 s	
+y(x, 0) = y(x + λ, 0)   and
+At any time t,	y(x, t) = y(x + λ, t)
+EXAMPLE 11.14
+The wavelength of two sine waves are 
+λ1 = 1m and λ2 = 6m. Calculate the 
+corresponding wave numbers. 
+Solution
+	
+k1 = 2
+1
+π = 6.28 rad m-1
+	
+k2 = 2
+6
+π = 1.05 rad m-1
+(b)	Time variation graph
+2π
+2π
+π
+t
+y
+o
+2π
+―t
+T )
+)
+sin
+Figure 11.25  Graph of sinusoidal 
+function y =A sin(ωt)
+By keeping the position fixed, the change 
+in displacement with respect to time is 
+plotted. Let us consider a sinusoidal graph, 
+y =A sin(ωt) as shown in the Figure 11.25, 
+where  ω is angular frequency of the wave 
+which measures how quickly wave oscillates 
+in time or number of cycles per second. 
+The temporal periodicity or time period is
+	
+T
+T
+=
+⇒
+=
+2
+2
+π
+ω
+ω
+π
+The angular frequency is related to frequency 
+f  by the expression ω = 2 πf, where the 
+frequency f is defined as the number of 
+oscillations made by the medium particle 
+UNIT-11(XI-Physics_Vol-2).indd   246
+UNIT-11(XI-Physics_Vol-2).indd   246
+26-03-2022   17:24:48
+26-03-2022   17:24:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 247
+
+PDF_PAGE: 255
+
+------------------------------------------------------------
+
+247
+Unit 11  Waves
+11.7
+EXAMPLE 11.15
+A mobile phone tower transmits a wave 
+signal of frequency 900MHz. Calculate the 
+length of the waves transmitted from the 
+mobile phone tower.
+Solution
+Frequency, f
+MHz
+Hz
+=
+=
+×
+900
+900 106
+The speed of wave is c = 3 × 108m s−1
+	
+λ =
+=
+×
+×
+=
+v
+f
+m
+3 10
+900 10
+0 33
+8
+6
+.
+SUPERPOSITION 
+PRINCIPLE
+When a jerk is given to a stretched string 
+which is tied at one end, a wave pulse is 
+produced and the pulse travels along the 
+string. Suppose two persons holding the 
+stretched string on either side give a jerk 
+simultaneously, then these two wave pulses 
+move towards each other, meet at some 
+point and move away from each other with 
+their original identity. Their behaviour is 
+very different only at the crossing/meeting 
+points; this behaviour depends on whether 
+the two pulses have the same or different 
+shape as shown in Figure 11.26.
+Figure 11.26  Superposition of two waves
+to the mean position. The displacement of 
+the wave at an instant t is 
+y = y(x,t) = A sin(k x− ω t)
+At the next instant of time tʹ = t + ∆t the 
+position of the point P is xʹ = x + ∆x. Hence, 
+the displacement of the wave at this instant 
+is 
+  y = y(xʹ, tʹ) = y(x + ∆x, t + ∆t )
+  = A sin[k (x + ∆x)- ω (t + ∆t)]
+(11.44)
+Since the shape of the wave remains the 
+same, this means that the phase of the wave 
+remains constant (i.e., the y- displacement of 
+the point  is a constant). Therefore, equating 
+equation (11.42) and equation (11.44), we get
+	
+y(x',t') = y(x,t), which implies
+A sin[k (x + ∆x)− ω (t + ∆t)]= A sin(k x− ω t)
+Or 
+k(x + ∆x) − ω(t + ∆t) = kx − ωt = constant
+
+(11.45)
+On simplification of equation (11.45), we 
+get 
+	
+v
+x
+t
+k
+vp
+= ∆
+∆=
+=
+ω
+
+(11.46)
+where vp is called wave velocity or phase 
+velocity. 
+By expressing the angular frequency and 
+wave number in terms of frequency and 
+wave length, we obtain
+	
+ω =2 π f = 2π
+T
+	
+k = 2π
+λ
+	
+v
+k
+f
+=
+=
+ω
+λ
+UNIT-11(XI-Physics_Vol-2).indd   247
+UNIT-11(XI-Physics_Vol-2).indd   247
+26-03-2022   17:24:49
+26-03-2022   17:24:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 248
+
+PDF_PAGE: 256
+
+------------------------------------------------------------
+
+248
+Unit 11  Waves
+multiply y1 and y2 with some constant then 
+their amplitude is scaled by that constant 
+Further, if C1 and C2 are used to multiply the 
+displacements y1 and y2, respectively, then, 
+their net displacement y is 
+	
+y = C1 y1 + C2 y2 
+This can be generalized to any number of 
+waves. In the case of n such waves in more 
+than one dimension the displacements are 
+written using vector notation. 
+Here, the net displacement y is
+y
+C y
+i
+i
+i
+n
+
+
+
+
+1
+The principle of superposition can explain 
+the following :  
+	
+(a)	 Space (or spatial) Interference (also 
+known as Interference)
+	
+(b)	 Time (or Temporal) Interference 
+(also known as Beats)
+	
+(c)	 Concept of stationary waves
+Waves that obey principle of superposition 
+are called linear waves (amplitude is much 
+smaller than their wavelengths). In general, 
+if the amplitude of the wave is not small 
+then they are called non-linear waves. These 
+violate the linear superposition principle, 
+e.g. laser. In this chapter, we will focus our 
+attention only on linear waves.
+We will discuss the following in different 
+subsections:
+11.7.1  Interference of waves
+Figure 11.27  Interference of waves
+When the pulses have the same shape, 
+at the crossing, the total displacement 
+is the algebraic sum of their individual 
+displacements and hence its net amplitude is 
+higher than the amplitudes of the individual 
+pulses. Whereas, if the two pulses have same 
+amplitude but shapes are 180° out of phase 
+at the crossing point, the net amplitude 
+vanishes at that point and the pulses will 
+recover their identities after crossing. Only 
+waves can possess such a peculiar property 
+and it is called superposition of waves. This 
+means that the principle of superposition 
+explains the net behaviour of the waves 
+when they overlap. 
+Generalizing to any number of waves i.e, 
+if two or more waves in a medium move 
+simultaneously, when they overlap, their 
+total displacement is the vector sum of the 
+individual displacements. We know that 
+the waves satisfy the wave equation which 
+is a linear second order homogeneous 
+partial 
+differential 
+equation 
+in 
+both 
+space coordinates and time. Hence, their 
+linear combination (often called as linear 
+superposition of waves) will also satisfy the 
+same differential equation. 
+To understand mathematically, let us 
+consider two functions which characterize 
+the displacement of the waves, for example, 
+	
+y1 = A1 sin(kx − ωt)
+and 
+	
+y2 = A2 cos(kx − ωt)
+Since, both y1 and y2 satisfy the wave 
+equation (solutions of wave equation) then 
+their algebraic sum
+	
+y = y1 + y2
+also satisfies the wave equation. This means, 
+the displacements are additive. Suppose we 
+UNIT-11(XI-Physics_Vol-2).indd   248
+UNIT-11(XI-Physics_Vol-2).indd   248
+26-03-2022   17:24:50
+26-03-2022   17:24:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 249
+
+PDF_PAGE: 257
+
+------------------------------------------------------------
+
+249
+Unit 11  Waves
+y = A (sin(kx−ωt) cosθ + sinθ cos(kx−ωt))
+y = A sin(kx−ωt + θ)
+(11.53)
+By squaring and adding equation (11.51) 
+and equation (11.52), we get
+A2 = A1
+2 + A2
+2 + 2A1 A2 cosφ
+(11.54)
+Since, intensity is square of the amplitude 
+(I = A2), we have
+	
+I
+I
+I
+I I
+=
++
++
+1
+2
+1 2
+2
+cos φ
+(11.55)
+This means the resultant intensity at any 
+point depends on the phase difference at 
+that point. 
+(a)  For constructive interference:
+When crests of one wave overlap with 
+crests of another wave, their amplitudes 
+will add up and we get constructive 
+interference. The resultant wave has a 
+larger amplitude than the individual 
+waves as shown in Figure 11.29 (a). 
+The constructive interference at a point 
+occurs if there is maximum intensity at 
+that point, which means that 
+cosφ = + 1 ⇒ φ = 0, 2π,4π,… = 2nπ, 
+where n = 0,1,2,... 
+This is the phase difference in which 
+two waves overlap to give constructive 
+interference.
+Therefore, for this resultant wave,
+I
+I
+I
+A
+A
+maximum 
+
+
+
+
+
+
+1
+2
+2
+1
+2
+2
+Hence, the resultant amplitude 
+	
+A = A1 + A2
+ 
+Figure 11.29  (a) Constructive 
+interference  (b) Destructive interference
+Interference is a phenomenon in which two 
+waves superimpose to form a resultant wave 
+of greater, lower or the same amplitude.
+Figure 11.28  Interference of two 
+sinusoidal waves
+ϕ = 60º
+y2
+X
+y1
+y
+y
+Consider two harmonic waves having identical 
+frequencies, constant phase difference φ and 
+same wave form (can be treated as coherent 
+source), but having amplitudes A1 and A2, then
+	
+y1 = A1 sin(kx − ωt)
+(11.47)
+ 	
+y2 = A2 sin(kx − ωt+φ)
+(11.48)
+Suppose they move simultaneously in a 
+particular direction, then interference occurs 
+(i.e., overlap of these two waves). Mathematically 
+	
+y = y1 + y2
+(11.49)
+Therefore, substituting equation (11.47) and 
+equation (11.48) in equation (11.49), we get
+y = A1 sin(kx − ωt) + A2 sin(kx − ωt + φ) 
+Using trigonometric identity sin (α+β) = 
+(sin α cosβ + cosα sinβ ), we get 
+y = A1 sin(kx − ωt)+A2 [sin(kx − ωt) cosφ + 
+cos(kx − ωt) sinφ]
+y = sin(kx − ωt)(A1 +A2 cosφ) +  
+A2 sinφ cos(kx − ωt)
+(11.50)
+Let us re-define	
+A cosθ =(A1 + A2 cosφ)
+(11.51)
+and A sinθ = A2 sinφ
+(11.52)
+then equation (11.50) can be rewritten as 
+y = A sin(kx−ωt) cosθ + A cos(kx−ωt) sinθ
+Wave 1
+Wave 2
++
+=
+      Constructive interference
+(a)
+(b)
+Destructive interference
++
+wave 1
+wave 2
+=
+UNIT-11(XI-Physics_Vol-2).indd   249
+UNIT-11(XI-Physics_Vol-2).indd   249
+26-03-2022   17:24:52
+26-03-2022   17:24:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 250
+
+PDF_PAGE: 258
+
+------------------------------------------------------------
+
+250
+Unit 11  Waves
+path length  is fixed but the upper path 
+length can be varied by sliding the upper 
+tube i.e.,  is varied. The difference in path 
+length is known as path difference, 
+∆r = |r2 − r1|
+Suppose the path difference is allowed to 
+be either zero or some integer (or integral) 
+multiple of wavelength λ. Mathematically, 
+we have
+	
+∆r = nλ
+where, n = 0, 1, 2, 3,.... 
+Then the two waves arriving from the paths 
+r1 and r2 reach the receiver at any instant are 
+in phase (the phase difference is 0° or 2π) and 
+interfere constructively as shown in Figure 11.31. 
+ϕ = 0º
+y1 and y2   are  identical
+y
+y
+x
+Figure 11.31  Maximum intensity when 
+the phase difference is 0°
+Therefore, in this case, maximum sound 
+intensity is detected by the receiver. If the 
+path difference is some half-odd-integer 
+(or half-integral) multiple of wavelength λ, 
+mathematically,  Δ r = n λ
+2
+	
+where, n = 1,3,...
+(n is odd)
+then the two waves arriving from the paths r1 
+and r2 and reaching the receiver at any instant 
+are out of phase (phase difference of π or 
+180°). They interfere destructively as shown 
+in Figure 11.32. They will cancel each other.
+Figure 11.32  Minimum intensity when the 
+phase difference is 180°
+y
+y
+x
+y1
+y2
+(b)  For destructive interference:  
+When the trough of one wave overlaps 
+with the crest of another wave, their 
+amplitudes “cancel” each other and we 
+get destructive interference as shown 
+in Figure 11.29 (b). The resultant 
+amplitude is nearly zero. The destructive 
+interference occurs if there is minimum 
+intensity at that point, which means 
+cosφ = − 1 ⇒ φ = π,3π,5π,… = (2 n-1) π, 
+where n = 0,1,2,…. i.e. This is the phase 
+difference in which two waves overlap to 
+give destructive interference. Therefore,  
+I
+I
+I
+A
+A
+minimum =
+−
+(
+) =
+−
+(
+)
+1
+2
+2
+1
+2
+2
+Hence, the resultant amplitude 
+A=|A1−A2|
+Let us consider a simple instrument to 
+demonstrate the interference of sound 
+waves as shown in Figure 11.30. 
+Figure 11.30  Simple instrument to 
+demonstrate interference of sound waves
+P
+R
+R
+S
+S
+Sliding tube
+A sound wave from a loudspeaker S is 
+sent through the tube P. This looks like a 
+T-shaped junction. In this case, half of the 
+sound energy is sent in one direction and 
+the remaining half is sent in the opposite 
+direction. Therefore, the sound waves that 
+reach the receiver R can travel along either 
+of two paths. The distance covered by the 
+sound wave along any path from the speaker 
+to receiver is called the path length . From 
+the Figure 11.30, we notice that the lower 
+UNIT-11(XI-Physics_Vol-2).indd   250
+UNIT-11(XI-Physics_Vol-2).indd   250
+26-03-2022   17:24:53
+26-03-2022   17:24:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 251
+
+PDF_PAGE: 259
+
+------------------------------------------------------------
+
+251
+Unit 11  Waves
+Therefore, at the point Y, the two waves 
+from A and B are in phase, hence, the 
+intensity will be maximum. 
+Consider a point X, and let the path 
+difference the between two waves be λ
+2 . 
+Then the phase difference at X is 
+∆ϕ
+π
+λ
+λ
+π
+=
+=
+2
+2
+Therefore, at the point X, the waves meet 
+and are in out of phase, Hence, due to 
+destructive interference, the intensity will 
+be minimum.
+EXAMPLE 11.17
+Two speakers C and E are placed 5 m apart 
+and are driven by the same source. Let a 
+man stand at A which is 10 m away from 
+the mid point O of C and E. The man walks 
+towards the point O which is at 1 m (parallel 
+to OC) as shown in the figure. He receives 
+the first minimum in sound intensity at B. 
+Then calculate the frequency of the source. 
+(Assume speed of sound = 343 m s–1)
+5m
+1 m
+X1
+X2
+Solution
+1 m
+B
+A
+F     
+   10 m 
+E
+ 5m
+D
+C
+O
+X
+X
+The first minimum occurs when the two 
+waves reaching the point B are 180° (out of 
+phase). The path difference ∆=
+x
+λ
+2 . 
+In order to calculate the path difference, we 
+have to find the path lengths x1 and x2. 
+In a right triangle BDC,
+Therefore, the amplitude is minimum or zero 
+amplitude which means no sound. No sound 
+intensity is detected by the receiver in this case. 
+The relation between path difference and phase 
+difference is
+  phase difference = 2π
+λ (path difference)
+
+(11.56)
+i.e.,	
+∆
+∆
+ϕ
+π
+λ
+= 2
+r   or 
+∆
+∆
+r = λ
+π
+ϕ
+2
+EXAMPLE 11.16
+Consider two sources A and B as shown in the 
+figure below. Let the two sources emit simple 
+harmonic waves of same frequency but of 
+different amplitudes, and both are in phase 
+(same phase). Let O be any point equidistant 
+from A and B as shown in the figure. Calculate 
+the intensity at points O, Y and X. (X and Y 
+are not equidistant from A & B)
+A
+B
+O
+X
+Y
+Solution
+The distance between OA and OB are the 
+same and hence, the waves starting from A 
+and B reach O after covering equal distances 
+(equal path lengths). Thus, the path difference 
+between two waves at O is zero. 
+	
+OA − OB = 0
+Since the waves are in the same phase, at the 
+point O, the phase difference between two 
+waves is also zero. Thus, the resultant intensity 
+at the point O is maximum. 
+Consider a point Y, such that the path 
+difference between two waves is λ. Then the 
+phase difference at Y is 
+∆
+∆
+ϕ
+π
+λ
+π
+λ
+λ
+π
+=
+×
+=
+×
+=
+2
+2
+2
+r
+UNIT-11(XI-Physics_Vol-2).indd   251
+UNIT-11(XI-Physics_Vol-2).indd   251
+26-03-2022   17:24:53
+26-03-2022   17:24:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 252
+
+PDF_PAGE: 260
+
+------------------------------------------------------------
+
+252
+Unit 11  Waves
+11.7.2  Formation of beats
+When two or more waves superimpose each 
+other with slightly different frequencies, then 
+a sound of periodically varying amplitude 
+at a point is observed. This phenomenon is 
+known as beats. The number of amplitude 
+maxima per second is called beat frequency. 
+If we have two sources, then their difference 
+in frequency gives the beat frequency. 
+Number of beats per second
+n = | f1 - f2| per second
+DB = 10m and OC = 1
+2 (5) = 2.5 m
+CD = OC −1 = (2.5 m)−1 m = 1.5 m
+x1
+2
+2
+10
+1 5
+100
+2 25
+= (
+) +(
+) =
++
+.
+.
+m
+102 25
+10 1
+=
+=
+.
+.
+In a right triangle EFB,
+DB = 10m and OE = 1
+2 (5) = 2.5m = FA
+FB = FA + AB = (2.5 m) + 1 m = 3.5 m
+x2
+2
+2
+10
+3 5
+100 12 25
+= (
+) +(
+) =
++
+.
+.
+m
+112 25
+10 6
+=
+=
+.
+.
+The path difference ∆x = x2 − x1 = 10.6 
+m−10.1 m = 0.5 m. Required that this 
+path difference 
+∆x = λ
+2 =0.5 ⇒ λ=1.0 m
+To obtain the frequency of source, we use 
+v = λf ⇒ f = v
+λ = 343
+1 =343 Hz 
+=0.3 kHz 
+If 
+the 
+speakers 
+were 
+connected such that already 
+the path difference is 
+. 
+Now, the path difference combines 
+with a path difference of . This gives a 
+total path difference of λ which means, 
+the waves are in phase and there is a 
+maximum intensity at point B. 
+Note
+Figure 11.33:  Two waves superimpose 
+with different frequencies such that there 
+is a time alternation in constructive and 
+destructive interference i.e., they are 
+periodically in and out of phase
+A
+B
+B
+D
+C
+A
+r = 0.05
+r = 0
+r =0.10
+r = 0.15
+UNIT-11(XI-Physics_Vol-2).indd   252
+UNIT-11(XI-Physics_Vol-2).indd   252
+26-03-2022   17:24:56
+26-03-2022   17:24:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 253
+
+PDF_PAGE: 261
+
+------------------------------------------------------------
+
+253
+Unit 11  Waves
+Case (A):
+The resultant amplitude is maximum when yp 
+is maximum. Since y
+f
+f
+t
+p ∝
+−
+
+
+
+
+
+
+
+
+
+
+
+
+cos 2
+2
+1
+2
+π
+, 
+this means maximum amplitude occurs only 
+when cosine takes ±1, 
+cos 2
+2
+1
+1
+2
+π f
+f
+t
+−
+
+
+
+
+
+
+
+
+
+
+
+= ±
+⇒ 
+2
+2
+1
+2
+π
+π
+f
+f
+t
+n
+−
+
+
+
+
+
+=
+,
+or,  (f1− f2 )t = n
+	
+or, t
+n
+f
+f
+=
+−
+(
+)
+1
+2
+	
+n = 0,1,2,3, ....
+Hence, the time interval between two successive 
+maxima is 
+t2−t1 = t3−t2=...= 
+1
+1
+2
+f
+f
+−
+(
+)
+;
+  n=| f1 − f2|= 
+1
+1
+2
+t
+t
+-
+Therefore, the number of beats produced per 
+second is equal to the reciprocal of the time 
+interval between two consecutive maxima i.e., 
+|f1 - f2|.
+Case (B):
+The resultant amplitude is minimum i.e., it 
+is equal to zero when yp is minimum. Since 
+y
+f
+f
+t
+p ∝
+−
+
+
+
+
+
+
+
+
+
+
+
+
+cos 2
+2
+1
+2
+π
+, this means, minimum 
+occurs only when cosine takes 0, 
+	
+cos 2
+2
+0
+1
+2
+π f
+f
+t
+−
+
+
+
+
+
+
+
+
+
+
+
+=
+,
+	
+ 2
+2
+2
+1 2
+1
+2
+π
+π
+f
+f
+t
+n
+−
+
+
+
+
+
+=
++
+(
+)
+,
+	
+ f
+f t
+n
+1
+2
+1
+2 2
+1
+−
+(
+) =
++
+(
+)
+	
+or, t
+n
+f
+f
+=
++
+−
+
+
+
+
+
+
+1
+2
+2
+1
+1
+2
+, where f1 ≠ f2  n = 0,1,2,3,.....
+Hence, the time interval between two successive 
+minima is 
+t2−t1 = t3−t2=...= 
+1
+1
+2
+f
+f
+−
+(
+)
+;
+  n=| f1 − f2|= 
+1
+1
+2
+t
+t
+-
+Therefore, the number of beats produced per 
+second is equal to the reciprocal of the time 
+interval between two consecutive minima i.e., 
+|f1 – f2|.
+For mathematical treatment, let us consider two 
+sound waves having same amplitude and slightly 
+different frequencies f1 and f2, superimposed on 
+each other.
+Since the sound wave (pressure wave) is a 
+longitudinal wave, let us consider y1 = A sin(ω1t) 
+and y2 = A sin(ω2t) to be displacements of the 
+two waves at a point x = 0 with same amplitude 
+(region having high pressures) and different 
+angular frequencies ω1 and ω2, respectively. 
+Then when they are allowed to superimpose we 
+get the net displacement 
+	
+y = y1 + y2
+	
+y = A sin(ω1 t) + A sin(ω2 t)
+But 
+	
+ω1 = 2πf1 and ω2 = 2πf2 
+Then
+	
+y = A sin(2πf1t) + A sin(2πf2t)
+Using trigonometry formula 
+sin
+sin
+cos
+sin
+C
+D
+C
+D
+C
+D
++
+=
+−
+
+
+
+
+
+
++
+
+
+
+
+
+
+2
+2
+2
+y
+A
+f
+f
+t
+f
+f
+=
+−
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+2
+2
+2
+2
+2
+1
+2
+1
+2
+cos
+sin
+π
+π
+
+
+
+
+
+
+t
+Let	
+y
+A
+f
+f
+t
+p =
+−
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+2
+1
+2
+cos
+π
+
+(11.57)
+and if f1 is slightly higher value than f2 then, 
+f
+f
+f
+f
+1
+2
+1
+2
+2
+2
+−
+
+
+
+
++
+
+
+
+
+
+ means yp in equation 
+(11.57) varies very slowly when compared to 
+f
+f
+1
+2
+2
++
+
+
+
+. Therefore
+	
+y = yP sin(2πfavgt)
+(11.58)
+This represents a simple harmonic wave of 
+frequency which is an arithmetic average 
+of frequencies of the individual waves, 
+favg= 
+f
+f
+1
+2
+2
++
+
+
+
+ and amplitude yp varies with 
+time t.  
+Additional information (Not for examination): Mathematical treatment of beats
+UNIT-11(XI-Physics_Vol-2).indd   253
+UNIT-11(XI-Physics_Vol-2).indd   253
+26-03-2022   17:25:02
+26-03-2022   17:25:02
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 254
+
+PDF_PAGE: 262
+
+------------------------------------------------------------
+
+254
+Unit 11  Waves
+11.8
+EXAMPLE 11.18
+Consider two sound waves with wavelengths 
+5 m and 6 m. If these two waves propagate 
+in a gas with velocity 330 ms-1. Calculate 
+the number of beats per second. 
+Solution 
+Given λ1 = 5m and λ2 = 6m
+Velocity of sound waves in a gas is 
+v = 330 ms-1
+The relation between wavelength and 
+velocity is v = λf ⇒ f = v
+λ
+The frequency corresponding to wavelength 
+λ1 is f
+v
+Hz
+1
+1
+330
+5
+66
+=
+=
+=
+λ
+The frequency corresponding to wavelength 
+λ2 is f
+v
+Hz
+2
+2
+330
+6
+55
+=
+=
+=
+λ
+The number of beats per second is 
+| f1 − f2| = |66 − 55| = 11 beats per sec
+EXAMPLE 11.19
+Two vibrating tuning forks produce waves 
+whose equation is given by y1 = 5 sin(240π t) 
+and y2 = 4 sin(244πt). Compute the number 
+of beats per second. 
+Solution
+Given y1 = 5 sin(240π t) and y2 = 4 sin(244πt)
+Comparing with y = A sin(2π f1t), we get 
+	
+2πf1 = 240π ⇒ f1 = 120Hz
+	
+2πf2 = 244π ⇒ f2 = 122Hz
+The number of beats produced is | f1 − f2| 
+= |120 − 122| = |− 2|=2 beats per sec
+STANDING WAVES
+11.8.1  Explanation of 
+stationary waves
+When the wave hits the rigid boundary 
+it bounces back to the original medium 
+and can interfere with the original waves. 
+A pattern is formed, which are known 
+as standing waves or stationary waves. 
+Consider two harmonic progressive waves 
+(formed by strings) that have the same 
+amplitude and same velocity but move in 
+opposite directions. Then the displacement 
+of the first wave (incident wave) is 
+	
+y1 = A sin(kx − ωt)
+(11.59)
+(waves move toward right)
+and the displacement of the second wave 
+(reflected wave) is 
+	
+y2 = A sin(kx + ωt)
+(11.60)
+(waves move toward left)
+both will interfere with each other by 
+the principle of superposition, the net 
+displacement is
+	
+y = y1 + y2
+(11.61)
+Substituting equation (11.59) and equation 
+(11.60) in equation (11.61), we get
+  y = A sin(kx − ωt)+A sin(kx + ωt)(11.62)
+Using trigonometric identity, we rewrite 
+equation (11.62) as 
+  y (x, t) = 2A cos(ωt) sin(kx)
+ (11.63)
+UNIT-11(XI-Physics_Vol-2).indd   254
+UNIT-11(XI-Physics_Vol-2).indd   254
+26-03-2022   17:25:03
+26-03-2022   17:25:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 255
+
+PDF_PAGE: 263
+
+------------------------------------------------------------
+
+255
+Unit 11  Waves
+where n takes integer or integral values. 
+Note that the elements at these points do not 
+vibrate (not move), and the points are called 
+nodes. The  nthnodal positions is given by,
+	
+x
+n
+n =
+λ
+2 where, n = 0,1,2,... (11.65)
+For n = 0 we have minimum at 
+x0 = 0
+For n = 1 we have minimum at 
+x1
+2
+= λ
+For n = 2 we have maximum at 
+x2 = λ
+and so on. 
+The distance between any two successive 
+nodes can be calculated as
+	
+xn − xn−1 = n
+n
+λ
+λ
+λ
+2
+1 2
+2
+−
+−
+(
+)
+=
+.
+EXAMPLE 11.20
+Compute the distance between anti-node 
+and neighbouring node. 
+Solution
+For nth mode, the distance between anti-
+node and neighbouring node is  
+	
+Δxn = 
+2
+1
+2
+2
+2
+4
+n
+n
++
+
+
+
+
+
+
+−
+=
+λ
+λ
+λ
+11.8.2  Characteristics of 
+stationary waves
+(1) Stationary waves are characterised by 
+the confinement of a wave disturbance 
+between two rigid boundaries. This 
+means, the wave does not move forward 
+or backward in a medium (does not 
+advance), it remains steady at its place. 
+Therefore, they are called “stationary 
+waves or standing waves”.  
+This represents a stationary wave or standing 
+wave, which means that this wave does 
+not move either forward or backward, 
+whereas progressive or travelling waves will 
+move forward or backward.  Further, the 
+displacement of the particle in equation 
+(11.63) can be written in more compact form,
+y(x,t) = Aʹ cos(ωt)
+where, Aʹ = 2Asin(kx), implying that the 
+particular element of the string executes 
+simple harmonic motion with amplitude 
+equals to Aʹ. The maximum of this amplitude 
+occurs at positions for which
+sin(kx) =1 ⇒ kx = π
+π
+π
+2
+3
+2
+5
+2
+,
+,
+, ... = mπ
+where m takes half integer or half integral 
+values. The position of maximum amplitude 
+is known as antinode. Expressing wave 
+number in terms of wavelength, we can 
+represent the anti-nodal positions as 
+ x
+m
+m =
++
+
+
+
+
+
+
+2
+1
+2
+2
+λ , where, m = 0,1,2...(11.64)
+For m = 0 we have maximum at
+x0
+4
+= λ
+For m = 1 we have maximum at 
+x1
+3
+4
+= λ
+For m = 2 we have maximum at
+x2
+5
+4
+= λ
+and so on. 
+The distance between two successive anti-
+nodes can be computed by 
+xm − xm−1 = 2
+1
+2
+2
+2
+1
+1
+2
+2
+2
+m
+m
++
+
+
+
+
+
+
+−
++
+(
+)+
+
+
+
+
+
+
+=
+λ
+λ
+λ
+Similarly, the minimum of the amplitude A' 
+also occurs at some points in the space, and 
+these points can be determined by setting 
+	
+sin(kx)= 0 ⇒ k x = 0,π,2π,3π,… = n π
+UNIT-11(XI-Physics_Vol-2).indd   255
+UNIT-11(XI-Physics_Vol-2).indd   255
+26-03-2022   17:25:05
+26-03-2022   17:25:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 256
+
+PDF_PAGE: 264
+
+------------------------------------------------------------
+
+256
+Unit 11  Waves
+11.8.3  Stationary waves in 
+sonometer
+Sono means sound related, and sonometer 
+implies sound-related measurements. It is 
+a device for demonstrating the relationship 
+between the frequency of the sound 
+produced in the transverse standing wave in 
+a string, and the tension, length and mass 
+per unit length of the string. Therefore, using 
+this device, we can determine the following 
+quantities: 
+(2) Certain points in the region in which the 
+wave exists have maximum amplitude, 
+called as anti-nodes and at certain points 
+the amplitude is minimum or zero, called 
+as nodes.
+(3) The distance between two consecutive 
+nodes (or) anti-nodes is λ
+2 .
+(4) The distance between a node and its 
+neighbouring anti-node is λ
+4 .
+(5) The transfer of energy along the standing 
+wave is zero. 
+Table 11.3:  Comparison between progressive and stationary waves
+S.No.
+Progressive waves
+Stationary waves
+1.
+Crests and troughs are formed in 
+transverse progressive waves, and 
+compression and rarefaction are formed 
+in longitudinal progressive waves. 
+These waves move forward or backward 
+in a medium i.e., they will advance in a 
+medium with a definite velocity. 
+Crests and troughs are formed in 
+transverse stationary waves, and 
+compression and rarefaction are formed 
+in longitudinal stationary waves. 
+These waves neither move forward nor 
+backward in a medium i.e., they will 
+not advance in a medium.
+2.
+All the particles in the medium vibrate 
+such that the amplitude of the vibration 
+for all particles is same.  
+Except at nodes, all other particles of 
+the medium vibrate such that amplitude 
+of vibration is different for different 
+particles. The amplitude is minimum 
+or zero at nodes and maximum at anti-
+nodes.
+3.
+These 
+wave 
+carry 
+energy 
+while 
+propagating.
+These waves do not transport energy.
+Load
+P
+Q
+Figure 11.34  Sonometer
+UNIT-11(XI-Physics_Vol-2).indd   256
+UNIT-11(XI-Physics_Vol-2).indd   256
+26-03-2022   17:25:05
+26-03-2022   17:25:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 257
+
+PDF_PAGE: 265
+
+------------------------------------------------------------
+
+257
+Unit 11  Waves
+frequency f
+v
+l
+T
+d
+=
+=
+λ
+π
+ρ
+1
+2
+4
+2
+	
+∴	
+f
+ld
+T
+= 1
+πρ 
+(11.67)
+EXAMPLE 11.21
+Let f be the fundamental frequency of 
+the string. If the string is divided into 
+three segments l1, l2 and l3 such that the 
+fundamental frequencies of each segments 
+be  f1, f2 and f3, respectively. Show that 
+1
+1
+1
+1
+1
+2
+3
+f
+f
+f
+f
+=
++
++
+Solution
+For a fixed tension T and mass density µ, 
+frequency is inversely proportional to the 
+string length i.e.
+f
+l
+f
+v
+l
+l
+v
+f
+∝
+⇒
+=
+⇒=
+1
+2
+2
+For the first length segment  
+f
+v
+l
+l
+v
+f
+1
+1
+1
+1
+2
+2
+=
+⇒
+=
+For the second length segment 
+f
+v
+l
+l
+v
+f
+2
+2
+2
+2
+2
+2
+=
+⇒
+=
+For the third length segment 
+f
+v
+l
+l
+v
+f
+3
+3
+3
+3
+2
+2
+=
+⇒
+=
+Therefore, the total length 
+	
+l=l1 +l2+l3
+v
+f
+v
+f
+v
+f
+v
+f
+f
+f
+f
+f
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+1
+2
+3
+=
++
++
+⇒
+=
++
++
+(a)	 the frequency of the tuning fork or 
+frequency of alternating current 
+(b)	 the tension in the string
+(c)		 the unknown hanging mass  
+Construction: 
+The sonometer is made up of a hollow box 
+which is one meter long with a uniform 
+metallic thin string attached to it. One end 
+of the string is connected to a hook and the 
+other end is connected to a weight hanger 
+through a pulley as shown in Figure 11.34. 
+Since only one string is used, it is also known 
+as monochord. The weights are added to the 
+free end of the wire to increase the tension 
+of the wire. Two adjustable wooden knives 
+are put over the board, and their positions 
+are adjusted to change the vibrating length 
+of the stretched wire.
+Working : 
+A transverse stationary or standing wave 
+is produced and hence, at the knife edges 
+P and Q, nodes are formed. In between the 
+knife edges, anti-nodes are formed.  
+If the length of the vibrating element is l then 
+l
+l
+=
+⇒
+=
+λ
+λ
+2
+2
+Let f be the frequency of the vibrating 
+element, T the tension of in the string and μ 
+the mass per unit length of the string. Then 
+using equation (11.13), we get 
+	
+f
+v
+l
+T
+=
+=
+λ
+µ
+1
+2
+ in Hertz 
+(11.66)
+Let ρ be the density of the material of the 
+string and d be the diameter of the string. 
+Then the mass per unit length μ,
+μ = Area × density = πr2ρ = πρd2
+4
+UNIT-11(XI-Physics_Vol-2).indd   257
+UNIT-11(XI-Physics_Vol-2).indd   257
+26-03-2022   17:25:10
+26-03-2022   17:25:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 258
+
+PDF_PAGE: 266
+
+------------------------------------------------------------
+
+258
+Unit 11  Waves
+We have, 
+	
+f
+v
+n v
+L
+n
+n
+=
+= 
+
+
+
+
+
+λ
+2
+
+(11.70)
+The lowest natural frequency is called the 
+fundamental frequency. 
+	
+f
+v
+v
+L
+1
+1
+2
+=
+=
+
+
+
+
+
+λ
+
+(11.71)
+The second natural frequency is called the 
+first over tone.
+	
+f
+v
+L
+L
+T
+2
+2 2
+1
+= 
+
+
+
+
+=
+µ 
+The third natural frequency is called the 
+second over tone.
+	
+f
+v
+L
+L
+T
+3
+3 2
+3 1
+2
+= 
+
+
+
+
+=
+
+
+
+
+
+
+µ
+and so on. 
+Therefore, the nth natural frequency can be 
+computed as integral (or integer ) multiple 
+of fundamental frequency, i.e., 
+fn = nf1,  where n is an integer
+(11.72)
+If natural frequencies are written as integral 
+multiple of fundamental frequencies, then the 
+frequencies are called harmonics. Thus, the 
+first harmonic is f1 = f1 (the fundamental 
+frequency is called first harmonic), the 
+second harmonic is f2 = 2f1 , the third 
+harmonic is f3 = 3f1 etc. 
+EXAMPLE 11.22
+Consider a string in a guitar whose length is 
+80 cm and a mass of 0.32 g with tension 80 N 
+is plucked. Compute the first four lowest 
+frequencies produced when it is plucked. 
+Solution
+The velocity of the wave
+v
+T
+=
+µ
+11.8.4  Fundamental 
+frequency and overtones
+Let us now keep the rigid boundaries at 
+x = 0 and  x = L and produce a standing 
+waves by wiggling the string (as in plucking 
+strings in a guitar). Standing waves with a 
+specific wavelength are produced. Since, the 
+amplitude must vanish at the boundaries, 
+therefore, the displacement at the boundary 
+must satisfy the following conditions  
+y(x = 0, t) = 0 and y(x = L, t) = 0
+(11.68)
+Since the nodes formed are at a distance 
+λn
+2 apart, we have n
+L
+n
+λ
+2
+
+
+
+
+
+= , where n is 
+an integer, L is the length between the two 
+boundaries and λn is the specific wavelength 
+that 
+satisfy 
+the 
+specified 
+boundary 
+conditions. Hence, 
+	
+ln
+L
+n
+=
+
+
+
+
+
+2
+
+(11.69)
+What will happen to  wavelength if n is 
+taken as zero? Why is this not permitted?
+Therefore, not all wavelengths are allowed. 
+The (allowed) wavelengths should fit with 
+the specified boundary conditions, i.e., for n 
+= 1, the first mode of vibration has specific 
+wavelength  λl = 2L. Similarly for n = 2, 
+the second mode of vibration has specific 
+wavelength 
+λ2
+2
+2
+=
+
+
+
+
+=
+L
+L
+For n = 3, the third mode of vibration has 
+specific wavelength 
+λ3
+2
+3
+=
+
+
+
+
+
+L
+and so on.
+The frequency of each mode of vibration 
+(called natural frequency) can be calculated.
+UNIT-11(XI-Physics_Vol-2).indd   258
+UNIT-11(XI-Physics_Vol-2).indd   258
+26-03-2022   17:25:12
+26-03-2022   17:25:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 259
+
+PDF_PAGE: 267
+
+------------------------------------------------------------
+
+259
+Unit 11  Waves
+11.9
+(ii)  The law of tension:
+For a given vibrating length l (fixed) and 
+mass per unit length μ (fixed) the frequency 
+varies directly with the square root of the 
+tension T,
+f
+T
+µ
+⇒
+=
+f
+A T, where A is a constant
+(iii)		
+The law of mass:
+For a given vibrating length l (fixed) and 
+tension T (fixed) the frequency varies 
+inversely with the square root of the mass 
+per unit length μ,
+f µ 1
+µ
+⇒=
+f
+B
+µ
+, where B is a constant
+The length of the string, L = 80 cm = 0.8 m 
+The mass of the string, m = 0.32 g  
+= 0.32 × 10–3 kg
+Therefore, the linear mass density,
+µ =
+×
+=
+×
+−
+−
+−
+0 32 10
+0 8
+0 4 10
+3
+3
+1
+.
+.
+.
+kg m
+The tension in the string, T = 80 N
+v =
+×
+−
+80
+0 4 10 3
+.
+= 447.2 m s-1
+The wavelength corresponding to the 
+fundamental frequency f1  is λ1 = 2L = 2 × 
+0.8 = 1.6 m
+The 
+fundamental 
+frequency 
+f1 
+corresponding to the wavelength λ1 
+f
+v
+Hz
+1
+1
+447 2
+1 6
+279 5
+=
+=
+=
+λ
+.
+.
+.
+Similarly, the frequency corresponding to 
+the second harmonics, third harmonics 
+and fourth harmonics are 
+f2 = 2f1 = 559 Hz
+f3 = 3f1 = 838.5 Hz
+f4 = 4f1 = 1118 Hz
+11.8.5  Laws of transverse 
+vibrations in stretched  
+strings
+There are three laws of transverse vibrations 
+of stretched strings which are given as 
+follows:
+(i)  The law of length : 
+For a given wire with tension T (which is 
+fixed) and mass per unit length μ (fixed) the 
+frequency varies inversely with the vibrating 
+length. Therefore,
+f
+l
+f
+C
+l
+∝⇒=
+1
+⇒l×f = C, where C is a constant 
+INTENSITY AND 
+LOUDNESS
+Consider a source and two observers 
+(listeners). The source emits sound waves 
+which carry energy. The sound energy 
+emitted by the source is same regardless of 
+whoever measures it, i.e., it is independent 
+of any observer standing in that region. But 
+the sound received by the two observers 
+may be different; this is due to some factors 
+like sensitivity of ears, etc. To quantify such 
+thing, we define two different quantities 
+known as intensity and loudness of sound.  
+11.9.1  Intensity of sound
+When a sound wave is emitted by a source, the 
+energy is carried to all possible surrounding 
+points. The average sound energy emitted or 
+UNIT-11(XI-Physics_Vol-2).indd   259
+UNIT-11(XI-Physics_Vol-2).indd   259
+26-03-2022   17:25:14
+26-03-2022   17:25:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 260
+
+PDF_PAGE: 268
+
+------------------------------------------------------------
+
+260
+Unit 11  Waves
+and since, I
+r
+µ 1
+2
+the power output does not depend on 
+the observer and depends on the baby. 
+Therefore,
+I
+I
+r
+r
+1
+2
+2
+2
+1
+2
+=
+I
+I r
+r
+2
+1
+1
+2
+2
+2
+=
+I2 = 0.25 × 10–2 W m–2
+11.9.2  Loudness of sound
+Two sounds with same intensities need not 
+have the same loudness. For example, the 
+sound heard during the explosion of balloons 
+in a silent closed room is very loud when 
+compared to the same explosion happening 
+in a noisy market. Though the intensity of 
+the sound is the same, the loudness is not. 
+If the intensity of sound is increased then 
+loudness also increases. But additionally, not 
+only does intensity matter, the internal and 
+subjective experience of “how loud a sound 
+is” i.e., the sensitivity of the listener also 
+matters here. This is often called loudness. 
+That is, loudness depends on both intensity 
+of sound wave and sensitivity of the ear (It is 
+purely observer dependent quantity which 
+varies from person to person) whereas the 
+intensity of sound does not depend on the 
+observer. The loudness of sound is defined 
+as “the degree of sensation of sound produced 
+in the ear or the perception of sound by the 
+listener”. 
+11.9.3  Intensity and 
+loudness of sound
+Our ear can detect the sound with intensity 
+level ranges from 10-2 Wm-2 to 20 W m-2. 
+transmitted per unit time or per second is 
+called sound power.  Therefore, the intensity 
+of sound is defined as “the sound power 
+transmitted per unit area taken normal to the 
+propagation of the sound wave ”.  
+Area 2
+Area 3
+Area 1
+Sound
+Source
+Distance 3
+Distance 2
+Distance 1
+Area 3
+ea 3
+r
+Source
+I
+I =
+P
+4r
+2
+I
+4
+I
+9
+r
+2r
+3r
+Figure 11.35  Intensity of sound waves
+For a particular source (fixed source), the 
+sound intensity is inversely proportional to 
+the square of the distance from the source. 
+I
+powerof thesource
+r
+I
+r
+=
+⇒∝
+4
+1
+2
+2
+π
+This is known as inverse square law of sound 
+intensity.  
+EXAMPLE 11.23
+A baby cries on seeing a dog and the cry 
+is detected at a distance of 3.0 m such that 
+the intensity of sound at this distance is 
+10–2 W m–2. Calculate the intensity of the 
+baby’s cry at a distance 6.0 m. 
+Solution
+I1 is the intensity of sound detected at a 
+distance 3.0 m and it is given as 10-2 W m-2.
+Let I2 be the intensity of sound detected at 
+a distance 6.0 m. Then,
+  r1 = 3.0 m,  r2 = 6.0 m
+UNIT-11(XI-Physics_Vol-2).indd   260
+UNIT-11(XI-Physics_Vol-2).indd   260
+26-03-2022   17:25:15
+26-03-2022   17:25:15
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 261
+
+PDF_PAGE: 269
+
+------------------------------------------------------------
+
+261
+Unit 11  Waves
+Solution
+ΔL =10 log10 
+I
+I
+dB
+
+
+
+
+
+=50
+1
+0
+log10
+1
+0
+5
+I
+I
+dB
+
+
+
+
+
+=
+I
+I
+1
+0
+= 105⇒ I1= 105 I0 = 105 × 10–12 Wm–2
+I1 = 10–7 Wm–2
+Since three musical instruments are played, 
+therefore, Itotal = 3I1 = 3 × 10–7 Wm–2. 
+11.10
+According to Weber-Fechner’s law, “loudness 
+(L) is proportional to the logarithm of the 
+actual intensity (I) measured with an accurate 
+non-human instrument”. This means that
+L ∝ ln I
+L = k ln I
+where k is a constant, which depends on 
+the  unit of measurement. The difference 
+between two loudnesses, L1 and L0 measures 
+the relative loudness between two precisely 
+measured intensities and is called as sound 
+intensity 
+level. 
+Mathematically, 
+sound 
+intensity level is 
+∆L = L1−L0 = k ln I1− k lnI0 = k ln
+I
+I
+1
+0
+
+
+
+
+
+
+If k = 1 bel, k = 10 decibel, then sound 
+intensity level is measured in bel, in honour 
+of Alexander Graham Bell. Therefore,
+	
+
+
+
+
+
+
+
+L
+I
+I
+ln
+1
+0
+ bel
+However, this is practically a bigger unit, 
+so we use a convenient smaller unit, called 
+decibel. Thus, decibel = 1
+10 bel. Therefore, 
+by multiplying and dividing by 10, we get
+L
+I
+I
+=
+
+
+
+
+
+
+
+
+
+
+
+
+10
+1
+10
+1
+0
+ln
+ bel
+L
+I
+I
+=
+
+
+
+
+
+
+10
+1
+0
+ln
+ decibel with k = 10
+For practical purposes, we use logarithm to 
+base 10 instead of natural logarithm,
+  ΔL =10 log10 
+I
+I
+
+
+
+
+
+
+1
+0 decibel 
+(11.73)
+EXAMPLE 11.24
+The sound level from a musical instrument 
+playing is 50 dB. If three identical musical 
+instruments are played together then 
+compute the total intensity. Calculate the 
+intensity of the sound from each instrument 
+as the threshold of hearing is 10–12 W m–2.
+VIBRATIONS OF AIR 
+COLUMN
+Musical instruments like flute, clarinet, 
+nathaswaram, etc are known as wind 
+instruments. They work on the principle of 
+vibrations of air columns. The simplest form 
+of a wind instrument is the organ pipe. It is 
+made up of a wooden or metal pipe which 
+produces the musical sound. For example, 
+flute, clarinet and nathaswaram are organ 
+pipe instruments. Organ pipe instruments 
+are classified into two types:
+(a) Closed organ pipes:
+Figure 11.36:  Clarinet is an example of 
+a closed organ pipe
+Look at the picture of a clarinet, shown 
+in Figure 11.36. It is a pipe with one end 
+closed and the other end open. If one end 
+of a pipe is closed, the wave reflected at 
+this closed end is 180° out of phase with 
+the incoming wave. Thus there is no 
+UNIT-11(XI-Physics_Vol-2).indd   261
+UNIT-11(XI-Physics_Vol-2).indd   261
+26-03-2022   17:25:21
+26-03-2022   17:25:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 262
+
+PDF_PAGE: 270
+
+------------------------------------------------------------
+
+262
+Unit 11  Waves
+nodes, for which we have, from example 
+11.20.
+λ2
+2
+3
+4
+1
+2
+λ2
+2
+λ2
+4
+λ2
+4
+λ2
++
+=
+=
+N
+L
+A
+A
+A
+A
+A
+A
+λ2
+1
+2
+λ2
+2
+=
+Figure 11.38  second mode of vibration 
+having two nodes and two anti-nodes
+4L = 3λ2
+	
+L= 3
+4
+2
+l   or  l2
+4
+3
+=
+L
+The frequency for this,
+	
+f
+v
+v
+L
+f
+2
+2
+1
+3
+4
+3
+=
+=
+=
+l
+is called first over tone, since  here, the 
+frequency is three times the fundamental 
+frequency it is called third harmonic.
+The Figure 11.39 shows third mode of 
+vibration having three nodes and three anti-
+nodes.
+displacement of the particles at the closed 
+end. Therefore, nodes are formed at the 
+closed end and anti-nodes are formed at 
+open end.
+Let us consider the simplest mode 
+of vibration of the air column called the 
+fundamental mode. Anti-node is formed 
+at the open end and node at closed end. 
+From the Figure 11.37, let L be the length 
+of the tube and the wavelength of the wave 
+produced. For the fundamental mode of 
+vibration, we have,
+	
+L
+or
+L
+=
+=
+l
+l
+1
+1
+4
+4
+ 
+(11.74)
+The frequency of the note emitted is 
+	
+f
+v
+v
+L
+1
+1
+4
+=
+=
+l
+
+(11.75)
+which is called the fundamental note. 
+The frequencies higher than fundamental 
+frequency can be produced by blowing air 
+strongly at open end. Such frequencies are 
+called overtones. 
+The Figure 11.38 shows the second mode of 
+vibration having two nodes and two anti-
+Figure 11.37  No motion of particles which leads to nodes at closed end and antinodes at 
+open end (fundamental mode) (N-node, A-antinode)
+L
+A
+A
+N
+L
+A
+A
+N
+1
+2
+1
+4 λ1
+λ1
+2
+λ1
+2
+=
+λ
+4
+UNIT-11(XI-Physics_Vol-2).indd   262
+UNIT-11(XI-Physics_Vol-2).indd   262
+26-03-2022   17:25:24
+26-03-2022   17:25:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 263
+
+PDF_PAGE: 271
+
+------------------------------------------------------------
+
+263
+Unit 11  Waves
+both open ends, anti-nodes are formed. Let us 
+consider the simplest mode of vibration of the 
+air column called fundamental mode. Since 
+anti-nodes are formed at the open end, a node 
+is formed at the mid-point of the pipe.  
+Figure 11.41  Antinodes are formed at 
+the open end and a node is formed at 
+the middle of the pipe. 
+λ1
+4
+λ1
+4
+λ1
+4
+λ1
+4
+λ1
+2
++
+=
+N
+L
+A
+A
+A
+A
+From Figure 11.41, if L be the length of the 
+tube, the wavelength of the wave produced 
+is given by
+ 	
+L
+or
+L
+=
+=
+l
+l
+1
+1
+2
+2
+
+(11.77)
+The frequency of the note emitted is
+	
+f
+v
+v
+L
+1
+1
+2
+=
+=
+l
+
+(11.78)
+which is called the fundamental note. 
+The frequencies higher than fundamental 
+frequency can be produced by blowing 
+air strongly at one of the open ends. Such 
+frequencies are called overtones. 
+A
+A
+A
+A
+A
+A
+N
+N
+λ2
+4
+λ2
+4
+λ2
+2
+λ2
+4
+λ2
+λ2
+2
+λ2
+4
++
++
+=
+Figure 11.42  Second mode of 
+vibration in open pipes having two 
+nodes and three anti-nodes
+λ3
+λ3
+λ3
+λ3
+2
+λ3
+2
+λ3
+4
+λ3
+4
+5
+4
+L
++
+=
+A
+A
+A
+A
+A
+A
+N
+N
+N
+Figure 11.39  Third mode of vibration 
+having three nodes and three anti-nodes
+We have,  4L = 5λ3
+L= 5
+4
+3
+l or l3
+4
+5
+=
+L
+The frequency
+	
+f
+v
+v
+L
+f
+3
+3
+1
+5
+4
+5
+=
+=
+=
+λ
+is called second over tone, and since n = 5 
+here, this is called fifth harmonic. Hence, the 
+closed organ pipe has only odd harmonics and 
+frequency of the nth harmonic is fn = (2n+1)f1. 
+Therefore, the frequencies of harmonics are 
+in the ratio 
+  f1 : f2 : f3 : f4 :…= 1 : 3 : 5 : 7 : …
+(11.76)
+(b) Open organ pipes:
+Figure 11.40  Flute is an example of 
+open organ pipe
+Consider the picture of a flute, shown in Figure 
+11.40. It is a pipe with both the ends open. At 
+UNIT-11(XI-Physics_Vol-2).indd   263
+UNIT-11(XI-Physics_Vol-2).indd   263
+26-03-2022   17:25:27
+26-03-2022   17:25:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 264
+
+PDF_PAGE: 272
+
+------------------------------------------------------------
+
+264
+Unit 11  Waves
+  f1 : f2 : f3 : f4 :…= 1 : 2 : 3 : 4 : …
+(11.79)
+EXAMPLE 11.25
+If a flute sounds a note with 450Hz, what 
+are the frequencies of the second, third, 
+and fourth harmonics of this pitch?. If the 
+clarinet sounds with a same note as 450Hz, 
+then what are the frequencies of the lowest 
+three harmonics produced ?.
+Solution
+For a flute which is an open pipe, we have
+Second harmonics
+f2 = 2 f1 = 900 Hz
+Third harmonics
+f3 = 3 f1 = 1350 Hz
+Fourth harmonics
+f4 = 4 f1 = 1800 Hz
+For a clarinet which is a closed pipe, we 
+have
+Second harmonics
+f2 = 3 f1 = 1350 Hz
+Third harmonics
+f3 = 5 f1 = 2250 Hz
+Fourth harmonics
+f4 = 7 f1 = 3150 Hz
+EXAMPLE 11.26
+If the third harmonics of a closed organ 
+pipe is equal to the fundamental frequency 
+of an open organ pipe, compute the length 
+of the open organ pipe if the length of the 
+closed organ pipe is 30 cm. 
+Solution
+Let l2 be the length of the open organ pipe, 
+with l1 =30 cm the length of the closed 
+organ pipe. 
+It is given that the third harmonic of closed 
+organ pipe is equal to the fundamental 
+frequency of open organ pipe.
+The third harmonic of a closed organ pipe 
+is
+f
+v
+v
+l
+f
+2
+2
+1
+1
+3
+4
+3
+=
+=
+=
+λ
+The Figure 11.42 shows the second mode 
+of vibration in open pipes. It has two nodes 
+and three anti-nodes, and therefore,
+L =λ2 or λ2 = L
+The frequency 
+f
+v
+v
+L
+v
+L
+f
+2
+2
+1
+2
+2
+2
+=
+=
+= ×
+=
+l
+is called first over tone. Since n = 2 here, it is 
+called the second harmonic.
+λ3
+λ3
+λ3
+λ3
+2
+λ3
+2
+λ3
+4
+λ3
+4
+λ3
+4
+λ3
+4
+3
+2
+L
++
++
+=
+Figure 11.43  Third mode of vibration 
+having three nodes and four anti-nodes
+The Figure 11.43 above shows the third 
+mode of vibration having three nodes and 
+four anti-nodes
+L
+or
+L
+=
+=
+3
+2
+2
+3
+3
+3
+l
+l
+The frequency 
+f
+v
+v
+L
+f
+3
+3
+1
+3
+2
+3
+=
+=
+=
+λ
+is called second over tone. Since n = 3 here, it 
+is called the third harmonic.
+Hence, the open organ pipe has all the 
+harmonics and frequency of nth harmonic 
+is fn = nf1. Therefore, the frequencies of 
+harmonics are in the ratio 
+UNIT-11(XI-Physics_Vol-2).indd   264
+UNIT-11(XI-Physics_Vol-2).indd   264
+26-03-2022   17:25:29
+26-03-2022   17:25:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 265
+
+PDF_PAGE: 273
+
+------------------------------------------------------------
+
+265
+Unit 11  Waves
+by raising or lowering the water in the 
+reservoir R. The surface of the water will act 
+as a closed end and other as the open end. 
+Therefore, it behaves like a closed organ pipe, 
+forming nodes at the surface of water and 
+antinodes at the open end. When a vibrating 
+tuning fork is brought near the open end 
+of the tube, longitudinal waves are formed 
+inside the air column. These waves move 
+downward as shown in Figure 11.44, and 
+reach the surfaces of water and get reflected 
+and produce standing waves. The length of 
+the air column is varied by changing the 
+water level until a loud sound is produced 
+in the air column. At this particular length 
+the frequency of waves in the air column 
+resonates with the frequency of the tuning 
+fork (natural frequency of the tuning fork). 
+At resonance, the frequency of sound waves 
+produced is equal to the frequency of the 
+tuning fork. This will occur only when 
+the length of air column is proportional to 
+1
+4
+
+
+
+
+
+
+th
+ of the wavelength of the sound waves 
+produced.
+Let the first resonance occur at length L1, 
+then 
+	
+1
+4 λ = L1
+(11.80)
+But since the antinodes are not exactly 
+formed at the open end, we have to include 
+a correction, called end correction e, by 
+assuming that the antinode is formed at some 
+small distance above the open end. Including 
+this end correction, the first resonance is 
+	
+1
+4 λ = L1 + e
+(11.81)
+Now the length of the air column is 
+increased to get the second resonance. Let L2 
+be the length at which the second resonance 
+occurs. Again taking end correction into 
+account, we have
+The fundamental frequency of open organ 
+pipe is f
+v
+v
+l
+1
+1
+2
+2
+=
+=
+l
+Therefore, 
+v
+l
+v
+l
+l
+l
+cm
+2
+3
+4
+2
+3
+20
+2
+1
+2
+1
+=
+⇒
+=
+=
+11.10.1  Resonance air 
+column apparatus
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+L
+5
+4 λ
+3
+4 λ
+λ
+1
+4
+Rubber tube
+One  meter 
+cylindrical
+glass tube
+Tuning
+fork
+Reservoir R
+A
+A
+N
+Water
+Water
+Water
+A
+B
+Figure 11.44:  The resonance air 
+column apparatus and first, second and 
+third resonance
+The resonance air column apparatus is one 
+of the simplest techniques to measure the 
+speed of sound in air at room temperature. 
+It consists of a cylindrical glass tube of one 
+meter length whose one end A is open and 
+another end B is connected to the water 
+reservoir R through a rubber tube as shown 
+in Figure 11.44. This cylindrical glass tube 
+is mounted on a vertical stand with a scale 
+attached to it. The tube is partially filled with 
+water and the water level can be adjusted 
+UNIT-11(XI-Physics_Vol-2).indd   265
+UNIT-11(XI-Physics_Vol-2).indd   265
+26-03-2022   17:25:31
+26-03-2022   17:25:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 266
+
+PDF_PAGE: 274
+
+------------------------------------------------------------
+
+266
+Unit 11  Waves
+	
+3
+4 λ = L2 + e
+(11.82)
+In order to avoid end correction, let us 
+take the difference of equation (11.82) and 
+equation (11.81), we get 
+	
+3
+4 λ − 1
+4 λ = (L2 + e) − (L1 + e)
+	
+⇒ 1
+2 λ = L2−L1 = ΔL
+	
+⇒ λ = 2ΔL
+The speed of the sound in air at room 
+temperature can be computed by using the 
+formula
+	
+v = f λ = 2f ΔL
+Further, to compute the end correction, we 
+use equation (11.81) and equation (11.82), 
+we get
+e
+L
+L
+=
+−
+2
+1
+3
+2
+EXAMPLE 11.27
+A frequency generator with fixed frequency 
+of 343 Hz is allowed to vibrate above a 
+1.0 m high tube. A pump is switched on to 
+fill the water slowly in the tube. In order to 
+get resonance, what must be the minimum 
+height of the water?. (speed of sound in air 
+is 343 m s−1)
+Solution
+The wavelength, λ = c
+f
+λ =
+343
+343
+1
+ms
+Hz
+-
+ =1.0 m
+Let the length of the resonant columns be 
+L1, L2 and L3. The first resonance occurs at 
+length L1
+L1 = λ
+4 = 1
+4 = 0.25 m
+The second resonance occurs at length L2
+L2 = 3
+4
+l = 3
+4 = 0.75 m
+The third resonance occurs at length  
+L3 = 5
+4
+l = 5
+4 = 1.25 m
+and so on. 
+Since total length of the tube is 1.0 m the 
+third and other higher resonances do not 
+occur. Therefore, the minimum height of 
+water Hmin for resonance is, 
+Hmin = 1.0 m − 0.75 m = 0.25 m
+EXAMPLE 11.28
+A student performed an experiment to 
+determine the speed of sound in air using 
+the resonance column method. The length 
+of the air column that resonates in the 
+fundamental mode with a tuning fork 
+is 0.2 m. If the length is varied such that 
+the same tuning fork resonates with the 
+first overtone at 0.7 m. Calculate the end 
+correction. 
+Solution
+End correction 
+e
+L
+L
+=
+−
+=
+−
+=
+2
+1
+3
+2
+0 7
+3 0 2
+2
+0 05
+.
+( . )
+.
+m
+EXAMPLE 11.29
+Consider a tuning fork which is used to 
+produce resonance in an air column. A 
+resonance air column is a glass tube whose 
+length can be adjusted by a variable piston. 
+At room temperature, the two successive 
+resonances observed are at 20 cm and 85 cm 
+of the column length. If the frequency of the 
+length is 256 Hz, compute the velocity of the 
+sound in air at room temperature. 
+UNIT-11(XI-Physics_Vol-2).indd   266
+UNIT-11(XI-Physics_Vol-2).indd   266
+26-03-2022   17:25:35
+26-03-2022   17:25:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 267
+
+PDF_PAGE: 275
+
+------------------------------------------------------------
+
+267
+Unit 11  Waves
+i)  Observed frequency: Stationary source 
+and Moving listener
+Consider a point source S of sound at rest 
+with respect to the medium (air) in which it is 
+kept. The medium is assumed to be uniform 
+and is also at rest. The source emits sound 
+waves of frequency f and wavelength λ. 
+L
+Compressions
+of sound waves
+v
+v
+v
+v
+vL
+S
+Figure 11.45  Listener moves toward the 
+stationary source
+Sound waves travel with the same speed 
+v in all directions radially away from the 
+source in the form of spherical waves. The 
+compressions (or wavefronts) of sound 
+waves are represented by concentric circles 
+in the Figure 11.45. The distance between 
+two successive compressions is equal to its 
+wavelength λ and the frequency of the wave 
+is given by 
+	
+f = v
+l 
+(11.83) 
+When the listener L is stationary, there 
+is no relative motion between the source 
+and the listener. Since v and l remain 
+unchanged, the frequency of sound 
+observed by the listener is the same as the 
+source frequency f. 
+Solution
+Given two successive length (resonance) 
+to be  
+L1 = 20 cm and L2  = 85 cm
+The frequency is 
+f = 256 Hz
+v = f λ = 2f ΔL = 2f (L2 − L1)
+= 2 × 256 × (85 − 20) × 10 −2 m s−1
+v = 332.8 m s−1
+11.11
+DOPPLER EFFECT
+Imagine that you are standing on a railway 
+platform and listening to the blowing 
+whistle of a train moving past you, the 
+pitch (or frequency) of the sound you listen 
+as the train approaches you is higher than 
+the pitch you listen as it moves away from 
+you. This is an example of Doppler effect.    
+This effect occurs due to the relative motion 
+between the source of sound and its listener. 
+This motion−related frequency change 
+was first observed and studied by Johann 
+Christian Doppler (1803–1853), an Austrian 
+Mathematician and Physicist. 
+Whenever there is a relative motion 
+between the source of sound and the 
+listener, the frequency of the sound 
+observed by the listener is different from 
+the frequency produced by the source. 
+This is known as Doppler effect. 
+The Doppler effect is a wave phenomenon. 
+Therefore, it occurs not only for sound 
+waves but for any wave such as light and 
+other electromagnetic waves.  Here, we will 
+discuss different cases of Doppler effect for 
+sound and derive the expression for the 
+frequency observed by the listener. 
+Stationary observer and stationary 
+source means the observer and source 
+are both at rest with respect to medium 
+respectively
+UNIT-11(XI-Physics_Vol-2).indd   267
+UNIT-11(XI-Physics_Vol-2).indd   267
+26-03-2022   17:25:35
+26-03-2022   17:25:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 268
+
+PDF_PAGE: 276
+
+------------------------------------------------------------
+
+268
+Unit 11  Waves
+also shown and are represented by two 
+concentric circles. The second compression 
+has just been emitted and is still near the 
+source. The distance between two successive 
+compressions is the wavelength l of the 
+sound. Since f is the frequency of the 
+source, then the time between emissions of 
+compressions is 
+T
+f
+=
+=
+1
+l
+v
+L
+Compressions
+(a) Source at rest
+S
+v
+v
+λ
+L
+Compression emitted
+when S was at A
+Compression emitted
+when S is at B
+vsT
+vs
+(b) Source moving
+S
+λ′
+S
+B
+A
+Figure 11.46  Source moves toward the 
+stationary listener
+Now the listener is stationary and the source 
+moves directly toward the listener (Figure 
+11.46(b)). Let the speed of the source be vS 
+which is less than the speed of sound v. 
+In a time T, the first compression travels 
+a distance v T =l and the source moves 
+a distance vST . As a result, the distance 
+between 
+two 
+successive 
+compressions 
+is decreased from l to 
+′ =
+−
+l
+l
+vST.
+Therefore, the wavelength observed by the 
+listener is given by 
+Now the listener moves directly toward the 
+stationary source (Figure 11.45). If vL is 
+the speed of the listener, then the relative 
+speed of sound with respect to the listener 
+becomes ′ =
++
+v
+v
+vL. Since the wavelength 
+remains unchanged (because the source is 
+stationary), the frequency of sound observed 
+by the listener is changed and the observed 
+frequency ¢f is given by
+′ =
+′ =
++
+f
+L
+v
+v
+v
+l
+l
+Using the equation (11.83),
+	
+′ =
++
+
+
+
+
+
+
+f
+f
+L
+v
+v
+v
+
+(11.84)
+(listener moving toward the source)
+Thus, the observed frequency is greater 
+than the source frequency when the listener 
+moves toward the stationary source. 
+If the listener is moving away from the 
+stationary source, the observed frequency 
+can be obtained from equation (11.84) by 
+taking negative value for vL . It is given by
+′ =
++
+
+
+
+
+
+
+−
+(
+)
+f
+f
+L
+v
+v
+v
+	
+′ =
+
+
+
+
+
+−
+f
+f
+L
+v
+v
+v
+
+(11.85)
+(listener moving away from the source)
+Thus, the observed frequency is less than 
+the source frequency when the listener is 
+moving away from the stationary source.
+ii)  Observed frequency: Moving source 
+and stationary listener
+Assume that both the source S and the 
+listener L are at rest as shown in Figure 
+11.46a. Two successive compressions are 
+UNIT-11(XI-Physics_Vol-2).indd   268
+UNIT-11(XI-Physics_Vol-2).indd   268
+26-03-2022   17:25:37
+26-03-2022   17:25:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 269
+
+PDF_PAGE: 277
+
+------------------------------------------------------------
+
+269
+Unit 11  Waves
+	
+′ =
++
+
+
+
+
+
+
+−
+f
+f
+L
+S
+v
+v
+v
+v
+
+(11.88)
+The sign convention we used here is that both 
+vS and vL take positive values if the source or 
+the listener moves toward the other. Likewise, 
+they are negative when the source or the 
+listener moves away from the other.
+The observed frequency for different situations 
+of relative motion between the source and the 
+listener is consolidated in Table 11.4.
+′ =
+=
+−
+−
+
+
+
+
+
+
+l
+l
+l
+v
+v
+S
+S
+T
+f
+The observed frequency is then given by
+′ =
+′ =
+−
+
+
+
+
+
+
+f
+f
+S
+v
+v
+v
+l
+l
+= 
+
+
+
+
+−
+
+
+
+
+
+
+v
+v
+v
+f
+f
+S
+	
+′ =
+
+
+
+
+
+
+−
+f
+f
+S
+v
+v
+v
+
+(11.86)
+(source moving toward the listener)
+Thus, whenever the source moves toward the 
+stationary listener, the observed frequency 
+is greater than the source frequency. 
+If the source is moving away from the 
+stationary listener, the observed frequency 
+can be obtained from equation (11.86) by 
+taking negative value for vS . It is given by
+′ =
+
+
+
+
+
+
+−−
+(
+)
+f
+f
+S
+v
+v
+v
+	
+′ =
++
+
+
+
+
+
+
+f
+f
+S
+v
+v
+v
+
+(11.87)
+(source moving away from the listener)
+Thus, the observed frequency is less than 
+the source frequency when the source is 
+moving away from the stationary listener.
+iii)  Observed frequency: Both source and 
+listener moving
+When both source and listener are moving, 
+the observed frequency is obtained by 
+combining equations (11.84) and (11.86).
+It is important to note that 
+the change in frequency oc-
+curs either due to the change 
+in speed of sound (when the listener 
+moves and source at rest) or due to the 
+change in wavelength of sound (when 
+the source moves and observer at rest).
+If both source and listener move, the 
+change in frequency occurs due to 
+both the change in speed of sound and 
+the change in wavelength of sound 
+wave. 
+Note
+Suppose 
+the 
+source 
+moves 
+faster 
+than 
+sound 
+(that 
+is, 
+the 
+source is supersonic), 
+the equations (11.84) and (11.86) for 
+observed frequency will become invalid 
+and a stationary listener in front of the 
+source hears no sound as the sound 
+waves are at the rear of the source. 
+At such speeds, the newly produced 
+waves and the old waves interfere 
+constructively which leads to very large 
+amplitude of sound, called a ‘sonic 
+boom’ or ‘shock wave’.
+UNIT-11(XI-Physics_Vol-2).indd   269
+UNIT-11(XI-Physics_Vol-2).indd   269
+26-03-2022   17:25:39
+26-03-2022   17:25:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 270
+
+PDF_PAGE: 278
+
+------------------------------------------------------------
+
+270
+Unit 11  Waves
+Table 11.4:  Observed frequency for different situations
+S.No.
+Situation
+Observed frequency
+1
+L moves toward the stationary S
+′ =
++
+
+
+
+
+
+
+f
+f
+L
+v
+v
+v
+2
+L moves away from the stationary S
+′ =
+
+
+
+
+
+−
+f
+f
+L
+v
+v
+v
+3
+S moves toward the stationary L
+′ =
+
+
+
+
+
+
+−
+f
+f
+S
+v
+v
+v
+4
+S moves away from the stationary L
+′ =
++
+
+
+
+
+
+
+f
+f
+S
+v
+v
+v
+5
+S and L move toward each other
+′ =
++
+
+
+
+
+
+
+−
+f
+f
+L
+S
+v
+v
+v
+v
+6
+S and L recede from each other
+′ =
++
+
+
+
+
+
+
+−
+f
+f
+L
+S
+v
+v
+v
+v
+7
+S chases the L
+′ =
+
+
+
+
+
+
+−
+−
+f
+f
+L
+S
+v
+v
+v
+v
+8
+L chases the S
+′ =
++
++
+
+
+
+
+
+
+f
+f
+L
+S
+v
+v
+v
+v
+9
+S and L move toward each other and 
+the medium also moves in the direction 
+of sound with speed vm
+′ =
++
+(
+)+
++
+(
+)
+
+
+
+
+
+
+−
+f
+f
+m
+L
+m
+S
+v
+v
+v
+v
+v
+v
+Doppler effect in sound is 
+asymmetric while that in light 
+is symmetric.
+The observed frequency of sound when 
+the source moves toward stationary 
+listener and the observed frequency when 
+the listener moves toward stationary 
+source with the same speed are not equal. 
+Although the relative speed is same 
+in both the cases, observed frequency 
+is different. Hence, we say that the 
+Doppler effect in sound is asymmetric. 
+The reason is that sound wave requires a 
+medium for its propagation and it has its 
+speed with respect to that medium.
+But in the case of light and other 
+electromagnetic radiations, the observed 
+frequency is the same in both abovesaid 
+cases. Therefore, Doppler effect in light 
+and other electromagnetic waves is 
+symmetric because the propagation of 
+light is independent of the medium.
+Note
+UNIT-11(XI-Physics_Vol-2).indd   270
+UNIT-11(XI-Physics_Vol-2).indd   270
+26-03-2022   17:25:41
+26-03-2022   17:25:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 271
+
+PDF_PAGE: 279
+
+------------------------------------------------------------
+
+271
+Unit 11  Waves
+EXAMPLE 11.31
+An observer observes two moving trains, 
+one reaching the station and other leaving 
+the station with equal speeds of 8 m s−1. 
+If each train sounds its whistles with 
+frequency 240 Hz, then calculate the 
+number of beats heard by the observer. 
+Solution: 
+Observer is stationary 
+	 (i)	 Source (train) is moving towards an 
+observer:
+The observed frequency due to train 
+arriving station is  
+f
+f
+in
+s
+=
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+
+×
+=
+v
+v
+v
+330
+330
+8
+240
+246Hz
+	(ii)	 Source (train) is moving away from an 
+observer:
+The observed frequency due to train 
+leaving station is 
+f
+f
+out
+s
+=
++
+
+
+
+
+
+
+=
++
+
+
+
+
+
+×
+=
+v
+v
+v
+330
+330
+8
+240
+234Hz
+So the number of beats = |  fin–fout| = 
+(246–234) = 12
+EXAMPLE 11.30  
+A sound of frequency 1500 Hz is emitted by a 
+source which moves away from an observer 
+and moves towards a cliff at a speed of 
+6 ms–1. 
+	 (a)	 Calculate the frequency of the sound 
+which is coming directly from the 
+source. 
+	(b)	 Compute the frequency of sound 
+heard by the observer reflected off the 
+cliff. Assume the speed of sound in air 
+is 330 m s–1.
+Solution
+	(a)	 Source is moving away and observer 
+is stationary, therefore, the frequency 
+of sound heard directly from source 
+is 
+′ =
++
+
+
+
+
+
+
+=
++
+
+
+
+
+
+×
+=
+f
+f
+s
+v
+v
+v
+330
+330
+6
+1500
+1473Hz
+	(b)	 Sound is reflected from the cliff and 
+reaches observer, therefore, 
+′ =
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+
+×
+=
+f
+f
+s
+v
+v
+v
+330
+330
+6
+1500
+1528Hz
+UNIT-11(XI-Physics_Vol-2).indd   271
+UNIT-11(XI-Physics_Vol-2).indd   271
+26-03-2022   17:25:42
+26-03-2022   17:25:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 272
+
+PDF_PAGE: 280
+
+------------------------------------------------------------
+
+272
+Unit 11  Waves
+ 
+
+A disturbance which carries energy and momentum from one point in space to 
+another point in space without the transfer of medium is known as a wave. 
+ 
+
+The waves which require medium for their propagation are known as mechanical waves.
+ 
+
+The waves which do not require medium for their propagation are known as 
+non-mechanical waves.
+ 
+
+For a transverse wave, the vibration of particles in a medium is perpendicular to the 
+direction of propagation of the wave.
+ 
+
+For a longitudinal wave, the vibration of particles in a medium is parallel to the 
+direction of propagation of the wave.
+ 
+
+Elasticity and inertia are necessary properties of the medium for wave propagation.
+ 
+
+Waves formed in still water (ripples) are transverse and wave formed due to vibration 
+of tuning fork is longitudinal.
+ 
+
+The distance between two consecutive crests or troughs is known as wavelength, λ.
+ 
+
+The number of waves which crossed a point per second is known as frequency, f.
+ 
+
+The time taken by one wave to cross a point is known as time period, T.
+ 
+
+Velocity of the wave is v = λf.
+ 
+
+Frequency is source dependent and wave velocity is medium dependent.
+ 
+
+The velocity of a transverse wave produce in a stretched string depends on tension 
+in the string and mass per unit length. It does not depend on shape of the wave form.
+ 
+
+Velocity of transverse wave on a string is v
+T ms
+=
+−
+µ
+1 .
+ 
+
+Velocity of longitudinal wave in an elastic medium is v
+E ms
+=
+−
+ρ
+1.
+ 
+
+The minimum distance from a sound reflecting wall to hear an echo at 20°C is 
+17.2 meters.
+ 
+
+The wave equation is ∂
+∂
+=
+∂
+∂
+2
+2
+2
+2
+2
+1
+y
+x
+v
+y
+t
+ in one dimension.
+ 
+
+Wave number is given by k
+radm
+=
+−
+2
+1
+π
+λ
+.
+ 
+
+During interference the resultant intensity is I
+I
+I
+I I
+=
++
++
+1
+2
+1 2
+2
+cos ,
+j where the 
+intensity is square of the amplitude I
+A
+=
+2.
+	
+For constructive interference, I maximum=
++
+(
+) =
++
+(
+)
+I
+I
+A
+A
+1
+2
+2
+1
+2
+2 .
+	
+For destructive interference, I
+I
+I
+minimum
+(A
+A )
+=
+−
+(
+) =
+−
+1
+2
+2
+1
+2
+2 .
+ 
+
+When we superimpose two or more waves with slightly different frequencies then 
+a sound of periodically varying amplitude at a point is observed. This phenomenon 
+is known as beats. The number of amplitude maxima per second is called beat 
+frequency.
+S U M M A R Y 
+UNIT-11(XI-Physics_Vol-2).indd   272
+UNIT-11(XI-Physics_Vol-2).indd   272
+26-03-2022   17:25:46
+26-03-2022   17:25:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 273
+
+PDF_PAGE: 281
+
+------------------------------------------------------------
+
+273
+Unit 11  Waves
+ 
+
+If natural frequencies are written as integral multiples of fundamental frequency, 
+then the frequencies are said to be in harmonics. Thus, the first harmonic is v1 = v1, 
+(the fundamental frequency is called first harmonics), the second harmonics is 
+v2 = 2 v1, the third harmonics is v3 = 3 v1, and so on.
+ 
+
+Loudness of sound is defined as “the degree of sensation of sound produced in the ear 
+or the perception of sound by the listener”.
+ 
+
+The intensity of sound is defined as “the sound power transmitted per unit area placed 
+normal to the propagation of sound wave ”.
+ 
+
+Sound intensity level, ∆=
+L
+I
+I decibel
+10
+10
+1
+0
+log
+.
+ 
+
+A closed organ pipe has only odd harmonics and the corresponding frequency of 
+the nth harmonic is fn  =  (2n + 1) f1.
+ 
+
+In a closed organ pipe the frequencies of harmonics are in the ratio
+	
+f1 : f2 : f3 : f4 :... = 1 : 3 : 5 : 7 :...
+ 
+
+The open organ pipe has all harmonics and frequency of the nth harmonic is fn  = n f1.
+ 
+
+In the open organ pipe the frequencies of harmonics are in the ratio
+	
+f1 : f2 : f3 : f4 :... = 1 : 2 : 3 : 4 :...
+ 
+
+Whenever there is a relative motion between the source of sound and the listener, 
+the frequency of the sound observed by the listener is different from the frequency 
+produced by the source. This is known as Doppler effect.
+S U M M A R Y ( c ont .)
+UNIT-11(XI-Physics_Vol-2).indd   273
+UNIT-11(XI-Physics_Vol-2).indd   273
+26-03-2022   17:25:46
+26-03-2022   17:25:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 274
+
+PDF_PAGE: 282
+
+------------------------------------------------------------
+
+274
+Unit 11  Waves
+C O N C E P T M A P
+UNIT-11(XI-Physics_Vol-2).indd   274
+UNIT-11(XI-Physics_Vol-2).indd   274
+26-03-2022   17:25:47
+26-03-2022   17:25:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 275
+
+PDF_PAGE: 283
+
+------------------------------------------------------------
+
+275
+Unit 11  Waves
+EVALUATION 
+I.  Multiple Choice Questions:
+	 1.	 A student tunes his guitar by striking 
+a 120 Hertz with a tuning fork, and 
+simultaneously plays the 4th  string 
+on his guitar. By keen observation, he 
+hears the amplitude of the combined 
+sound oscillating thrice per second. 
+Which of the following frequencies is 
+the most likely the frequency of the 4th 
+string on his guitar?.
+	
+a) 130	
+b) 117
+	
+c) 110	
+d) 120
+	 2.	 A transverse wave moves from a 
+medium A to a medium B. In medium 
+A, the velocity of the transverse wave is 
+500 ms-1 and the wavelength is 5 m. The 
+frequency and the wavelength of the 
+wave in medium B when its velocity is 
+600 ms-1, respectively are
+a) 120 Hz and 5 m 
+b) 100 Hz and 5 m
+c) 120 Hz and 6 m
+d) 100 Hz and 6 m
+	 3.	 For a particular tube, among six 
+harmonic frequencies below 1000 Hz, 
+only four harmonic frequencies are 
+given : 300 Hz, 600 Hz, 750 Hz and 900 
+Hz. What are the two other frequencies 
+missing from this list?. 
+a) 100 Hz, 150 Hz
+b) 150 Hz, 450 Hz
+c) 450 Hz, 700 Hz 
+d) 700 Hz, 800 Hz 
+	 4.	 Which of the following options is 
+correct?. 
+A
+B
+(1) Quality
+(A) Intensity
+(2) Pitch
+(B) Waveform
+(3) Loudness
+(C) Frequency
+Options for (1), (2) and (3), 
+respectively are 
+a) (B),(C) and (A)
+b) (C), (A) and (B)
+c) (A), (B) and (C)
+d) (B), (A) and (C) 
+	 5.	 Eqution of travelling wave on a 
+stretched string of linear density 5 
+g/m is y = 0.03 sin(450t – 9x), where 
+distance and time are measured  in 
+SI units. The tension in the string is 
+a) 5 N
+b) 12.5 N
+c) 7.5 N
+d) 10 N
+	 6.	 A sound wave whose frequency is 
+5000 Hz travels in air and then hits 
+the water surface. The ratio of its 
+wavelengths in water and air is 
+	
+a) 4.30	
+b) 0.23
+	
+c) 5.30	
+d) 1.23
+	 7.	 A person standing between two parallel 
+hills fires a gun and hears the first echo 
+UNIT-11(XI-Physics_Vol-2).indd   275
+UNIT-11(XI-Physics_Vol-2).indd   275
+26-03-2022   17:25:48
+26-03-2022   17:25:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 276
+
+PDF_PAGE: 284
+
+------------------------------------------------------------
+
+276
+Unit 11  Waves
+after t1 sec and the second echo after 
+t2 sec. The distance between the two 
+hills is 
+a) v(t
+t )
+1
+2
+2
+-
+	
+b) v t t
+t
+t
+1 2
+1
+2
+2
+(
+)
++
+(
+)
+c) v t
+t
+1
+2
++
+(
+)	
+d) v(t
+t )
+1
+2
+2
++
+	 8.	 An air column in a pipe which is closed 
+at one end, will be in resonance with 
+the vibrating body of frequency 83Hz. 
+Then the length of the air column is 
+a) 1.5 m	
+(b) 0.5 m
+(c) 1.0 m	
+(d) 2.0 m
+	 9.	 The displacement y of a wave 
+travelling in the x direction is given by 
+y
+t
+x
+=
+−
++
+−
+( x
+)sin (
+)
+2 10
+300
+2
+4
+3
+p , where 
+x and y are measured in metres and t in 
+second. The speed of the wave is 
+(a) 150 ms-1	
+(b) 300 ms-1
+(c) 450 ms-1	
+(d) 600 ms-1
+10.	 Consider two uniform wires vibrating 
+simultaneously in their fundamental 
+notes. The tensions, densities, lengths 
+and diameter of the two wires are 
+in the ratio 8 : 1, 1 : 2, x : y and 4 : 1 
+respectively. If the note of the higher 
+pitch has a frequency of 360 Hz and the 
+number of beats produced per second 
+is 10, then the value of x : y is 
+(a) 36 : 35
+(b) 35 : 36
+(c) 1 : 1
+(d) 1 : 2
+11.	 Which of the following represents a 
+wave
+(a) (x  - vt)3	
+(b) x(x+vt)
+(c) 
+1
+(x
+vt)
++
+	
+(d) sin(x+vt)
+12.	 A man sitting on a swing which is 
+moving to an angle of 60° from the 
+vertical is blowing a whistle which has a 
+frequency of 2.0 k Hz. The whistle is 2.0 
+m from the fixed support point of the 
+swing. A sound detector which detects 
+the whistle sound is kept in front of the 
+swing. The maximum frequency the 
+sound detector detected is 
+(a) 2.027 kHz	
+(b) 1.974 kHz
+(c) 9.74 kHz	
+(d) 1.011 kHz
+13.	 Let y
+x
+= +
+1
+1
+2 at   t = 0 s  be the amplitude 
+of the wave propagating in the positive 
+x-direction. At t = 2 s, the amplitude 
+of the wave propagating becomes 
+y
+x
+= +
+−
+1
+1
+2 2
+(
+) . Assume that the shape 
+of the wave does not change during 
+propagation. The velocity of the wave is 
+(a) 0.5m s-1	
+(b) 1.0m s-1
+(c) 1.5m s-1	
+(d) 2.0m s-1
+14.	 A uniform rope having mass m hangs 
+vertically from a rigid support. A 
+transverse wave pulse is produced at 
+the lower end. Which of the following 
+plots shows the correct variation of 
+speed v with height h from the lower 
+end? 
+v
+v
+o
+o
+h
+h
+       (b)           
+       (a)           
+v
+v
+o
+o
+h
+h
+       (d)           
+       (c)           
+UNIT-11(XI-Physics_Vol-2).indd   276
+UNIT-11(XI-Physics_Vol-2).indd   276
+26-03-2022   17:25:51
+26-03-2022   17:25:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 277
+
+PDF_PAGE: 285
+
+------------------------------------------------------------
+
+277
+Unit 11  Waves
+	13.	 Sketch the function y = x + a. 
+Explain your sketch.
+	14.	 Write down the factors affecting 
+velocity of sound in gases.
+	15.	 What is meant by an echo?. Explain. 
+III.  Long Answer Questions
+	 1.	 Discuss how ripples are formed in still 
+water.
+	 2.	 Briefly explain the difference between 
+travelling waves and standing waves.
+	 3.	 Show that the velocity of a travelling 
+wave produced in a string is v
+T
+=
+µ 
+	 4.	 Describe Newton’s formula for velocity 
+of sound waves in air and also discuss 
+the Laplace’s correction.
+	 5.	 Write short notes on reflection of sound 
+waves from plane and curved surfaces. 
+	 6.	 Briefly 
+explain 
+the 
+concept 
+of 
+superposition principle. 
+	 7.	 Explain how the interference of waves 
+is formed.
+	 8.	 Describe the formation of beats.
+	 9.	 What are stationary waves?. Explain 
+the formation of stationary waves and 
+also write down the characteristics of 
+stationary waves.
+10.	 Discuss the law of transverse vibrations 
+in stretched strings.
+11.	 Explain the concepts of fundamental 
+frequency, harmonics and overtones in 
+detail.
+12.	 What is a sonometer?. Give its 
+construction and working. Explain 
+how to determine the frequency of 
+tuning fork using sonometer. 
+15.	 An organ pipe A closed at one end is 
+allowed to vibrate in its first harmonic 
+and another pipe B open at both ends is 
+allowed to vibrate in its third harmonic. 
+Both A and B are in resonance with a 
+given tuning fork. The ratio of the length 
+of A and B is
+(a) 8
+3 	
+(b) 3
+8
+(c) 1
+6 	
+(d) 1
+3
+Answers:
+  1) b	
+  2) d	
+  3) b	
+  4) a
+  5) b	
+  6) a	
+  7) d	
+  8) c
+  9) a	
+10) a	
+11) d	
+12) a
+13) b	
+14) d	
+15) c
+II. Short Answer Questions
+	 1.	 What is meant by waves?. 
+	 2.	 Write down the types of waves.
+	 3.	 What are transverse waves?. Give one 
+example.
+	 4.	 What are longitudinal waves?. Give 
+one example.
+	 5.	 Define wavelength.
+	 6.	 Write down the relation between 
+frequency, wavelength and velocity of 
+a wave.
+	 7.	 What is meant by interference of 
+waves?.
+	 8.	 Explain the beat phenomenon.
+	 9.	 Define intensity of sound and loudness 
+of sound. 
+	10.	 Explain Doppler Effect.
+	11.	 Explain red shift and blue shift in 
+Doppler Effect.
+	12.	 What is meant by end correction in 
+resonance air column apparatus?
+UNIT-11(XI-Physics_Vol-2).indd   277
+UNIT-11(XI-Physics_Vol-2).indd   277
+26-03-2022   17:25:53
+26-03-2022   17:25:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 278
+
+PDF_PAGE: 286
+
+------------------------------------------------------------
+
+278
+Unit 11  Waves
+	 2.	 Consider a mixture of 2 mol of helium 
+and 4 mol of oxygen. Compute the 
+speed of sound in this gas mixture at 
+300 K.  
+Answer : 400.9 ms-1
+	 3.	 A ship in a sea sends SONAR waves 
+straight down into the seawater from 
+the bottom of the ship. The signal 
+reflects from the deep bottom bed 
+rock and returns to the ship after 
+3.5 s. After the ship moves to 100 km 
+it sends another signal which returns 
+back after 2s. Calculate the depth of the 
+sea in each case and also compute the 
+difference in height between two cases. 
+
+Answer : Δd = 1149.75 m
+	 4.	 A sound wave is transmitted into a 
+tube as shown in figure. The sound 
+wave splits into two waves at the point 
+A which recombine at point B. Let R 
+be the radius of the semi-circle which 
+is varied until the first minimum. 
+Calculate the radius of the semi-circle if 
+the wavelength of the sound is 50.0 m. 
+
+Answer : R = 21.9 m
+Source
+Detector
+R
+B
+A
+	 5.	 N tuning forks are arranged in order 
+of increasing frequency and any two 
+successive tuning forks give n beats per 
+second when sounded together. If the 
+last fork gives double the frequency of 
+the first (called as octave), Show that 
+the frequency of the first tuning fork is 
+f = (N−1)n. 
+	 6.	 Let the source propagate a sound wave 
+whose intensity at a point (initially) 
+be I. Suppose we consider a case when 
+the amplitude of the sound wave is 
+13.	 Write short notes on intensity and 
+loudness.
+14.	 Explain how overtones are produced in a 
+(a) Closed organ pipe
+(b) Open organ pipe
+15.	 How will you determine the velocity 
+of sound using resonance air column 
+apparatus?
+16.	 What is meant by Doppler effect?. 
+Discuss the following cases
+(1) Source in motion and Observer at 
+rest 
+	
+(a) Source moves towards observer
+	
+(b) Source moves away from the 
+observer
+(2) Observer in motion and Source at 
+rest.
+	
+(a) Observer moves towards Source
+	
+(b) Observer resides away from the 
+Source
+(3) Both are in motion
+	
+(a) Source and Observer approach 
+each other
+	
+(b) Source and Observer resides 
+from each other
+	
+(c) Source chases Observer
+	
+(d) Observer chases Source
+IV. Exercises
+	
+	 1.	The speed of a wave in a certain 
+medium is 900 m/s. If 3000 waves 
+passes over a certain point of the 
+medium in 2 minutes, then compute 
+its wavelength?.
+Answer : λ = 36 m
+UNIT-11(XI-Physics_Vol-2).indd   278
+UNIT-11(XI-Physics_Vol-2).indd   278
+26-03-2022   17:25:53
+26-03-2022   17:25:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 279
+
+PDF_PAGE: 287
+
+------------------------------------------------------------
+
+279
+Unit 11  Waves
+doubled and the frequency is reduced 
+to one-fourth. Calculate now the new 
+intensity of sound at the same point ?.
+
+Answer: Inew ∝ 1
+4 Iold. 
+	 7.	 Consider two organ pipes of same 
+length in which one organ pipe is closed 
+and another organ pipe is open. If the 
+fundamental frequency of closed pipe 
+is 250 Hz. Calculate the fundamental 
+frequency 
+of 
+the 
+open 
+pipe. 
+
+Answer: 500Hz
+	 8.	 A police in a siren car moving with 
+a velocity 20 ms-1 chases a thief who 
+is moving in a car with a velocity 
+v0ms-1. The police car sounds at 
+frequency 300Hz, and both of them 
+move towards a stationary siren of 
+frequency 400Hz. Calculate the speed 
+in which thief is moving. (Assume 
+the thief does not observe any beat) 
+
+Answer: vthief = 10 m s-1
+	 9.	 Consider the following function 
+(a) y = x2 + 2 α t x
+(b) y = (x + vt)2
+which among the above function can be 
+characterized as a wave ?. 
+Answer: (a) function is not describing wave 
+(b) satisfies wave equation.   
+BOOKS FOR REFERENCE 
+1.	 Vibrations and Waves – A. P. French, CBS publisher and Distributors Pvt. Ltd.
+2.	 Concepts of Physics – H. C. Verma, Volume 1 and Volume 2, Bharati Bhawan Publisher
+3.	 Halliday, Resnick and Walker, Fundamentals of Physics, Wiley Publishers, 10th edition
+4.	 Serway and Jewett, Physics for scientist and engineers with modern physics, Brook/Coole 
+publishers, Eighth edition
+UNIT-11(XI-Physics_Vol-2).indd   279
+UNIT-11(XI-Physics_Vol-2).indd   279
+26-03-2022   17:25:54
+26-03-2022   17:25:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 280
+
+PDF_PAGE: 288
+
+------------------------------------------------------------
+
+280
+Unit 11  Waves
+Waves
+Through this activity you will be able to 
+learn about the wave motion.
+STEPS:
+• Use  the URL or scan the QR code to open  ‘PhET’ simulation on ‘waves on a string’. Click 
+the play button.
+• In the activity window a diagram of string is given. Click the play icon to see the motion 
+of wave.
+• We can see the ‘oscillations’ and ‘pulse’ by selecting  on the table given in the left side 
+window and by changing the ‘amplitude’ and ‘frequency’ is given below.
+• By selecting the ‘end types’ on the right side window and repeat the same as before. 
+URL:
+https://phet.colorado.edu/en/simulation/wave-on-a-string
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+UNIT-11(XI-Physics_Vol-2).indd   280
+UNIT-11(XI-Physics_Vol-2).indd   280
+26-03-2022   17:25:56
+26-03-2022   17:25:56
+www.freetnbooks.com
+www.FREETNBOOKS.com

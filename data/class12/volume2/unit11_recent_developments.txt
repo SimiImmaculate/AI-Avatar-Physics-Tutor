@@ -1,0 +1,1757 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit XI – Recent Developments in Physics
+
+TEXTBOOK_PAGE_RANGE:
+253–284
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 245
+PDF_PAGE: 253
+------------------------------------------------------------
+
+245
+Unit 10  electronics and Communication
+C O N C EP T M AP
+Internet
+Ex-OR
+NOR
+NAND
+OR
+NOT
+Oscillator
+Electronics and Communication Systems
+Electronics 
+Communication systems
+Conductor
+Energy band structure 
+Diodes
+Semiconductor types
+Satellite communication
+Semiconductor devices
+Intrinsic 
+semiconductor
+Bi-junction
+transistor
+Logic
+gates
+Extrinsic 
+semiconductor
+Types
+Uses
+AND
+Ground
+wave
+Space
+wave
+Sky
+wave
+AM
+FM
+PM
+NPN
+transiator
+Switch
+PNP
+transiator
+Amplifer
+p-n junction
+didode
+Special
+purpose
+diodes
+Zener diode
+n-type
+p-type
+Insulators
+Semiconductor
+LED
+Photo
+diode
+Solar
+cells
+Modulation
+Elements of
+Communication system
+Propagation of
+Electromagnetic waves
+Fiber optic communication
+RADAR
+Mobile communication
+Important
+Communication systems
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   245
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   245
+04-03-2022   17:19:26
+04-03-2022   17:19:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 246
+PDF_PAGE: 254
+------------------------------------------------------------
+
+246
+Unit 10  electronics and Communication
+EVALUATION
+c) Photovoltaic action
+d) Carrier fow
+7.	 	 Te light emitted in an LED is due to
+a) Recombination of charge carriers
+b) Refection of light due to lens action
+c) Amplifcation of light falling at the 
+junction
+d) Large current capacity.
+8.	 	 Te barrier potential of a p-n junction 
+depends on i) type of semiconductor 
+material 
+ii) 
+amount 
+of 
+doping 
+iii) temperature. Which one of the 
+following is correct?
+(NEET)
+a) (i) and (ii) only   
+b) (ii) only 
+c) (ii) and (iii) only
+d) (i) (ii) and (iii)
+9.	 	 To obtain sustained oscillation in an 
+oscillator,
+a) Feedback should be positive
+b) Feedback factor must be unity
+c) Phase shif must be 0 or 2π
+d) All the above
+10.	 If the input to the NOT gate is 
+A = 1011, its output is
+a) 0100  	
+b) 1000
+c) 1100  	
+d) 0011
+11.	 Which one of the following represents 
+forward bias diode?
+(NEET)
+I.	
+Multiple choice questions
+1.	 	 Te barrier potential of a silicon diode 
+is approximately,
+a) 0.7 V  b) 0.3V  c) 2.0 V  d) 2.2V
+2.	 	 If a small amount of antimony (Sb) 
+is added to germanium crystal, 
+(AIPMT 2011) 
+a) it becomes a p-type semiconductor
+b) the antimony becomes an acceptor 
+atom
+c) there will be more free electrons 
+than hole in the semiconductor
+d) its resistance is increased
+3.	 	 In an unbiased p-n junction, the 
+majority charge carriers (that is, holes) 
+in the p-region difuse into n-region 
+because of
+a) the potential diference across the 
+p-n junction
+b) the higher hole concentration in 
+p-region than that in n-region
+c) the attraction of free electrons of 
+n-region
+d) All of the above
+4.	 	 If a positive half –wave rectifed voltage 
+is fed to a load resistor, for which part 
+of a cycle there will be current fow 
+through the load?
+a) 00–900            	
+b) 900–1800
+c) 00–1800   	
+d) 00–3600
+5.	 	 Te zener diode is primarily used as
+a) Rectifer            b) Amplifer
+c) Oscillator          d) Voltage regulator
+6.	 	 Te principle based on which a solar 
+cell operates is
+a) Difusion      b) Recombination
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   246
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   246
+04-03-2022   17:19:26
+04-03-2022   17:19:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 247
+PDF_PAGE: 255
+------------------------------------------------------------
+
+247
+Unit 10  electronics and Communication
+c)  Sky wave propagation
+d)  Satellite communication
+Answers
+	 1. a	
+2. c	
+3. b	
+4. c	
+5. d
+	 6. c	
+7. a	
+8. d	
+9. d	
+10. a
+	11. a	
+12. c	
+13. a	
+14. b	
+15. c
+II.	
+Short Answer Questions
+1.	 	 Defne forbidden energy gap. 
+2.	 	 Why is temperature co-efcient of 
+resistance negative for semiconductor?
+3.	 	 What do you mean by doping? 
+4.	 	 Distinguish between intrinsic and 
+extrinsic semiconductors. 
+5.	 	 A diode is called as a unidirectional 
+device. Explain.
+6.	 	 What do you mean by leakage current 
+in a diode? 
+7.	 	 Draw the input and output waveforms 
+of a full wave rectifer. 
+8.	 	 Distinguish 
+between 
+avalanche 
+breakdown and Zener breakdown. 
+9.	 	 Give the Barkhausen conditions for 
+sustained oscillations.
+10.	 Explain the current fow in a NPN 
+transistor. 
+11.	 What are logic gates?
+12.	 Explain the need for a feedback circuit 
+in a transistor oscillator. 
+13.	 Write a short note on difusion current 
+across p-n junction.
+14.	 What is meant by biasing? Mention its 
+types.
+15.	 Why can’t we interchange the emitter 
+and collector even though they are made 
+up of the same type of semiconductor 
+material?
+a.
+0 V
+R
+–2 V
+b.
+–4 V
+–2 V
+R
+–3 V
+c.
+R
++2 V
+d.
+–3 V
+R
++5 V
+12.	 Te 
+given 
+electrical 
+network 
+is 
+equivalent to
+(NEET)
+A
+B
+Y
+a) AND gate	
+b) OR gate
+c) NOR gate	
+d) NOT gate
+13.	 Te output of the following circuit is 1 
+when the input ABC is
+(NEET)
+A
+B
+C
+Y
+              
+a) 101  	
+b) 100
+c) 110  	
+d) 010
+14.	 Te variation of frequency of carrier 
+wave with respect to the amplitude of 
+the modulating signal is called 
+a)  Amplitude modulation
+b)  Frequency modulation
+c)  Phase modulation
+d)  Pulse width modulation
+15.	 Te frequency range of 3 MHz to 
+30 MHz is used for 
+a)  Ground wave propagation
+b)  Space wave propagation
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   247
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   247
+04-03-2022   17:19:26
+04-03-2022   17:19:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 248
+PDF_PAGE: 256
+------------------------------------------------------------
+
+248
+Unit 10  electronics and Communication
+7.	 	 Explain the working principle of a solar 
+cell. Mention its applications. 
+8.	 	 Sketch the static characteristics of a 
+common emitter transistor and bring 
+out the essential features of input and 
+output characteristics. 
+9.	 	 Transistor functions as a switch. 
+Explain. 
+10.	 Describe the function of a transistor 
+as an amplifer with the neat circuit 
+diagram. Sketch the input and output 
+wave forms. 
+11.	 Give circuit symbol, logical operation, 
+truth table, and Boolean expression of 
+i) AND gate ii) OR gate iii) NOT gate 
+iv) NAND gate v) NOR gate and vi) 
+EX-OR gate.
+12.	 State and prove De Morgan’s frst and 
+second theorem.
+13.	 Explain the ampitude modulation with 
+necessary diagrams.
+14.	 Explain 
+the 
+basic 
+elements 
+of 
+communication 
+system 
+with 
+the 
+necessary block diagram.
+15.	 Explain the ground wave propagation 
+and 
+space 
+wave 
+propagation 
+of 
+electromagnetic waves through space.
+16.	 List out the advantages and limitations 
+of frequency modulation.
+17.	 What is meant by satellite communi­
+cation? Give its applications.
+IV. Numerical Problems 
+1.	 	 Te given circuit has two ideal diodes 
+connected as shown in fgure below. 
+Calculate the current fowing through 
+the resistance R1.
+[Ans: 2.5 A]
+16.	 Why are NOR and NAND gates called 
+universal gates?
+17.	 Defne barrier potential.
+18.	 What is rectifcation?
+19.	 List the applications of light emitting 
+diode.
+20.	 Give the principle of solar cells.
+21.	 What is an integrated circuit?
+22.	 What is modulation?
+23.	 Defne bandwidth of transmission 
+system.
+24.	 What do you mean by skip distance?
+25.	 Give applications of RADAR.
+26.	 What is mobile communication?
+27.	 Explain centre frequency or resting 
+frequency in frequency modulation.
+28.	 What does RADAR stand for?
+29.	 Fiber optic communication is gaining 
+popularity 
+among 
+the 
+various 
+transmission media -justify.
+III.	 Long Answer Questions 
+1.	 	 Elucidate the formation of n-type 
+extrinsic semiconductors. 
+2.	 	 Explain the formation of depletion 
+region and barrier potential in PN 
+junction diode. 
+3.	 	 Draw the circuit diagram of a half wave 
+rectifer and explain its working. 
+4.	 	 Explain the construction and working 
+of a full wave rectifer. 
+5.	 	 What is an LED? Give the principle of 
+its operation with a diagram. 
+6.	 	 Write a note on photodiode. 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   248
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   248
+04-03-2022   17:19:26
+04-03-2022   17:19:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 249
+PDF_PAGE: 257
+------------------------------------------------------------
+
+249
+Unit 10  electronics and Communication
+4.	 	 In the circuit shown in the fgure, the 
+BJT has a current gain (β) of 50. For an 
+emitter – base voltage VEB = 600 mV, 
+calculate the emitter – collector voltage 
+VEC (in volts).
+[Ans: 2 V]
+60kΩ
+3V
+500Ω
+5.	 	 Determine the current fowing through 
+3Ω and 4Ω resistors of the circuit given 
+below. Assume that diodes D1 and D2 
+are ideal diodes.
+
+[Ans: 0 and 2A]
+2Ω
+D1
+D2
+3Ω
+6Ω
+12V
+4Ω
+R1
+D1
+D2
+R2
+R3
+3 Ω
+2 Ω
+2 Ω
+10 V
+2.	 	 Four silicon diodes and a 10 Ω resistor 
+are connected as shown in fgure below. 
+Each diode has a resistance of 1Ω. Find 
+the current fows through the 10Ω 
+resistor.
+[Ans: 0.13 A]
+D 1
+D 2
+D 3
+D 4
+A
+10 Ω
+3 V
+B
+C
+D
+E
+F
++ –
+ 
+3.	 	 Assuming VCEsat = 0.2 V and β = 50, 
+fnd the minimum base current (IB) 
+required to drive the transistor given in 
+the fgure to saturation.  [Ans: 56 µA]
+IB
+IC
+ 1kΩ
+3V
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   249
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   249
+04-03-2022   17:19:27
+04-03-2022   17:19:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 250
+PDF_PAGE: 258
+------------------------------------------------------------
+
+250
+Unit 10  electronics and Communication
+9.	 Write down Boolean equation for the 
+output Y of the given circuit and give 
+its truth table. 
+
+[Ans: Y = (AB)+(A+B)]
+A
+B
+A
+B
+Y
+6.	 	 Prove 
+the 
+following 
+Boolean 
+expressions 
+using 
+the 
+laws 
+and 
+theorems of Boolean algebra.
+	
+	 i)	
+ (A+B) (A+B) = A
+	
+	 ii)	 A(A+B) = AB
+	
+	 iii)	 (A+B) (A+C) = A+BC
+7.	 	 Verify the given Boolean equation 
+A + AB = A + B using truth table.
+8.	 	 In the given fgure of a voltage 
+regulator, a Zener diode of breakdown 
+voltage 15V is employed. Determine 
+the 
+current 
+through 
+the 
+load 
+resistance, the total current and the 
+current through the diode. Use diode 
+approximation. 
+
+[Ans: 5mA; 20 mA; 15 mA]
+25 V
+RS = 500Ω 
+RL  = 3kΩ 
+IL
+IZ
+VZ
+I
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   250
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   250
+04-03-2022   17:19:27
+04-03-2022   17:19:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 251
+PDF_PAGE: 259
+------------------------------------------------------------
+
+251
+Unit 10  electronics and Communication
+BOOK FOR REFERENCES 
+	 1.	 Charles Kittel , Introduction to Solid State Physics, John Wiley & Sons, 2012
+	 2.	 Rita John, Solid State Physics, McGraw Hill Education, 2016
+	 3.	 Robert L. Boylestad, Louis Nashelsky, Electronic Devices and Circuit Teory , Pearson 
+Prentice Hall, 2011
+	 4.	 Jacob Millman,  Christos Halkias,  Chetan Parikh,  Millman’s Integrated Electronics, 
+McGraw Hill Education, 2017   
+	 5.	 B.L.Teraja, R.S. Sedha, Principles of Electronics Devices and Circuits (Analog and Digital), 
+S. Chand & Company, 2011
+	 6.	 Albert Paul Malvino, Donald P. Leach, Goutam Saha, Digital principles and applications, 
+McGraw Hill Education, 2014
+	 7.	 V.K.Metha, Rohit Metha, Principles of Electronics, S. Chand & Company, 2010.
+	 8.	 B.L.Teraja, R.S. Sedha, Principles of Electronics Devices and Circuits (Analog and Digital), 
+S. Chand & Company, 2011.
+	 9.	 K.D.Prasad, Antenna and Wave Propagation,  Satya Prakashan, 2007.
+	 10.	U A Bakshi; A V Bakshi; K A Bakshi, Antenna and Wave Propagation, Technical 
+Publications, 2014.
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   251
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   251
+04-03-2022   17:19:27
+04-03-2022   17:19:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 252
+PDF_PAGE: 260
+------------------------------------------------------------
+
+252
+Unit 10  electronics and Communication
+Electronics and Communication
+In this activity you will be able to  
+(i) Construct , manipulate and simulate  
+the logic circuits. (ii) verify the truth tables 
+of AND, OR, NOT, EX-OR, NAND and 
+NOR gates
+STEPS:
+• Open the browser and type “circuitverse.org/simulator” in the address bar. 
+• Click ‘Gates’ tab from the circuit elements. Select the gate you want to verify and drag it in 
+to the stage.
+• Nodes in the logic gates are connected through wires. Wires can be drawn by dragging 
+from the nodes with the help of mouse.
+• Select ‘input tool’  from input tab. Drag and keep it as two inputs.   
+• Select ‘output tool’ or ‘digital LED’ from output tab. Drag and keep it as output.
+• Verify the truth tables of AND, OR, NOT, EX-OR, NAND and NOR gates. You can verify 
+De Morgan’s first and second theorems.
+Note:
+Login with the help of your mail id if you want to save your project in online. 
+URL:
+https://circuitverse.org/simulator
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: Logic gates
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   252
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   252
+04-03-2022   17:19:27
+04-03-2022   17:19:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 253
+PDF_PAGE: 261
+------------------------------------------------------------
+
+253
+U N I T 
+11
+RECENT DEVELOPMENTS 
+IN PHYSICS
+‘There’s Plenty of Room at the Bottom: An  Invitation to Enter a New Field of Physics’
+-Richard Feynman
+253
+XII_Physics_Vol-2_UNIT-11_EM.indd   253
+XII_Physics_Vol-2_UNIT-11_EM.indd   253
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 254
+PDF_PAGE: 262
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+254
+XII_Physics_Vol-2_UNIT-11_EM.indd   254
+XII_Physics_Vol-2_UNIT-11_EM.indd   254
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 255
+PDF_PAGE: 263
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+255
+XII_Physics_Vol-2_UNIT-11_EM.indd   255
+XII_Physics_Vol-2_UNIT-11_EM.indd   255
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 256
+PDF_PAGE: 264
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+256
+XII_Physics_Vol-2_UNIT-11_EM.indd   256
+XII_Physics_Vol-2_UNIT-11_EM.indd   256
+26-12-2022   15:49:14
+26-12-2022   15:49:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 257
+PDF_PAGE: 265
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+257
+XII_Physics_Vol-2_UNIT-11_EM.indd   257
+XII_Physics_Vol-2_UNIT-11_EM.indd   257
+26-12-2022   15:49:16
+26-12-2022   15:49:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 258
+PDF_PAGE: 266
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+258
+XII_Physics_Vol-2_UNIT-11_EM.indd   258
+XII_Physics_Vol-2_UNIT-11_EM.indd   258
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 259
+PDF_PAGE: 267
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+259
+XII_Physics_Vol-2_UNIT-11_EM.indd   259
+XII_Physics_Vol-2_UNIT-11_EM.indd   259
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 260
+PDF_PAGE: 268
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+260
+Automotive industry
+Lightweight construction
+Painting (ﬁllers, base coat, 
+clear coat)
+Catalysts
+Tires (ﬁllers)
+Sensors
+Coatings for wind-
+screen and car bodies
+Chemical industry
+Fillers for paint systems
+Coating systems based
+on nanocomposites
+Impregnation of papers
+Switchable adhesives
+Magnetic ﬂuids
+Engineering
+Wear protection for
+tools and machines
+(anti blocking coatings,
+scratch resistant
+coatings on plastic 
+parts, etc.)
+Lubricant-free bearings
+Electronic industry
+Data memory 
+Displays
+Laser diodes
+Glass ﬁbres
+Optical switches
+Filters (IR-blocking)
+Conductive, antistatic
+coatings
+Construction
+Construction materials
+Termal insulation
+Flame retardants
+Surface-functionalised
+building materials for 
+wood, ﬂoors, stone,
+facades, tiles, roof tiles, etc.
+Facade coatings
+Groove mortar
+Medicine
+Drug delivery systems
+Active agents
+Contrast medium
+Medical rapid tests
+Prostheses and 
+implants
+Antimicrobial agents
+and coatings
+Agents in cancer therapy
+Electronics
+Metallurgy
+and materials
+Defense and
+security
+Energy
+storage
+Optical
+engineering and
+communication
+Biomedical and
+drug delivery
+Agriculture
+and food
+Cosmetics
+and paints
+Biotechnology
+Textile
+Applications of nanomaterial based products in diﬀerernt areas
+11.2.6 Applications of Nano technology
+Nanotechnology
+Applications
+XII_Physics_Vol-2_UNIT-11_EM.indd   260
+XII_Physics_Vol-2_UNIT-11_EM.indd   260
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 261
+PDF_PAGE: 269
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+261
+11.2.7 Possible harmful eﬀects of nanoparticles
+Te research on the harmful impact of application of nanotechnology is also equally 
+important and fast developing. Te major concern here is that the nanoparticles have 
+the dimensions same as that of the biological molecules such as proteins. Tey may 
+easily get absorbed onto the surface of living organisms and they might enter the 
+tissues and ﬂuids of the body. 
+ Te adsorbing nature depends on the surface of the nanoparticle. Indeed, it is possi-
+ble to deliver a drug directly to a speciﬁc cell in the body by designing the surface of a 
+nanoparticle so that it adsorbs speciﬁcally onto the surface of the target cell.
+Te interaction with living systems is also aﬀected by the dimensions of the nanopar-
+ticles. For instance, nanoparticles of a few nanometers size may reach well inside 
+biomolecules, which is not possible for larger nanoparticles. Nanoparticles can also 
+cross cell membranes. It is also possible for the inhaled nanoparticles to reach the 
+blood, to reach other sites such as the liver, heart or blood cells. 
+ Researchers are trying to understand the response of living organisms to the pres-
+ence of nanoparticles of varying size, shape, chemical composition and surface 
+characteristics.
+Textile/fabrics/
+non-wovens
+Surface-processed
+textiles
+Smart clothes
+Food and drinks
+Package materials
+Storage life sensors
+Additives
+Clariﬁcation of fruit
+juices
+Energy
+Fuel cells
+Solar cells
+Batteries
+Capacitors
+Household
+Ceramic coatings for
+irons
+Odors catalyst
+Cleaner for glass,
+ceramic, ﬂoor,
+windows
+Cosmetics
+Sun protection
+Lipsticks
+Skin creams
+Tooth paste
+Sports/ outdoor
+Ski wax
+Antifogging of 
+glasses/goggles
+Antifouling coatings
+for ships/boats
+Reinforced tennis
+rackets and balls
+XII_Physics_Vol-2_UNIT-11_EM.indd   261
+XII_Physics_Vol-2_UNIT-11_EM.indd   261
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 262
+PDF_PAGE: 270
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+262
+NANOPARTICLES
+INTERNALIZED
+IN CELLS
+Mitochondrion
+Nucleus
+Cytoplasm
+Membrane
+Lipid vesicle
+Nanoparticles
+ingestion
+Gastro-Intestinal
+System
+Crohn’s disease
+Colon cancer
+Orthopedic implant
+wear debris
+Auto-immune diseases
+Dermatitis
+Urticaria
+Vasculitis
+Brain
+Nanoparticle inhalation
+Lungs
+Circulatory
+system
+Asthma
+Bronchitis
+Emphysema
+Cancer
+Heart
+Arrythmia
+Heart disease
+Death
+Other organs
+Diseases of
+unknown
+etiology in
+kidneys, liver
+Lymphatic
+system
+Podoconiosis
+Kaposi’s sarcoma
+Skin
+Auto-immune
+ diseases
+dermatitis
+Neurological diseases:
+Parkinson’s disease
+Alzheimer’s disease
+DISEASES ASSOCIATED TO NANOPARTICLE EXPOSURE
+(Not for examination)
+XII_Physics_Vol-2_UNIT-11_EM.indd   262
+XII_Physics_Vol-2_UNIT-11_EM.indd   262
+26-12-2022   15:49:18
+26-12-2022   15:49:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 263
+PDF_PAGE: 271
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+263
+11.3.1 What is robotics?
+Robotics is an integrated study of mechanical engineering, electronic engineering, 
+computer engineering, and science. Robot is a mechanical device designed with 
+electronic circuitry and programmed to perform a speciﬁc task. Tese automated 
+machines are highly signiﬁcant in this robotic era. Tey can take up the role of 
+humans in certain dangerous environments that are hazardous to people like 
+defusing bombs, ﬁnding survivors in unstable ruins, and exploring mines and 
+shipwrecks. 
+11.3 Robotics
+Co-defender
+Co-inhabitant
+Co-explorer
+Co-worker
+Services
+Logistics
+Manufacture 
+& Automation
+ Macro
+Manufacture 
+&
+Automation
+ Micro/Nano
+Medical
+Surgery
+Rehabilitate 
+orthotics
+ prosthetics
+Unmanned
+vehicles
+Intelligent
+ transportation
+Monitoring
+Inspection
+Security
+Human-
+Robot
+Interfaces
+Intelligent
+Co-Robot
+In 1954, George Devol invented the ﬁrst digitally operated programmable robot 
+called Unimate. George Devol and Joseph Engelberger, the father of the modern 
+robotics industry formed the world’s ﬁrst robot company in 1956. In 1961, 
+Unimate, was operated in a General Motors automobile factory for moving car 
+parts around in New Jersey.
+XII_Physics_Vol-2_UNIT-11_EM.indd   263
+XII_Physics_Vol-2_UNIT-11_EM.indd   263
+26-12-2022   15:49:18
+26-12-2022   15:49:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 264
+PDF_PAGE: 272
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+264
+Most robots are composed of 
+3 main parts:
+1.  Te Controller ‐ also known as the     
+     "brain"  which is  run by a computer 
+     program. It gives  commands for the 
+     moving parts to perform the job.
+2.  Mechanical parts - motors, pistons, 
+     grippers,  wheels, and gears that make 
+     the robot move, grab, turn, and lif.
+3.  Sensors - to tell the robot about its 
+     surroundings. It helps to determine 
+     the sizes and shapes of the objects 
+     around, distance between the objects, 
+     and directions as well.
+1.   Power conversion unit: Robots are powered by batteries,   solar power, and hydraulics.
+2.   Actuators: Converts energy into movement. Te majority of the actuators produce rotational or 
+       linear motion.
+3.   Electric motors: Tey are used to actuate the parts of the robots like wheels, arms, ﬁngers, legs, 
+      sensors, camera,   weapon systems etc. Diﬀerent types of electric motors are used. Te most ofen 
+      used ones are AC  motor, Brushed DC motor, Brushless DC motor, Geared DC motor, etc.
+4.   Pneumatic Air Muscles: Tey are devices that can  contract and expand when air is pumped inside. 
+      It can replicate  the  function of a human muscle. Tey contract almost 40% when the air is sucked 
+      inside them.
+5.   Muscle wires: Tey are thin strands of wire made of shape memory alloys. Tey can contract by 5% 
+       when electric current is  passed through them.
+6.   Piezo Motors and Ultrasonic Motors: Basically, we use it for industrial robots.
+7.   Sensors: Generally used in task environments as it provides information of real-time knowledge.
+8.   Robot locomotion: Provides the types of movements to a robot. Te diﬀerent types are
+       (a)    Legged   (b)   Wheeled   (c)  Combination of Legged and Wheeled Locomotion    
+       (d)  Tracked slip/skid
+HUMAN ROBOT
+Certain robots are made to resemble humans in 
+appearance and replicate the human activities 
+like walking, lifing, and sensing, etc.
+Key components
+Controller
+Power conversion
+unit
+Actuators
+Sensors
+Manipulator
+linkage base
+User 
+interface
+11.3.3 TYPES OF ROBOTS
+11.3.2 COMPONENTS OF ROBOTICS
+Te robotic system mainly consists of sensors, power supplies, control systems, manipula-
+tors and necessary sofware. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   264
+XII_Physics_Vol-2_UNIT-11_EM.indd   264
+26-12-2022   15:49:19
+26-12-2022   15:49:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 273
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+265
+Cartesian
+* SCARA
+1
+2
+3
+4
+5
+6
+Cylindrical
+Delta
+Polar
+Vertically articulated
+Six main types of industrial robots
+Arc Welding
+Spot Welding
+Material Handling
+Machine Tending
+Other Applications
+Six-axis robots are ideal for
+Artiﬁcial
+Intelligence
+ Te aim of artiﬁcial intelligence is to 
+bring in human like  behaviour in robots. It works on
+1.   Face recognition
+2.   Providing response to player’s actions in computer games
+3.   Taking decisions based on previous actions
+4.   To regulate the traﬃc by analyzing the density of traﬃc on roads.
+5.   Translate words from one language to another
+INDUSTRIAL ROBOTS
+Artiﬁcial Intelligence
+*Selective Compliance Assembly Robot Arm
+XII_Physics_Vol-2_UNIT-11_EM.indd   265
+XII_Physics_Vol-2_UNIT-11_EM.indd   265
+26-12-2022   15:49:19
+26-12-2022   15:49:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 266
+PDF_PAGE: 274
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+266
+Outer space:  Exploring stars, planets etc., investigation of the mineralogy 
+of the rocks and soils on Mars, analysis of elements found in rocks and soils.
+Vacuum Cleaners
+Lawn mowing
+Pool cleaning
+Welding
+Cutting
+V
+Assembling
+Litter robot
+Transport
+Surgery
+Weaponry
+Packing
+Underwater
+Hospitals
+Nanorobots
+Agriculture
+Laboratory
+Te size of the nano robots is reduced to microscopic level to 
+perform a task in very small spaces. However, it is only in the 
+developmental stage. Te future prospects of it are much expected 
+in the medical ﬁeld: Nano-robots in blood stream to perform small 
+surgical procedures, to ﬁght against bacteria, repairing individual 
+cell in the body. It can travel into the body and once afer the job is 
+performed it can ﬁnd its way out. Chinese scientists have created 
+the world’s ﬁrst autonomous DNA robots to combat cancer 
+tumours.
+11.3.4 Applications 
+Mars Rovers of NASA
+Twin Mars Rovers 
+Mars Pathﬁnder Mission
+XII_Physics_Vol-2_UNIT-11_EM.indd   266
+XII_Physics_Vol-2_UNIT-11_EM.indd   266
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 267
+PDF_PAGE: 275
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+267
+Materials used to make robots
+For robots, aluminum and steel are the most common metals. Aluminum is a sofer 
+metal and is therefore easier to work with, but steel is several times stronger. In any 
+case, because of the inherent strength of metal, robot bodies are made using sheet, bar, 
+rod, channel, and other shapes.
+1.    Te robots are much cheaper than humans.
+2.    Robots never get tired like humans. It can work for 24 x 7. Hence absenteeism 
+       in work place can be reduced.
+3.   Robots are more precise and error free in performing the task.
+4.   Stronger and faster than humans.
+5.   Robots can work in extreme environmental conditions: extreme hot or cold, 
+       space or underwater. In dangerous situations like bomb detection and bomb
+       deactivation.
+6.    In warfare, robots can save human lives.
+7.    Robots are signiﬁcantly used in handling materials in chemical industries 
+       especially in nuclear plants which can lead to health hazards in humans.
+1.    Robots have no sense of emotions or conscience. 
+2.    Tey lack empathy and hence create an emotionless workplace. 
+3.    If ultimately robots would do all the work, and the humans will just sit
+       and monitor them, health hazards will increase rapidly.
+4.    Unemployment problem will increase.
+5.    Robots can perform deﬁned tasks and cannot handle unexpected situations
+6.    Te robots are well programmed to do a job and if a small thing goes 
+       wrong it ends up in a big loss to the company.
+7.    If a robot malfunctions, it takes time to identify the problem, rectify it, 
+       and even reprogram if necessary. Tis process requires signiﬁcant time.
+8.    Humans cannot be replaced by robots in decision making.
+9.    Till the robot reaches the level of human intelligence, the humans in work place will 
+       exit.
+11.3.5 Advantages of Robotics
+11.3.6 Disadvantages of Robotics
+XII_Physics_Vol-2_UNIT-11_EM.indd   267
+XII_Physics_Vol-2_UNIT-11_EM.indd   267
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 276
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+268
+11.4.1 Te development in medical ﬁeld has been proportional to 
+the evolution of physics as indicated below
+(Not for examination)
+Year
+Invention in physics
+(Inventors)
+Technique 
+used in medicine
+Image
+1
+1895
+Radiology-Xray
+imaging
+2
+3
+4
+5
+6
+1896 and 
+1898
+Radioisotope
+imaging
+Nuclear Medicine 
+1934
+Artiﬁcal Radioactivity 
+(Joliot and Irene Curie)
+Scintigraphy
+1950
+Echography  & Sonography
+Ecography
+1979
+Computed
+Tomography (CT)
+1952
+Magnetic Resonance 
+Imaging (MRI)
+X-rays
+(Wilhelm Conrad-Röntgen)
+Teory of Radioactivity
+(Antonie Henri Becquerrel, 
+Pierre Curie and Marie Cuire)
+11. 4  Physics in medical diagnosis and therapy
+11. 4  Physics in medical diagnosis and therapy
+Medical science very much revolves around physics principles. Medical instru-
+mentation has widened the life span due to the technology integrated diagnosis 
+and treatment of most of the diseases. Tis modernisation in all ﬁelds is possible 
+due to eﬃcient application of fundamental physics.
+X-ray computed 
+tomography (Cormack and 
+Hounsﬁeld)
+Nuclear Magnetic 
+Resonance (NMR)  (Felix 
+Bloch and Edward Purcell)
+XII_Physics_Vol-2_UNIT-11_EM.indd   268
+XII_Physics_Vol-2_UNIT-11_EM.indd   268
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 12
+PDF_PAGE: 277
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+269
+Year
+Invention in physics
+(Inventors)
+Technique 
+used in medicine
+Image
+7
+1934
+Positron Emission 
+Tomography
+8
+9
+10
+11
+1940’s
+Optical ﬁbre
+Endoscopy,
+Biomedical sensors
+1960
+LASER 
+Surgical instrument
+and diagonsis tool
+1959
+Nanotechnology
+Nanomedicine
+Drug delivary
+2005
+Computed 
+Tomography (CT)
+Artiﬁcal Radioactivity
+(Joliot and Irene Curie)
+Dual Source Computed 
+Tomography (DSCT)
+12
+1998
+Nuclear medicine
+(David Townsend, Ronald Nutt)
+Fusion Imaging 
+Techniques 
+(PET-CT, PET-MR)
+XII_Physics_Vol-2_UNIT-11_EM.indd   269
+XII_Physics_Vol-2_UNIT-11_EM.indd   269
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 278
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+270
+01
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+02
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+03
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+04
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+11.4. 2 Te recent advancement in medical technology includes
+01
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+02
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+03
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+04
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+Virtual reality
+Precision
+medicine
+1
+2
+3
+4
+5
+7
+8
+6
+Health
+wearables
+Artiﬁcial
+organs
+3D printing
+Wireless
+brain sensors
+Robotic
+ surgery
+Smart
+inhalers
+XII_Physics_Vol-2_UNIT-11_EM.indd   270
+XII_Physics_Vol-2_UNIT-11_EM.indd   270
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 279
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+271
+1. Virtual reality
+1
+Medical virtual reality is eﬀectively used to 
+stop the brain from processing pain and 
+cure soreness in the hospitalized patients. 
+Virtual reality has enhanced surgeries by 
+the use of 3D models by surgeons to plan 
+operations. It helps in the treatment of 
+Autism, Memory loss, and Mental illness.
+Te innovation in medical diagnosis has taken leaps and bounds due to the integration 
+of technology and basic physics. A few of such advancements are discussed.
+2. Precision medicine
+2
+Precision medicine is an emerging approach for disease treatment and 
+prevention that takes into account individual variability in genes, 
+environment, and lifestyle for each person. In this medical model it is possible 
+to customise healthcare, with medical decisions, treatments, practices, or 
+products which are tailored to the individual patient.
+PATIENT A
+MUTATION A
+DRUG A
+PATIENT B
+MUTATION B
+DRUG B
+XII_Physics_Vol-2_UNIT-11_EM.indd   271
+XII_Physics_Vol-2_UNIT-11_EM.indd   271
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 4
+PDF_PAGE: 280
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+272
+3. Health wearables
+3
+A health wearable is a device used for tracking a wearer's vital signs or 
+health and ﬁtness related data, location, etc. Medical wearables with 
+artiﬁcial intelligence and big data provide an added value to healthcare with 
+a focus on diagnosis, treatment, patient monitoring and prevention. 
+4. Artiﬁcial organs
+4
+An artiﬁcial organ is an engineered device or tissue that is 
+implanted or integrated into a human. It is possible to interface it 
+with living tissue or to replace a natural organ. It duplicates or 
+augments a speciﬁc function or functions of human organs so that 
+the patient may return to a normal life as soon as possible.
+NOTE
+Big Data: Extremely large 
+data sets that may be analysed 
+computationally to reveal 
+patterns, trends, and 
+associations, especially 
+relating to human behaviour 
+and interactions.
+XII_Physics_Vol-2_UNIT-11_EM.indd   272
+XII_Physics_Vol-2_UNIT-11_EM.indd   272
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 281
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+273
+5.  3D printing
+5
+Advanced 3D printer systems and materials assist physicians in a 
+range of operations in the medical ﬁeld from audiology, dentistry, 
+orthopedics and other applications.
+6. Wireless brain sensors
+6
+Wireless brain sensors monitor intracranial pressure and tempera-
+ture and then are absorbed by the body. Hence there is no need for 
+surgery to remove these devices.
+XII_Physics_Vol-2_UNIT-11_EM.indd   273
+XII_Physics_Vol-2_UNIT-11_EM.indd   273
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 282
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+274
+7. Robotic surgery
+7
+Robotic surgery is a type of surgical procedure that is done using robotic 
+systems. Robotically-assisted surgery helps to overcome the limitations of 
+pre-existing minimally-invasive surgical procedures and to enhance the 
+capabilities of surgeons performing open surgery.
+8. Smart inhalers
+8
+Inhalers are the main treatment option for asthma.  Smart inhal-
+ers are designed with health systems and patients in mind so that 
+they can oﬀer maximum beneﬁt.  Smart inhalers use bluetooth 
+technology to detect inhaler use, remind patients when to take 
+their medication and gather data to help guide care. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   274
+XII_Physics_Vol-2_UNIT-11_EM.indd   274
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 275
+PDF_PAGE: 283
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+275
+In the 1960s, quarks were discovered and it was understood that proton and neutron are 
+made up of quarks. In the meantime, the particle physics research gained momentum and 
+has grown exponentially both in theoretical and experimental perspective.  Later it was 
+found that the quarks interact through gluons. It is the ﬁeld which received more number 
+of noble prizes. Recently in the year 2013, famous ‘Higgs particles’ also known as “God” 
+particles were discovered and for this, Peter Higgs and Englert received noble prize in 
+physics. It is the ‘Higgs particle’ which gives mass to many particles like protons, neutrons 
+etc.
+O
+H
+Molecule
+Composed of two or
+more atoms
+Atom 
+Electrons revolving
+around the atomic
+nucleus
+Nucleus
+Composed of 
+protons
+and neutrons
+located in the 
+center of an atom
+Nucleon
+Protons and 
+neutrons
+comprising the 
+nucleus of an atom
+(Example)
+Molecule of water
+Oxygen atom
+Hydrogen atoms
+Electron 
+Neutron
+Proton
+Quark
+H
+Nucleus
+Neutron
+Proton
+Quark
+Other recent developments in physics
+Particle Physics
+Particle physics deals with the theory of fundamental particles of nature and it is one of 
+the active research areas in physics. Initially it was thought that atom is the fundamental 
+entity of matter. In 1930s, it was established that atoms are made up of electrons, protons 
+and neutrons. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   275
+XII_Physics_Vol-2_UNIT-11_EM.indd   275
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 276
+PDF_PAGE: 284
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+276
+Cosmology
+Cosmology is the branch that involves the origin and evolution of the universe. 
+It deals with formation of stars, galaxy etc. In the year 2015, the existence of 
+“gravitational waves” was discovered and noble prize was awarded for this discovery 
+in the year 2017.
+Gravitational waves are the disturbances in the curvature of space-time and it travels 
+with speed of light. Any accelerated charge emits electromagnetic wave. Similarly any 
+accelerated mass emits gravitational waves but these waves are very weak even for 
+masses like earth. Te strongest source of gravitational waves are black holes. Te 
+discovery of gravitational waves made it possible to study the structure of black holes 
+since it is the strongest source of gravitational waves. In fact, the recent discoveries of 
+gravitational waves are emitted by two black holes when they merge to a single black 
+hole. In fact, Albert Einstein theoretically proposed the existence of ‘gravitational 
+waves’ in the year 1915. Afer 100 years, it is experimentally proved that his predictions 
+are correct.
+ 
+Black holes are end stage of stars which are highly dense massive object. Its mass 
+ranges from 20 times mass of the sun to 1 million times mass of the sun. It has very 
+strong gravitational force such that no particle or even light can escape from it. Te 
+existence of black holes is studied when the stars orbiting the black hole behave 
+diﬀerently from the other stars.  Every galaxy has black hole at its center. Sagittarius A* 
+is the black hole at the center of the Milky Way galaxy.
+Gravitational wave 
+XII_Physics_Vol-2_UNIT-11_EM.indd   276
+XII_Physics_Vol-2_UNIT-11_EM.indd   276
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+

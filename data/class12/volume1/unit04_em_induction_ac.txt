@@ -1,0 +1,10192 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit IV – Electromagnetic Induction and Alternating Current
+
+TEXTBOOK_PAGE_RANGE:
+195–265
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 195
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+187
+ 
+
+Ampère’s circuital law is 
+
+
+ B dl
+I
+C
+enclosed
+⋅
+=
+∫
+µ0
+.
+ 
+
+Magnetic feld inside the solenoid is B
+nI
+= µ0
+, where n is the number of turns per 
+unit length.
+ 
+
+Magnetic feld interior to the toroid is B
+nI
+= µ0
+, where n is the number of turns per 
+unit length.
+ 
+
+Lorentz force is 
+
+
+
+
+F
+q E
+B
+=
++ ×
+(
+)
+v
+.
+ 
+
+Charged particle moving in a uniform magnetic feld will undergo circular motion. 
+ 
+
+Fleming’s Lef Hand Rule: Stretch forefnger, the middle fnger and the thumb of the lef 
+hand such that they are in mutually perpendicular directions. If we keep the forefnger in 
+the direction of magnetic feld, the middle fnger in the direction of the electric current, 
+then the thumb points in the direction the force experienced by the conductors. 
+ 
+
+One ampere is defned as that constant current when it is passed through each of the 
+two infnitely long parallel straight conductors kept at a distance of one meter apart 
+in vacuum causes each conductor to experience a force of 2 × 10–7 newton per metre 
+length of the conductor.
+ 
+
+When a current carrying coil is placed in a uniform magnetic feld, the net force on 
+it is always zero but net torque is not zero. Te magnitude of net torque is τ = NABI 
+sin θ.
+ 
+
+Moving coil galvanometer is an instrument used for the detection and measurement 
+of small currents.
+ 
+
+In moving coil galvanometer, current passing through the galvanometer is directly 
+proportional to the defection. Mathematically, I = Gθ, where G
+K
+NAB
+=
+is called 
+galvanometer constant or current reduction factor of the galvanometer.
+ 
+
+Current sensitivity is defned as the defection produced per unit current fowing 
+through it, I
+I
+NAB
+K
+I
+G
+s
+s
+=
+=
+⇒
+=
+θ
+1 .
+ 
+
+Voltage sensitivity is defned as the defection produced per unit voltage which is 
+applied across it, V
+V
+GR
+I
+R
+s
+g
+S
+g
+=
+=
+=
+θ
+1
+, where, Rg is the resistance of galvanometer. 
+ 
+
+Ammeter is an instrument used to measure current in an electrical circuit. 
+ 
+
+A galvanometer can be converted into an ammeter of given range by connecting a 
+suitable low resistance S called shunt in parallel to the given galvanometer.
+ 
+
+An ideal ammeter has zero resistance.
+ 
+
+Voltmeter is an instrument used to measure potential diference across any element 
+in an electrical circuit.
+ 
+
+A galvanometer can be converted into suitable voltmeter of given range by connecting 
+a suitable high resistance Rh in series with the given galvanometer.
+ 
+
+An ideal voltmeter has infnite resistance.
+12th Physics_Vol-1_Unit 3_English Medium.indd   187
+12th Physics_Vol-1_Unit 3_English Medium.indd   187
+23-12-2022   15:04:03
+23-12-2022   15:04:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 188
+PDF_PAGE: 196
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+188
+Magnetism and Magnetic eﬀects of
+electric current
+Bar Magnetics
+Earth’s
+Magnetism
+Magnetic
+materials
+Coulomb’s
+law
+Magnetic 
+elements
+Properties
+Tangent
+Galvanometer
+Magnetic 
+ﬁeld axial line
+Magnetic ﬁeld
+equitorial line
+Potential energy
+Torque
+Lorentz force
+Cyclotron
+Torque
+Moving coil
+Galvanometer
+Magnetic eﬀects of
+electric current
+Toroid
+Solenoid
+Magnetic ﬁeld of 
+current carrying 
+conductor
+Magnetism
+Ampere
+law
+Biot Savart’s
+law
+C O N C E P T M A P
+12th Physics_Vol-1_Unit 3_English Medium.indd   188
+12th Physics_Vol-1_Unit 3_English Medium.indd   188
+23-12-2022   15:04:04
+23-12-2022   15:04:04
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 197
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+189
+EVALUATION
+I Multiple choice questions
+	 1.	 Te magnetic feld at the centre O of 
+the following current loop is 
+I
+r
+O
+I
+I
+(a) µI
+r
+4
+Ä	
+(b) µ ⊙
+I
+r
+4
+(c) µI
+r
+2
+Ä	
+(d) µ ⊙
+I
+r
+2
+	 2.	 An electron moves in a straight line 
+inside a charged parallel plate capacitor 
+of uniform charge density σ. Te time 
+taken by the electron to cross the 
+parallel plate capacitor undefected 
+when the plates of the capacitor are 
+kept under constant magnetic feld of 
+induction ( )
+
+B is 
+ 
+E
+B
+v
+l
+e
+(a) ε
+σ
+
+elB 	
+ (b) ε σ
+
+lB
+l
+(c) ε
+σ
+
+lB
+e 	
+ (d) ε σ
+
+lB
+	 3.	 A particle having mass m and charge 
+q accelerated through a potential 
+diference V. Find the force experienced 
+when it is kept under perpendicular 
+magnetic feld 
+
+B.
+(a) 2
+3
+q BV
+m
+	
+ (b) q B V
+m
+3
+2
+2
+(c) 2
+3
+2
+q B V
+m
+	
+ (d) 2
+3
+3
+q BV
+m
+	 4.	 A circular coil of radius 5 cm and 50 
+turns carries a current of 3 ampere. Te 
+magnetic dipole moment of the coil is 
+nearly
+(a) 1.0 A m2  	
+(b) 1.2 A m2
+(c) 0.5 A m2  	
+(d) 0.8 A m2 
+	 5.	 A thin insulated wire forms a plane 
+spiral of N = 100 tight turns carrying a 
+current I = 8 m A (milli ampere). Te 
+radii of inside and outside turns are 
+a = 50 mm and b = 100 mm respectively. 
+Te magnetic induction at the centre of 
+the spiral is 
+(a) 5 µT	
+(b) 7 µT 
+(c) 8 µT 	
+(d) 10 µT
+	 6.	 Tree wires of equal lengths are bent in 
+the form of loops. One of the loops is 
+circle, another is a semi-circle and the 
+third one is a square. Tey are placed 
+in a uniform magnetic feld and same 
+electric current is passed through 
+them. Which of the following loop 
+confguration will experience greater 
+torque ?
+(a) Circle	
+(b) Semi-circle
+(c) Square	
+(d) All of them
+	 7.	 Two identical coils, each with N turns 
+and radius R are placed coaxially at a 
+distance R as shown in the fgure. If 
+I is the current passing through the 
+loops in the same direction, then the 
+12th Physics_Vol-1_Unit 3_English Medium.indd   189
+12th Physics_Vol-1_Unit 3_English Medium.indd   189
+23-12-2022   15:04:10
+23-12-2022   15:04:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 400
+PDF_PAGE: 198
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+190
+magnetic feld at a point P at a distance 
+of R/2 from the centre of each coil is   
+
+R
+
+P
+R
+(a) 8
+5
+N
+I
+R
+µ	
+(b) 8
+5
+3
+2
+N
+I
+R
+µ
+(c) 8
+5
+N
+I
+R
+µ	
+(d) 4
+5
+N
+I
+R
+µ
+	 8.	 A wire of length l carrying a 
+current I along the Y direction is 
+kept in a magnetic feld given by 
+
+B
+i
+j
+k T
+=
++
++
+(
+)
+β
+3
+
+
+
+.Te magnitude of 
+Lorentz force acting on the wire is 
+(a) 
+2
+3 βIl 	
+(b) 
+1
+3 βIl
+(c) 2βIl 	
+(d) 
+1
+2 βIl
+	 9.	 A bar magnet of length l and magnetic 
+moment pm is bent in the form of an arc 
+as shown in figure. Te new magnetic 
+dipole moment will be 
+(NEET 2013)
+r
+r
+60°
+(a) pm	
+(b) 3
+π pm
+(c) 2
+π pm 	
+(d) 1
+2 pm
+	10.	 A 
+non-conducting 
+charged 
+ring 
+carrying a charge of q, mass m and 
+radius r is rotated  about its axis with 
+constant angular speed ω. Find the 
+ratio of its magnetic moment with 
+angular momentum is 
+(a) q
+m 	
+(b) 2q
+m
+(c) q
+m
+2
+	
+(d) q
+m
+4
+	11.	 Te BH curve for a ferromagnetic 
+material is shown in the figure. Te 
+material is placed inside a long solenoid 
+which 
+contains 
+1000 
+turns/cm. 
+Te current that should be passed 
+in the solenonid to demagnetize the 
+ferromagnet completely is 
+B in tesla
+H in ampere
+per metre
+1.0
+2.0
+3.0
+4.0
+–4.0
+–3.0
+–2.0
+–1.0
+100
+200
+300
+400
+500
+-500 -400 -300 -200 -100
+(a) 1.00 m A	
+(b) 1.25 mA
+(c) 1.50 mA 	
+(d) 1.75 mA
+12th Physics_Vol-1_Unit 3_English Medium.indd   190
+12th Physics_Vol-1_Unit 3_English Medium.indd   190
+23-12-2022   15:04:16
+23-12-2022   15:04:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 199
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+191
+	12.	 Two short bar magnets have magnetic 
+moments 1.20 Am2 and 1.00 Am2 
+respectively. Tey are kept on a 
+horizontal table parallel to each other 
+with their north poles pointing towards 
+south. Tey have a common magnetic 
+equator and are separated by a distance 
+of 20.0 cm. Te value of the resultant 
+horizontal magnetic induction at the 
+mid-point O of the line joining their 
+centres is (Horizontal components 
+of Earth’s magnetic induction is 
+3.6 × 10–5 Wb m–2 )
+(NSEP 2000-2001)
+(a) 3.60 × 10–5 Wb m–2 
+(b) 3.5 × 10–5 Wb m–2 
+(c) 2.56 × 10–4 Wb m–2
+(d) 2.2 × 10–4 Wb m–2 
+	13.	 Te vertical component of Earth’s 
+magnetic feld at a place is equal to the 
+horizontal component. What is the 
+value of angle of dip at this place?
+(a) 30o	
+(b) 45o
+(c) 60o	
+(d) 90o
+	14.	 A fat dielectric disc of radius R carries 
+an excess charge on its surface. Te 
+surface charge density is σ. Te disc 
+rotates about an axis perpendicular to 
+its plane passing through the centre 
+with angular velocity ω. Find the 
+magnitude of the torque on the disc if 
+it is placed in a uniform magnetic feld 
+whose strength is B which is directed 
+perpendicular to the axis of rotation
+(a) 1
+4 σωπBR	
+(b) 1
+2
+2
+σωπBR
+(c) 1
+4
+3
+σωπBR 	
+(d)1
+4
+4
+σωπBR 
+	15.	 Te potential energy of magnetic 
+dipole whose dipole moment is 
+
+
+
+p
+i
+j
+m = −
++
+(
+.
+.
+)
+0 5
+0 4
+2
+Am 
+kept 
+in 
+uniform magnetic feld 
+
+
+B
+i
+= 0 2.
+T 
+(a) –0.1 J	
+(b) –0.8 J
+(c) 0.1 J	
+(d) 0.8 J
+Answers
+	 1) a	
+2) d	
+3) c	
+4) b	
+5) b
+	 6) a	
+7) b	
+8) a	
+9) b	
+10) c
+	11) c	
+12) c	
+13) b	
+14) d	
+15) c
+II Short answer questions:
+	 1.	 What is magnetic feld?
+	 2.	 Defne magnetic fux. 
+	 3.	 Defne magnetic dipole moment.
+	 4.	 State Coulomb’s inverse law.
+	 5.	 What is magnetic susceptibility?
+	 6.	 State Biot-Savart’s law.
+	 7.	 What is magnetic permeability?
+	 8.	 State Ampere’s circuital law.
+	 9.	 Compare dia, para and ferro-magnetism.
+	10.	 What is meant by hysteresis?
+11.	 Defne 
+magnetic 
+declination 
+and 
+inclination.
+12.	 What is resonance condition in 
+cyclotron?
+13.	 Defne ampere.
+14.	 State Fleming's lef hand rule.
+15.	 Is an ammeter connected in series or 
+parallel in a circuit? Why?
+16.	 Explain the concept of velocity selector. 
+17.	 Why is the path of a charged particle 
+not a circle when its velocity is not 
+perpendicular to the magnetic feld? 
+18.	 Give the properties of dia / para / 
+ferromagnetic materials. 
+12th Physics_Vol-1_Unit 3_English Medium.indd   191
+12th Physics_Vol-1_Unit 3_English Medium.indd   191
+23-12-2022   15:04:18
+23-12-2022   15:04:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 4
+PDF_PAGE: 200
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+192
+19.	 What happens to the domains in a 
+ferromagnetic material in the presence 
+of external magnetic feld?
+20.	 How is a galvanometer converted into 
+(i) an ammeter and (ii) a voltmeter?
+III Long answer questions
+	 1.	 Discuss Earth’s magnetic feld in detail.
+	 2.	 Deduce the relation for the magnetic 
+feld at a point due to an infnitely long 
+straight conductor carrying current 
+using Biot-Savart law. 
+	 3.	 Obtain a relation for the magnetic feld 
+at a point along the axis of a circular coil 
+carrying current using Biot-Savart law. 
+	 4.	 Compute the torque experienced by a 
+magnetic needle in a uniform magnetic 
+feld.
+	 5.	 Calculate the magnetic feld at a point 
+on the axial line of a bar magnet.
+	 6.	 Obtain the magnetic feld at a point on 
+the equatorial line of a bar magnet.
+	 7.	 Find the magnetic feld due to a long 
+straight conductor using Ampere’s 
+circuital law. 
+	 8.	 Discuss the working of cyclotron in 
+detail. 
+	 9. 	 What is tangent law? Discuss in detail.
+	10.	 Derive the expression for the torque on a 
+current-carrying coil in a magnetic feld.
+	11.	 Discuss the conversion of galvanometer 
+into an ammeter and also a voltmeter. 
+	12.	 Calculate the magnetic feld inside 
+and outside of the long solenoid using 
+Ampere’s circuital law.
+13.	 Derive the expression for the force 
+between two parallel, current-carrying 
+conductors.
+14.	 Give an account of magnetic Lorentz 
+force.
+15.	 Compare the properties of sof and 
+hard ferromagnetic materials.
+16.	 Derive the expression for the force 
+on a current-carrying conductor in a 
+magnetic feld.
+	17.	 Explain the principle and working of a 
+moving coil galvanometer.
+IV. Numerical problems
+	 1.	 A bar magnet having a magnetic 
+moment 
+pm is cut into four pieces i.e., 
+frst cut into two pieces along the axis 
+of the magnet and each piece is further 
+cut along the axis into two pieces. 
+Compute the magnetic moment of 
+each piece. 
+
+Answer 
+
+p
+p
+mnew
+m
+ = 1
+4
+	 2.	 A conductor of linear mass density 
+0.2 g m–1 suspended by two fexible 
+wire as shown in fgure. Suppose the 
+tension in the supporting wires is zero 
+when it is kept inside the magnetic 
+feld of 1 T whose direction is into the 
+page. Compute the current inside the 
+conductor and also the direction of the 
+current. Assume g = 10 m s–2 
+	
+Bin
+
+Answer 2 mA
+	 3.	 A circular coil with cross-sectional area 
+0.1 cm2 is kept in a uniform magnetic 
+feld of strength 0.2 T. If the current 
+passing in the coil is 3 A and plane 
+of the loop is perpendicular to the 
+direction of magnetic feld. Calculate
+12th Physics_Vol-1_Unit 3_English Medium.indd   192
+12th Physics_Vol-1_Unit 3_English Medium.indd   192
+23-12-2022   15:04:19
+23-12-2022   15:04:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 193
+PDF_PAGE: 201
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+193
+BOOKS FOR REFERENCE
+	 1.	 H. C. Verma, Concepts of Physics – Volume 2, Bharati Bhawan Publisher. 
+	 2.	 Halliday, Resnick and Walker, Fundamentals of Physics, Wiley Publishers, 10th edition. 
+	 3.	 Serway and Jewett, Physics for scientist and engineers with modern physics, Brook/Coole 
+publishers, Eighth edition.
+	 4.	 David J. Grifths, Introduction to Electrodynamics, Pearson publishers.
+	 5.	 Rita John, Solid State Physics (Magnetism chapter), McGraw Hill Education (India) Pvt. 
+Ltd.
+	 6.	 Paul Tipler and Gene Mosca, Physics for scientist and engineers with  modern physics, 
+Sixth edition, W.H. Freeman and Company.
+(a) total torque on the coil
+(b) total force on the coil
+(c) average force on each electron in the 
+coil due to the magnetic field. (The free 
+electron density for the material of the wire 
+is 1028 m–3).
+Answer (a) zero (b) zero (c) 0.6 x 10–23 N
+	 4.	 A bar magnet is placed in a uniform 
+magnetic feld whose strength is 0.8 T. 
+If the bar magnet is oriented at an angle 
+30o with the external feld experiences a 
+torque of 0.2 Nm. Calculate:
+ (i) the magnetic moment of the magnet
+(ii) the work done by the applied force 
+in moving it from most stable configuration 
+to the most unstable configuration and 
+also compute the work done by the applied 
+magnetic field in this case. 
+Answer (i) 0.5 A m2 (ii) W = 0.8 J and 
+Wmag = -0.8 J
+	 5.	 A non - conducting sphere has a 
+mass of 100 g and radius 20 cm. A fat 
+compact coil of wire with turns 5 is 
+wrapped tightly around it with each 
+turns concentric with the sphere. Tis 
+sphere is placed on an inclined plane 
+such that plane of coil is parallel to the 
+inclined plane. A uniform magnetic 
+feld of 0.5 T exists in the region in 
+vertically upward direction. Compute 
+the current I required to rest the sphere 
+in equilibrium.
+Answer 2
+π A
+	 6.	 Calculate the magnetic feld at the 
+centre of a square loop which carries 
+a current of 1.5 A, length of each side 
+being 50 cm.
+Answer 3.4 x 10–6 T
+12th Physics_Vol-1_Unit 3_English Medium.indd   193
+12th Physics_Vol-1_Unit 3_English Medium.indd   193
+23-12-2022   15:04:20
+23-12-2022   15:04:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 194
+PDF_PAGE: 202
+------------------------------------------------------------
+
+Unit 3  Magnetism and magnetic effects of electric current
+194
+Magnetism
+In this activity you will be able to visualize 
+and understand the working of cyclotron.
+STEPS:
+• Open the browser and type ‘physics.bu.edu/~dufy/HTML5/cyclotron.html’ in the address bar. 
+• Click ‘play’ to release the positively charged particle between the D-shaped sections. 
+• Observe trajectory of positively charged particle under the magnetic feld between D-shaped 
+sections. 
+• Note the kinetic energy of the particle afer some time (say t = 20 s)
+URL:
+http://physics.bu.edu/~duffy/HTML5/cyclotron.html
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: Cyclotron
+Double the electric and magnetic fields by clicking corresponding buttons and observe the change in kinetic 
+energy for a particular given time t.
+12th Physics_Vol-1_Unit 3_English Medium.indd   194
+12th Physics_Vol-1_Unit 3_English Medium.indd   194
+23-12-2022   15:04:22
+23-12-2022   15:04:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 195
+PDF_PAGE: 203
+------------------------------------------------------------
+
+195
+U N I T
+4
+ELECTROMAGNETIC INDUCTION 
+AND ALTERNATING CURRENT
+In this unit, the student is exposed to 
+•	 the phenomenon of electromagnetic induction
+•	 the application of Lenz’s law to fnd the direction of induced emf
+•	 the concept of Eddy current and its uses
+•	 the phenomenon of self-induction and mutual-induction
+•	 the various methods of producing induced emfs
+•	 the construction and working of AC generators
+•	 the principle of transformers and its role in long distance power communication
+•	 the notion of root mean square value of alternating current
+•	 the idea of phasors and phase relationships in diferent AC circuits
+•	 the insight about power in an AC circuit and wattless current
+•	 the understanding of energy conservation during LC oscillations
+“Nature is our kindest friend and best critic in experimental science if we only allow her 
+intimations to fall unbiased on our minds” ― Michael Faraday
+Learning Objectives
+4.1.1  Introduction
+In the previous chapter, we have learnt 
+that whenever an electric current flows 
+through a conductor, it produces a magnetic 
+field around it. This was discovered by 
+Christian Oersted. Later, Ampere proved 
+that a current-carrying loop behaves like a 
+bar magnet. These are the magnetic effects 
+produced by the electric current.
+4.1
+ELECTROMAGNETIC 
+INDUCTION
+Physicists then began to think of the 
+converse effect. Is it possible to produce an 
+electric current with the help of a magnetic 
+field? A series of experiments were 
+conducted to establish the converse effect. 
+These experiments were done by Michael 
+Faraday of UK and Joseph Henry of USA, 
+almost simultaneously and independently. 
+These attempts became successful and 
+led to the discovery of the phenomenon, 
+called Electromagnetic Induction. Michael 
+Faraday is credited with the discovery of 
+electromagnetic induction in 1831. 
+195
+12th Physics_Vol-1_Unit 4_English Medium.indd   195
+12th Physics_Vol-1_Unit 4_English Medium.indd   195
+23-12-2022   17:56:28
+23-12-2022   17:56:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 204
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+196
+B
+n
+(a)
+B
+
+n
+(b)
+
+Figure 4.1  Magnetic fux
+If the magnetic field B
+
+ is uniform over 
+the area A and is perpendicular to the area 
+as shown in Figure 4.1(b), then the above 
+equation becomes 
+ΦB
+ d
+=
+=
+∫B
+A
+
+
+.
+os
+A
+BA c
+θ
+       = BA
+since θ = °
+°=
+0
+0
+1
+, cos
+ 
+The SI unit of magnetic flux is T m2. It is 
+also measured in weber or Wb.
+1 Wb = 1 T m2
+EXAMPLE 4.1
+A circular antenna of area 3 m2 is installed 
+at a place in Madurai. The plane of the 
+area of antenna is inclined at 47o with the 
+direction of Earth’s magnetic field. If the 
+magnitude of Earth’s field at that place is 
+4.1 × 10–5 T find the magnetic flux linked 
+with the antenna.
+Solution
+B = 4.1 × 10–5 T; θ = 90o – 47o = 43°; 
+A = 3m2
+In this chapter, let us see a few 
+experiments of Faraday, the results and the 
+phenomenon of Electromagnetic Induction. 
+Before that, we will recollect the concept of 
+magnetic flux linked with a surface area.
+An anecdote!
+Michael Faraday was enormously 
+popular for his lectures as well. In 
+one of his lectures, he demonstrated 
+his 
+experiments 
+which 
+led 
+to 
+the discovery of electromagnetic 
+induction. 
+At the end of the lecture, one 
+member of the audience approached 
+Faraday and said, “Mr. Faraday, the 
+behaviour of the magnet and the coil 
+of wire was interesting, but what is the 
+use of it?”  Faraday answered politely, 
+“Sir, what is the use of a newborn 
+baby?”
+Note: We will soon see the greatness 
+of ‘that little child’ who has now 
+grown as an adult to cater to the 
+energy needs.
+4.1.2  Magnetic Flux (FB)
+The magnetic flux FB through an area A 
+in a magnetic field is defined as the number 
+of magnetic field lines passing through that 
+area normally and is given by the equation 
+(Figure 4.1(a)).
+ΦB
+ d 
+=∫B
+A
+
+
+.
+A
+
+(4.1)
+where the integral is taken over the area 
+A and θ is the angle between the direction of 
+the magnetic field and the outward normal 
+to the area. 
+12th Physics_Vol-1_Unit 4_English Medium.indd   196
+12th Physics_Vol-1_Unit 4_English Medium.indd   196
+23-12-2022   17:56:29
+23-12-2022   17:56:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 205
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+197
+Higher speed
+N
+S
+i
+i
+N
+S
+υ2 > υ1
+Larger deﬂection
+Lef deﬂection
+S
+N
+S-pole towards lef 
+(e)
+(f)
+C
+G
+C
+G
+Towards lef
+N
+S
+υ1
+Right deﬂection
+i
+(b)
+No motion
+No deﬂection
+N
+S
+(a)
+C
+G
+C
+G
+Kept stationary
+No deﬂection
+Away from coil
+Lef deﬂection
+i
+N
+S
+N
+(c)
+(d)
+N
+S
+N
+S
+C
+G
+C
+G
+Figure 4.2  Faraday’s frst experiment
+4.1.3  Faraday’s Experiments 
+on Electromagnetic Induction
+First Experiment
+Consider a closed circuit consisting of a 
+coil C of insulated wire and a galvanometer 
+G (Figure 4.2(a)). The galvanometer does 
+not indicate deflection as there is no electric 
+current in the circuit.
+When a bar magnet is inserted into the 
+stationary coil, with its north pole facing the 
+coil, there is a momentary deflection in the 
+galvanometer. This indicates that an electric 
+current is set up in the coil (Figure 4.2(b)).
+If the magnet is kept stationary inside the 
+We know that	
+ΦB
+BA
+=
+cosθ
+	
+FB = 4.1 × 10–5 ´ 3 ´ cos 43
+o
+	
+       = 4.1 × 10–5 ´ 3 ´ 0.7314
+	
+      = 89.96 mWb
+EXAMPLE 4.2
+A circular loop of area 5 ´ 10–2 m2 rotates 
+in a uniform magnetic field of 0.2 T. 
+If the loop rotates about its diameter which 
+is perpendicular to the magnetic field as 
+shown in figure. Find the magnetic flux 
+linked with the loop when its plane is 
+(i) normal to the field (ii) inclined 60o to 
+the field and (iii) parallel to the field.
+
+B
+Solution
+A = 5 ´ 10–2 m2; B = 0.2 T
+(i) θ = 0°;
+	
+ΦB
+BA
+=
+=
+× ×
+×
+−
+cos
+.
+cos
+θ
+0 2
+5 10
+0
+2
+
+	
+ΦB = ×
+−
+1 10 2Wb
+(ii) θ = 90° – 60° = 30°;
+	
+ΦB
+BA
+=
+=
+× ×
+×
+−
+cos
+.
+cos
+θ
+0 2
+5 10
+30
+2
+
+	
+ΦB = ×
+×
+−
+1 10
+3
+2
+2
+ 
+
+
+8 66 10 3
+.
+Wb
+(iii) θ = 90°;
+	
+ΦB
+BA
+=
+=
+cos90
+0
+
+12th Physics_Vol-1_Unit 4_English Medium.indd   197
+12th Physics_Vol-1_Unit 4_English Medium.indd   197
+23-12-2022   17:56:33
+23-12-2022   17:56:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 198
+PDF_PAGE: 206
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+198
+When the electric current becomes zero, the 
+galvanometer shows no deflection.
+From the above observations, it is 
+concluded that whenever the electric 
+current in the primary circuit changes, the 
+galvanometer shows a deflection.
+Faraday’s Law of Electromagnetic 
+Induction
+From the results of his experiments, 
+Faraday realized that 
+whenever the magnetic flux linked 
+with a closed coil changes, an emf 
+(electromotive force) is induced and 
+hence an electric current flows in 
+the circuit. This current is called an 
+induced current and the emf giving rise 
+to such current is called an induced 
+emf. This phenomenon is known as 
+electromagnetic induction. 
+coil, the galvanometer does not indicate 
+deflection (Figure 4.2(c)). 
+The bar magnet is now withdrawn from 
+the coil, the galvanometer again gives a 
+momentary deflection but in the opposite 
+direction. So the electric current flows in 
+opposite direction (Figure 4.2(d)). Now if 
+the magnet is moved faster, it gives a larger 
+deflection due to a greater current in the 
+circuit (Figure 4.2(e))
+The bar magnet is reversed i.e., the south 
+pole now faces the coil. When the above 
+experiment is repeated, the deflections are 
+opposite to that obtained in the case of north 
+pole (Figure 4.2(f)).
+If the magnet is kept stationary and the 
+coil is moved towards or away from the coil, 
+similar results are obtained. It is concluded 
+that whenever there is a relative motion 
+between the coil and the magnet, there is 
+deflection in the galvanometer, indicating 
+the electric current setup in the coil.
+Second Experiment
+Consider two closed circuits as shown 
+in Figure 4.3(a). The circuit consisting of a 
+coil P, a battery B and a key K is called as 
+primary circuit while the circuit with a coil S 
+and a galvanometer G is known as secondary 
+circuit. The coils P and S are kept at rest in 
+close proximity with respect to one another.
+If the primary circuit is closed, electric 
+current starts flowing in the primary circuit. 
+At that time, the galvanometer gives a 
+momentary deflection (Figure 4.3(a)). 
+After that, when the electric current 
+reaches a certain steady value, no deflection 
+is observed in the galvanometer.  
+Likewise if the primary circuit is broken, 
+the electric current starts decreasing and 
+there is again a sudden deflection but in 
+the opposite direction (Figure 4.3(b)). 
+P
+ip
+K
+B
+G
+iS
+Right deﬂection
+S
+Increasing current 
+(a)
+Decreasing current 
+P
+ Lef deﬂection
+S
+G
+iS
+ip
+K
+B
+(b)
+Figure 4.3  Faraday’s second experiment
+12th Physics_Vol-1_Unit 4_English Medium.indd   198
+12th Physics_Vol-1_Unit 4_English Medium.indd   198
+23-12-2022   17:56:34
+23-12-2022   17:56:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 199
+PDF_PAGE: 207
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+199
+direction and hence an electric current flows 
+in opposite direction (Figure 4.4(b)). So there 
+is deflection in the galvanometer when there 
+is a relative motion between the coil and the 
+magnet.
+In the second experiment, when the 
+primary coil P carries an electric current, a 
+magnetic field is established around it. The 
+magnetic lines of this field pass through 
+itself and the neighbouring secondary coil S.
+When the primary circuit is open, no 
+electric current flows in it and hence the 
+magnetic flux linked with the secondary 
+coil is zero (Figure 4.5(a)).
+However, when the primary circuit is 
+closed, the increasing current builds up a 
+G
+N
+S
+(a)
+G
+N
+S
+Right deﬂection
+C
+C
+i
+i
+magnetic ﬂux 
+linked is less
+magnetic ﬂux 
+linked is more
+(b)
+G
+N
+S
+G
+N
+S
+Lef deﬂection
+C
+C
+i
+i
+Figure 4.4  Explanation of Faraday’s frst experiment
+Based on this idea, Faraday’s experiments 
+are understood in the following way. In the 
+first experiment, when a bar magnet is placed 
+close to a coil, some of the magnetic field 
+lines of the bar magnet pass through the coil 
+i.e., the magnetic flux is linked with the coil. 
+When the bar magnet and the coil approach 
+each other, the magnetic flux linked with the 
+coil increases. So this increase in magnetic 
+flux induces an emf and hence a transient 
+electric current flows in the circuit in one 
+direction (Figure 4.4(a)). 
+At the same time, when they recede away 
+from one another, the magnetic flux linked 
+with the coil decreases. The decrease in 
+magnetic flux again induces an emf in opposite 
+12th Physics_Vol-1_Unit 4_English Medium.indd   199
+12th Physics_Vol-1_Unit 4_English Medium.indd   199
+23-12-2022   17:56:34
+23-12-2022   17:56:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 200
+PDF_PAGE: 208
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+200
+magnetic field around the primary coil. 
+Therefore, the magnetic flux linked with the 
+secondary coil increases. This increasing flux 
+linked induces a transient electric current in 
+the secondary coil (Figure 4.5(b)). When the 
+electric current in the primary coil reaches a 
+steady value, the magnetic flux linked with 
+the secondary coil does not change and the 
+electric current in the secondary coil will 
+disappear.
+Similarly, when the primary circuit is 
+broken, the decreasing primary current 
+P
+K
+B
+G
+No deﬂection
+S
+No current
+(a)
+P
+ip
+K
+B
+G
+iS
+Right deﬂection
+S
+Increasing 
+current
+(b)
+Decreasing 
+current
+P
+ Lef deﬂection
+S
+G
+iS
+ip
+K
+B
+(c)
+Figure 4.5  Explanation of Faraday’s 
+second experiment
+induces an electric current in the secondary 
+coil, but in the opposite direction (Figure 
+4.5(c)). So there is deflection in the 
+galvanometer whenever there is a change in 
+the primary current. 
+The conclusions of Faraday’s experiments 
+are stated as two laws.
+First law
+Whenever magnetic flux linked with 
+a closed circuit changes, an emf is 
+induced in the circuit which lasts in 
+the circuit as long as the magnetic flux 
+is changing.
+Second law
+The magnitude of induced emf in a 
+closed circuit is equal to the time rate 
+of change of magnetic flux linked with 
+the circuit.
+If the magnetic flux linked with each 
+turn of the coil changes by dΦB in a time 
+dt, then the induced emf in each turn is 
+given by 
+ε = d
+dt
+B
+Φ
+If a coil consisting of N turns is tightly 
+wound such that each turn covers the same 
+area, then the flux through each turn will be 
+the same. Then total emf induced in the coil 
+is given by
+ε =
+=
+N d
+dt
+d N
+dt
+B
+B
+(
+)
+(
+)
+Φ
+Φ
+
+(4.2)
+Here NΦB is called flux linkage, defined 
+as the product of number of turns N of the 
+coil and the magnetic flux linking each turn 
+of the coil ΦB.
+12th Physics_Vol-1_Unit 4_English Medium.indd   200
+12th Physics_Vol-1_Unit 4_English Medium.indd   200
+23-12-2022   17:56:35
+23-12-2022   17:56:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 209
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+201
+EXAMPLE 4.3
+A cylindrical bar magnet is kept along the 
+axis of a circular solenoid. If the magnet is 
+rotated about its axis, find out whether an 
+electric current is induced in the coil.
+Solution
+The magnetic field of a cylindrical magnet is 
+symmetrical about its axis. As the magnet is 
+rotated along the axis of the solenoid, there is 
+no induced current in the solenoid because 
+the flux linked with the solenoid does not 
+change due to the rotation of the magnet.
+EXAMPLE 4.4
+A closed coil of 40 turns and of area 200 cm2, 
+is rotated in a magnetic field of flux density 
+2 Wb m–2. It rotates from a position where 
+its plane makes an angle of 30o with the field 
+to a position perpendicular to the field in a 
+time 0.2 s. Find the magnitude of the emf 
+induced in the coil due to its rotation.
+Solution
+N = 40 turns; B = 2 Wb m–2
+A = 200 cm2 = 200 ´ 10–4 m2;
+Initial flux, Φi
+BA
+=
+cosθ
+	                    = 
+
+
+
+2 200 10
+60
+4
+cos
+	
+
+since θ =
+°−
+° =
+°
+90
+30
+60
+	
+	
+  Φi = ×
+−
+2 10 2Wb
+Final flux,  Φ f
+BA
+=
+cosθ 
+	
+                    
+
+
+
+2 200 10
+0
+4
+cos
+
+
+since θ = °
+0 
+	
+	
+ Φ f = ×
+−
+4 10 2Wb
+The magnitude of the induced emf is 
+	
+ε = N d
+dt
+B
+Φ
+	
+    =
+×
+×
+−×
+(
+)
+−
+−
+40
+4 10
+2 10
+0 2
+2
+2
+.
+ = 4V
+Importance of Electromagnetic 
+Induction!
+The application of the phenomenon 
+of Electromagnetic Induction is almost 
+everywhere in the present day life. Right 
+from home appliances to huge factory 
+machineries, from cellphone to computers 
+and internet, from electric guitar to satellite 
+communication, all need electricity for 
+their operation. There is an ever growing 
+demand for electric power. 
+All these are met with the help of 
+electric generators and transformers which 
+function on electromagnetic induction. 
+The 
+modern, 
+sophisticated 
+human 
+life would not be possible without the 
+discovery of electromagnetic induction.
+Exploring Electromagnetic Induction
+N
+S
+Make a circuit containing a coil of 
+insulated wire wound around soft hollow 
+core and a galvanometer as shown in 
+Figure. It is better to use a thin wire for 
+the coil so that we can wind many turns 
+in the available space. Perform the steps 
+described in first experiment of Faraday 
+with the help of a strong bar magnet. 
+Students will get hands-on experience 
+about electromagnetic induction.
+Activity
+12th Physics_Vol-1_Unit 4_English Medium.indd   201
+12th Physics_Vol-1_Unit 4_English Medium.indd   201
+23-12-2022   17:56:38
+23-12-2022   17:56:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 202
+PDF_PAGE: 210
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+202
+find the direction of the induced current 
+in a circuit.
+Illustration 1
+Consider a uniform magnetic field, with 
+its field lines perpendicular to the plane of 
+the paper and pointing inwards. These field 
+lines are represented by crosses (×) as shown 
+in Figure 4.6(a). A rectangular metallic 
+frame ABCD is placed in this magnetic field, 
+EXAMPLE 4.5
+A straight conducting wire is dropped 
+horizontally from a certain height with its 
+length along east – west direction. Will an 
+emf be induced in it? Justify your answer.
+Solution
+Yes! An emf will be induced in the wire 
+because it moves perpendicular to the 
+horizontal component of Earth’s magnetic 
+field and hence it cuts the magnetic lines of 
+Earth's magnetic filed.
+4.1.4  Lenz’s law
+A German physicist Heinrich Lenz 
+performed a series of experiments on 
+electromagnetic induction and deduced a 
+law to determine the direction of the induced 
+current. This law is known as Lenz’s law. 
+Lenz’s law states that the direction of 
+the induced current is such that it always 
+opposes the cause responsible for its 
+production.
+Faraday 
+discovered 
+that 
+whenever 
+magnetic flux linked with a coil changes, an 
+electric current is induced in the circuit. Here 
+the flux change is the cause while the induction 
+of current is the effect. Lenz’s law says that the 
+effect always opposes the cause. Therefore, the 
+induced current would flow in a direction so 
+that it could oppose the flux change.
+By incorporating Lenz's law into Faraday's 
+law, the equation (4.2) is rewritten as
+ε =−d N
+dt
+B
+(
+)
+Φ
+
+(4.3)
+The negative sign signifies that the 
+direction of induced emf is such that it 
+opposes the change in magnetic flux.
+To understand Lenz’s law, let us 
+consider two illustrations in which we 
+No Current
+A
+B
+i
+i
+B
+C
+C
+D
+D
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+A
+B
+C    
+D
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+(a)
+(b)
+(c)
+A
+× → (r, inwards)
+
+ → ind(r, outwards)
+
+× → ind(r, inwards)
+
+Figure 4.6  First illustration of Lenz’s law
+12th Physics_Vol-1_Unit 4_English Medium.indd   202
+12th Physics_Vol-1_Unit 4_English Medium.indd   202
+23-12-2022   17:56:39
+23-12-2022   17:56:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 203
+PDF_PAGE: 211
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+203
+Figure 4.7  Second illustration of Lenz’s law
+No motion
+(b)
+N
+S
+N
+S
+G
+(c)
+N
+G
+(a)
+G
+S
+N
+N
+N
+S
+S
+i
+i
+Repulsion between 
+coil and magnet
+Attraction between 
+coil and magnet
+current should flow in such a way that it 
+opposes the movement of the north pole 
+towards coil. It is possible if the end nearer 
+to the magnet becomes north pole (Figure 
+4.7(b)). Then it repels the north pole of the 
+with its plane perpendicular to the field. 
+The arm AB is movable so that it can slide 
+towards right or left.
+If the arm AB slides to our right side, 
+the number of field lines (magnetic flux) 
+passing through the frame ABCD increases 
+and a current is induced. As suggested by 
+Lenz’s law, the induced current opposes 
+this flux increase and it tries to reduce it by 
+producing another magnetic field pointing 
+outwards i.e., opposite to the existing 
+magnetic field. 
+The magnetic lines of this induced field 
+are represented by red-colored circles in 
+the Figure 4.6(b). From the direction of 
+the magnetic field thus produced, the 
+direction of the induced current is found 
+to be anti-clockwise by using right-hand 
+thumb rule.
+The leftward motion of arm AB decreases 
+magnetic flux. The induced current, this 
+time, produces a magnetic field in the 
+inward direction (red-colored crosses) i.e., 
+in the direction of the existing magnetic 
+field (Figure 4.6(c)). Therefore, the flux 
+decrease is opposed by the flow of induced 
+current. From this, it is found that induced 
+current flows in clockwise direction.
+Illustration 2
+Let us move a bar magnet towards 
+the solenoid, with its north pole pointing 
+the solenoid (Figure 4.7(b)). This motion 
+increases the magnetic flux of the coil which 
+in turn, induces an electric current. Due to 
+the flow of induced current, the coil becomes 
+a magnetic dipole whose two magnetic poles 
+are on either end of the coil. 
+In this case, the cause producing the 
+induced current is the movement of the 
+magnet. According to Lenz’s law, the induced 
+12th Physics_Vol-1_Unit 4_English Medium.indd   203
+12th Physics_Vol-1_Unit 4_English Medium.indd   203
+23-12-2022   17:56:39
+23-12-2022   17:56:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 204
+PDF_PAGE: 212
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+204
+bar magnet and opposes the movement of 
+the magnet. Once pole ends are known, the 
+direction of the induced current could be 
+found by using right hand thumb rule.
+When the bar magnet is withdrawn, 
+the nearer end becomes south pole which 
+attracts north pole of the bar magnet, 
+opposing the receding motion of the magnet 
+(Figure 4.7(c)). 
+Thus the direction of the induced current 
+can be found from Lenz’s law.
+Conservation of energy
+The truth of Lenz’s law can be established 
+on the basis of the law of conservation 
+of energy. The explanation is as follows: 
+According to Lenz’s law, when a magnet is 
+moved either towards or away from a coil, 
+the induced current produced opposes its 
+motion. As a result, there will always be a 
+resisting force on the moving magnet. Work 
+has to be done by some external agency to 
+move the magnet against this resisting force. 
+Here the mechanical energy of the moving 
+magnet is converted into the electrical 
+energy which in turn, gets converted into 
+Joule heat in the coil i.e., energy is converted 
+from one form to another.
+On the contrary to Lenz’s law, let us 
+assume that the induced current helps the 
+cause responsible for its production. Now 
+when we push the magnet little bit towards 
+the coil, the induced current helps the 
+movement of the magnet towards the coil. 
+Then the magnet starts moving towards the 
+coil without any expense of energy. This, 
+then, becomes a perpetual motion machine. 
+In practice, no such machine is possible. 
+Therefore, the assumption that the induced 
+current helps the cause is wrong. Thus Lenz's 
+law is an excellent example of conservation 
+of energy.
+4.1.5  Fleming’s right hand 
+rule
+When a conductor moves in a magnetic 
+field, the direction of motion of the 
+conductor, the field and the induced current 
+are given by Fleming’s right hand rule and is 
+as follows:
+Direction of motion
+of the conductor 
+Direction
+of ﬁeld
+Direction
+of Current
+N
+N
+S
+S
+Current
+Figure 4.8  Fleming’s right hand rule
+The thumb, index finger and middle 
+finger of right hand are stretched out in 
+mutually perpendicular directions (as 
+shown in Figure 4.8). If the index finger 
+points the direction of the magnetic field 
+and the thumb indicates the direction of 
+motion of the conductor, then the middle 
+finger will indicate the direction of the 
+induced current. 
+Fleming’s right hand rule is also known 
+as generator rule.
+EXAMPLE 4.6
+If the current i flowing in the straight 
+conducting wire as shown in the figure 
+decreases, find out the direction of induced 
+current in the metallic square loop placed 
+near it.
+12th Physics_Vol-1_Unit 4_English Medium.indd   204
+12th Physics_Vol-1_Unit 4_English Medium.indd   204
+23-12-2022   17:56:39
+23-12-2022   17:56:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 213
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+205
+Demonstration of Lenz’s law
+Take a narrow copper pipe and a 
+strongly magnetized button magnet as 
+shown in figure. Keep the copper pipe 
+vertical and drop the magnet into the 
+pipe. Watch the motion of the magnet and 
+note that magnet has become slower than 
+its free fall. The reason is that an electric 
+current generated by a moving magnet 
+will always oppose the original motion of 
+the magnet that produced the current.  
+Activity
+i
+Solution
+From right hand rule, the magnetic field by 
+the straight wire is directed into the plane 
+of the square loop perpendicularly and its 
+magnetic flux is decreasing. The decrease 
+in flux is opposed by the current induced 
+in the loop by producing a magnetic field 
+in the same direction as the magnetic field 
+of the wire. Again from right hand rule, for 
+this inward magnetic field, the direction of 
+the induced current in the loop is clockwise.
+EXAMPLE 4.7
+The magnetic flux passes perpendicular 
+to the plane of the circuit and is directed 
+into the paper. If the magnetic flux varies 
+with respect to time as per the following 
+relation: ΦB
+t
+t
+t
+=
++
++
++
+(
+)
+2
+3
+8
+5
+3
+2
+mWb , what 
+is the magnitude of the induced emf in the 
+loop when t = 3 s? Find out the direction of 
+current through the circuit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+Solution
+ΦB
+t
+t
+t
+=
++
++
++
+(
+)
+2
+3
+8
+5
+3
+2
+mWb; N =1; t = 3 s
+(i)	 ε = (
+)
+d N
+dt
+B
+Φ
+	
+    =
++
++
++
+(
+)×
+−
+d
+dt
+t
+t
+t
+2
+3
+8
+5
+10
+3
+2
+3
+	
+   
+
+
+
+
+
+6
+6
+8
+10
+2
+3
+t
+t
+V
+	
+At t = 3 s, 
+        ε =
+×
+(
+)+
+×
+(
+)+
+
+×
+−
+6
+9
+6
+3
+8
+10 3
+           =
+×
+−
+80 10 3V = 80mV
+(ii) As time passes, the magnetic flux linked 
+with the loop increases. According 
+to Lenz’s law, the direction of the 
+induced current should be in a way so 
+as to oppose the flux increase. So, the 
+induced current flows in such a way to 
+produce a magnetic field opposite to 
+the given field. This magnetic field is 
+perpendicularly outwards. Therefore, 
+the induced current flows in anti-
+clockwise direction.
+12th Physics_Vol-1_Unit 4_English Medium.indd   205
+12th Physics_Vol-1_Unit 4_English Medium.indd   205
+23-12-2022   17:56:42
+23-12-2022   17:56:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 206
+PDF_PAGE: 214
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+206
+
+
+
+e
+B
+eE
+ 
+=
+(
+)
+v
+
+
+
+vB
+E
+sin90
+vB
+E
+=
+
+(4.6)
+The potential difference between two 
+ends of the rod is 
+V
+El
+=
+V
+Bl
+=v
+Thus the Lorentz force on the free 
+electrons is responsible to maintain this 
+potential difference and hence produces an 
+emf 
+ε = Blv 
+(4.7)
+As this emf is produced due to the 
+movement of the rod, it is often called as 
+motional emf.  If the ends A and B are 
+connected by an external circuit of total 
+resistance R, then current i
+R
+Bl
+R
+=
+=
+ε
+v flows 
+in it. The direction of the current is found 
+from right-hand thumb rule.
+4.1.6  Motional emf from 
+Lorentz force
+Consider a straight conducting rod 
+AB of length l in a uniform magnetic field 
+
+B which is directed perpendicularly into 
+the plane of the paper as shown in Figure 
+4.9(a). The length of the rod is normal to 
+the magnetic field. Let the rod move with a 
+constant velocity v
+
+ towards right side.
+When the rod moves, the free electrons 
+present in it also move with same velocity 
+v
+
+ in 
+
+B. As a result, the Lorentz force acts on 
+free electrons in the direction from B to A 
+and is given by the relation
+F
+e
+B
+B
+
+
+
+=−
+×
+(
+)
+v
+
+(4.4)
+The action of this Lorentz force is to 
+accumulate the free electrons at the end 
+A. This accumulation of free electrons 
+produces a potential difference across the 
+rod which in turn establishes an electric field 
+
+E directed along BA (Figure 4.9(b)). Due to 
+the electric field 
+E, the coulomb force starts 
+acting on the free electrons along AB and is 
+given by
+F
+eE
+E
+
+
+
+
+(4.5)
+The magnitude of the electric field 
+
+E 
+keeps on increasing as long as accumulation 
+of electrons at the end A continues. The 
+force 
+FE also increases until equilibrium 
+is reached. At equilibrium, the magnetic 
+Lorentz force 
+
+FB and the coulomb force 
+
+FE balance each other and no further 
+accumulation of free electrons at the end A 
+takes place. i.e.,
+
+
+F
+F
+B
+E
+=
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+B
+A
+(r, inwards)
+
+
+l
+v
+v
+ε
++
+_
+B
+A
+(a)
+(b)
+E
+ Figure 4.9  Motional emf from Lorentz force
+12th Physics_Vol-1_Unit 4_English Medium.indd   206
+12th Physics_Vol-1_Unit 4_English Medium.indd   206
+23-12-2022   17:56:46
+23-12-2022   17:56:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 215
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+207
+Solution
+Consider a small element of length dx at 
+a distance x from the centre of the circle 
+described by the rod. As this element 
+moves perpendicular to the field with a 
+linear velocity v = xω , the emf developed 
+in the element dx is 
+d
+B dx
+ε = v
+ 	 = B x
+dx
+(
+)
+ω
+This rod is made up of many such elements, 
+moving perpendicular to the field. The emf 
+developed across two ends is
+ε
+ε
+ω
+=
+=∫
+∫d
+B xdx
+l
+0
+ =
+
+
+
+
+
+
+B
+x
+l
+ω
+2
+0
+2
+ε
+ω
+= 1
+2
+2
+B l
+4.2
+EDDY CURRENTS
+According 
+to 
+Faraday’s 
+law 
+of 
+electromagnetic induction, an emf is 
+induced in a conductor when the magnetic 
+flux passing through it changes. However, 
+the conductor need not be in the form of a 
+wire or coil. 
+EXAMPLE 4.8
+A conducting rod of length 0.5 m falls 
+freely from the top of a building of height 
+7.2 m at a place in Chennai where the 
+horizontal component of Earth’s magnetic 
+field is 4.04 × 10–5 T. If the length of the 
+rod is perpendicular to Earth’s horizontal 
+magnetic field, find the emf induced across 
+the conductor when the rod is about to 
+touch the ground. (Assume that the rod falls 
+down with constant acceleration of 10 m s–2)
+Solution
+l = 0.5 m; h = 7.2 m; u = 0 m s–1;  
+g = 10 m s–2; BH = 4.04 × 10–5 T
+The final velocity of the rod is
+v 2
+2
+2
+=
++
+u
+gh = +
+×
+×
+(
+)
+0
+2 10
+7 2.
+ =144
+v =
+−
+12
+1
+ms
+The magnitude of the induced emf when 
+the rod is about to touch the ground is 
+ε = B l
+H v = 4.04 × 10–5 ×  0.5 × 12
+= 242 4. µV
+EXAMPLE 4.9
+A copper rod of length l rotates about one 
+of its ends with an angular velocity ω in a 
+magnetic field B as shown in the figure. 
+The plane of rotation is perpendicular to 
+the field. Find the emf induced between 
+the two ends of the rod.
+
+B
+x
+dx
+O
+ω
+v
+l
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+s
+s
+Alternating
+magnetic
+ﬁeld
+Eddy currents
+Metal plate
+Figure 4.10  Eddy currents
+12th Physics_Vol-1_Unit 4_English Medium.indd   207
+12th Physics_Vol-1_Unit 4_English Medium.indd   207
+23-12-2022   17:56:49
+23-12-2022   17:56:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 208
+PDF_PAGE: 216
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+208
+oppose the oscillation. A heavy damping force 
+of eddy currents will bring the pendulum to 
+rest within a few oscillations (Figure 4.11(b)). 
+However if some slots are cut in the 
+disc (Figure 4.11(c)), the eddy currents 
+are reduced. The pendulum now will 
+execute several oscillations before coming 
+to rest. This clearly demonstrates the 
+production of eddy current in the disc of 
+the pendulum.
+Drawbacks of Eddy currents
+When eddy currents flow in the 
+conductor, a large amount of energy is 
+dissipated in the form of heat. The energy 
+loss due to the flow of eddy current is 
+inevitable but it can be reduced to a greater 
+extent with suitable measures.
+The design of transformer core and 
+electric motor armature is crucial in order 
+to minimise the eddy current loss. To reduce 
+these losses, the core of the transformer is 
+made up of thin laminas insulated from one 
+another (Figure 4.12 (a)) while for electric 
+motor the winding is made up of a group 
+Even for a conductor in the form of 
+a sheet or plate, an emf is induced when 
+magnetic flux linked with it changes. But 
+the difference is that there is no definite 
+loop or path for induced current to flow 
+away. As a result, the induced currents flow 
+in concentric circular paths (Figure 4.10). 
+As these electric currents resemble eddies 
+of water, these are known as Eddy currents. 
+They are also called Foucault currents. 
+Demonstration
+Here 
+is 
+a 
+simple 
+demonstration 
+for the production of eddy currents. 
+Consider a pendulum that can be made to 
+oscillate between the poles of a powerful 
+electromagnet (Figure 4.11(a)).
+First the electromagnet is switched off, the 
+pendulum is slightly displaced and released. 
+It begins to oscillate and it executes a large 
+number of oscillations before stopping. The 
+air friction is the only damping force. 
+When the electromagnet is switched on and 
+the disc of the pendulum is made to oscillate, 
+eddy currents are produced in it which will 
+(a)
+(b)
+(c)
+S
+N
+S
+Figure 4.11  Demonstration of eddy currents
+12th Physics_Vol-1_Unit 4_English Medium.indd   208
+12th Physics_Vol-1_Unit 4_English Medium.indd   208
+23-12-2022   17:56:49
+23-12-2022   17:56:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 209
+PDF_PAGE: 217
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+209
+N
+S
+N
+S
+Slow damping
+Rapid damping
+Glass
+Metal
+Make a pendulum with a strong 
+magnet suspended at the lower end of the 
+suspension wire as shown in the first figure. 
+Make it oscillate with a glass plate below it 
+and note the time it takes to come to rest.
+Next just place a metallic plate below 
+the oscillating magnet as shown in the 
+second figure and again note the time it 
+takes to stop.
+In the second case, the magnet 
+stops soon because eddy currents are 
+produced in the plate which opposes the 
+oscillation of the magnet.
+Activity
+Application of eddy currents
+Though the production of eddy current 
+is undesirable in some cases, it is useful in 
+some other cases. A few of them are
+	 i.	 Induction stove
+	 ii.	 Eddy current brake
+	 iii.	 Eddy current testing 
+	 iv.	 Electromagnetic damping
+i. Induction stove
+Induction stove is used to cook the 
+food quickly and safely with less energy 
+consumption. Below the cooking zone, there 
+is a tightly wound coil of insulated wire. The 
+cooking pan made of suitable material, is 
+placed over the cooking zone. When the stove 
+is switched on, an alternating current flowing 
+in the coil produces high frequency alternating 
+magnetic field which induces very strong eddy 
+Laminated Core
+Single Lamination
+Figure 4.12 (a)  Insulated laminas of the 
+core of a transformer 
+Figure 4.12 (b)  Insulated winding of an 
+electric motor 
+Insulated wire
+of wires insulated from one another (Figure 
+4.12 (b)). The insulation used does not allow 
+huge eddy currents to flow and hence losses 
+are minimized. 
+Example
+A spherical stone and a spherical 
+metallic ball of same size and mass are 
+dropped from the same height. Which 
+one, a stone or a metal ball, will reach the 
+Earth’s surface first? Justify your answer. 
+Assume that there is no air friction.
+Answer
+The stone will reach the Earth’s surface 
+earlier than the metal ball. The reason is 
+that when the metal ball falls through the 
+magnetic field of Earth, the eddy currents 
+are produced in it which opposes its 
+motion. But in the case of stone, no eddy 
+currents are produced and it falls freely. 
+12th Physics_Vol-1_Unit 4_English Medium.indd   209
+12th Physics_Vol-1_Unit 4_English Medium.indd   209
+23-12-2022   17:56:50
+23-12-2022   17:56:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 210
+PDF_PAGE: 218
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+210
+N
+v
+C
+B
+Figure 4.14(a)  Linear Eddy current brake
+S
+D
+N
+Figure 4.14(b)  Circular Eddy current brake
+iii. Eddy current testing 
+It is one of the simple non–destructive 
+testing methods to find defects like surface 
+cracks, air bubbles present in a specimen. A 
+coil of insulated wire is given an alternating 
+electric current so that it produces an 
+alternating magnetic field. When this coil is 
+brought near the test surface, eddy current 
+is induced in the test surface. The presence 
+currents in the cooking pan. The eddy currents 
+in the pan produce so much of heat due to 
+Joule heating which is used to cook the food 
+(Figure 4.13).
+Note: The frequency of the domestic 
+AC supply is increased from 50–60 Hz to 
+around 20–40 KHz before giving it to the 
+coil in order to produce high frequency 
+alternating magnetic field.
+ii. Eddy current brake
+This eddy current braking system is 
+generally used in high speed trains and 
+roller coasters. Strong electromagnets are 
+fixed just above the rails. To stop the train, 
+electromagnets are switched on. The 
+magnetic field of these magnets induces 
+eddy currents in the rails which oppose or 
+resist the movement of the train. This is 
+Eddy current linear brake (Figure 4.14(a)).
+In some cases, the circular disc, connected 
+to the wheel of the train through a common 
+shaft, is made to rotate in between the poles 
+of an electromagnet. When there is a relative 
+motion between the disc and the magnet, 
+eddy currents are induced in the disc which 
+stop the train. This is Eddy current circular 
+brake (Figure 4.14(b))
+Coil
+Cooking Zone
+Cooking
+Pan
+High frequency
+Alternating magnetic ﬁeld 
+Figure 4.13  Induction stove
+12th Physics_Vol-1_Unit 4_English Medium.indd   210
+12th Physics_Vol-1_Unit 4_English Medium.indd   210
+23-12-2022   17:56:51
+23-12-2022   17:56:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 211
+PDF_PAGE: 219
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+211
+the armature to rest immediately and then 
+galvanometer shows a steady deflection. 
+This is called electromagnetic damping.
+4.3
+SELF–INDUCTION
+4.3.1  Introduction
+Inductor is a device used to store energy 
+in a magnetic field when an electric current 
+flows through it. The typical examples 
+are coils, solenoids and toroids shown in 
+Figure 4.17.
+Inductance is the property of inductors 
+to generate emf due to the change in 
+current flowing through that circuit (self-
+induction) or a change in current through 
+a neighbouring circuit with which it is 
+magnetically linked (mutual induction). We 
+will study about self-induction and mutual 
+induction in the next sections.
+Coil
+Solenoid
+Toroid
+T
+id
+Figure 4.17  Examples for inductor
+Self-induction 
+An electric current flowing through a 
+coil will set up a magnetic field around it. 
+Therefore, the magnetic flux of the magnetic 
+field is linked with that coil itself. If this flux 
+Coil’s 
+magnetic ﬁeld
+Eddy current’s
+magnetic ﬁeld
+Conductive 
+material
+Coil
+Eddy 
+currents
+Figure 4.15  Eddy current testing
+of defects causes the change in phase and 
+amplitude of the eddy current that can be 
+detected by some other means.In this way, 
+the defects present in the specimen are 
+identified (Figure 4.15). 
+iv. Electro magnetic damping
+The armature of the galvanometer coil 
+is wound on a soft iron cylinder. Once the 
+armature is deflected, the relative motion 
+between the soft iron cylinder and the 
+radial magnetic field induces eddy current 
+in the cylinder (Figure 4.16). The damping 
+force due to the flow of eddy current brings 
+Figure 4.16  Electromagnetic damping
+N
+S
+N
+Sof iron
+cylinder
+Eddy currents
+12th Physics_Vol-1_Unit 4_English Medium.indd   211
+12th Physics_Vol-1_Unit 4_English Medium.indd   211
+23-12-2022   17:56:52
+23-12-2022   17:56:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 220
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+212
+∴
+=−
+ε
+L di
+dt 
+(4.9)
+(or) L
+di
+dt
+= −ε
+The negative sign in the above equation 
+implies that the self-induced emf always 
+opposes the change in current with respect 
+to time. If di
+dt =
+−
+1
+1
+ As
+, then L =−ε . 
+Inductance of a coil is also defined as the 
+opposing emf induced in the coil when the 
+rate of change of current through the coil 
+is 1 A s−1.
+Unit of inductance
+Inductance is a scalar and its unit is 
+Wb A-1 or VsA-1. It is also measured in 
+henry (H). 
+1
+1
+1
+1
+1
+ H
+ Wb A
+ VsA
+=
+=
+−
+−
+The dimensional formula of inductance 
+is M L T
+A
+ 
+ 
+2
+2
+2
+-
+- .
+If i = 1 A and N
+B
+Φ =1 Wb turns, then 
+L =1H .
+Therefore, the inductance of the coil 
+is said to be one henry if a current of 1 A 
+produces unit flux linkage in the coil.
+If di
+dt =
+−
+1
+1
+As
+and ε =−1 V , then 
+L =1H.
+Therefore, the inductance of the coil is 
+one henry if a current changing at the rate of 
+1 A s−1 induces an opposing emf of 1 V  in it.
+Physical significance of inductance
+We have learnt about inertia in XI 
+standard. In translational motion, mass is a 
+measure of linear inertia; in the same way, 
+for rotational motion, moment of inertia 
+is a measure of rotational inertia (Refer 
+sections 3.2.1 and 5.4 of XI physics text 
+book). Generally, inertia means opposition 
+to change its state.
+is changed by changing the current, an emf is 
+induced in that same coil (Figure 4.18). This 
+phenomenon is known as self-induction. 
+The emf induced is called self-induced emf.
+i
+B→
+Figure 4.18  Self-Induction
+Let ΦB be the magnetic flux linked with 
+each turn of the coil of N turns, then the total 
+flux linked with the coil N
+B
+Φ (flux linkage) 
+is proportional to the current i in the coil.
+N
+i
+B
+Φ µ
+N
+Li
+B
+Φ =
+
+(4.8)
+(or) L
+N
+i
+B
+=
+Φ
+The constant of proportionality L is 
+called self-inductance or coefficient of self-
+induction of the coil. 
+If i =1A, then L
+N
+B
+=
+Φ . Self-inductance 
+or simply inductance of a coil is defined 
+as the flux linkage with the coil when 1A 
+current flows through it.
+When the current i changes with time, 
+an emf is induced in it. From Faraday’s 
+law of electromagnetic induction, this self-
+induced emf in the coil is given by
+ε =−
+=−( )
+d N
+dt
+d Li
+dt
+B
+(
+)
+Φ
+ 
+
+(using equation 4.8)
+12th Physics_Vol-1_Unit 4_English Medium.indd   212
+12th Physics_Vol-1_Unit 4_English Medium.indd   212
+23-12-2022   17:56:56
+23-12-2022   17:56:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 221
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+213
+field produced inside is almost uniform and 
+is directed along the axis of the solenoid as 
+shown in Figure 4.20. The magnetic field 
+at any point inside the solenoid is given by 
+(Refer section 3.9.3)
+B
+ni
+= µ
+As this magnetic field passes through the 
+solenoid, the windings of the solenoid are 
+linked by the field lines. The magnetic flux 
+passing through each turn is
+ΦB
+A
+B dA
+BA
+=
+=
+∫
+.
+cos
+ 
+ 
+θ 
+       = BA
+since θ = 0°
+      = (
+)
+µ0ni A
+The total magnetic flux linked or 
+flux linkage of the solenoid with N turns 
+(the total number of turns N is given by 
+N = n l) is
+N
+nl
+ni
+B
+Φ =(
+)(
+)A
+µ0
+N
+n Al i
+B
+Φ = (
+)
+µ
+2
+
+We know that
+N
+Li
+B
+Φ =
+i 
+ε
+(a)
+Increasing current
+i 
+ε
+(b)
+Decreasing current
+Figure 4.19  Induced emf ε opposes the 
+changing current i
+The inductance plays the same role in a 
+circuit as mass and moment of inertia play 
+in mechanical motion. When a circuit is 
+switched on, the increasing current induces 
+an emf which opposes the growth of current 
+in a circuit (Figure 4.19(a)). Likewise, when 
+circuit is broken, the decreasing current 
+induces an emf in the reverse direction. 
+This emf now opposes the decay of current 
+(Figure 4.19(b)).
+Thus, inductance of the coil opposes any 
+change in current and tries to maintain the 
+original state.
+4.3.2  Self-inductance of a 
+long solenoid
+Consider a long solenoid of length l and 
+cross-sectional area A. Let n be the number 
+of turns per unit length (or turn density) 
+of the solenoid. When an electric current i 
+is passed through the solenoid, a magnetic 
+Figure 4.20  Self-inductance of a long 
+solenoid
+i
+A
+l
+B→
+N turns 
+12th Physics_Vol-1_Unit 4_English Medium.indd   213
+12th Physics_Vol-1_Unit 4_English Medium.indd   213
+23-12-2022   17:56:58
+23-12-2022   17:56:58
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 222
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+214
+W
+dW
+Lidi
+i
+=
+=∫
+∫
+0
+ =
+
+
+
+
+
+
+L i
+o
+i
+2
+2
+W
+Li
+= 1
+2
+2
+This work done is stored as magnetic 
+potential energy.
+∴
+=
+U
+Li
+B
+1
+2
+2
+(4.11)
+The energy density is the energy stored 
+per unit volume of the space and is given by 
+u
+U
+Al
+B
+B
+=
+  Volume of the solenoid = Al
+u
+Li
+Al
+n Al i
+Al
+L
+n Al
+B =
+= (
+)
+=
+2
+0
+2
+2
+0
+2
+2
+2
+µ
+µ
+
+     = µ0
+2 2
+2
+n i
+u
+B
+B =
+2
+0
+2µ 
+B
+ni
+=
+0
+µ
+
+EXAMPLE 4.10
+A solenoid of 500 turns is wound on an 
+iron core of relative permeability 800. The 
+length and radius of the solenoid are 40 
+cm and 3 cm respectively. Calculate the 
+average emf induced in the solenoid if the 
+current in it changes from 0 to 3 A in 0.4 
+second.
+Solution
+N = 500 turns; 	
+µr = 800 ;
+l = 40 cm = 0.4 m; r = 3 cm = 0.03 m;
+di = 3 – 0 = 3 A; dt = 0.4 s
+Self inductance, 
+L
+n Al
+A
+r n
+N
+l
+r
+=
+=
+=
+=
+
+
+
+
+
+
+µ
+µ
+µ µ
+π
+2
+2
+∵
+
+;
+;
+   = µ µ
+π
+
+rN
+r
+l
+2
+2
+     =
+×
+×
+×
+×
+×
+×
+×
+(
+)
+−
+−
+4
+3 14 10
+800
+500
+3 14
+3 10
+0 4
+7
+2
+2 2
+.
+.
+.
+L = 1.77 H 
+Comparing the above equations, we get
+L
+n Al
+= µ
+2
+
+(4.10)
+From the above equation, it is clear that 
+inductance depends on the geometry of the 
+solenoid (turn density n, cross-sectional area 
+A, length l) and the medium present inside 
+the solenoid. If the solenoid is filled with a 
+dielectric medium of relative permeability 
+µr , then
+L
+n Al or
+= µ
+2
+    L
+n Al
+r
+= µ µ
+
+2
+Energy stored in an inductor
+Whenever a current is established in the 
+circuit, the inductance opposes the growth 
+of the current. In order to establish a current 
+in the circuit, work is done against this 
+opposition by some external agency. This 
+work done is stored as magnetic potential 
+energy.
+Let us assume that electrical resistance 
+of the inductor is negligible and inductor 
+effect alone is considered. The induced emf 
+ε at any instant t is
+ε =−L di
+dt
+Let dW be work done in moving a charge 
+dq in a time dt against the opposition, then 
+dW
+dq
+=−ε
+       =−εidt 
+dq
+idt
+=
+Substituting for ε from equation (4.9), 
+        =−−
+
+
+
+
+
+
+L di
+dt idt
+dW
+Lidi
+=
+Total work done in establishing the 
+current i is 
+12th Physics_Vol-1_Unit 4_English Medium.indd   214
+12th Physics_Vol-1_Unit 4_English Medium.indd   214
+23-12-2022   17:57:03
+23-12-2022   17:57:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 21
+PDF_PAGE: 223
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+215
+i1
+Coil 1
+Coil 2
+ N2turns  
+ N2turns  
+ N1turns 
+ N1turns 
+ε2
+(a)
+i2
+Coil 1
+Coil 2
+Φ12
+ε1
+(b)
+Φ21
+Figure 4.21  Mutual induction
+N
+i
+2
+21
+1
+Φ µ 
+N
+M
+i
+2
+21
+21
+1
+Φ =
+ 
+(4.12)
+(or) M
+N
+i
+21
+2
+21
+1
+ =
+Φ
+The constant of proportionality M21
+is the mutual inductance or coefficient of 
+mutual induction of the coil 2 with respect to 
+coil 1. 
+If i
+A
+1
+1
+=
+, then M
+N
+21
+2
+21
+ = 
+Φ . Therefore, 
+the mutual inductance M21  is defined as 
+the flux linkage with the coil 2 when 1A 
+current flows through coil 1.
+When the current i1 changes with 
+time, an emf ε2 is induced in coil 2. From 
+Faraday’s law of electromagnetic induction, 
+this mutually induced emf ε2 is given by
+ε2
+2
+21
+21 1
+=−(
+) =−
+d N
+dt
+d M i
+dt
+Φ
+(
+)
+Induced emf ε =−L di
+dt
+	 	
+	
+      =−
+×
+1 77
+3
+0 4
+.
+.
+	 	
+	
+    ε =−13 275
+.
+V
+EXAMPLE 4.11
+The self-inductance of an air-core solenoid 
+is 4.8 mH. If its core is replaced by iron 
+core, then its self-inductance becomes 
+1.8 H. Find out the relative permeability of 
+iron.
+Solution
+Lair =
+×
+−
+4 8 10 3
+.
+H
+Liron =1 8. H
+L
+n Al
+air =
+=
+×
+−
+µ
+2
+3
+4 8 10
+.
+H
+L
+n Al
+n Al
+iron
+r
+=
+=
+=
+µ
+µ µ
+2
+2
+1 8
+
+. H
+∴
+=
+=
+×
+−
+µr
+iron
+air
+L
+L
+1 8
+4 8 10 3
+.
+.
+ = 375
+4.3.3  Mutual induction
+When an electric current passing 
+through a coil changes with time, an 
+emf is induced in the neighbouring coil. 
+This phenomenon is known as mutual 
+induction and the emf induced is called 
+mutually induced emf.
+Consider two coils which are placed close 
+to each other. If an electric current i1 is sent 
+through coil 1, the magnetic field produced 
+by it is also linked with coil 2 as shown in 
+Figure 4.21(a). 
+If Φ21 is the magnetic flux linked with 
+each turn of the coil 2 of N2 turns due to the 
+current in coil 1, then the total flux linked 
+with coil 2 (
+)
+N2
+21
+Φ
+is proportional to the 
+current i1 in the coil 1.
+12th Physics_Vol-1_Unit 4_English Medium.indd   215
+12th Physics_Vol-1_Unit 4_English Medium.indd   215
+23-12-2022   17:57:07
+23-12-2022   17:57:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 224
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+216
+If di
+dt
+1
+1
+1
+=
+−
+As
+ and ε2
+1
+=− V , then 
+M =1H.
+Therefore, 
+the mutual inductance 
+between two neighbouring coils is one 
+henry if a current changing at the rate of 
+1A s–1  in one coil induces an opposing emf 
+of 1V in neighbouring coil.
+4.3.4  Mutual inductance 
+between two long co-axial 
+solenoids
+Consider two long co-axial solenoids of 
+same length l. The length of these solenoids 
+is large when compared to their radii so 
+that the magnetic field produced inside the 
+solenoids is uniform and the fringing effect 
+at the ends may be ignored. Let A1 and A2 be 
+the area of cross section of the solenoids with 
+A1 being greater than A2 as shown in Figure 
+4.22. The turn density of these solenoids are 
+n1 and n2 respectively. 
+A1
+A2
+l
+Common axis
+Solenoid 2
+of  N2 turns
+Solenoid 1
+of  N1 turns
+Figure 4.22  Mutual inductance of two 
+long co-axial solenoids
+Let i1 be the current flowing through 
+solenoid 1, then the magnetic field produced 
+inside it is
+B
+n i
+1
+1
+1
+= µ 
+ 
+ε2
+21
+1
+=−M di
+dt
+(or) M
+di
+dt
+21
+2
+1
+= −ε
+The negative sign in the above equation 
+shows that the mutually induced emf always 
+opposes the change in current i1 with respect 
+to time. If di
+dt
+1
+1
+1
+=
+−
+A s
+, then M21
+2
+=−ε . 
+Mutual inductance M21 is also defined as 
+the opposing emf induced in the coil 2 
+when the rate of change of current through 
+the coil 1 is 1As–1.
+Similarly, if an electric current i2 through 
+coil 2 changes with time, then emf ε1 is 
+induced in coil 1. Therefore, 
+M
+N
+i
+12
+1
+12
+2
+=
+Φ
+  and  M
+di
+dt
+12
+1
+2
+= −ε
+where M12 is the mutual inductance of the 
+coil 1 with respect to coil 2. It can be shown 
+that for a given pair of coils, the mutual 
+inductance is same. i.e.,
+M
+M
+M
+21
+12
+=
+=
+In general, the mutual induction between 
+two coils depends on size, shape, the number 
+of turns of the coils, their relative orientation 
+and permeability of the medium.
+Unit of mutual-inductance
+The unit of mutual inductance is also 
+henry (H). 
+If i1
+1
+= A and N2
+21
+1
+Φ
+= Wb turns, 
+then M =1H.
+Therefore, 
+the mutual inductance 
+between two neighbouring coils is said to 
+be one henry if a current of 1A in one coil 
+produces unit flux linkage in neighbouring 
+coil.
+12th Physics_Vol-1_Unit 4_English Medium.indd   216
+12th Physics_Vol-1_Unit 4_English Medium.indd   216
+23-12-2022   17:57:11
+23-12-2022   17:57:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 225
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+217
+N
+n n A l i
+o
+1
+12
+1 2
+2
+2
+Φ
+=(
+)
+µ
+We know that N
+M i
+1
+12
+12 2
+Φ
+=
+ . Comparing 
+the above equations, we get
+=
+M
+n n A l
+12
+1 2
+2
+µ
+
+(4.14)
+From equation (4.13) and (4.14), we can 
+write
+M
+M
+M
+12
+21
+=
+=
+
+(4.15)
+In general, the mutual inductance between 
+two long co-axial solenoids is given by 
+M
+n n A l
+= µ1 2
+2 
+(4.16)
+If a dielectric medium of relative 
+permeability µr is present inside the 
+solenoids, then
+M
+n n A l
+= µ
+1 2
+2 (or)
+M
+n n A l
+r
+= µ µ
+
+1 2
+2
+EXAMPLE 4.12
+The current flowing in the first coil changes 
+from 2 A to 10 A in 0.4 s. Find the mutual 
+inductance between two coils if an emf of 
+60 mV is induced in the second coil. Also 
+determine the magnitude of induced emf in 
+the second coil if the current in the first coil is 
+changed from 4 A to 16 A in 0.03 s. Consider 
+only the magnitude of induced emf.
+Solution
+Case (i):
+di1 = 10 – 2 = 8 A; dt = 0.4 s; 
+ε2
+3
+60 10
+=
+×
+−V
+Case (ii):
+di1 = 16 – 4 = 12 A;  dt = 0.03 s 
+(i) Mutual inductance between the coils.
+M
+di
+dt
+=
+ε2
+1
+ =
+×
+×
+−
+60 10
+0 4
+8
+3
+. 
+M = ×
+−
+3 10 3H
+As the field lines of B1
+
+ are passing through 
+the area bounded by solenoid 2, the magnetic 
+flux is linked with each turn of solenoid 2 due 
+to current in solenoid 1 and is given by
+Φ21
+1
+1
+2
+2
+=
+=
+∫B
+A
+B A
+A
+
+
+.d
+	
+since θ = °
+0
+       =(
+)
+µn i A
+1 1
+2
+The flux linkage with solenoid 2 with 
+total turns N2 is 
+N
+n l
+n i A
+2
+21
+2
+1 1
+2
+Φ
+=
+(
+)
+(
+) µ
+	 since N
+n l
+2
+2
+=
+N
+n n A l i
+2
+21
+1 2
+2
+1
+Φ
+=(
+)
+µ
+We know that  N
+M i
+2
+21
+21 1
+Φ
+=
+. Comparing 
+the above equations, we get
+M
+n n A l
+21
+1 2
+2
+= µ
+
+(4.13)
+This gives the expression for mutual 
+inductance M21 of the solenoid 2 with 
+respect to solenoid 1. Similarly, we can find 
+mutual inductance M12 of solenoid 1 with 
+respect to solenoid 2 as given below.
+The magnetic field produced by the 
+solenoid 2 when carrying a current i2 is
+B
+n i
+2
+2 2
+= µ
+This magnetic field B2 is uniform inside 
+the solenoid 2 but outside the solenoid 2, it 
+is almost zero. Therefore for solenoid 1, the 
+area A2 is the effective area over which the 
+magnetic field B2 is present; not area A1. Then 
+the magnetic flux Φ12 linked with each turn 
+of solenoid 1 due to current in solenoid 2 is
+Φ12
+2
+2
+2
+2 2
+2
+2
+=
+⋅
+=
+=(
+)
+∫B
+dA
+B A
+n i
+A
+A
+
+
+
+µ
+The flux linkage of solenoid 1 with total 
+turns N1 is
+N
+n l
+n i
+A
+o
+1
+12
+1
+2 2
+2
+Φ
+=(
+)(
+)
+µ
+	
+since N
+n l
+1
+1
+=
+12th Physics_Vol-1_Unit 4_English Medium.indd   217
+12th Physics_Vol-1_Unit 4_English Medium.indd   217
+23-12-2022   17:57:18
+23-12-2022   17:57:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 226
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+218
+The magnetic flux linkage with coil B is
+N
+N B A
+B
+B
+B
+A
+B
+Φ =
+=
+×
+×
+×
+×
+×
+×
+(
+)
+−
+−
+1000
+6 28 10
+3 14
+2 10
+4
+2 2
+.
+.
+iA
+=
+×
+−
+7 89 10 4
+.
+iA Wb turns
+The mutual inductance between the  
+coils
+M
+N
+i
+B
+B
+A
+=
+=
+×
+−
+Φ
+7 89 10 4
+.
+H
+Induced emf in coil B is
+εB
+A
+M di
+dt
+=−
+εB =
+×
+×
+−
+−
+7 89 10
+6
+2
+0 04
+4
+.
+(
+)
+.
+ (magnitude only)
+εB = 78 9. mV
+The rate of change of magnetic flux of coil 
+B is
+d N
+dt
+B
+B
+B
+(
+)
+.
+Φ
+=
+=
+−
+ε
+78 9
+1
+ mWbs
+4.4
+METHODS OF PRODUCING 
+INDUCED EMF
+4.4.1  Introduction
+Electromotive force is the characteristic 
+of any energy source capable of driving 
+electric charge around a circuit. We have 
+already learnt that it is not actually a force. 
+It is the work done in moving unit electric 
+charge around the circuit. It is measured in 
+J C–1 or volt.
+Some examples of energy source which 
+provide emf are electrochemical cells, 
+thermoelectric devices, solar cells and 
+electrical generators. Of these, electrical 
+(ii) Induced emf in the second coil due to 
+the rate of change of current in the first 
+coil is 
+ε2
+1
+= M di
+dt = ×
+×
+−
+3 10
+12
+0 03
+3
+.
+ε2
+1 2
+= . V
+EXAMPLE 4.13
+Consider two coplanar, co-axial circular 
+coils A and B as shown in figure. The radius 
+of coil A is 20 cm while that of coil B is 2 
+cm. The number of turns in coils A and B 
+are 200 and 1000 respectively. Calculate the 
+mutual inductance between the coils. If the 
+current in coil A changes from 2 A to 6 A 
+in 0.04 s, determine the induced emf in coil 
+B and the rate of change of flux through the 
+coil B at that instant.
+2 cm
+20 cm
+A(200 turns)
+B(1000 turns)
+Common axis
+Solution
+NA = 200 turns; 	  NB = 1000 turns; 
+  rA = 20 × 10–2 m;	  rB = 2 × 10–2 m; 
+  dt = 0.04 s;	
+diA = 6−2 = 4 A
+Let iA be the current flowing in coil A, then 
+the magnetic field BA at the centre of the 
+circular coil A is
+B
+N i
+r
+N i
+r
+A
+A A
+A
+A A
+A
+=
+=
+×
+−
+µ
+π
+
+2
+4
+10
+2
+7
+     =
+× ×
+×
+×
+×
+−
+−
+10
+2
+3 14
+200
+20 10
+7
+2
+.
+iA
+     =
+×
+−
+−
+6 28 10 4
+2
+.
+iA Wbm
+12th Physics_Vol-1_Unit 4_English Medium.indd   218
+12th Physics_Vol-1_Unit 4_English Medium.indd   218
+23-12-2022   17:57:22
+23-12-2022   17:57:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 219
+PDF_PAGE: 227
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+219
+arrangement is placed in a uniform 
+magnetic field 
+
+B whose magnetic lines are 
+perpendicularly directed into the plane of 
+the paper.
+As the rod moves from AB to DC in a time 
+dt, the area enclosed by the loop and hence 
+the magnetic flux through the loop decreases.
+A
+B
+i
+C
+D
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+× →(r, inwards)
+
+dt
+l
+v
+v
+Figure 4.23  Production of induced emf 
+by changing the area enclosed by the loop
+The change in magnetic flux in time dt is 
+d
+B
+dA
+B
+Φ =
+× Change in area (
+)
+         =
+×
+B
+ABCD
+ Area 
+Since Area 
+ = 
+ABCD
+l
+dt
+(
+)
+v
+d
+Bl dt
+B
+Φ =
+v
+ (or)
+d
+dt
+Bl
+B
+Φ
+=
+v
+As a result of change in flux, an emf is 
+generated in the loop. The magnitude of the 
+induced emf is
+ε = d
+dt
+B
+Φ
+ε = Blv 
+(4.18)
+This emf is known as motional emf 
+since it is produced due to the movement 
+of the conductor in the magnetic field. The 
+direction of induced current is found to be 
+clockwise from Fleming’s right hand rule. 
+If R is the resistance of the loop, then the 
+induced current is given by
+generators are most powerful machines. 
+They are used for large scale power 
+generation.
+According 
+to 
+Faraday’s 
+law 
+of 
+electromagnetic induction, an emf is 
+induced in a circuit when magnetic flux 
+linked with it changes. This emf is called 
+induced emf. The magnitude of the induced 
+emf is given by
+ε = d
+dt
+or
+B
+Φ
+ε
+θ
+= d
+dt BA
+(
+cos )
+(4.17)
+From the above equation, it is clear that 
+induced emf can be produced by changing 
+magnetic flux in any of the following ways.
+(i)	
+By changing the magnetic field B
+(ii)	
+By changing the area A of the coil 
+and
+(iii)	
+By changing the relative orientation 
+θ of the coil with magnetic field
+4.4.2  Production of induced emf 
+by changing the magnetic field
+From 
+Faraday’s 
+experiments 
+on 
+electromagnetic induction, it was discovered 
+that an emf is induced in a circuit by changing 
+the magnetic flux of the field through it. The 
+change in flux is brought about by (i) relative 
+motion between the circuit and the magnet 
+(First experiment) (ii) variation in current 
+flowing through the nearby coil (Second 
+experiment).
+4.4.3  Production of induced emf 
+by changing the area of the coil
+Consider a conducting rod of length 
+l moving with a velocity υ towards left on 
+a rectangular fixed metallic framework 
+as shown in Figure 4.23. The whole 
+12th Physics_Vol-1_Unit 4_English Medium.indd   219
+12th Physics_Vol-1_Unit 4_English Medium.indd   219
+23-12-2022   17:57:26
+23-12-2022   17:57:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 228
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+220
+energy needed to move the rod is converted 
+into electrical energy which then appears 
+as thermal energy in the loop. This energy 
+conversion is consistent with the law of 
+conservation of energy.
+EXAMPLE 4.14
+A circular metal of area 0.03 m2 rotates 
+in a uniform magnetic field of 0.4 T. The 
+axis of rotation passes through the centre 
+and perpendicular to its plane and is also 
+parallel to the field. If the disc completes 
+20 revolutions in one second and the 
+resistance of the disc is 4 Ω, calculate the 
+induced emf between the axis and the rim 
+and induced current flowing in the disc.
+Solution
+A = 0.03 m2; B = 0.4 T; f = 20 rps;
+R = 4 Ω
+Area swept out by the disc in unit time  
+	
+ = Area of the disc × frequency
+dA
+dt  = 0.03 × 20
+        = 0.6 m2s–1
+The magnitude of the induced emf,  
+  ε =
+=
+=
+d
+dt
+d BA
+dt
+B dA
+dt
+B
+Φ
+(
+)
+  ε =
+×
+=
+0 4
+0 6
+1
+0 24
+.
+.
+.
+V
+Induced current, i
+R
+=
+=
+=
+ε
+0 24
+4
+0 06
+.
+.
+A
+Emf can be induced by 
+changing relative orientation 
+between the coil and the 
+magnetic field. This can be achieved 
+either by rotating a coil in a magnetic 
+field or by rotating a magnetic field 
+within a stationary coil. Here rotating 
+coil type is considered.
+Note
+i
+R
+= ε
+i
+Bl
+R
+=
+v 
+(4.19)
+Energy conservation
+The 
+current-carrying 
+movable 
+rod 
+AB kept in the perpendicular magnetic 
+field experiences a force 
+
+FB in the outward 
+direction, opposite to its motion. This force 
+is given by 
+
+
+
+
+F
+i l
+B
+F
+il B
+F
+il B
+B
+B
+B
+=
+×
+=
+=
+sinθ
+
+since θ = 90°
+In order to move the rod with a constant 
+velocity v , a constant force that is equal 
+and opposite to the magnetic force, must be 
+applied. 
+F
+F
+il B
+app
+B
+
+
+=
+=
+Therefore, mechanical work is done by 
+the applied force to move the rod. The rate 
+of doing work or power is
+P
+F
+F
+il B
+Bl
+R
+l B
+P
+B l
+R
+app
+app
+=
+⋅
+=
+=
+=
+
+
+
+
+
+
+=
+
+v
+v
+v
+v
+v
+v
+cosθ
+2 2
+2
+
+Here θ = 0
+When the induced current flows in the 
+loop, Joule heating takes place. The rate at 
+which thermal energy is dissipated in the 
+loop or power dissipated is
+P
+i R
+= 2
+P
+Bl
+R
+R
+=
+
+
+
+
+
+
+v
+2
+P
+B l
+R
+=
+2 2
+2
+v 
+(4.21)
+This equation is exactly same as the 
+equation (4.20). Thus the mechanical 
+12th Physics_Vol-1_Unit 4_English Medium.indd   220
+12th Physics_Vol-1_Unit 4_English Medium.indd   220
+23-12-2022   17:57:29
+23-12-2022   17:57:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 221
+PDF_PAGE: 229
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+221
+4.4.4  Production of induced emf 
+by changing relative orientation 
+of the coil with the magnetic field
+Consider a rectangular coil of N turns 
+kept in a uniform magnetic field 
+
+B as shown 
+in Figure 4.24. The coil rotates in anti-
+clockwise direction with an angular velocity 
+ω about an axis, perpendicular to the field 
+and to the plane of the paper.
+At time t = 0, the plane of the coil is 
+perpendicular to the field and the flux 
+linked with the coil has its maximum value 
+Фm = NBA (where A is the area of the coil).
+t=
+t
+t=
+t=
+t= 
+
+
+
+
+
+
+
+
+
+t=
+
+0
+
+–m
+m
+m sin0
+   = 0
+m sin
+   = 0
+m sin
+   = –m
+m sin
+   = m
+
+
+
+
+m sin
+   = 0
+
+B→
+Figure 4.25  Variation of induced emf as a function of ωt
+B→
+
+
+ cost
+ sint
+Figure 4.24  Te coil has rotated through 
+an angle θ
+ω
+=
+t
+12th Physics_Vol-1_Unit 4_English Medium.indd   221
+12th Physics_Vol-1_Unit 4_English Medium.indd   221
+23-12-2022   17:57:30
+23-12-2022   17:57:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 44
+PDF_PAGE: 230
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+222
+EXAMPLE 4.15
+A rectangular coil of area 70 cm2 
+having 600 turns rotates about an axis 
+perpendicular to a magnetic field of 
+0.4 Wb m–2. If the coil completes 500 
+revolutions in a minute, calculate the 
+instantaneous emf when the plane of 
+the coil is (i) perpendicular to the field 
+(ii) parallel to the field and (iii) inclined 
+at 60o with the field.
+Solution
+A = 70 ´ 10–4 m2;	N = 600 turns 
+B = 0.4 Wbm–2;	 f = 500 rpm 
+The instantaneous emf is
+ε
+ε
+ω
+=
+m
+t
+sin
+
+since ε
+ω
+π
+m
+m
+N BA
+f
+=
+=
+(
+)(
+)
+NΦ
+2
+ε
+π
+ω
+=
+×
+×
+NBA
+f
+t
+2
+sin
+(i) When 	 ωt = 0,
+ε
+ε
+=
+=
+m sin0
+0
+(ii) When	 ωt = 90,
+ε
+ε
+=
+m sin90=
+×
+×
+NBA
+f
+2
+1
+π
+   =
+×
+×
+×
+×
+×
+× 
+
+
+
+−
+600
+0 4
+70 10
+2
+22
+7
+500
+60
+4
+.
+   = 88V
+(iii) When ωt = 90° – 60° = 30°,
+ε
+ε
+=
+=
+×
+=
+m sin30
+88
+1
+2
+44
+
+V
+In a time t seconds, the coil is rotated through 
+an angle θ (= ωt) in anti–clockwise direction. 
+In this position, the flux linked NBAcosωt is 
+due to the component of 
+
+B normal to the plane 
+of the coil. The component (B sinωt) parallel 
+to the plane has no role in electromagnetic 
+induction.  Therefore, the flux linkage with the 
+coil at this deflected position is
+N
+NBA
+NBA
+B
+Φ =
+=
+cos
+cos
+t
+θ
+ω
+According to Faraday’s law, the emf 
+induced at that instant is 
+ε
+ω
+=−
+=−
+d
+dt N
+d
+dt NBA
+B
+(
+)
+(
+cos
+t)
+Φ
+   =−
+−
+(
+)
+NBA
+t
+sinω
+ω
+   = NBA
+t
+ω
+ω
+sin
+When the coil is rotated through 90o 
+from initial position, sin ωt = 1. Then the 
+maximum value of induced emf is
+ε
+ω
+m
+NBA
+=
+Therefore, the value of induced emf at 
+any instant is then given by
+ε
+ε
+ω
+=
+m
+t
+sin
+
+(4.22)
+It is seen that the induced emf varies 
+as sine function of the time angle ωt. The 
+graph between induced emf and time angle 
+for one rotation of the coil will be a sine 
+curve (Figure 4.25) and the emf varying 
+in this manner is called sinusoidal emf or 
+alternating emf.
+If this alternating voltage is given to a 
+closed circuit, a sinusoidally varying current 
+flows in it. This current is called alternating 
+current and is given by
+i
+I
+t
+m
+=
+sinω 
+(4.23)
+where Im is the maximum value of 
+induced current.
+12th Physics_Vol-1_Unit 4_English Medium.indd   222
+12th Physics_Vol-1_Unit 4_English Medium.indd   222
+23-12-2022   17:57:35
+23-12-2022   17:57:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 223
+PDF_PAGE: 231
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+223
+the conductor which in turn, induces an 
+emf. The magnitude of the induced emf is 
+given by Faraday’s law of electromagnetic 
+induction and its direction by Fleming’s 
+right hand rule.
+Alternating emf is generated 
+by rotating a coil in a 
+magnetic field or by rotating 
+a magnetic field within a stationary coil.
+The first method is used for small AC 
+generators while the second method is 
+employed for large AC generators. The 
+rotating-field method is the one which 
+is mostly used in power stations.
+Note
+4.5.3  Construction
+Alternator consists of two major parts, 
+namely stator and rotor. As their names 
+suggest, stator is stationary while rotor 
+rotates inside the stator. In any standard 
+construction of commercial alternators, the 
+armature winding is mounted on stator and 
+the field magnet on rotor. 
+i) Stator 
+The stationary part which has armature 
+windings mounted in it is called stator. It 
+has two components, namely stator core 
+and armature winding.
+Stator core or armature core is made up 
+of iron or steel alloy. It is a hollow cylinder 
+and is laminated to minimize eddy current 
+loss. The slots are cut on inner surface of the 
+core to accommodate armature windings.
+Armature winding is 
+the coil, wound on slots 
+provided in the armature 
+core (Figure 4.27).
+ii) Rotor 
+Rotor contains magnetic field windings. 
+The magnetic poles are magnetized by 
+4.5
+AC GENERATOR
+4.5.1  Introduction
+AC generator or alternator is an energy 
+conversion device. It converts mechanical 
+energy used to rotate the coil or field magnet 
+into electrical energy. Alternator produces 
+a large scale electrical power for use in 
+homes and industries. AC generator and its 
+components are shown in Figure 4.26.
+Alternator
+Brush box
+Stator
+Slip rings
+Rotor
+Figure 4.26  AC generator and its 
+components
+4.5.2  Principle
+Alternators work on the principle of 
+electromagnetic induction. The relative 
+motion between a conductor and a magnetic 
+field changes the magnetic flux linked with 
+12th Physics_Vol-1_Unit 4_English Medium.indd   223
+12th Physics_Vol-1_Unit 4_English Medium.indd   223
+23-12-2022   17:57:35
+23-12-2022   17:57:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 224
+PDF_PAGE: 232
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+224
+2)  The insulation of stationary armature 
+winding is easier. 
+3)  The number of sliding contacts (slip rings) 
+is reduced. Moreover, the sliding contacts 
+are used for low-voltage DC Source.
+4)  Armature windings can be constructed 
+more rigidly to prevent deformation due 
+to any mechanical stress.
+4.5.5  Single phase AC generator
+In a single phase AC generator, the 
+armature conductors are connected in series 
+so as to form a single circuit which generates 
+a single-phase alternating emf and hence it 
+is called single-phase alternator. 
+In the simplified version of AC generator, 
+a single-turn rectangular loop PQRS is 
+mounted on the stator. The field winding is 
+fixed inside the stator and it can be rotated 
+about an axis, perpendicular to the plane of 
+the paper. 
+The loop PQRS is stationary and is also 
+perpendicular to the plane of the paper. 
+When field windings are excited, magnetic 
+field is produced around it. Let the field 
+magnet be rotated in clockwise direction by 
+some external means (Figure 4.28). 
+Figure 4.28  Te loop PQRS and feld 
+magnet in its initial position
+N
+S
+P
+Q
+S
+R
+Initial
+position
+B
+n
+ω
+DC source. The ends of field windings are 
+connected to a pair of slip rings, attached 
+to a common shaft about which rotor 
+rotates. Slip rings rotate along with rotor. 
+To maintain connection between the DC 
+source and field windings, two brushes 
+are used which continuously slide over the 
+slip rings. The 2-pole rotor is shown in 
+Figure 4.27.
+We will discuss the construction and 
+working of two examples, namely single 
+phase and three phase AC generators in 
+the following sections.
+4.5.4  Advantages of 
+stationary armature-rotating 
+field alternator
+Alternators are generally high current 
+and high voltage machines. The stationary 
+armature-rotating field construction has 
+many advantages. A few of them include:
+1)  The current is drawn directly from fixed 
+terminals on the stator without the use 
+of brush contacts. 
+Figure 4.27  Stator core, Armature 
+winding and 2-pole rotor 
+D.C.
+source
+P & S - Armature conductors
+P
+S
+N
+S
+B
+Field
+winding
+Brushes
+Magnetic axis of
+the ﬁeld
+Slip rings
+Armature slot
+Stator core
+12th Physics_Vol-1_Unit 4_English Medium.indd   224
+12th Physics_Vol-1_Unit 4_English Medium.indd   224
+23-12-2022   17:57:36
+23-12-2022   17:57:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 225
+PDF_PAGE: 233
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+225
+of the induced emf is at right angles to the 
+plane of the paper. For PQ, it is inwards and 
+for RS it is outwards. Therefore, the current 
+flows along PQRS. The point A in the graph 
+represents this maximum emf. 
+For the rotation of 180° from the initial 
+position, the field is again perpendicular to 
+PQRS and the induced emf becomes zero. 
+This is represented by point B. 
+The field magnet becomes again parallel 
+to PQRS for 270° rotation of field magnet. 
+The induced emf is maximum but the 
+direction is reversed. Thus the current flows 
+along SRQP. This is represented by point C. 
+On completion of 360°, the induced 
+emf becomes zero and is represented by the 
+point D. From the graph, it is clear that emf 
+induced in PQRS is alternating in nature. 
+Therefore, when field magnet completes 
+one rotation, induced emf in PQRS finishes 
+one cycle.
+Assume that initial position of the field 
+magnet is horizontal. At that instant, the 
+direction of magnetic field is perpendicular 
+to the plane of the loop PQRS. The induced 
+emf is zero (Refer case (iii) of section 4.4). 
+This is represented by origin O in the graph 
+drawn between induced emf and time angle 
+(Figure 4.29). 
+When field magnet rotates through 
+90°, magnetic field becomes parallel to 
+PQRS. The induced emfs across PQ and RS 
+would become maximum. Since they are 
+connected in series, emfs are added up and 
+the direction of total induced emf is given 
+by Fleming’s right hand rule. 
+Care has to be taken while applying this 
+rule; the thumb indicates the direction of the 
+motion of the conductor with respect to field. 
+For clockwise rotating poles, the conductor 
+appears to be rotating anticlockwise. Hence, 
+thumb should point to the left. The direction 
+t=
+t
+t=
+t=
+t= 
+
+
+
+
+t=
+0
+A
+B
+D
+C
+
+m
+–m
+
+
+
+
+B
+B
+B
+B
+B
+P
+Q
+R
+S
+P
+Q
+R
+S
+P
+Q
+R
+S
+P
+Q
+R
+S
+P
+Q
+R
+S
+Figure 4.29  Variation of induced emf with respect to time angle
+12th Physics_Vol-1_Unit 4_English Medium.indd   225
+12th Physics_Vol-1_Unit 4_English Medium.indd   225
+23-12-2022   17:57:36
+23-12-2022   17:57:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 234
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+226
+Construction of AC generator (Not for examination)
+Stator core
+Slot
+Rectangular loop
+Outlet 
+terminal
+Stator core
+Stator winding
+Figure(c): Stator core with armature windings
+S
+N
+N
+S
+N
+S
+Salient pole
+Magnetic yoke
+Figure(d): 6-pole rotor
+Magnetic
+lines
+Salient pole
+Slip ring
+Brushes
+Excitation
+coil
+DC supply
+input
+S
+N
+N
+S
+N
+S
++
+–
+Figure(e): 6-pole rotor with field windings, 
+slip rings and brushes
+6
+1
+1
+6
+1
+6
+
+±
+Figure(f): Stator core and rotor
+ii) Rotor 
+Rotor contains magnetic field windings, 
+slip rings and brushes mounted  on the 
+same shaft.
+Figure(a): Stator core with empty slots
+Figure(b): Stator core with rectangular loop
+Alternator consists of two major parts, 
+namely stator and rotor. (This box 
+is given for better understanding of 
+constructional details)
+i) Stator 
+Stator has two components, namely stator 
+core and armature winding. 
+12th Physics_Vol-1_Unit 4_English Medium.indd   226
+12th Physics_Vol-1_Unit 4_English Medium.indd   226
+23-12-2022   17:57:38
+23-12-2022   17:57:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 120
+PDF_PAGE: 235
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+227
+The initial position of the field 
+magnet is horizontal and field direction is 
+perpendicular to the plane of the coil 1. As 
+it is seen in single phase AC generator, when 
+field magnet is rotated from that position in 
+clockwise direction, alternating emf ε1 in 
+coil 1 begins a cycle from origin O. This is 
+shown in Figure 4.31.
+The corresponding cycle for alternating 
+emf ε2 in coil 2 starts at point A after field 
+magnet has rotated through 120°. Therefore, 
+the phase difference between ε1 and ε2 is 
+120°. Similarly, emf ε3 in coil 3 would begin 
+its cycle at point B after 240° rotation of field 
+magnet from initial position. Thus these emfs 
+produced in the three phase AC generator have 
+120° phase difference between one another. 
+
+0
+0
+0
+1
+2
+3
+120°
+240°
+90°
+180°
+270°
+270
+360°
+For coil 1, ﬁeld magnet
+is in initial position at t=0
+For coil 2, ﬁeld 
+magnet has to rotate 
+     through 120 
+   For coil 3, 240rotation 
+of ﬁeld magnet is required
+B
+t
+t
+t
+A
+Te dotted lines represent emfs induced in previous cycle
+Figure 4.31  Variation of emfs 
+ε
+ε
+ε
+1
+2
+3
+,
+ and 
+ with time angle. 
+4.5.8  Advantages of three-
+phase alternator
+Three-phase system has many advantages 
+over single-phase system. Let us see a few of 
+them.
+4.5.6  Poly-phase AC 
+generator
+Some AC generators may have more 
+than one coil in the armature core and each 
+coil produces an alternating emf. In these 
+generators, more than one emf is produced. 
+Thus they are called poly-phase generators. 
+If there are two alternating emfs 
+produced in a generator, it is called two-
+phase generator. In some AC generators, 
+there are three separate coils, which would 
+give three separate emfs. Hence they are 
+called three-phase AC generators.
+4.5.7  Three-phase AC 
+generator
+In the simplified construction of three-
+phase AC generator, the armature core has 
+6 slots, cut on its inner rim. Each slot is 
+60° away from one another. Six armature 
+conductors are mounted in these slots. The 
+conductors 1 and 4 are joined in series to 
+form coil 1. The conductors 3 and 6 form 
+coil 2 while the conductors 5 and 2 form 
+coil 3. So, these coils are retangular in 
+shape and are 120° apart from one another 
+(Figure 4.30).
+Figure 4.30  Construction of three-
+phase AC generator
+P
+Q
+1
+2
+3
+4
+5
+6
+S
+N
+B
+Coil 1
+Coil 3
+Coil 2
+120
+120
+120
+Initial
+position
+12th Physics_Vol-1_Unit 4_English Medium.indd   227
+12th Physics_Vol-1_Unit 4_English Medium.indd   227
+23-12-2022   17:57:39
+23-12-2022   17:57:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 228
+PDF_PAGE: 236
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+228
+laminated and is made up of a good 
+magnetic material like silicon steel. Coils 
+are electrically insulated but magnetically 
+linked via transformer core (Figure 4.32).
+The coil across which alternating voltage 
+is applied is called primary coil P and the 
+coil from which output power is drawn out 
+is called secondary coil S. The assembled 
+core and coils are kept in a container which 
+is filled with suitable medium for better 
+insulation and cooling purpose.
+Working 
+If the primary coil is connected to a 
+source of alternating voltage, an alternating 
+magnetic flux is set up in the laminated 
+core. If there is no magnetic flux leakage, 
+then whole of magnetic flux linked with 
+primary coil is also linked with secondary 
+1)  For a given dimension of the generator, 
+three-phase machine produces higher 
+power output than a single-phase machine.
+2)  For the same capacity, three-phase 
+alternator is smaller in size when 
+compared to single-phase alternator.
+3)  Three-phase transmission system is 
+cheaper. A relatively thinner wire is 
+sufficient for transmission of three-
+phase power.
+4.6
+TRANSFORMER
+Transformer is a stationary device used to 
+transform electrical power from one circuit 
+to another without changing its frequency. 
+The applied alternating voltage is either 
+increased or decreased with corresponding 
+decrease or increase of current in the circuit. 
+If the transformer converts an alternating 
+current with low voltage into an alternating 
+current with high voltage, it is called step-up 
+transformer. On the contrary, if the transformer 
+converts alternating current with high voltage 
+into an alternating current with low voltage, 
+then it is called step-down transformer. 
+4.6.1  Construction and 
+working of transformer
+Principle 
+The principle of transformer is the 
+mutual induction between two coils. That 
+is, when an electric current passing through 
+a coil changes with time, an emf is induced 
+in the neighbouring coil.
+Construction 
+In 
+the 
+simple 
+construction 
+of 
+transformers, there are two coils of high 
+mutual inductance wound over the same 
+transformer core. The core is generally 
+Figure 4.32(a)  Construction of transformer
+Primary winding of
+Secondary winding of
+Secondary
+current,
+Primary
+current,
+Primary
+voltage,
+Np turns
+Ns turns
+Ip
+Is
+VP
+V
+Secondary
+voltage,
+s
+Transformer
+core
+Figure 4.32(b)  Roadside transformer
+12th Physics_Vol-1_Unit 4_English Medium.indd   228
+12th Physics_Vol-1_Unit 4_English Medium.indd   228
+23-12-2022   17:57:40
+23-12-2022   17:57:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 229
+PDF_PAGE: 237
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+229
+Equation 4.27 is written in terms of 
+amplitude of corresponding quantities, 
+V
+V
+N
+N
+I
+I
+K
+s
+p
+s
+p
+p
+s
+=
+=
+=
+i)  If N
+N
+K
+s
+p
+>
+>
+(
+)
+1 , then 
+ and 
+V
+V
+I
+I
+s
+p
+s
+p
+>
+<
+. 
+This is the case of step-up transformer 
+in which voltage is increased and the 
+corresponding current is decreased.
+ii)  If N
+N
+K
+s
+p
+<
+<
+(
+)
+1 , then 
+ and 
+.
+V
+V
+I
+I
+s
+p
+s
+p
+<
+>
+ 
+This is step-down transformer where 
+voltage is decreased and the current is 
+increased.
+Efficiency of a transformer:
+The efficiency η of a transformer is 
+defined as the ratio of the useful output 
+power to the input power. Thus 
+η=
+×
+Output power
+Input power
+100% 
+(4.28)
+Transformers are highly efficient devices 
+having their efficiency in the range of 96 – 
+99%. Various energy losses in transformers 
+will not allow them to be 100% efficient.
+4.6.2  Energy losses in a 
+transformer
+Transformers do not have any moving 
+parts so that its efficiency is much higher 
+than that of rotating machines like generators 
+and motors. But there are many factors 
+which lead to energy loss in a transformer. 
+i)  Core loss or Iron loss
+This loss takes place in transformer core. 
+Hysteresis loss (Refer section 3.6) and 
+eddy current loss are known as core loss 
+or Iron loss. When transformer core is 
+magnetized and demagnetized repeatedly 
+by the alternating voltage applied across 
+primary coil, hysteresis takes place due to 
+coil. This means that rate at which magnetic 
+flux changes through each turn is same for 
+both primary and secondary coils. 
+As a result of flux change, emf is induced 
+in both primary and secondary coils. The 
+emf induced in the primary coil or back emf 
+εp is given by
+εp
+p
+B
+N d
+dt
+=−
+Φ 
+But the voltage applied vp across the 
+primary is equal to the back emf. Then 
+v
+N d
+dt
+p
+p
+B
+=−
+Φ
+
+(4.24)
+The frequency of alternating magnetic 
+flux in the core is same as the frequency of 
+the applied voltage. Therefore, induced emf 
+in secondary will also have same frequency 
+as that of applied voltage. The emf induced 
+in the secondary coil εs is given by
+εs
+s
+B
+N d
+dt
+=−
+Φ 
+where N p and Ns are the number of turns in 
+the primary and secondary coil respectively. 
+If the secondary circuit is open, then εs = vs 
+where vs is the voltage across secondary coil. 
+vs
+s
+B
+N d
+dt
+=−
+Φ 
+(4.25)
+From equations (4.24) and (4.25),
+v
+v
+s
+p
+s
+p
+N
+N
+K
+=
+=
+
+(4.26)
+This constant K is known as voltage 
+transformation ratio. For an ideal transformer, 
+Input power v p pi = Output power vs si
+where ip and is are the currents in the 
+primary and secondary coil respectively. 
+Therefore,
+v
+v
+s
+p
+s
+p
+p
+s
+N
+N
+i
+i
+=
+=
+
+(4.27)
+12th Physics_Vol-1_Unit 4_English Medium.indd   229
+12th Physics_Vol-1_Unit 4_English Medium.indd   229
+23-12-2022   17:57:44
+23-12-2022   17:57:44
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 230
+PDF_PAGE: 238
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+230
+power is lost due to Joule heating (i R
+2 ) in 
+the transmission lines which are hundreds 
+of kilometer long. This power loss can be 
+tackled either by reducing current I or by 
+reducing resistance R of the transmission 
+lines. The resistance R can be reduced 
+with thick wires of copper or aluminium. 
+But this increases the cost of production 
+of transmission lines and other related 
+expenses. So this way of reducing power loss 
+is not economically viable.
+Step-up
+transformer
+Step-down
+transformer
+Transmission line
+City
+sub-station
+Power
+Station
+Figure 4.33  Long distance power 
+transmissions
+Since power produced is alternating 
+in nature, there is a way out. The most 
+important property of alternating voltage 
+that it can be stepped up and stepped down 
+by using transformers could be exploited 
+in reducing current and thereby reducing 
+power losses to a greater extent. 
+At the transmitting point, the voltage is 
+increased and the corresponding current 
+is decreased by using step-up transformer 
+(Figure 4.33). Then it is transmitted 
+through transmission lines. This reduced 
+current at high voltage reaches the 
+destination without any appreciable loss. At 
+the receiving point, the voltage is decreased 
+and the current is increased to appropriate 
+values by using step-down transformer 
+and then it is given to consumers. Thus 
+power transmission is done efficiently and 
+economically. 
+which some energy is lost in the form of 
+heat. Hysteresis loss is minimized by using 
+steel of high silicon content in making 
+transformer core.
+Alternating magnetic flux in the core 
+induces eddy currents in it. Therefore 
+there is energy loss due to the flow of 
+eddy current, called eddy current loss 
+which is minimized by using very thin 
+laminations of transformer core.
+ii)  Copper loss
+Transformer windings have electrical 
+resistance. When an electric current 
+flows through them, some amount of 
+energy is dissipated due to Joule heating. 
+This energy loss is called copper loss 
+which is minimized by using wires of 
+larger diameter. 
+iii)  Flux leakage
+Flux leakage happens when the magnetic 
+lines of primary coil are not completely 
+linked with secondary coil. Energy loss 
+due to this flux leakage is minimized by 
+winding coils one over the other.
+4.6.3  Advantages of AC 
+in long distance power 
+transmission
+Electric power is produced in a large 
+scale at electric power stations with the help 
+of AC generators. These power stations are 
+classified based on the type of fuel used as 
+thermal, hydro electric and nuclear power 
+stations. Most of these stations are located 
+at remote places. Hence the electric power 
+generated is transmitted over long distances 
+through transmission lines to reach towns 
+or cities where it is actually consumed. This 
+process is called power transmission. 
+But there is a difficulty during power 
+transmission. A sizable fraction of electric 
+12th Physics_Vol-1_Unit 4_English Medium.indd   230
+12th Physics_Vol-1_Unit 4_English Medium.indd   230
+23-12-2022   17:57:45
+23-12-2022   17:57:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 239
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+231
+EXAMPLE 4.16
+An ideal transformer has 460 and 40,000 
+turns in the primary and secondary coils 
+respectively. Find the voltage developed per 
+turn of the secondary if the transformer 
+is connected to a 230 V AC mains. The 
+secondary is given to a load of resistance 104 Ω. 
+Calculate the power delivered to the load.
+Solution
+NP = 460 turns; NS = 40,000 turns
+VP = 230 V; RS = 104 Ω
+(i)	 Secondary voltage, 
+V
+V N
+N
+S
+P
+S
+P
+=
+=
+×
+230
+40 000
+460
+,
+ = 20 000
+,
+V
+Secondary voltage per turn, V
+N
+S
+S
+= 20 000
+40 000
+,
+,
+ 	
+	
+	
+	
+	
+= 0 5. V
+(ii)	Power delivered
+= V I
+V
+R
+S
+S
+S
+S
+=
+=
+×
+2
+4
+20 000
+20 000
+10
+,
+,
+ = 40 kW
+EXAMPLE 4.17
+An inverter is common electrical device 
+which we use in our homes. When there is 
+no power in our house, inverter gives AC 
+power to run a few electronic appliances 
+like fan or light. An inverter has inbuilt 
+step-up transformer which converts 12 V 
+AC to 240 V AC. The primary coil has 100 
+turns and the inverter delivers 50 mA to the 
+external circuit. Find the number of turns 
+in the secondary and the primary current.
+Solution
+Vp = 12 V; 	Vs = 240 V
+Is = 50mA; Np = 100 turns
+V
+V
+N
+N
+I
+I
+K
+S
+P
+S
+P
+P
+S
+=
+=
+=
+Illustration:
+An electric power of 2 MW is transmitted 
+to a place through transmission lines 
+of total resistance R = 40 Ω, at two 
+different voltages. One is lower voltage 
+(10 kV) and the other is higher (100 kV). 
+Let us now calculate and compare power 
+losses in these two cases.
+Case (i):
+P = 2 MW; R = 40 Ω; V = 10 kV
+Power, P
+VI
+=
+∴Current, I
+P
+V
+=
+                       =
+×
+×
+=
+2 10
+10 10
+200
+6
+3
+A
+Power loss = Heat produced = I 2R
+                    = (
+) ×
+=
+×
+200
+40
+1 6 10
+2
+6
+.
+W
+% of power loss	 =
+×
+×
+×
+1 6 10
+2 10
+100
+6
+6
+.
+%
+	
+=
+×
+0 8 100
+.
+% = 80%
+Case (ii):
+P = 2 MW; R = 40 Ω; V = 100 kV
+∴ Current, I
+P
+V
+=
+                      =
+×
+×
+=
+2 10
+100 10
+20
+6
+3
+A
+Power loss = I 2R
+	
+= (
+) ×
+=
+×
+20
+40
+0 016 10
+2
+6
+.
+W
+% of power loss =
+×
+×
+×
+0 016 10
+2 10
+100
+6
+6
+.
+%
+	
+  =
+×
+0 008 100
+.
+% = 0 8. %
+Thus it is clear that when an electric 
+power is transmitted at higher voltage, the 
+power loss is reduced to a large extent.
+12th Physics_Vol-1_Unit 4_English Medium.indd   231
+12th Physics_Vol-1_Unit 4_English Medium.indd   231
+23-12-2022   17:57:52
+23-12-2022   17:57:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 232
+PDF_PAGE: 240
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+232
+Power system at a glance (Not for Examination)
+The generating stations present in a region are interconnected to form a common electrical 
+network and are operated in parallel. This is to ensure uninterrupted power supply to a large 
+number of consumers in the case of failure of any power station or a sudden increase of load 
+beyond the capacity of the generating station. 
+The various elements such as generating stations, transmission lines, the substations and 
+distributors etc are all tied together for continuous generation and consumption of electric 
+energy.This is called power system. A part of power system consisting of the sub-stations and 
+transmission lines is known as a grid. 
+In a power system, the transfer of electric power produced to the consumer is carried out 
+in two stages which are further sub-divided into two as given below.
+1)	 Transmission stage
+	
+a)	 Primary transmission stage
+	
+b)	Secondary transmission stage
+2)	 Distribution stage
+	
+a)	 Primary distribution stage
+	
+b)	Secondary transmission stage
+and then it is supplied to individual 
+consumers. These two stages of power 
+transmission is presented in a single-
+line diagram shown in figure. The 
+central system usually generates power 
+at 11 kV which is stepped up to 132 kV 
+and is transmitted through transmission 
+lines. This is known as primary or high-
+voltage transmission. 
+This high-voltage power reaches 
+receiving station at the outskirts of the 
+city where it is stepped down to 33 kV 
+and is transmitted as secondary or low-
+voltage transmission to sub-stations 
+situated within the city limits. 
+In the primary distribution system, 
+the voltage is reduced from 33 kV to 
+3.3kV at sub-stations and is given to 
+distribution sub-stations. The voltage is 
+finally brought down to 440V or 230V at 
+distribution sub-station from where secondary distribution is done to factories (440V) and 
+homes (230V) via distribution networks.
+G
+11kV
+132 kV
+Power station
+Receiving station
+Sub -station
+33 kV
+3.3 kV
+440 V/220 V
+Distribution
+transformer
+Distribution
+network
+  Consumer’s Connection  
+Secondary
+distribution
+Secondary
+transmissin
+Primary
+distribution
+Primary 
+transmissin
+Generator
+12th Physics_Vol-1_Unit 4_English Medium.indd   232
+12th Physics_Vol-1_Unit 4_English Medium.indd   232
+23-12-2022   17:57:52
+23-12-2022   17:57:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 241
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+233
+Transformation ratio, K =
+=
+240
+12
+20
+The number of turns in the secondary 
+N
+N
+K
+S
+P
+=
+×
+=
+×
+=
+100
+20
+2000
+Primary current, 
+IP = K × Is = 20 × 50 mA = 1 A
+4.7
+ALTERNATING CURRENT
+4.7.1  Introduction
+In section 4.5, we have seen that when 
+the orientation of the coil with the magnetic 
+field is changed, an alternating emf is 
+induced and hence an alternating current 
+flows in the closed circuit. An alternating 
+voltage is the voltage which changes 
+polarity at regular intervals of time and 
+the direction of the resulting alternating 
+current also changes accordingly.
+In the Figure 4.34(a), an alternating 
+voltage source is connected to a resistor R 
+in which the upper terminal of the source 
+is positive and lower terminal negative at 
+an instant. Therefore, the current flows 
+in clockwise direction. After a short time, 
+the polarities of the source are reversed so 
+that current now flows in anti-clockwise 
+direction (Figure 4.34(b)). This current 
+which flows in alternate directions in the 
+circuit is called alternating current.
+Sinusoidal alternating voltage
+If the waveform of alternating voltage is 
+a sine wave, then it is known as sinusoidal 
+alternating voltage which is given by the 
+relation.
+v =V
+t
+m sinω 
+(4.29)
+where υ is the instantaneous value of 
+alternating voltage; Vm is the maximum value 
+(amplitude) and ω is the angular frequency 
+of the alternating voltage. When sinusoidal 
+alternating voltage is applied to a closed 
+circuit, the resulting alternating current is 
+also sinusoidal in nature and its relation is
+i
+I
+t
+m
+=
+sinω 
+(4.30)
+where Im is the maximum value (amplitude) 
+of the alternating current. The direction 
+of sinusoidal voltage or current is reversed 
+after every half-cycle and its magnitude 
+is also changing continuously as shown in 
+Figure 4.35.
+Figure 4.35 (a)  Sinusoidal alternating 
+voltage (b) Sinusoidal alternating current
+0
+(a)
+(b)
+2
+
+t
+v
+Vm
+–Vm
+i
+0
+2
+
+t
+–Im
+Im
+Figure 4.34  Alternating voltage and the 
+corresponding alternating current
++
+-
+-
+R
+i
++
+R
+i
+(a)
+(b)
+12th Physics_Vol-1_Unit 4_English Medium.indd   233
+12th Physics_Vol-1_Unit 4_English Medium.indd   233
+23-12-2022   17:57:54
+23-12-2022   17:57:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 242
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+234
+The instantaneous value of sinusoidal 
+alternating current is given by the equation 
+i
+I
+i
+I
+m
+m
+=
+=
+sin
+t or
+sin
+ω
+θ (where θ = ωt) 
+whose graphical representation is given in 
+Figure 4.36. 
+The sum of all currents over a half-cycle 
+is given by area of positive half-cycle (or 
+negative half-cycle). Therefore,
+Iav =
+Areaof positive half-cycle 
+ (or negative half-cycle 
+Ba
+)
+selengthof half-cycle 
+(4.31)
+Figure 4.36  Sine wave of an alternating current
+0
+2
+
+d
+
+i
+i
+Consider an elementary strip of thickness 
+dθ in the positive half-cycle of the current 
+wave (Figure 4.41). Let i be the mid-ordinate 
+of that strip.
+Area of the elementary strip = i dθ 
+Area of positive half-cycle 
+=
+=
+∫
+∫
+id
+I
+d
+m
+θ
+θ θ
+π
+π
+0
+0
+sin
+=
+−
+[
+] =−
+−
+[
+]
+I
+I
+m
+m
+cos
+cos
+cos
+θ
+π
+π
+0
+0   = 2Im
+The base length of half-cycle is π. Substi­
+tuting these values in equation (4.31), we get 
+Average value of AC, I
+I
+av
+m
+= 2
+π
+I
+I
+av
+m
+= 0 637
+.
+
+(4.32)
+Interestingly, sine waves are 
+very common in nature. The 
+periodic motions like waves 
+in water, swinging of pendulum are 
+associated with sine waves. Thus sine 
+wave seems to be nature’s standard. Also 
+refer unit 11 of XI physics text book.
+Note
+4.7.2  Mean or Average  
+value of AC
+The current and voltage in a DC system 
+remain constant over a period of time 
+so that there is no problem in specifying 
+their magnitudes. However, an alternating 
+current or voltage varies from time to time. 
+Then a question arises how to express the 
+magnitude of an alternating current or 
+voltage. Though there are many ways of 
+expressing it, we limit our discussion with 
+two ways, namely mean value and RMS 
+(Root Mean Square) value of AC.
+Mean or Average value of AC
+We have learnt that the magnitude of 
+an alternating current in a circuit changes 
+from one instant to other instant and its 
+direction also reverses for every half cycle. 
+During positive half cycle, current is taken 
+as positive and during negative cycle it is 
+negative. Therefore mean or average value 
+of symmetrical alternating current over one 
+complete cycle is zero. 
+Therefore the average or mean value is 
+measured over one half of a cycle. These 
+electrical terms, average current and average 
+voltage, can be used in both AC and DC 
+circuit analysis and calculations.
+The average value of alternating 
+current is defined as the average of all 
+values of current over a positive half-cycle 
+or a negative half-cycle. 
+12th Physics_Vol-1_Unit 4_English Medium.indd   234
+12th Physics_Vol-1_Unit 4_English Medium.indd   234
+23-12-2022   17:57:56
+23-12-2022   17:57:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 243
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+235
+squared current wave as shown in Figure 4.37. 
+Let i2 be the mid-ordinate of the element. 
+Area of the element = i d
+2 θ
+Area of one cycle of squared wave 
+=∫i d
+2
+0
+2π
+θ
+Figure 4.37  Squared wave of AC
+i2 wave
+i2
+0
+2
+
+d
+
+i
+=
+=
+∫
+∫
+I
+d
+I
+d
+m
+m
+2
+0
+2
+2
+2
+2
+0
+2
+π
+π
+θ θ
+θ θ
+sin
+sin
+
+(4.34)
+=
+−
+
+
+
+
+
+
+∫
+I
+d
+m
+2
+0
+2
+1
+2
+2
+cos θ θ
+π
+since sin
+cos
+2
+1
+2
+2
+θ
+θ
+= −
+=
+−
+
+
+
+
+
+
+∫
+∫
+I
+d
+d
+m
+2
+0
+2
+0
+2
+2
+2
+θ
+θ θ
+π
+π
+cos
+=
+−
+
+
+
+
+
+
+Im
+2
+0
+2
+2
+2
+2
+θ
+θ
+π
+sin
+=
+−
+×
+
+
+
+
+
+−
+−
+Im
+2
+2
+2
+2
+2
+2
+0
+0
+2
+π
+π
+sin
+sin
+
+
+
+
+
+
+
+
+
+
+
+
+=
+×
+=
+I
+I
+m
+m
+2
+2
+2
+2π
+π 	
+[
+sin
+sin
+]
+ 
+0
+4
+0
+=
+=
+π
+The base length of one cycle is 2π . Substi­
+tuting these values in equation (4.33), we get
+Hence the average value of AC is 
+0.637 times the maximum value Im of the 
+alternating current. For negative half-cycle, 
+I
+I
+av
+m
+= −0 637
+.
+.
+For example, if we consider 
+n currents in a half-cycle of 
+AC, namely i1, i2, ... in, then 
+average value is given by
+Iav = Sum of all currents over half-cycle
+Number of currents
+I
+i
+i
+i
+n
+av
+n
+=
++
++
++
+1
+2
+....
+Note
+4.7.3  RMS value of AC
+The term RMS refers to time-varying 
+sinusoidal currents and voltages which is 
+not used in DC systems. 
+The root mean square value of an 
+alternating current is defined as the 
+square root of the mean of the squares of 
+all currents over one cycle. It is denoted by 
+IRMS. For alternating voltages, the RMS value 
+is given by VRMS.
+The alternating current i
+Im
+=
+sin
+t
+ω 
+or i
+Im
+=
+sinθ, is represented graphically 
+in Figure 4.37. The corresponding squared 
+current wave is also shown by the dotted 
+lines. 
+The sum of the squares of all currents 
+over one cycle is given by the area of one 
+cycle of squared wave. Therefore,
+IRMS =
+Areaof one cycle 
+of squared wave
+Baselengthof one cycle  (4.33)
+An elementary area of thickness dθ 
+is considered in the first half-cycle of the 
+12th Physics_Vol-1_Unit 4_English Medium.indd   235
+12th Physics_Vol-1_Unit 4_English Medium.indd   235
+23-12-2022   17:58:01
+23-12-2022   17:58:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 244
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+236
+For 
+common 
+household 
+appliances, 
+the 
+voltage 
+rating and current rating 
+are generally specified in terms of 
+their RMS value. The domestic AC 
+supply is 230V, 50 Hz. It is the RMS or 
+effective value. Its peak value will be 
+V
+V
+m
+rms
+=
+=
+×
+=
+2
+2
+230
+325
+ 
+V.
+EXAMPLE 4.18
+Write down the equation for a sinusoidal 
+voltage of 50 Hz and its peak value is 20 V. 
+Draw the corresponding voltage versus 
+time graph.
+Solution
+f
+m
+=
+=
+50
+20
+Hz
+ V
+; V
+Instantaneous voltage, v =V
+t
+m sinω
+    =V
+ft
+m sin2π
+    =
+×
+20
+2
+50
+sin(
+)t
+π
+ =
+×
+20
+100
+3 14
+sin(
+.
+)t
+v = 20
+314
+sin
+t
+Time for one cycle, T
+f
+=
+=
+=
+1
+1
+50
+0 02
+.
+s
+    =
+×
+−
+20 10 3s = 20ms
+The wave form is given below.
+0
+20V
+–20V
+t (ms)
+5
+10
+15
+20
+v
+I
+I
+I
+RMS
+m
+m
+=
+=
+2
+2
+2
+ π
+π
+      
+I
+I
+RMS
+m
+= 0 707
+.
+
+(4.35)
+Thus we find that for a symmetrical 
+sinusoidal current rms value of current is 
+70.7 % of its peak value.
+Similarly for alternating voltage, it can be 
+shown that 
+V
+V
+RMS
+m
+= 0 707
+.
+
+(4.36)
+RMS value of alternating 
+current 
+is 
+also 
+called 
+effective 
+value 
+and 
+is 
+represented as Ieff. It is used to compare 
+RMS current of AC to an equivalent 
+steady current. 
+RMS value is also defined as that value 
+of the steady current which when 
+flowing through a given circuit for a 
+given time produces the same amount 
+of heat as produced by the alternating 
+current when flowing through the 
+same circuit for the same time. The 
+effective value of an alternating voltage 
+is represented by Veff.
+Note
+For example, if we consider n 
+currents in one cycle of AC, 
+namely i1, i2, ... in, then RMS 
+value is given by
+IRMS =
+Sum of squares of all currents 
+over one cycle
+Number of currents
+I
+i
+i
+i
+n
+RMS
+n
+=
++
++
++
+1
+2
+2
+2
+2
+...
+Note
+12th Physics_Vol-1_Unit 4_English Medium.indd   236
+12th Physics_Vol-1_Unit 4_English Medium.indd   236
+23-12-2022   17:58:08
+23-12-2022   17:58:08
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 77
+PDF_PAGE: 245
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+237
+·  the angle between the phasor and 
+the axis of reference (positive x-axis) 
+indicates the phase of the alternating 
+voltage (or current).
+The notion of phasors is introduced to 
+analyse phase relationship between voltage 
+and current in different AC circuits.
+Phasor diagram
+The diagram which shows various 
+phasors and their phase relations is called 
+phasor diagram. Consider a sinusoidal 
+alternating voltage v = Vm sin ωt applied to a 
+circuit. This voltage can be represented by a 
+phasor, namely OA
+ 
+
+ as shown in Figure 4.38. 
+Figure 4.38  Phasor diagram for an 
+alternating voltage v = Vm sin ωt
+Vm sin t
+0
+v
+v
+v
+t
+
+
+
+ 
+A
+t
+0
+OA = Vm 
+ 
+Here the length of OA
+ 
+
+ equals the peak 
+value (Vm), the angle it makes with x-axis 
+gives the phase (ωt) of the applied voltage. 
+Its projection on y-axis provides the 
+instantaneous value (Vm sin ωt) at that instant.
+When OA
+ 
+
+ rotates about O with angular 
+velocity ω in anti-clockwise direction, the 
+waveform of the voltage is generated. For 
+one full rotation of OA
+ 
+
+, one cycle of voltage 
+is produced.
+The alternating current in the same 
+circuit may be given by the relation 
+i = Imsin (ωt + ϕ) which is represented by 
+EXAMPLE 4.19
+The equation for an alternating current 
+is given by i = 77 sin 314t. Find the peak 
+current, frequency, time period and 
+instantaneous value of current at t = 2 ms.
+Solution
+i = 77 sin 314 t ; t = 2 m s = 2 × 10–3 s
+The general equation of an alternating 
+current is i
+I
+t
+m
+=
+sinω . On comparison, 
+(i)	
+Peak current, Im = 77A
+(ii)	 Frequency, f =
+= ×
+=
+ω
+π
+2
+314
+2
+3 14
+50
+.
+ Hz
+(iii)	 Time period, T
+f
+=
+=
+=
+1
+1
+50
+0 02
+.
+ s
+(iv)	 At t = 2 m s, Instantaneous current, 
+               i =
+× ×
+=
+× ×
+×
+°
+
+
+
+
+
+
+=
+−
+−
+77
+314
+2 10
+77
+314
+2 10
+180
+3 14
+77
+3
+3
+sin(
+)
+sin
+.
+sin
+.
+.
+36
+77
+0 5878
+45 26
+° =
+×
+=
+A
+Phasor and phasor diagram
+Phasor
+A sinusoidal alternating voltage (or 
+current) can be represented by a vector which 
+rotates about the origin in anti-clockwise 
+direction at a constant angular velocity ω. 
+Such a rotating vector is called a phasor. A 
+phasor is drawn in such a way that
+·  the length of the line segment equals the 
+peak value Vm (or Im) of the alternating 
+voltage (or current)
+·  its angular velocity ω is equal to the 
+angular frequency of the alternating 
+voltage (or current)
+·  the projection of phasor on any vertical 
+axis gives the instantaneous value of the 
+alternating voltage (or current)
+12th Physics_Vol-1_Unit 4_English Medium.indd   237
+12th Physics_Vol-1_Unit 4_English Medium.indd   237
+23-12-2022   17:58:11
+23-12-2022   17:58:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 238
+PDF_PAGE: 246
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+238
+v =V
+t
+m sinω 
+(4.37)
+An alternating current i flowing in 
+the circuit due to this voltage, develops a 
+potential drop across R and is given by 
+V
+iR
+R =
+
+(4.38)
+Kirchoff’s loop rule (Refer section 2.5.2) 
+states that the algebraic sum of potential 
+differences in a closed circuit is zero.  For 
+this resistive circuit,
+v −
+=
+VR
+0
+From equation (4.37) and (4.38),
+V
+t
+iR
+m sinω =
+i
+V
+R
+t
+m
+=
+sinω
+i
+I
+t
+m
+=
+sinω 
+(4.39)
+where 
+V
+R
+m
+m
+= I , the peak value of 
+alternating current in the circuit.  From 
+equations (4.37) and (4.39), it is clear that 
+another phasor OB
+ 
+
+. Here ϕ is the phase 
+angle between voltage and current. In this 
+case, the current leads the voltage by phase 
+angle ϕ which is shown in Figure 4.39. If 
+the current lags behind the voltage, then we 
+write i = Im sin (ωt - ϕ).
+4.7.4  AC circuit containing 
+pure resistor
+Figure 4.40  AC circuit with resistor
+R
+ = Vm sin t
+v
+Consider a circuit containing a pure 
+resistor of resistance R connected across 
+an alternating voltage source (Figure 4.40). 
+The instantaneous value of the alternating 
+voltage is given by 
+Vm sin t
+0
+B
+t
+
+A
+
+t
+0
+i
+i
+i
+
+Im sin (t+)
+v
+v
+v
+
+
+OA = Vm 
+OB = Im 
+Figure 4.39  Phasor diagram and wave diagram say that i leads v by ϕ 
+12th Physics_Vol-1_Unit 4_English Medium.indd   238
+12th Physics_Vol-1_Unit 4_English Medium.indd   238
+23-12-2022   17:58:14
+23-12-2022   17:58:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 239
+PDF_PAGE: 247
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+239
+v =V
+t
+m sinω 
+(4.40)
+The alternating current flowing through 
+the inductor induces a self-induced emf or 
+back emf in the circuit.  The back emf is 
+given by
+Backemf,ε =−L di
+dt
+By applying Kirchoff’s loop rule to the 
+purely inductive circuit, we get
+v + =
+ε
+0
+V
+t
+L di
+dt
+m sinω =
+di
+V
+L
+t dt
+m
+=
+sinω
+Integrating both sides, we get
+i
+V
+L
+tdt
+m
+=
+∫sinω
+i
+V
+L
+t
+m
+=
+−
+(
+)
+ω
+ω
+cos
+ + constant
+The integration constant in the above 
+equation is independent of time. Since the 
+voltage in the circuit has only time dependent 
+part, we can take the time independent part in 
+the current (integration constant) as zero.
+the applied voltage and the current are in 
+phase with each other in a resistive circuit. 
+It means that they reach their maxima and 
+minima simultaneously. This is indicated 
+in the phasor diagram (Figure 4.41). The 
+wave diagram also depicts that current is 
+in phase with the applied voltage (Figure 
+4.41).
+4.7.5  AC circuit containing 
+only an inductor
+Consider a circuit containing a pure 
+inductor of inductance L connected across 
+an alternating voltage source (Figure 4.42). 
+The instantaneous value of the alternating 
+voltage is given by
+Vm sin t
+0
+B
+t
+
+A
+t
+0
+i
+i
+Im sin (t)
+i
+
+
+OA = Vm 
+OB = Im 
+v
+v
+v
+Figure 4.41  Phasor diagram and wave diagram for AC circuit with R
+Figure 4.42  AC circuit with inductor
+L
+v = Vm sin t
+12th Physics_Vol-1_Unit 4_English Medium.indd   239
+12th Physics_Vol-1_Unit 4_English Medium.indd   239
+23-12-2022   17:58:16
+23-12-2022   17:58:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 248
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+240
+offered by the inductor, called inductive 
+reactance (XL). It is measured in ohm.
+X
+L
+L = ω
+An inductor blocks AC but it allows 
+DC. Why? and How?
+An inductor L is a closely wound 
+helical coil. The steady DC current flowing 
+through L produces uniform magnetic 
+field around it and the magnetic flux 
+linked remains constant. Therefore there 
+is no self-induction and self-induced emf 
+(back emf). Since inductor behaves like a 
+resistor, DC flows through an inductor. 
+The AC flowing through L produces 
+time-varying magnetic field which in 
+turn induces self-induced emf (back 
+emf). This back emf, according to Lenz’s 
+law, opposes any change in the current. 
+Since AC varies both in magnitude and 
+direction, its flow is opposed in L. For an 
+ideal inductor of zero ohmic resistance, 
+the back emf is equal and opposite to the 
+applied emf. Therefore L blocks AC. 
+
+−
+=−
+−
+(
+)
+=
+−
+(
+)
+
+
+
+
+
+
+cos
+sin
+sin
+ω
+π
+ω
+ω
+π
+t
+t
+t
+2
+2
+i
+V
+L
+t
+m
+=
+−
+(
+)
+ω
+ω
+π
+sin
+2
+or	 i
+I
+t
+m
+=
+−
+(
+)
+sin ω
+π
+2 
+(4.41)
+where V
+L
+I
+m
+m
+ω =
+, the peak value of the 
+alternating current in the circuit. From 
+equation (4.40) and (4.41), it is evident 
+that current lags behind the applied voltage 
+by π
+2 in an inductive circuit. This fact is 
+depicted in the phasor diagram. In the wave 
+diagram also, it is seen that current lags the 
+voltage by 90o (Figure 4.43).
+Inductive reactance XL
+The peak value of current Im is given by 
+I
+V
+L
+m
+m
+= ω . Let us compare this equation with 
+I
+V
+R
+m
+m
+=
+ from resistive circuit. The quantity 
+ωL plays the same role as the resistance 
+in resistive circuit.  This is the resistance 
+Figure 4.43  Phasor diagram and wave diagram for AC circuit with L
+Vm sin t
+0
+B
+t
+
+A
+t
+0
+i
+i
+Im sin (t–    )
+
+
+
+
+
+
+i
+OA = Vm 
+OB = Im 
+v
+v
+v
+12th Physics_Vol-1_Unit 4_English Medium.indd   240
+12th Physics_Vol-1_Unit 4_English Medium.indd   240
+23-12-2022   17:58:18
+23-12-2022   17:58:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 249
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+241
+   = CV
+t
+m ω
+ω
+cos
+	 	
+(or)
+i
+V
+C
+t
+m
+=
++
+(
+)
+1
+2
+ω
+ω
+π
+sin
+Instantaneous value of current,
+i
+I
+t
+m
+=
++
+(
+)
+sin ω
+π
+2 
+(4.44)
+where 
+V
+C
+I
+m
+m
+1 ω
+=
+, the peak value of the 
+alternating current. From equations (4.43) 
+and (4.44), it is clear that current leads the 
+applied voltage by π
+2 in a capacitive circuit. 
+This is shown pictorially in Figure 4.45. The 
+wave diagram for a capacitive circuit also 
+shows that the current leads the applied 
+voltage by 90o.
+Capacitive reactance XC
+	
+The peak value of current Im is given 
+by I
+V
+C
+m
+m
+= 1 ω
+. Let us compare this equation 
+with I
+V
+R
+m
+m
+=
+ for a resistive circuit. The 
+quantity 1Cω plays the same role as the 
+resistance R in resistive circuit.  This is the 
+resistance offered by the capacitor, called 
+capacitive reactance (XC). It measured in ohm. 
+X
+C
+c = 1
+ω
+
+(4.45)
+The capacitive reactance (XC) varies 
+inversely as the frequency. For a steady 
+current, f = 0. 
+∴
+=
+=
+=
+= ∞
+X
+C
+f C
+C
+1
+1
+2
+1
+0
+ω
+π
+Thus a capacitive circuit offers infinite 
+resistance to the steady current. So that 
+steady current cannot flow through the 
+capacitor.
+The inductive reactance (XL) varies 
+directly as the frequency. 
+X
+f L
+L = 2π
+
+(4.42)
+where f is the frequency of the alternating 
+current. For a steady current, f = 0. Therefore, 
+XL = 0. Thus an ideal inductor offers no 
+resistance to steady DC current.
+4.7.6  AC circuit containing 
+only a capacitor
+Consider a circuit containing a capacitor 
+of capacitance C connected across an 
+alternating voltage source (Figure 4.44). 
+The instantaneous value of the alternating 
+voltage is given by
+v =V
+t
+m sinω 
+(4.43)
+Figure 4.44  AC circuit with capacitor
+C
+v = Vm sin t
+Let q be the instantaneous charge on the 
+capacitor. The emf across the capacitor at 
+that instant is q
+C . According to Kirchoff’s 
+loop rule,
+v −
+=
+q
+C
+0
+q
+CV
+t
+m
+=
+sinω
+By the definition of current,
+i
+dq
+dt
+d
+dt CV
+t
+m
+=
+=
+(
+)
+sinω
+   =
+(
+)
+CV
+d
+dt
+t
+m
+sinω
+12th Physics_Vol-1_Unit 4_English Medium.indd   241
+12th Physics_Vol-1_Unit 4_English Medium.indd   241
+23-12-2022   17:58:22
+23-12-2022   17:58:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 250
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+242
+Find out the voltage across the coil if the 
+frequency is 1000 Hz.
+Solution
+L = 400 × 10–3 H; Ieff = 6 × 10–3A
+f   = 1000 Hz
+Inductive reactance, X
+L
+L
+f
+L =
+= ×
+ω
+π
+2
+= ×
+×
+×
+2
+3 14 1000
+0 4
+.
+.
+=2512 Ω
+Voltage across L,
+V
+I X L
+=
+=
+×
+×
+−
+6 10
+2512
+3
+ 
+V
+RMS
+= 15 072
+.
+(
+)
+V
+EXAMPLE 4.21
+A capacitor of capacitance 102
+π µF is 
+connected across a 220 V, 50 Hz A.C. 
+mains. Calculate the capacitive reactance, 
+RMS value of current and write down the 
+equations of voltage and current.
+Solution
+	
+	
+C
+V
+f
+RMS
+=
+×
+=
+=
+−
+10
+10
+220
+50
+2
+6
+π
+F
+ V
+Hz
+,
+;
+What is ELI?
+E
+L
+I
+EMF
+(Voltage)
+Inductor
+Current
+ELI is an acronym which means that 
+EMF (voltage) leads the current in an 
+inductive circuit.
+What is ICE?
+I
+C
+E
+EMF
+(Voltage)
+Capacitor
+Current
+ICE is an acronym which means that 
+the current leads the EMF (voltage) in a 
+capacitive circuit.
+EXAMPLE 4.20
+A 400 mH coil of negligible resistance 
+is connected to an AC circuit in which 
+an effective current of 6 mA is flowing. 
+Figure 4.45  Phasor diagram and wave diagram for AC circuit with C
+Vm sin t
+Im sin (t+    )
+0
+B
+t
+
+A
+t
+0
+i
+i
+
+
+
+
+i
+
+
+OA = Vm 
+OB = Im 
+v
+v
+v
+12th Physics_Vol-1_Unit 4_English Medium.indd   242
+12th Physics_Vol-1_Unit 4_English Medium.indd   242
+23-12-2022   17:58:25
+23-12-2022   17:58:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 243
+PDF_PAGE: 251
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+243
+A capacitor blocks DC but it allows AC. Why? and How? (Not for examination)
+Capacitors have two parallel metallic plates placed close to each other and there is a gap between plates. 
+Whenever a source of voltage (either DC voltage or AC voltage) is connected across a capacitor C, the electrons 
+from the source will reach the plate and stop. They cannot jump across the gap between plates to continue 
+its flow in the circuit. Therefore the electrons flowing in one direction (i.e. DC) cannot pass through the 
+capacitor. But the electrons from AC source seem to flow through C. Let us see what really happens!
+DC cannot flow through a capacitor: 
+Consider a parallel plate capacitor whose plates are uncharged (same amount of positive and negative 
+charges). A DC source (battery) is connected across C as shown in Figure (a).
+As soon as battery 
+is connected, electrons 
+start to flow from the 
+negative terminal and 
+are accumulated at the 
+right plate, making it 
+negative. Due to this 
+negative potential, the 
+electrons present in the nearby left plate are repelled and are moved towards positive terminal of the battery. 
+When electrons leave the left plate, it becomes positively charged. This process is known as charging. The 
+direction of flow of electrons is shown by arrows. 
+The charging of the plates continues till the level of the battery. Once C is fully charged and current will stop. 
+At this time, we say that capacitor is blocking DC Figure (c).
+AC flows (?!) through a capacitor: 
+Now an AC source is connected across C. At an instant, the right side of the source is at negative potential, 
+then the electrons flow from negative terminal to the right plate and from left plate to the positive terminal as 
+shown in Figure (d) but no electron crosses the gap between the plates. These electron-flows are represented 
+by arrows. Thus, the charging of the plates takes place and the plates become fully charged (Figure (e)).
+After a short time, the polarities of AC source are reversed and the right side of the source is now positive. 
+The electrons which were accumulated in the right plate start to flow to the positive terminal and the electrons 
+from negative terminal flow to the left plate to neutralize the positive charges stored in it. As a result, the 
+net charges present in the plates begin to decrease and this is called discharging. These electron-flows are 
+represented by arrows as shown in Figure (f). Once the charges are exhausted, C will be charged again but 
+with reversed polarities as shown in Figure (g).
+Thus the electrons flow in one direction while charging the capacitor and its direction is reversed while 
+discharging (the conventional current is also opposite in both cases). Though electrons flow in the circuit, no 
+electron crosses the gap between the plates. In this way, AC flows through a capacitor.
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
++–
+–
++
+-
++
+++
++
+–+
+++
+–+
+++
+–+
+++
++
+–+
++–+
++–
++–
+–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
++
+--------
+-
+-
+-
+-
+----
+++
++++++++
+++
++
+++
++++++++
+++
++
+–
+–
+–
+–
+––
+–
+–
+––
+––
+–
+–
+–
+–
+––
+–
+–
+––
+––
++
+(a)
+(b)
+(c)
++
+++
++
+–+
+++
+–+
+++
+–+
+++
++
+–+
++–+
++–
++–
+–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
++
+-
+-
+-------
+-
+-
+-
+-
+----
+AC
+++
++++++++
+++
++
+++
++++++++
+++
++
+–
+–
+–
+–
+––
+–
+–
+––
+––
+–
+–
+–
+–
+––
+–
+–
+––
+––
++
+-
+AC
++
+++
++
+–+
+++
+–+
+++
+–+
+++
++
+–+
++–+
++–
++–
+–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
+–
++–
+–
++
+- - - - ----
+----
+- - - - -
+AC
+++
++++++++
+++
++
+++
++++++++
+++
++
+–
+–
+–
+–
+––
+–
+–
+––
+––
+–
+–
+–
+–
+––
+–
+–
+––
+––
++
+-
+AC
+(d)
+(e)
+(f)
+(g)
+12th Physics_Vol-1_Unit 4_English Medium.indd   243
+12th Physics_Vol-1_Unit 4_English Medium.indd   243
+23-12-2022   17:58:26
+23-12-2022   17:58:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 252
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+244
+Let i be the resulting current in the 
+circuit at that instant. As a result, the voltage 
+is developed across R, L and C.
+We know that voltage across R (VR) is in 
+phase with i, voltage across L (VL) leads i by 
+π/2 and voltage across C (VC) lags behind i 
+by π/2.
+The phasor diagram is drawn with 
+current as the reference phasor. The 
+current is represented by the phasor 
+OI V
+OA V
+OB
+V
+OC
+R
+L
+C
+ 
+ 
+
+ 
+
+ 
+
+,
+;
+by
+by
+and
+by
+ 
+ 
+ as 
+shown in Figure 4.47. 
+The length of these phasors are 
+OI = Im, OA = ImR, OB = ImXL; OC = ImXC
+The circuit is either effectively inductive 
+or capacitive or resistive depending on 
+the value of VL or VC. Let us assume that 
+VL > VC. Therefore, net voltage drop across 
+L-C combination is VL – VC which is 
+represented by a phasor OD
+ 
+
+.
+By parallelogram law, the diagonal 
+OE
+ 
+
+ gives the resultant voltage v of VR and 
+(VL – VC) and its length OE is equal to Vm. 
+Therefore,
+V
+V
+V
+V
+m
+R
+L
+C
+2
+2
+2
+=
++
+−
+(
+)
+ V
+R
+X
+X
+m
+L
+C
+= (
+) +
+−
+(
+)
+I
+I
+I
+m
+m
+m
+2
+2
+      =
++
+−
+(
+)
+Im
+R
+X
+X
+L
+C
+2
+2 or	
+ I
+V
+m
+m
+=
++
+−
+(
+)
+R
+X
+X
+L
+C
+2
+2 or
+(4.46)
+ I
+V
+m
+m
+= Z 
+where 
+Z
+R
+X
+X
+L
+C
+=
++
+−
+(
+)
+2
+2 
+(4.47)
+Z is called impedance of the circuit 
+which refers to the effective opposition 
+to the current by the series RLC circuit. 
+(i) Capacitive reactance,
+      X
+C
+fC
+C =
+=
+1
+1
+2
+ω
+π
+            =
+× ×
+×
+−
+1
+2
+50
+10 4
+π
+π
+ = 100Ω
+(ii) RMS value of current,
+       I
+V
+X
+RMS
+RMS
+C
+=
+=
+=
+220
+100
+2 2. A
+(iii) Vm =
+×
+=
+220
+2
+311 V
+        Im =
+×
+=
+2 2
+2
+3 1
+.
+. A
+Therefore, 
+         v = 311
+314
+sin
+t
+          i
+t
+=
++
+(
+)
+3 1
+314
+2
+. sin
+π
+4.7.7  AC circuit containing 
+a resistor, an inductor and a 
+capacitor in series – Series 
+RLC circuit
+Consider a circuit containing a resistor 
+of resistance R, an inductor of inductance L 
+and a capacitor of capacitance C connected 
+across an alternating voltage source (Figure 
+4.46). The instantaneous value of the 
+alternating voltage is given by
+v =V
+t
+m sinω
+R
+v = Vm sin t
+VR
+L
+C
+VL
+VC
+Figure 4.46  AC circuit containing R, L and C
+12th Physics_Vol-1_Unit 4_English Medium.indd   244
+12th Physics_Vol-1_Unit 4_English Medium.indd   244
+23-12-2022   17:58:34
+23-12-2022   17:58:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 253
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+245
+Special cases
+(i)	 If XL > XC, (XL−XC) is positive and phase 
+angle ϕ is also positive. It means that 
+the applied voltage leads the current by 
+ϕ (or current lags behind voltage by ϕ). 
+The circuit is inductive.
+∴
+=
+=
++
+(
+)
+i
+I
+t
+V
+t
+m
+m
+sin
+;
+sin
+ω
+ω
+φ
+v
+(ii)	 If XL < XC, (XL − XC) is negative and ϕ is 
+also negative. Therefore current leads 
+voltage by ϕ (or voltage lags behind 
+current by ϕ) and the circuit is capacitive.
+  ∴=
+=
+−
+(
+)
+i
+I
+t
+V
+t
+m
+m
+sin
+;
+sin
+ω
+ω
+φ
+v
+(iii) If XL = XC, ϕ is zero. Therefore current 
+and voltage are in the same phase and 
+the circuit is resistive. 
+∴
+=
+=
+v
+V
+t
+i
+I
+t
+m
+m
+sin
+;
+sin
+ω
+ω
+ 
+4.7.8  Resonance in series 
+RLC Circuit
+When the frequency of the applied 
+alternating source 
+ωr
+(
+) is equal to the 
+natural frequency 
+1
+LC
+
+
+
+
+
+ of the RLC 
+circuit, the current in the circuit reaches its 
+maximum value. Then the circuit is said to 
+be in electrical resonance. The frequency 
+at which resonance takes place is called 
+resonant frequency.
+0
+ωt
+i
+I
+A
+E
+D
+L
+B
+C
+V
+L
+V
+C
+V
+R
+V
+m
+V
+C
+V
+–
+φ
+Figure 4.47  Phasor diagram for a series 
+RLC – circuit when VL> VC
+Figure 4.48  Voltage and impedance 
+triangle when XL > XC
+0
+A
+E
+Vm
+
+0
+A
+E
+R
+Z
+
+(a)
+(b)
+L
+V
+C
+V
+R
+V
+–
+L
+X
+C
+X
+–
+The voltage triangle and impedance triangle 
+are given in the Figure 4.48.
+From phasor diagram, the phase angle 
+between v and i is found out from the 
+following relation
+tanφ =
+−
+=
+−
+V
+V
+V
+X
+X
+R
+L
+C
+R
+L
+C 
+(4.48)
+Table 4.1  Summary of results of AC circuits
+Type of Impedance Value of Impedance Phase angle of 
+current with voltage
+Power factor
+Resistance
+R
+0o
+1
+Inductance
+XL = ωL
+90o lag
+0
+Capacitance
+XC = 1ωC
+90o lead
+0
+R- L - C
+R
+L
+C
+2
+2
+1
++
+−
+(
+)
+ω
+ω
+Between 0o and 90o lag 
+or lead
+Between 0 and 1
+12th Physics_Vol-1_Unit 4_English Medium.indd   245
+12th Physics_Vol-1_Unit 4_English Medium.indd   245
+23-12-2022   17:58:36
+23-12-2022   17:58:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 254
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+246
+Therefore, the current in the circuit is 
+I
+V
+m
+m
+=
++
+−
+(
+)
+R
+X
+X
+L
+C
+2
+2
+I
+V
+m
+m
+= R 
+(4.51)
+The 
+maximum 
+current 
+at 
+series 
+resonance is limited by the resistance of the 
+circuit. For smaller resistance, larger current 
+with sharper curve is obtained and vice 
+versa.
+Applications of series RLC resonant 
+circuit
+RLC circuits have many applications like 
+filter circuits, oscillators, voltage multipliers 
+etc. An important use of series RLC resonant 
+circuits is in the tuning circuits of radio 
+and TV systems. The signals from many 
+broadcasting stations at different frequencies 
+are available in the air. To receive the signal 
+of a particular station, tuning is done. 
+The tuning is commonly achieved by 
+varying capacitance of a parallel plate 
+variable capacitor, thereby changing the 
+resonant frequency of the circuit. When 
+resonant frequency is nearly equal to the 
+frequency of the signal of the particular 
+station, the amplitude of the current in the 
+circuit is maximum. Thus the signal of that 
+station alone is received.
+The phenomenon of electrical 
+resonance is possible when 
+the circuit contains both L 
+and C. Only then the voltage across L 
+and C cancel one another when VL and 
+VC are 180° out of phase and the circuit 
+becomes purely resistive. This implies 
+that resonance will not occur in RL and 
+RC circuits. 
+Note
+Resonant angular frequency, ωr
+LC
+=
+1
+or f
+LC
+r =
+1
+2π
+
+(4.49)
+At series resonance,
+ωr
+LC
+=
+1
+ or ωr
+LC
+2
+1
+=
+ω
+ω
+r
+r
+L
+C
+=
+1 or
+X
+X
+L
+C
+=
+
+(4.50)
+This is the condition for resonance in 
+RLC circuit.
+Since XL and XC are frequency dependent, 
+the resonance condition X
+X
+L
+C
+=
+(
+) can be 
+achieved by varying the frequency of the 
+applied voltage.
+Effects of series resonance
+When series resonance occurs, the 
+impedance of the circuit is minimum and 
+is equal to the resistance of the circuit. As 
+a result of this, the current in the circuit 
+becomes maximum.  This is shown in the 
+resonance curve drawn between current 
+and frequency (Figure 4.49).
+At resonance, the impedance is
+Z
+R
+X
+X
+R
+L
+C
+=
++
+−
+(
+) =
+2
+2
+  sinceX
+X
+L
+C
+=
+Figure 4.49  Resonance curve
+0
+Frequency
+i
+fr
+Small R
+Large R
+12th Physics_Vol-1_Unit 4_English Medium.indd   246
+12th Physics_Vol-1_Unit 4_English Medium.indd   246
+23-12-2022   17:58:39
+23-12-2022   17:58:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 255
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+247
+(i ) The impedance is 
+	
+Z
+R
+X
+X
+L
+C
+=
++
+−
+(
+)
+2
+2
+	
+    =
++
+−
+(
+)
+30
+184
+144
+2
+2
+	
+    =
++
+900
+1600
+	
+Z = 50 Ω
+(ii) Phase angle ϕ between voltage and 
+current is 
+	
+tanφ =
+−
+X
+X
+R
+L
+C
+	
+         =
+−
+184 144
+30
+ =1 33
+.
+	
+      φ = 53 1. 
+Since the phase angle is positive, voltage leads 
+current by 53.1° for this inductive circuit.
+EXAMPLE 4.23
+A 500 μH inductor, 80
+2
+π pF capacitor and a 
+628 Ω resistor are connected to form a series 
+RLC circuit. Calculate the resonant frequency 
+and Q-factor of this circuit at resonance.
+Solution
+L = 500 × 10–6H ; C
+R
+=
+×
+=
+−
+80
+10
+628
+2
+12
+π
+F;
+Ω
+(i)	 Resonant frequency is
+f
+LC
+r =
+=
+×
+×
+×
+−
+−
+1
+2
+1
+2
+500 10
+80
+10
+6
+2
+12
+π
+π
+π
+     =
+×
+−
+1
+2 40 000 10 18
+,
+     =
+×
+10 000 10
+4
+3
+,
+ = 2500 KHz
+(ii)	Q–factor 
+   =
+= ×
+×
+×
+×
+×
+−
+ωrL
+R
+2
+3 14
+2500 10
+500 10
+628
+3
+6
+.
+Q =12 5.
+4.7.9  Quality factor or  
+Q–factor
+The current in the series RLC circuit 
+becomes maximum at resonance. Due to 
+the increase in current, the voltage across L 
+and C are also increased. This magnification 
+of voltages at series resonance is termed as 
+Q–factor.
+It is defined as the ratio of voltage across 
+L or C at resonance to the applied voltage.
+	
+	
+Q-factor = Voltage across LorC at resonance
+Applied voltage
+At resonance, the circuit is purely 
+resistive. Therefore, the applied voltage is 
+equal to the voltage across R.  
+Q
+X
+R
+X
+R
+L
+L
+-factor =
+=
+I
+I
+m
+m
+
+(4.52)
+	
+= ωrL
+R
+	
+=
+L
+R LC
+
+since ωr
+LC
+=
+1
+Q-factor = 1
+R
+L
+C 
+(4.53)
+The physical meaning is that Q–factor 
+indicates the number of times the voltage 
+across L or C is greater than the applied 
+voltage at resonance.
+EXAMPLE 4.22
+Find the impedance of a series RLC circuit 
+if the inductive reactance, capacitive 
+reactance and resistance are 184 Ω, 144 Ω 
+and 30 Ω respectively.  Also calculate the 
+phase angle between voltage and current.
+Solution
+XL = 184 Ω; XC = 144 Ω
+R   = 30 Ω
+12th Physics_Vol-1_Unit 4_English Medium.indd   247
+12th Physics_Vol-1_Unit 4_English Medium.indd   247
+23-12-2022   17:58:45
+23-12-2022   17:58:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 50
+PDF_PAGE: 256
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+248
+4.8
+POWER IN AC CIRCUITS
+4.8.1  Introduction of power 
+in AC circuits
+Power of a circuit is defined as the rate 
+of consumption of electric energy in that 
+circuit.  It is given by the product of the voltage 
+and current. In an AC circuit, the voltage and 
+current vary continuously with time. Let us 
+first calculate the power at an instant and then 
+it is averaged over a complete cycle. 
+The alternating voltage and alternating 
+current in the series inductive RLC circuit at 
+an instant are given by
+v =V
+t
+m sinω   and  i
+I
+t
+m
+=
++
+(
+)
+sin ω
+φ
+where ϕ is the phase angle between v and i. 
+The instantaneous power is then written as
+P = v i
+    =
++
+(
+)
+V I
+t
+t
+m m sin
+sin
+ω
+ω
+φ
+    =
++
+[
+]
+V I
+t
+t
+t
+m m sin
+sin
+cos
+cos
+sin
+ω
+ω
+φ
+ω
+φ
+P
+V I
+t
+t
+t
+m m
+=
++
+
+
+cos sin
+sin
+cos
+sin
+φ
+ω
+ω
+ω
+φ
+2
+ 
+
+(4.54)
+Here the average of sin2 ωt over a 
+cycle is 12 and that of sin
+cos
+ω
+ω
+t
+t is zero. 
+Substituting these values, we obtain average 
+power over a cycle.
+P
+V I
+av
+m m
+=
+×
+cosφ
+12
+      = V
+I
+m
+m
+2
+2
+cosφ
+P
+V
+I
+av
+RMS
+RMS
+=
+ 
+cosφ
+(4.55)
+where V
+I
+RMS
+RMS is called apparent power and 
+cos ϕ is power factor. The average power 
+of an AC circuit is also known as the true 
+power of the circuit.
+EXAMPLE 4.24
+Find the instantaneous value of alternating 
+voltage v =
+×
+10
+3
+104
+sin(
+t)
+π
+ volt at i) 0 s 
+ii) 50 μs iii) 75 μs.
+Solution
+The given equation is v =
+×
+(
+)
+10
+3
+104
+sin
+π
+t
+(i)	 At t = 0 s, 
+	
+ υ =
+° =
+10
+0
+0
+sin
+ V
+(ii)	 At t = 50 µs, 
+	
+v =
+×
+×
+×
+(
+)
+=
+×
+×
+°
+
+
+
+
+
+
+−
+−
+10
+3
+10
+50 10
+10
+150
+10
+180
+4
+6
+2
+sin
+sin
+π
+π
+π
+  
+  =
+° =
+×−
+=−
+10
+270
+10
+1
+10
+sin(
+)
+  
+ V
+(iii)	At t = 75 µs,
+	
+v =
+×
+×
+×
+(
+)
+=
+×
+×
+°
+
+
+
+
+
+
+−
+−
+10
+3
+10
+75 10
+10
+225
+10
+180
+4
+6
+2
+sin
+sin
+π
+π
+π
+  
+  =
+° =
+°
+=
+×
+10
+405
+10
+45
+10
+1
+2
+sin(
+)
+sin
+  
+= 7.07 V
+EXAMPLE 4.25
+The current in an inductive circuit is given by 
+0.3 sin (200t – 40°) A. Write the equation for 
+the voltage across it if the inductance is 40 mH.
+Solution
+L    = 40 × 10–3 H; i = 0.3 sin (200t – 40o)
+XL  = ωL = 200 × 40 × 10–3 = 8 Ω
+Vm  = Im XL = 0.3 × 8 = 2.4 V
+In an inductive circuit, the voltage leads 
+the current by 90o. Therefore,
+v =
++
+°
+(
+)
+V
+t
+m sin ω
+90
+v =
+−
+°+
+°
+(
+)
+2 4
+200
+40
+90
+. sin
+t
+v =
++
+°
+(
+)
+2 4
+200
+50
+. sin
+t
+V
+12th Physics_Vol-1_Unit 4_English Medium.indd   248
+12th Physics_Vol-1_Unit 4_English Medium.indd   248
+23-12-2022   17:58:50
+23-12-2022   17:58:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 257
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+249
+Figure 4.51  Te components of IRMS
+VRMS
+IRMScos
+IRMS
+IRMSsin
+
+x
+(i)	The component of current IRMS cosφ
+(
+) 
+which is in phase with the voltage is 
+called active component.  The power 
+consumed by this current=V
+I
+RMS RMS cosφ. 
+So that it is also known as ‘Wattful’ 
+current.
+(ii)	The other component IRMS sinφ
+(
+)which 
+has a phase angle of π
+2 with the voltage 
+is called reactive component. The power 
+consumed is zero. Hence it is also known 
+as ‘Wattless’ current.
+The current in an AC circuit is said to 
+be wattless current if the power consumed 
+by it is zero. This wattless current occurs in 
+a purely inductive or capacitive circuit.
+4.8.3  Power factor
+The power factor of a circuit is defined 
+in one of the following ways:
+(i)	
+Power factor = cos ϕ = cosine of 
+the angle of lead or lag
+(ii)	
+Power factor = R
+Z = Resistance
+Impedance
+(iii)	 Power factor = 
+P
+V
+I
+av
+RMS
+RMS
+	
+=
+True power
+Apparent power
+Special Cases
+(i)	 For a purely resistive circuit, the phase 
+angle between voltage and current is 
+zero and cos ϕ = 1.
+	 ∴
+=
+P
+V
+I
+av
+RMS
+RMS
+ 
+(ii)	 For a purely inductive or capacitive 
+circuit, the phase angle is ± π
+2and 
+cos ±
+(
+)=
+π
+2
+0.
+	 ∴
+=
+Pav
+0
+(iii)	For series RLC circuit, the phase angle 
+φ =
+−
+
+
+
+
+
+
+−
+tan 1 X
+X
+R
+L
+C
+	
+∴
+=
+P
+V
+I
+av
+RMS
+RMS
+ 
+cosφ
+(iv)	For series RLC circuit at resonance, the 
+phase angle is zero and cos
+.
+φ =1
+    ∴
+=
+P
+V
+I
+av
+RMS
+RMS
+ 
+4.8.2  Wattless current
+Consider an AC circuit in which there is 
+a phase angle of ϕ between VRMS and IRMS and 
+voltage is assumed to be leading the current by 
+ϕ as shown in the phasor diagram (Figure 4.50).
+Figure 4.50  VRMS leads IRMS by ϕ
+IRMS
+VRMS
+x
+
+Now, 
+IRMS 
+is 
+resolved 
+into 
+two 
+perpendicular components, namely IRMS cosφ
+along VRMS and IRMS sinφ perpendicular to 
+VRMS as shown in Figure 4.51.
+12th Physics_Vol-1_Unit 4_English Medium.indd   249
+12th Physics_Vol-1_Unit 4_English Medium.indd   249
+23-12-2022   17:58:55
+23-12-2022   17:58:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 258
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+250
+Solution
+L = 80 × 10–6 H; C = 2000 × 10–12 F
+R = 50 Ω; fr = 400 × 103Hz
+(i)	 Q-factor, Q
+R
+L
+C
+1
+1
+=
+	
+	
+          =
+×
+×
+−
+−
+1
+50
+80 10
+2000
+10
+6
+12 = 4
+(ii)	 When	L2 = 2 L
+	
+	
+     =2 × 80 × 10–6 H
+	
+	
+     = 160 × 10–6 H,
+	
+C
+f L
+r
+2
+2
+2
+2
+1
+4
+=
+π
+	
+      =
+×
+×
+×
+(
+) ×
+×
+−
+1
+4
+3 14
+400 10
+160 10
+2
+3 2
+6
+.
+	
+      1000 10 12
+×
+−F
+	
+C2
+1000
+
+pF
+(iii)	 Q
+R
+L
+C
+2
+2
+2
+6
+12
+1
+1
+50
+160 10
+1000 10
+=
+=
+×
+×
+−
+−
+	
+      =
+×
+−
+−
+1
+50
+16 10
+10
+5
+9
+ = ×
+4 10
+50
+2
+ = 8
+EXAMPLE 4.27
+A capacitor of capacitance 10 4
+-
+π F, an 
+inductor of inductance 2
+π H and a resistor of 
+resistance 100 Ω are connected to form a 
+series RLC circuit. When an AC supply of 
+220 V, 50 Hz is applied to the circuit, determine 
+(i) the impedance of the circuit (ii) the peak 
+value of current flowing in the circuit (iii) the 
+power factor of the circuit and (iv) the power 
+factor of the circuit at resonance.
+Solution
+L
+C
+R
+V
+f
+RMS
+=
+=
+=
+=
+=
+−
+2
+10
+100
+220
+50
+4
+π
+π
+H
+F
+ V
+Hz
+;
+;
+;
+Ω
+Some examples for power factors:
+(i)	
+Power factor = cos 0° = 1 for a pure 
+resistive circuit because the phase 
+angle ϕ between voltage and current is 
+zero.
+(ii)	 Power factor =
+±
+(
+)=
+cos
+π
+2
+0 for a 
+purely inductive or capacitive circuit 
+because the phase angle ϕ between 
+voltage and current is ±π
+2 .
+(iii)	 Power factor lies between 0 and 1 for 
+a circuit having R, L and C in varying 
+proportions.
+4.8.4  Advantages and 
+disadvantages of AC over DC
+There 
+are 
+many 
+advantages 
+and 
+disadvantages of AC system over DC system. 
+Advantages:
+(i)	
+The generation of AC is cheaper than 
+that of DC.
+(ii)	 When AC is supplied at higher 
+voltages, the transmission losses are 
+small compared to DC transmission.
+(iii)	 AC can easily be converted into DC 
+with the help of rectifiers.
+Disadvantages:
+(i)	
+Alternating voltages cannot be used for 
+certain applications such as charging 
+of batteries, electroplating, electric 
+traction etc.
+(ii)	 At high voltages, it is more dangerous 
+to work with AC than DC. 
+EXAMPLE 4.26
+A series RLC circuit which resonates at 400 
+kHz has 80 μH inductor, 2000 pF capacitor 
+and 50 Ω resistor. Calculate (i) Q-factor of 
+the circuit (ii) the new value of capacitance 
+when the value of inductance is doubled 
+and (iii) the new Q-factor.
+12th Physics_Vol-1_Unit 4_English Medium.indd   250
+12th Physics_Vol-1_Unit 4_English Medium.indd   250
+23-12-2022   17:58:57
+23-12-2022   17:58:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 259
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+251
+Whenever energy is given to a circuit 
+containing a pure inductor of inductance 
+L and a capacitor of capacitance C, the 
+energy oscillates back and forth between 
+the magnetic field of the inductor and the 
+electric field of the capacitor. Thus the 
+electrical oscillations of definite frequency 
+are generated. These oscillations are called 
+LC oscillations.
+Generation of LC oscillations
+Let us assume that the capacitor is fully 
+charged with maximum charge Qm at the 
+initial stage. So that the energy stored in 
+the capacitor is maximum and is given by 
+U
+Q
+C
+E
+m
+=
+2
+2 . As there is no current in the 
+inductor, the energy stored in it is zero 
+i.e., UB = 0. Therefore, the total energy is 
+wholly electrical. This is shown in Figure 
+4.52(a).
+The capacitor now begins to discharge 
+through the inductor that establishes 
+current i in clockwise direction. This 
+current produces a magnetic field around 
+the inductor and the energy stored in 
+the inductor is given by U
+Li
+B =
+2
+2 . As 
+the charge in the capacitor decreases, 
+the energy stored in it also decreases and 
+is given by U
+q
+C
+E =
+2
+2 . Thus there is a 
+transfer of some part of energy from the 
+capacitor to the inductor. At that instant, 
+the total energy is the sum of electrical and 
+magnetic energies (Figure 4.52(b)).
+When the charges in the capacitor are 
+exhausted, its energy becomes zero i.e., 
+UE = 0. The energy is fully transferred to 
+the magnetic field of the inductor and its 
+energy is maximum. This maximum energy 
+is given by U
+LI
+B
+m
+=
+2
+2 where Im is the 
+	
+X
+fL
+L =
+=
+×
+×
+=
+2
+2
+50
+2
+200
+π
+π
+π
+Ω
+	
+X
+fC
+C =
+=
+×
+×
+=
+−
+1
+2
+1
+2
+50
+10
+100
+4
+π
+π
+π
+Ω
+(i)	 Impedance,	 Z
+R
+X
+X
+L
+C
+=
++
+−
+(
+)
+2
+2
+	
+=
++
+−
+(
+)
+100
+200
+100
+2
+2   =141 4. Ω
+(ii)	Peak value of current,
+	
+I
+V
+Z
+V
+Z
+m
+m
+RMS
+=
+=
+2
+	
+     =
+×
+2
+220
+141 4.
+  = 2.2 A
+(iii) Power factor of the circuit,
+	
+  cos
+.
+.
+φ =
+=
+=
+R
+Z
+100
+141 4
+0 707
+(iv)	 Power factor at resonance,
+	
+  cosφ =
+=
+=
+R
+Z
+R
+R
+1
+4.9
+OSCILLATION IN LC 
+CIRCUITS
+4.9.1  Energy conversion 
+during LC oscillations
+We have learnt that energy can be stored 
+in both inductors and capacitors (Refer 
+sections 1.8.2 and 4.3.2). In inductors, the 
+energy is stored in the form of magnetic 
+field while in capacitors, it is stored as the 
+electric field. 
+12th Physics_Vol-1_Unit 4_English Medium.indd   251
+12th Physics_Vol-1_Unit 4_English Medium.indd   251
+23-12-2022   17:59:01
+23-12-2022   17:59:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 252
+PDF_PAGE: 260
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+252
+The state of the circuit is similar to the 
+initial state but the difference is that the 
+capacitor is charged in opposite direction. 
+The capacitor then starts to discharge 
+through the inductor with anti-clockwise 
+current. The total energy is the sum of the 
+electrical and magnetic energies (Figure 
+4.52(f)).
+As already explained, the processes 
+are repeated in opposite direction (Figure 
+4.52(g) and (h)). Finally, the circuit returns 
+to the initial state (Figure 4.52(a)). Thus, 
+when the circuit goes through these stages, 
+an alternating current flows in the circuit. 
+As this process is repeated again and 
+again, the electrical oscillations of definite 
+frequency are generated. These are known 
+as LC oscillations. 
+In the ideal LC circuit, there is no loss 
+of energy. Therefore, the oscillations will 
+continue indefinitely. Such oscillations are 
+called undamped oscillations. 
+maximum current flowing in the circuit. 
+The total energy is wholly magnetic (Figure 
+4.52(c)).
+Even though the charge in the capacitor is 
+zero, the current will continue to flow in the 
+same direction because the inductor will not 
+allow it to stop immediately. The current is 
+made to flow with decreasing magnitude by 
+the collapsing magnetic field of the inductor. 
+As a result of this, the capacitor begins to 
+charge in the opposite direction. A part of 
+the energy is transferred from the inductor 
+back to the capacitor. The total energy is the 
+sum of the electrical and magnetic energies 
+(Figure 4.52(d)).
+When the current in the circuit reduces 
+to zero, the capacitor becomes fully charged 
+in the opposite direction. The energy stored 
+in the capacitor becomes maximum. Since 
+the current is zero, the energy stored in the 
+inductor is zero. The total energy is wholly 
+electrical (Figure 4.52(e)).
+L
+C
+ i = 0
+(a)
+L
+C
+ i = 0
+(e)
+L
+C
+ i
+(b)
+UB
+UE
+UB
+UE
+UB
+UE
+UB
+UE
+UB
+UE
+UB
+UE
+UB
+UE
+UB
+UE
+L
+C
+(c)
+m
+L
+C
+(d)
+L
+C
+(h)
+L
+C
+(g)
+L
+C
+(f)
++ +
++
++ +
++
++ +
+++ ++
+–– ––
+++ ++
+–– ––
+– –
+–
+–
+– –
+–
+–
+ i
+ i
+ i
+I
+Im
+Wholly electrical
+energy
+Wholly electrical 
+energy
+Wholly magnetic
+energy
+Wholly magnetic
+energy
+Figure 4.52  LC oscillations
+12th Physics_Vol-1_Unit 4_English Medium.indd   252
+12th Physics_Vol-1_Unit 4_English Medium.indd   252
+23-12-2022   17:59:01
+23-12-2022   17:59:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 261
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+253
+    =
+×
+
+
+
+
+
+
+L
+Q
+LC
+m
+2
+2
+ since I
+Q
+Q
+LC
+m
+m
+m
+=
+=
+ω
+    =
+Q
+C
+m
+2
+2
+
+(4.57)
+The total energy is wholly magnetic.
+Case (iii) When charge = q; current = i, 
+the total energy is
+U
+q
+C
+Li
+=
++
+2
+2
+2
+1
+2
+Since q
+Q
+t
+m
+=
+cos
+,
+ω
+i
+dq
+dt
+Q
+t
+m
+=−
+=
+ω
+ω
+sin
+. 
+The negative sign in current indicates that 
+the charge in the capacitor decreases with 
+time.
+U
+Q
+t
+C
+L
+Q
+t
+m
+m
+=
++
+2
+2
+2
+2
+2
+2
+2
+cos
+sin
+ω
+ω
+ω
+    =
++
+Q
+t
+C
+LQ
+t
+LC
+m
+m
+2
+2
+2
+2
+2
+2
+cos
+sin
+ω
+ω
+
+since ω2
+1
+= LC
+    =
++
+(
+)
+Q
+C
+t
+t
+m
+2
+2
+2
+2
+cos
+sin
+ω
+ω
+U
+Q
+C
+m
+=
+2
+2
+
+(4.58)
+From above three cases, it is clear that the 
+total energy of the system remains constant.
+4.9.3  Analogies between 
+LC oscillations and simple 
+harmonic oscillations
+Qualitative treatment
+The electromagnetic oscillations of LC 
+system can be compared with the mechanical 
+oscillations of a spring-mass system.
+There are two forms of energy involved 
+in LC oscillations. One is electrical energy 
+of the charged capacitor; the other magnetic 
+energy of the inductor carrying current.
+But in practice, the Joule 
+heating and radiation of 
+electromagnetic waves from 
+the circuit decrease the energy of the 
+system.  Therefore, the oscillations 
+become damped oscillations.
+Note
+4.9.2  Conservation of energy 
+in LC oscillations
+During LC oscillations in LC circuits, 
+the energy of the system oscillates between 
+the electric field of the capacitor and the 
+magnetic field of the inductor. Although, 
+these two forms of energy vary with time, 
+the total energy remains constant. It 
+means that LC oscillations take place in 
+accordance with the law of conservation of 
+energy.
+Total energy,U
+U
+U
+q
+C
+Li
+E
+B
+=
++
+=
++
+2
+2
+2
+1
+2
+Let us consider 3 different stages of LC 
+oscillations and calculate the total energy of 
+the system.
+Case (i) When the charge in the capacitor, 
+q
+Qm
+=
+ and the current through the 
+inductor, i = 0, the total energy is given 
+by
+U
+Q
+C
+Q
+C
+m
+m
+=
++ =
+2
+2
+2
+0
+2
+
+(4.56)
+The total energy is wholly electrical.
+Case (ii) When charge = 0 ; current = Im , 
+the total energy is
+U
+LI
+LI
+m
+m
+= +
+=
+0
+1
+2
+1
+2
+2
+2
+12th Physics_Vol-1_Unit 4_English Medium.indd   253
+12th Physics_Vol-1_Unit 4_English Medium.indd   253
+23-12-2022   17:59:07
+23-12-2022   17:59:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 262
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+254
+Likewise, the mechanical energy of the 
+spring-mass system exists in two forms; 
+the potential energy of the compressed or 
+extended spring and the kinetic energy of 
+the mass. The Table 4.2 lists these two pairs 
+of energy.
+By examining the Table 4.2, the analogies 
+between the various quantities can be 
+understood and these correspondences are 
+given in Table 4.3.
+The angular frequency of oscillations of a 
+spring-mass is given by (Refer equation 10.22 
+of section 10.4.1 of XI physics text book).
+ω =
+k
+m
+From Table 4.3, k
+C
+→1 and m
+L
+→.
+Therefore, the angular frequency of LC 
+oscillations is given by
+ω =
+1
+LC
+
+(4.59)
+Table 4.2  Energy in two oscillatory systems
+LC oscillator
+Spring-mass system
+Element
+Energy
+Element
+Energy
+Capacitor
+Electrical Energy = 1
+2
+1
+2
+C q
+
+
+
+
+Spring
+Potential energy = 1
+2
+2
+k x
+Inductor
+Magnetic energy = 1
+2
+2
+Li i
+dq
+dt
+=
+Mass
+Kinetic energy = 1
+2
+2
+mv v = dx
+dt
+Table 4.3  Analogies between 
+electrical and mechanical quantities
+Electrical system
+Mechanical system
+Charge q
+Displacement x
+Current i
+dq
+dt
+=
+Velocity v = dx
+dt
+Inductance L
+Mass m
+Reciprocal  
+of capacitance 1
+C
+Force constant k
+Electrical energy 
+=
+
+
+
+
+1
+2
+1
+2
+C q
+Potential energy 
+= 1
+2
+2
+k x
+Magnetic energy 
+= 1
+2
+2
+Li
+Kinetic energy 
+= 1
+2
+2
+mv
+Electromagnetic 
+energy 
+U
+C q
+Li
+=
+
+
+
+
++
+1
+2
+1
+1
+2
+2
+2
+Mechanical energy 
+E
+k x
+m
+=
++
+1
+2
+1
+2
+2
+2
+v
+12th Physics_Vol-1_Unit 4_English Medium.indd   254
+12th Physics_Vol-1_Unit 4_English Medium.indd   254
+23-12-2022   17:59:17
+23-12-2022   17:59:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 255
+PDF_PAGE: 263
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+255
+ 
+
+Whenever the magnetic fux linked with a closed coil changes, an emf is induced 
+and hence an electric current fows in the circuit. Tis phenomenon is known as 
+electromagnetic induction. 
+ 
+
+Faraday’s frst law states that whenever magnetic fux linked with a closed circuit 
+changes, an emf is induced in the circuit.
+ 
+
+Faraday’s second law states that the magnitude of induced emf in a closed circuit is 
+equal to the time rate of change of magnetic fux linked with the circuit.
+ 
+
+Lenz’s law states that the direction of the induced current is such that it always 
+opposes the cause responsible for its production.
+ 
+
+Lenz’s law is established on the basis of the law of conservation of energy. 
+ 
+
+Fleming’s right hand rule states that if the index fnger points the direction of the 
+magnetic feld and the thumb indicates the direction of motion of the conductor, 
+then the middle fnger will indicate the direction of the induced current. 
+ 
+
+Even for a conductor in the form of a sheet or a plate, an emf is induced when magnetic 
+fux linked with it changes. Te induced currents fow in concentric circular paths 
+called Eddy currents or Foucault currents.
+ 
+
+Inductor is a device used to store energy in a magnetic feld when an electric current 
+fows through it.
+ 
+
+If the fux linked with the coil is changed, an emf is induced in that same coil. Tis 
+phenomenon is known as self-induction. Te emf induced is called self-induced emf.
+ 
+
+When an electric current passing through a coil changes with time, an emf is induced 
+in the neighbouring coil. Tis phenomenon is known as mutual induction and the 
+emf is called mutually induced emf.
+ 
+
+AC generator or alternator is an energy conversion device. It converts mechanical 
+energy used to rotate the coil or feld magnet into electrical energy. 
+ 
+
+In some AC generators, there are three separate coils, which would give three separate 
+emfs. Hence they are called three-phase AC generators.
+ 
+
+Transformer is a stationary device used to transform AC electric power from one 
+circuit to another without changing its frequency. 
+ 
+
+Te efciency of a transformer is defned as the ratio of the useful output power to 
+the input power.
+ 
+
+An alternating voltage is a voltage which changes polarity at regular intervals of time 
+and the resulting alternating current changes direction accordingly.
+ 
+
+Te average value of alternating current is defned as the average of all values of 
+current over a positive half-circle or negative half-circle. 
+ 
+
+Te root mean square value or efective value of an alternating current is defned as 
+the square root of the mean of the squares of all currents over one cycle. 
+S U M M A R Y
+12th Physics_Vol-1_Unit 4_English Medium.indd   255
+12th Physics_Vol-1_Unit 4_English Medium.indd   255
+23-12-2022   17:59:17
+23-12-2022   17:59:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 256
+PDF_PAGE: 264
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+256
+ 
+
+A sinusoidal alternating voltage (or current) can be represented by a vector which 
+rotates about the origin in anti-clockwise direction at a constant angular velocity. 
+Such a rotating vector is called a phasor.
+ 
+
+When the frequency of the applied alternating source is equal to the natural frequency 
+of the RLC circuit, the current in the circuit reaches its maximum value. Ten the 
+circuit is said to be in electrical resonance. 
+ 
+
+Te magnifcation of voltages at series resonance is termed as Q–factor.
+ 
+
+Power of a circuit is defned as the rate of consumption of electric energy in that 
+circuit.  It depends on the components of the circuit.
+ 
+
+Whenever energy is given to a LC circuit, the electrical oscillations of defnite 
+frequency are generated. Tese oscillations are called LC oscillations.
+ 
+
+During LC oscillations, the total energy remains constant.  It means that LC 
+oscillations take place in accordance with the law of conservation of energy.
+12th Physics_Vol-1_Unit 4_English Medium.indd   256
+12th Physics_Vol-1_Unit 4_English Medium.indd   256
+23-12-2022   17:59:17
+23-12-2022   17:59:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 257
+PDF_PAGE: 265
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+257
+Electromagnetic
+ induction
+Faraday’s law
+Lenz’s law
+Fleming’s RH rule
+Motional emf
+From
+Lorentz force
+From
+Faraday’s law
+Eddy’s currents
+Demonstration
+Applications
+By changing 
+magnetic ﬁeld
+By changing area
+Single-phase 
+AC generator
+Tree-phase 
+AC  generator
+Self-induction
+Mutual induction
+Transformer
+Methods of 
+inducing emf
+By changing 
+orientation
+ Alternating currents
+Electromagnetic induction
+RMS value
+Resistive circuit
+Inductive circuit
+Capacitive circuit
+RLC series circuit
+Power in AC circuits
+Wattless current
+Power factor
+Merits and 
+Demerits of AC
+LC oscillations
+Energy conversion
+Energy conservation
+Mechanical 
+analogies
+Electromagnetic induction and Alternating currents
+Mean value
+C O N C E P T M A P
+12th Physics_Vol-1_Unit 4_English Medium.indd   257
+12th Physics_Vol-1_Unit 4_English Medium.indd   257
+23-12-2022   17:59:17
+23-12-2022   17:59:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+

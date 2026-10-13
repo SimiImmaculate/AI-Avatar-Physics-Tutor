@@ -1,0 +1,6837 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit 3 – Laws of Motion
+
+TEXTBOOK_PAGE_RANGE:
+105–166
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 105
+
+PDF_PAGE: 113
+
+------------------------------------------------------------
+
+U N I T
+3
+LAWS OF MOTION
+Each and every object in the universe interacts 
+with every other object. Th e cool breeze 
+interacts with the tree. Th e tree interacts with 
+the Earth. In fact, all species interact with 
+nature. But, what is the diff erence between 
+a human’s interaction with nature and that 
+of an animal’s. Human’s interaction has 
+one extra quality. We not only interact with 
+nature but also try to understand and explain 
+natural phenomena scientifi cally. 
+In the history of mankind, the most 
+curiosity driven scientifi c question asked was 
+about motion of objects–‘How things move?’ 
+and ‘Why things move?’ Surprisingly, these 
+simple questions have paved the way for 
+development from early civilization to the 
+modern technological era of the 21st century. 
+LEARNING OBJECTIVES
+3.1
+INTRODUCTION
+In this unit, the student is exposed to
+• Newton’s laws 
+• logical connection between laws of Newton
+• free body diagram and related problems
+• law of conservation of momentum
+• role of frictional forces
+• centripetal  and centrifugal forces
+• origin of centrifugal force
+“In the beginning there was a mechanics” – Von Laue
+Objects move because something pushes 
+or pulls them. For example, if a book is at rest, 
+it will not move unless a force is applied on 
+it. In other words, to move an object a force 
+must be applied on it. About 2500 years ago, 
+the famous philosopher, Aristotle, said that 
+‘Force causes motion’. Th is statement is based 
+on common sense. But any scientifi c answer 
+cannot be based on common sense. It must 
+be endorsed with quantitative experimental 
+proof. 
+In the 15th century, Galileo challenged 
+Aristotle’s idea by doing a series of 
+experiments. He said force is not required 
+to maintain motion.
+Galileo demonstrated his own idea using 
+the following simple experiment. When a 
+ball rolls from the top of an inclined plane 
+to its bottom, aft er reaching the ground 
+it moves some distance and continues 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 106
+
+PDF_PAGE: 114
+
+------------------------------------------------------------
+
+106
+Unit 3 Laws of Motion
+3.2
+force acted on it in the horizontal direction. 
+From this simple experiment, Galileo 
+proved that force is not required to maintain 
+motion. An object can be in motion even 
+without a force acting on it.
+In essence, Aristotle coupled the motion 
+with force while Galileo decoupled the 
+motion and force. 
+NEWTON’S LAWS
+Newton analysed the views of Galileo, and 
+other scientist like Kepler and Copernicus 
+on motion and provided much deeper 
+insights in the form of three laws.
+3.2.1 Newton’s First Law
+Every object continues to be in the state 
+of rest or of uniform motion (constant 
+velocity) unless there is external force acting 
+on it.
+Th is inability of objects to move on its 
+own or change its state of motion is called 
+inertia. Inertia means resistance to change 
+its state. Depending on the circumstances, 
+there can be three types of inertia.
+1. Inertia of rest: When a stationary bus 
+starts to move, the passengers experience 
+a sudden backward push. Due to inertia, 
+the body (of a passenger) will try to 
+to move on to another inclined plane of 
+same angle of inclination as shown in the 
+Figure 3.1(a). By increasing the smoothness 
+of both the inclined planes, the ball reach 
+almost the same height(h) from where it 
+was released (L1) in the second plane (L2) 
+(Figure 3.1(b)). Th e motion of the ball 
+is then observed by varying the angle of 
+inclination of the second plane keeping the 
+same smoothness. If the angle of inclination 
+is reduced, the ball travels longer distance in 
+the second plane to reach the same height 
+(Figure 3.1 (c)). When the angle of inclination 
+is made zero, the ball moves forever in the 
+horizontal direction (Figure 3.1(d)). If the 
+Aristotelian idea were true, the ball would 
+not have moved in the second plane even if 
+its smoothness is made maximum since no 
+Figure 3.1 Galileo’s experiment with the 
+second plane (a) at same inclination angle 
+as the fi rst (b) with increased smoothness 
+(c) with reduced angle of inclination 
+(d) with zero angle of inclination
+Initial position
+Ball goes to infinity
+smooth surface
+(d)
+L1
+Initial position
+Final position
+rough surface
+(a)
+L1
+L2
+h
+Initial position
+Final position
+smooth surface
+(b)
+L1
+L2
+h
+Initial position
+Final position
+smooth surface
+(c)
+L1
+L2
+h
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 107
+
+PDF_PAGE: 115
+
+------------------------------------------------------------
+
+107
+Unit 3 Laws of Motion
+motion, and if the string is cut suddenly, 
+the stone will not continue to move in 
+circular motion but moves tangential 
+to the circle as illustrated in Figure 3.4. 
+Th is is because the body cannot change 
+its direction of motion without any force 
+acting on it. Th e inability of an object to 
+change its direction of motion on its own 
+is called inertia of direction. 
+When we say that an object is at rest or 
+in motion  with constant velocity, it has a 
+meaning only if it is specifi ed with respect to 
+some reference frames. In physics, any motion 
+has to be stated with respect to a reference 
+frame. It is to be noted that Newton’s fi rst law is 
+valid only in certain special reference frames 
+called inertial frames. In fact, Newton’s fi rst 
+law defi nes an inertial frame.
+continue in the state of rest, while the 
+bus moves forward. Th is appears as a 
+backward push as shown in Figure 3.2. 
+Th e inability of an object to change its 
+state of rest is called inertia of rest.
+2. Inertia of motion: When the bus is 
+in motion, and if the brake is applied 
+suddenly, passengers move forward 
+and hit against the front seat. In this 
+case, the bus comes to a stop, while the 
+body (of a passenger) continues to move 
+forward due to the property of inertia 
+as shown in Figure 3.3. Th e inability of 
+an object to change its state of uniform 
+speed (constant speed) on its own is called 
+inertia of motion.
+3. Inertia of direction: When a stone 
+attached to a string is in whirling 
+Figure 3.3 Passengers experience a 
+forward push due to inertia of motion 
+Figure 3.2 Passengers experience a 
+backward push due to inertia of rest
+Force
+needed
+to
+overcome
+inertia
+If a string is released when
+the ball is here, it goes
+straight forward toward A,
+not toward B,
+not toward C.
+Side View
+Top View
+A
+B
+C
+Figure 3.4 A stone moves tangential to 
+circle due to inertia of direction
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 108
+
+PDF_PAGE: 116
+
+------------------------------------------------------------
+
+108
+Unit 3 Laws of Motion
+with constant velocity relative to each other. If 
+an object appears to be at rest in one inertial 
+frame, it may appear to move with constant 
+velocity with respect to another inertial frame. 
+For example, in Figure 3.5, the car is moving 
+with uniform velocity v with respect to a person 
+standing (at rest) on the ground. As the car is 
+moving with constant velocity with respect to 
+ground to the person is at rest on the ground, 
+both frames (with respect to the car and to the 
+ground) are inertial frames.
+Figure 3.5 The person and 
+vehicle are inertial frames
+Suppose an object remains at rest on a 
+smooth table kept inside the train, and if the 
+train suddenly accelerates (which we may 
+not sense), the object appears to accelerate 
+backwards even without any force acting on 
+it. It is a clear violation of Newton’s first law 
+as the object gets accelerated without being 
+acted upon by a force. It implies that the train 
+is not an inertial frame when it is accelerated. 
+For example, Figure 3.6 shows that car 2 is 
+a non-inertial frame since it moves with 
+acceleration Ga with respect to the ground.
+Figure 3.6 Car 2 is a non-inertial 
+frame
+Inertial Frames
+If an object is free from all forces, then it 
+moves with constant velocity or remains at 
+rest when seen from inertial frames. Thus, 
+there exists some special set of frames in 
+which if an object experiences no force it 
+moves with constant velocity or remains at 
+rest. But how do we know whether an object 
+is experiencing a force or not? All the objects 
+in the Earth experience Earth’s gravitational 
+force. In the ideal case, if an object is in deep 
+space (very far away from any other object), 
+then Newton’s first law will be certainly valid. 
+Such deep space can be treated as an inertial 
+frame. But practically it is not possible to reach 
+such deep space and verify Newton’s first law.
+For all practical purposes, we can treat 
+Earth as an inertial frame because an object on 
+the table in the laboratory appears to be at rest 
+always. This object never picks up acceleration 
+in the horizontal direction since no force 
+acts on it in the horizontal direction. So the 
+laboratory can be taken as an inertial frame for 
+all physics experiments and calculations. For 
+making these conclusions, we analyse only the 
+horizontal motion of the object as there is no 
+horizontal force that acts on it. We should not 
+analyse the motion in vertical direction as the 
+two forces (gravitational force in the downward 
+direction and normal force in upward 
+direction) that act on it makes the net force is 
+zero in vertical direction. Newton’s first law 
+deals with the motion of objects in the absence 
+of any force and not the motion under zero net 
+force. Suppose a train is moving with constant 
+velocity with respect to an inertial frame, then 
+an object at rest in the inertial frame (outside 
+the train) appears to move with constant 
+velocity with respect to the train (viewed from 
+within the train). So the train can be treated as 
+an inertial frame. All inertial frames are moving 
+1
+2
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 109
+
+PDF_PAGE: 117
+
+------------------------------------------------------------
+
+109
+Unit 3 Laws of Motion
+These kinds of accelerated frames are called 
+non-inertial frames. A rotating frame is also 
+a non inertial frame since rotation requires 
+acceleration. In this sense, Earth is not really 
+an inertial frame since it has self-rotation 
+and orbital motion. But these rotational 
+effects of Earth can be ignored for the motion 
+involved in our day-to-day life. For example, 
+when an object is thrown, or the time 
+period of a simple pendulum is measured 
+in the physics laboratory, the Earth’s self-
+rotation has very negligible effect on it. In 
+this sense, Earth can be treated as an inertial 
+frame. But at the same time, to analyse 
+the motion of satellites and wind patterns 
+around the Earth, we cannot treat Earth as 
+an inertial frame since its self-rotation has 
+a strong influence on wind patterns and 
+satellite motion.
+3.2.2 Newton’s Second Law
+This law states that
+The force acting on an object is equal to 
+the rate of change of its momentum
+ 
+G
+G
+F
+dp
+dt
+ 
+ 
+(3.1)
+In simple words, whenever the momentum 
+of the body changes, there must be a force 
+acting on it. The momentum of the object is 
+defined as G
+G
+p
+mv
+ 
+. In most cases, the mass 
+of the object remains constant during the 
+motion. In such cases, the above equation 
+gets modified into a simpler form
+ 
+G
+G
+G
+G
+F
+d mv
+dt
+mdv
+dt
+ma
+= (
+) =
+=
+. 
+ 
+G
+G
+F
+ma
+ 
+.  
+(3.2)
+The above equation conveys the fact that 
+if there is an acceleration Ga on the body, 
+then there must be a force acting on it. This 
+implies that if there is a change in velocity, 
+then there must be a force acting on the 
+body. The force and acceleration are always 
+in the same direction. Newton’s second law 
+was a paradigm shift from Aristotle’s idea 
+of motion. According to Newton, the force 
+need not cause the motion but only a change 
+in motion. It is to be noted that Newton’s 
+second law is valid only in inertial frames. 
+In non-inertial frames Newton’s second law 
+cannot be used in this form. It requires some 
+modification.
+In the SI system of units, the unit of force 
+is measured in newtons and it is denoted by 
+symbol ‘N’.
+One Newton is defined as the force which 
+acts on 1 kg of mass to give an acceleration 
+1 m s−2 in the direction of the force.
+Aristotle vs. Newton’s approach on 
+sliding object
+Newton’s second law gives the correct 
+explanation for the experiment on the 
+inclined plane that was discussed in 
+section 3.1. In normal cases, where friction 
+is not negligible, once the object reaches the 
+bottom of the inclined plane (Figure 3.1), 
+it travels some distance and stops. Note 
+that it stops because there is a frictional 
+force acting in the direction opposite to 
+its velocity. It is this frictional force that 
+reduces the velocity of the object to zero and 
+brings it to rest. As per Aristotle’s idea, as 
+soon as the body reaches the bottom of the 
+plane, it can travel only a small distance and 
+stops because there is no force acting on the 
+object. Essentially, he did not consider the 
+frictional force acting on the object.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 110
+
+PDF_PAGE: 118
+
+------------------------------------------------------------
+
+110
+Unit 3 Laws of Motion
+3.2.3 Newton’s Third Law
+Consider Figure 3.8(a) whenever an 
+object 1 exerts a force on the object 2 (
+G
+F21), 
+then object 2 must also exert equal and 
+opposite force on the object 1 (
+G
+F12). These 
+forces must lie along the line joining the 
+two objects.
+ 
+G
+G
+F
+F
+12
+21
+= −
+Newton’s third law assures that the 
+forces occur as equal and opposite pairs. 
+An isolated force or a single force cannot 
+exist in nature. Newton’s third law states 
+that for every action there is an equal and 
+opposite reaction. Here, action and reaction 
+pair of forces do not act on the same body 
+but on two different bodies. Any one of the 
+forces can be called as an action force and 
+the other the reaction force. Newton’s third 
+law is valid in both inertial and non-inertial 
+frames.
+These action-reaction forces are not 
+cause and effect forces. It means that when 
+the object 1 exerts force on the object 2, the 
+object 2 exerts equal and opposite force on 
+the body 1 at the same instant.
+Figure 3.8 Demonstration of Newton’s third law (a) Hammer and the nail (b) Ball 
+bouncing off the wall (c) Walking on the floor with friction
+(a) 
+(b) 
+(c)
+Wall
+Ball
+Fwall on ball
+Fball on wall
+REACTION 
+force exerted by the Earth
+on the feet
+ACTION
+force exerted by the feet
+on ground
+- force exerted by the nail on the hammer
+Object 1
+Object 2
+F12
+F21
+F12
+- force exerted by the hammer on the the nail
+F21
+Fext
+net force = Fext
+Aristotle
+External force needs to be
+applied to move an object 
+with constant velocity v
+Fext
+Ffriction
+net force = zero
+Galileo and Newton
+There is zero net force
+on the object when it moves
+with constant velocity v
+v
+v
+Figure 3.7 Aristotle, Galileo and 
+Newton’s approach
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 111
+
+PDF_PAGE: 119
+
+------------------------------------------------------------
+
+111
+Unit 3 Laws of Motion
+as 
+ˆ
+ˆ
+x
+y
+F i
+F j
+F
+
+
+ˆ
+ˆ
+ˆ
+ˆ
+z
+x
+y
+z
+F k
+ma i
+ma j
+ma k
+
+
+
+. 
+By comparing both sides, the three scalar 
+equations are
+ 
+F
+ma
+x
+x
+ 
+ Th e acceleration along the x 
+direction depends only on the component 
+of force acting along the x-direction.
+ 
+F
+ma
+y
+y
+ 
+ Th e acceleration along the y 
+direction depends only on the component 
+of force acting along the y-direction.
+ 
+F
+ma
+z
+z
+ 
+ Th e acceleration along the z 
+direction depends only on the component 
+of force acting along the z-direction.
+ 
+From the above equations, we can infer 
+that the force acting along y direction 
+cannot alter the acceleration along x 
+direction. In the same way, Fz cannot 
+aff ect ay and ax. Th is understanding is 
+essential for solving problems.
+2. Th e acceleration experienced by the 
+body at time t depends on the force 
+which acts on the body at that instant 
+of time. It does not depend on the force 
+which acted on the body before the time 
+t. Th is can be expressed as
+3.2.4  Discussion on 
+Newton’s Laws
+1. Newton’s laws are vector laws. Th e 
+equation 
+G
+G
+F
+ma
+ 
+ is a vector equation 
+and essentially it is equal to three 
+scalar 
+equations. 
+In 
+Cartesian 
+coordinates, this equation can be written 
+Th e reading in the spring 
+balance A is due to the force 
+given by spring balance B. Th e 
+reading in the spring balance 
+B is due to the reaction force given by 
+spring balance A. Note that according to 
+Newton’s third law, both readings (force) 
+are equal.
+Note
+Verifi cation of Newton’s third law
+Attach two spring balances as shown in the fi gure. Fix one end with rigid support and 
+leave the other end free, which can be pulled with the hand. 
+Pull one end with some 
+force and note the reading 
+on both the balances.
+Repeat the exercise a 
+number of times.
+A C T I V I T Y
+A
+B
+0
+5
+10
+15
+20
+N
+B
+20
+15
+10
+5
+0
+N
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 112
+
+PDF_PAGE: 120
+
+------------------------------------------------------------
+
+112
+Unit 3 Laws of Motion
+ 
+Case 2: Force and motion not in the 
+same direction
+ 
+The Moon experiences a force towards 
+the Earth. But it actually moves in 
+elliptical orbit. In this case, the direction 
+of the force is different from the direction 
+of motion as shown in Figure 3.9 (b).
+ 
+Case 3: Force and motion in opposite 
+direction
+ 
+If an object is thrown vertically upward, 
+the direction of motion is upward, 
+but gravitational force is downward as 
+shown in the Figure 3.9 (c).
+ 
+G
+G
+F t
+ma t
+( ) =
+( )
+ 
+Acceleration of the object does not 
+depend on the previous history of 
+the force. For example, when a spin 
+bowler or a fast bowler throws the ball 
+to the batsman, once the ball leaves 
+the hand of the bowler, it experiences 
+only 
+gravitational 
+force 
+and 
+air 
+frictional force. The acceleration of 
+the ball is independent of how the ball 
+was bowled (with a lower or a higher 
+speed).
+3. In general, the direction of a force 
+may be different from the direction 
+of motion. Though in some cases, the 
+object may move in the same direction 
+as the direction of the force, it is not 
+always true. A few examples are given 
+below.
+ 
+Case 1: Force and motion in the same 
+direction
+ 
+When an apple falls towards the Earth, 
+the direction of motion (direction of 
+velocity) of the apple and that of force 
+are in the same downward direction as 
+shown in the Figure 3.9 (a).
+Figure 3.9 (a) Force and motion in the 
+same direction
+F
+v
+Earth
+Moon
+Direction of
+Motion
+Direction of force
+Figure 3.9 (b) Moon orbiting in elliptical 
+orbit around the Earth
+Figure 3.9 (c) Force and 
+direction of motion are in 
+opposite directions
+V
+F
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 113
+
+PDF_PAGE: 121
+
+------------------------------------------------------------
+
+113
+Unit 3 Laws of Motion
+ 
+Newton’s second law for this case is
+ 
+ 
+G
+G
+F
+ma
+net 
+ 
+In this case the direction of acceleration 
+is in the direction of net force.
+ 
+Example
+Bow and arrow
+F1
+F 1
+F2
+F 2
+Fnet
+F net
+Vectorial addition
+(Bow and arrow)
+Figure 3.11 Bow and arrow – Net force 
+is on the arrow
+5. Newton’s second law can also be written 
+in the following form.
+ 
+Since the acceleration is the second 
+derivative of position vector of the body 
+G
+G
+a
+d r
+dt
+=
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+2 , the force on the body is
+ 
+ 
+G
+G
+F
+m d r
+dt
+ 
+2
+2 .
+ 
+Case 4: Zero net force, but there is motion
+ 
+When a raindrop gets detached from 
+the cloud it experiences both downward 
+gravitational force and upward air drag 
+force. As it descends towards the Earth, 
+the upward air drag force increases and 
+after a certain time, the upward air drag 
+force cancels the downward gravity. From 
+then on the raindrop moves at constant 
+velocity till it touches the surface of 
+the Earth. Hence the raindrop comes 
+with zero net force, therefore with zero 
+acceleration but with non-zero terminal 
+velocity. It is shown in the Figure 3.9 (d).
+4. If multiple forces 
+G G G
+G
+F F F
+Fn
+1
+2
+3
+,
+,
+….
+ act on 
+the same body, then the total force 
+(
+G
+Fnet) is equivalent to the vectorial sum 
+of the individual forces. Their net force 
+provides the acceleration.
+ 
+G
+G
+G
+G
+G
+F
+F
+F
+F
+F
+net
+n
+=
++
++
++…+
+1
+2
+3
+Figure 3.10 Vector addition of forces
+a
+Vector addition of forces
+a + b give resultant c.
+b
+c
+Figure 3.9 (d) Zero net force and non 
+zero velocity
+Air drag
+Gravity
+Air drag
+Gravity
+Air drag
+Gravity
+(Bow and arrow)
+Vectorial addition
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 114
+
+PDF_PAGE: 122
+
+------------------------------------------------------------
+
+114
+Unit 3 Laws of Motion
+3.3
+3. Draw the vectors representing the forces 
+acting on the object. 
+When we draw the free body diagram for 
+an object or a system, the forces exerted by 
+the object should not be included in the free 
+body diagram.
+EXAMPLE 3.1
+A book of mass m is at rest on the table. 
+(1) What are the forces acting on the book? 
+(2) What are the forces exerted by the 
+book? (3) Draw the free body diagram for 
+the book.
+Solution
+(1)  Th ere are two forces acting on the book.
+  (i)  Gravitational force (mg) acting 
+downwards on the book
+ (ii)  Normal contact force (N) exerted by 
+the surface of the table on the book. It 
+acts upwards as shown in the fi gure.
+ 
+From this expression, we can infer that 
+Newton’s second law is basically a second 
+order ordinary diff erential equation 
+and whenever the second derivative of 
+position vector is not zero, there must be 
+a force acting on the body. 
+6. If no force acts on the body then Newton’s 
+second law, mdv
+dt
+G
+ = 0. 
+ 
+It implies that 
+Gv
+constant
+ 
+. It is 
+essentially Newton’s fi rst law. It implies 
+that the second law is consistent with 
+the fi rst law. However, it should not be 
+thought of as the reduction of second 
+law to the fi rst when no force acts on the 
+object. Newton’s fi rst and second laws are 
+independent laws. Th ey can internally 
+be consistent with each other but cannot 
+be derived from each other.
+7. Newton’s second law is cause and 
+eff ect relation. Force is the cause and 
+acceleration is the eff ect. Conventionally, 
+the eff ect should be written on the left  
+and cause on the right hand side of the 
+equation. So the correct way of writing 
+Newton’s second law is ma
+F
+G
+G
+ 
+ or dp
+dt
+F
+G
+G
+ 
+APPLICATION OF 
+NEWTON’S LAWS
+3.3.1 Free Body Diagram
+Free body diagram is a simple tool to analyse 
+the motion of the object using Newton’s 
+laws. 
+Th e following systematic steps are followed 
+for developing the free body diagram:
+1. Identify the forces acting on the object. 
+2. Represent the object as a point.
+In the free body diagram, 
+as the magnitudes of the 
+normal force and the 
+gravitational 
+force 
+are 
+same, the lengths of both these vectors 
+are also same.
+Note
+N
+Free body diagram
+Book
+mg
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 115
+
+PDF_PAGE: 123
+
+------------------------------------------------------------
+
+115
+Unit 3 Laws of Motion
+When an apple falls, it experiences 
+Earth’s gravitational force. According 
+to Newton’s third law, the apple exerts 
+equal and opposite force on the Earth. 
+Even 
+though 
+both 
+the 
+apple 
+and 
+Earth experience the same force, their 
+acceleration is diff erent. Th e mass of 
+Earth is enormous compared to that of 
+an apple. So an apple experiences larger 
+acceleration and the Earth experiences 
+almost negligible acceleration. Due to the 
+negligible acceleration, Earth appears to be 
+stationary when an apple falls. 
+EXAMPLE 3.3
+Which is the greatest force among the three 
+force 
+G G G
+F F F
+1
+2
+3
+,
+,
+ shown below
+ 
+F1
+o
+F2
+o
+F3
+o
+Solution
+Force is a vector and magnitude of the 
+vector is represented by the length of the 
+vector. Here 
+G
+F1 has greater length compared 
+to other two. So 
+G
+F1 is largest of the three.
+(2)  According to Newton’s third law, there 
+are two reaction forces exerted by the 
+book.
+  (i)  Th e book exerts an equal and 
+opposite force (mg) on the Earth 
+which acts upwards.
+ (ii)  Th e book exerts a force which 
+is equal and opposite to normal 
+force on the surface of the table 
+(N) acting downwards.
+It is to be emphasized that 
+while applying Newton’s 
+third law  it is wrong to 
+conclude that the book  on 
+the table is at rest due to the downward 
+gravitational force exerted by the 
+Earth and the equal and opposite 
+reacting normal force  exerted by the 
+table on the book. Action and reaction 
+forces never act on the same body.
+Note
+(3)  Th e free body diagram of the book is 
+shown in the fi gure.
+EXAMPLE 3.2
+If two objects of masses 2.5 kg and 100 kg 
+experience the same force 5 N, what is the 
+acceleration experienced by each of them?
+Solution
+From 
+Newton’s 
+second 
+law 
+(in 
+magnitude form), F = ma
+For the object of mass 2.5 kg, the 
+acceleration is a
+F
+m
+m s
+=
+=
+=
+−
+5
+2 5
+2
+2
+.
+For the object of mass 100 kg, the 
+acceleration is a
+F
+m
+m s
+=
+=
+=
+−
+5
+100
+0 05
+2
+.
+Even though the force 
+applied on both the objects 
+is the same, acceleration 
+experienced by each object 
+diff ers. Th e acceleration is inversely 
+proportional to mass. For the same 
+force, the heavier mass experiences 
+lesser acceleration and the lighter mass 
+experiences greater acceleration.
+Note
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 116
+
+PDF_PAGE: 124
+
+------------------------------------------------------------
+
+116
+Unit 3 Laws of Motion
+EXAMPLE 3.4
+Apply Newton’s second law to a mango 
+hanging from a tree. (Mass of the mango 
+is 400 gm)
+Solution
+Note: Before applying Newton’s laws, 
+the following steps have to be followed:
+1) Choose a suitable inertial coordinate 
+system to analyse the problem. For 
+most of the cases we can take Earth as 
+an inertial coordinate system.
+2) Identify the system to which Newton’s 
+laws need to be applied. The system can 
+be a single object or more than one object.
+3) Draw the free body diagram. 
+4) Once the forces acting on the system are 
+identified, and the free body diagram 
+is drawn, apply Newton’s second law. 
+In the left hand side of the equation, 
+write the forces acting on the system 
+in vector notation and equate it to the 
+right hand side of equation which is 
+the product of mass and acceleration. 
+Here, acceleration should also be in 
+vector notation. 
+5) If acceleration is given, the force can be 
+calculated. If the force is given, 
+acceleration can be calculated.
+x
+y
+Earth’s gravitational
+force (mg)
+Tension force (T)
+By following the above steps:
+We fix the inertial coordinate system on 
+the ground as shown in the figure.
+x
+y
+jˆ
+iˆ
+The forces acting on the mango are
+i)  Gravitational 
+force 
+exerted 
+by 
+the Earth on the mango acting 
+downward along negative y axis
+ii)  Tension (in the cord attached to the 
+mango) acts upward along positive 
+y axis.
+The free body diagram for the mango is 
+shown in the figure
+T
+mg
+Mango
+x
+y
+ 
+
+ ˆ
+ˆ
+gF
+mg
+j
+mgj
+
+
+ 
+
+Here, mg is the magnitude of the gravitational 
+force and 
+ ˆj
+ represents the unit vector in 
+negative y direction
+ 
+ˆ
+T
+Tj
+
+
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 117
+
+PDF_PAGE: 125
+
+------------------------------------------------------------
+
+117
+Unit 3 Laws of Motion
+EXAMPLE 3.6
+The position vector of a particle is given 
+by 
+2
+3
+5
+7 .ˆ
+ˆ
+ˆ
+
+
+
+r
+ti
+t j
+k Find the direction in 
+which the particle experiences net force?
+Solution
+ Velocity of the particle,
+ 
+Gv = 
+
+ 
+
+ 
+ 
+2
+ˆ
+ˆ
+ˆ
+3
+5
+7
+dr
+d
+d
+d
+t i
+t
+j
+k
+dt
+dt
+dt
+dt
+
+
+
+
+ 
+ˆ
+ˆ
+3
+10
+
+
+
+dr
+i
+tj
+dt
+ Acceleration of the particle 
+ 
+2
+2
+0ˆ
+1
+
+
+
+
+
+
+dv
+d r
+a
+j
+dt
+dt
+Here, the particle has acceleration only along 
+positive y direction. According to Newton’s 
+second law, net force must also act along 
+positive y direction. In addition, the particle 
+has constant velocity in positive x direction 
+and no velocity in z direction. Hence, there 
+are no net force along x or z direction.
+EXAMPLE 3.7
+Consider a bob attached to a string, 
+hanging from a stand. It oscillates as 
+shown in the figure. 
+Solution
+a) Identify the forces that act on the bob? 
+b)  What is the acceleration experienced by 
+the bob?
+A
+B
+C
+3
+Here T is the magnitude of the tension 
+force and  ˆj represents the unit vector in 
+positive y direction
+ 
+G
+G
+G
+F
+F
+T
+net
+g
+=
++
+ = 
+
+ 
+ˆ
+ˆ
+ˆ
+mgj
+Tj
+T
+mg j
+
+
+
+
+From Newton’s second law 
+G
+G
+F
+ma
+net 
+Since the mango is at rest with respect 
+to us (inertial coordinate system) the 
+acceleration is zero (Ga 0).
+So 
+G
+G
+F
+ma
+net 
+ 0
+ 
+
+ ˆ
+0
+
+
+T
+mg j
+By comparing the components on both sides 
+of the above equation, we get T
+mg
+−
+= 0
+So the tension force acting on the 
+mango is given by T
+mg
+ 
+ Mass of the mango m = 400g and 
+g = 9.8 m s–2
+Tension acting on the mango is 
+  T = 0.4 × 9.8 = 3.92 N
+EXAMPLE 3.5
+A person rides a bike with a constant 
+velocity Gv with respect to ground and 
+another biker accelerates with acceleration 
+Ga with respect to ground. Who can apply 
+Newton’s second law with respect to a 
+stationary observer on the ground?
+Solution
+Second biker cannot apply Newton’s 
+second law, because he is moving with 
+acceleration Ga with respect to Earth (he is 
+not in inertial frame). But the first biker 
+can apply Newton’s second law because he 
+is moving at constant velocity with respect 
+to Earth (he is in inertial frame). 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 118
+
+PDF_PAGE: 126
+
+------------------------------------------------------------
+
+118
+Unit 3 Laws of Motion
+EXAMPLE 3.8
+Th e velocity of a particle moving in a plane 
+is given by the following diagram. Find out 
+the direction of force acting on the particle?
+Solution
+t = 0 sec   
+t = 1 sec   
+t = 2 sec
+t = 3 sec
+y
+x
+Th e velocity of the particle is 
+ˆ
+
+
+
+x
+v
+v i
+ˆ
+.ˆ
+
+y
+z
+v j
+v k As shown in the fi gure, the particle 
+is moving in the xy plane, there is no motion 
+in the z direction. So velocity in the z direction 
+is zero (vz 0). Th e velocity of the particle 
+has x component (vx) and y component (vy). 
+From fi gure, as time increases from t = 0 
+sec to t = 3 sec, the length of the vector in y 
+direction is changing (increasing). It means 
+y component of velocity vy
+(
+) is increasing 
+with respect to time. According to Newton’s 
+second law, if velocity changes with respect 
+to time then there must be acceleration. In 
+this case, the particle has acceleration in the 
+y direction since the y component of velocity 
+changes. So the particle experiences force in 
+the y direction. Th e length of the vector in 
+x direction does not change. It means that 
+the particle has constant velocity in the x 
+direction. So no force or zero net force acts 
+in the x direction.
+EXAMPLE 3.9
+Apply Newton’s second law for an object at 
+rest on Earth and analyse the result.
+Solution
+Th e object is at rest with respect to 
+Earth (inertial coordinate system). Th ere 
+are two forces that act on the object. 
+Two forces act on the bob. 
+ (i)  Gravitational 
+force 
+(mg) 
+acting 
+downwards
+(ii)  Tension (T) exerted by the string on 
+the bob, whose position determines 
+the direction of T as shown in fi gure. 
+mg
+mg
+mg
+T
+A
+B
+C
+T
+T
+3
+Th e bob is moving in a circular arc as 
+shown in the above fi gure. Hence it has 
+centripetal acceleration. At a point A and 
+C, the bob comes to rest momentarily and 
+then its velocity increases when it moves 
+towards point B. Hence, there is a tangential 
+acceleration along the arc. Th e gravitational 
+force can be resolved into two components 
+(mg cosθ, mg sinθ) as shown  below 
+mg
+mg
+C
+A
+T
+T
+T
+B
+Fres
+Fres
+Fres
+mg
+mg cosθ
+mg cosθ
+mg sinθ
+mg sinθ
+θ
+θ
+Note that the bob does not 
+move 
+in 
+the 
+direction 
+of 
+the resultant force. At the 
+points A and C, tension T = mg cosθ. 
+At all other points, tension T is greater than 
+mg cosθ, since it has non zero centripetal 
+acceleration. At point B, the resultant 
+force acts upward along the string. It is an 
+example of a non uniform circular motion 
+because the bob has both the centripetal 
+and tangential accelerations.
+Note
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 119
+
+PDF_PAGE: 127
+
+------------------------------------------------------------
+
+119
+Unit 3 Laws of Motion
+By comparing the components on both 
+sides of the equation, we get
+ 
+−
++
+=
+mg
+N
+0
+ 
+N
+mg
+ 
+We can conclude that if the object is at rest, 
+the magnitude of normal force is exactly 
+equal to the magnitude of gravity.
+EXAMPLE 3.10
+A particle of mass 2 kg experiences two 
+forces, 1
+8
+ˆ
+ˆ
+5ˆ
+7
+
+
+
+
+F
+i
+j
+k and 2
+4
+ˆ
+ˆ
+3ˆ
+3
+
+
+
+
+F
+i
+j
+k. 
+What is the acceleration of the particle?
+Solution
+We use Newton’s second law, 
+G
+G
+F
+ma
+net 
+ 
+where 
+G
+G
+G
+F
+F
+F
+net =
++
+1
+2. From the above 
+equations the acceleration is G
+G
+a
+F
+m
+net
+ 
+, where
+ 
+
+ 
+
+ 
+
+ ˆ
+ˆ
+7
+3
+ˆ
+5
+3
+8
+4
+
+
+
+
+
+
+
+net
+F
+i
+j
+k
+ 
+4
+ˆ
+10
+ˆ
+ˆ
+8
+
+
+
+
+net
+F
+i
+j
+k
+ 
+ˆ
+ˆ
+ˆ
+8
+4
+10
+2
+2
+2
+4
+5
+4
+5
+4
+5
+
+
+
+6
+7
+6
+7
+6
+7
+8
+9
+8
+9
+8
+9
+a
+i
+j
+k
+ 
+4
+2
+ˆ
+ˆ
+ˆ
+5
+
+
+
+a
+i
+j
+k
+EXAMPLE 3.11
+Identify the forces acting on blocks A, B 
+and C shown in the figure. 
+Solution
+y
+Normal force(N)
+Gravity(mg)
+x
+ i)  Gravity acting downward (negative 
+y-direction)
+ii)  Normal force by the surface of the Earth 
+acting upward (positive y-direction)
+The free body diagram for this object is 
+N
+mg
+Object
+x
+y
+ 
+ˆ
+ 
+
+gF
+mgj
+ 
+ˆ
+
+
+N
+Nj
+Net force 
+ 
+ˆ
+ˆ
+
+
+
+net
+F
+mgj
+Nj
+But there is no acceleration on the ball. 
+So Ga 0. By applying Newton’s second law 
+(
+G
+G
+F
+ma
+net 
+)
+Since 
+ˆ
+ˆ
+0,
+
+ 
+
+
+
+net
+a
+F
+mgj
+Nj
+ 
+(
+)ˆ
+0
+
+
+
+mg
+N j
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 120
+
+PDF_PAGE: 128
+
+------------------------------------------------------------
+
+120
+Unit 3 Laws of Motion
+EXAMPLE 3.12
+Consider a horse attached to the cart which 
+is initially at rest. If the horse starts walking 
+forward, the cart also accelerates in the 
+forward direction. If the horse pulls the 
+cart with force Fh in forward direction, then 
+according to Newton’s third law, the cart also 
+pulls the horse by equivalent opposite force 
+F
+F
+c
+h
+ 
+ in backward direction. Then total 
+force on ‘cart+horse’ is zero. Why is it then the 
+‘cart+horse’ accelerates and moves forward?
+Solution
+This paradox arises due to wrong 
+application of Newton’s second and third 
+laws. Before applying Newton’s laws, we 
+should decide ‘what is the system?’. Once 
+we identify the ‘system’, then it is possible to 
+identify all the forces acting on the system. 
+We should not consider the force exerted 
+by the system. If there is an unbalanced 
+force acting on the system, then it should 
+have acceleration in the direction of the 
+resultant force. By following these steps we 
+will analyse the horse and cart motion.
+If we decide on the cart+horse as a 
+‘system’, then we should not consider the 
+force exerted by the horse on the cart or 
+the force exerted by cart on the horse. 
+Both are internal forces acting on each 
+other. According to Newton’s third law, 
+total internal force acting on the system is 
+zero and it cannot accelerate the system. 
+The acceleration of the system is caused 
+by some external force. In this case, the 
+force exerted by the road on the system is 
+the external force acting on the system. It 
+is wrong to conclude that the total force 
+acting on the system (cart+horse) is zero 
+without including all the forces acting on 
+the system. The road is pushing the horse 
+Forces on block A:
+ (i)  Downward gravitational force exerted 
+by the Earth (mAg)
+(ii)  Upward normal force (NB) exerted by 
+block B (NB) 
+The free body diagram for block A is as 
+shown in the following picture.
+A
+mAg
+NB
+Force on block A
+Forces on block B :
+ (i)  Downward gravitational force exerted 
+by Earth (mBg)
+ (ii)  Downward force exerted by block A (NA)
+(iii)  Upward normal force exerted by 
+block C (NC)
+B
+mBg
+NC
+NA
+Force on block B
+Forces onblock C:
+ (i)  Downward gravitational force exerted 
+by Earth (mCg)
+ (ii) Downward force exerted by block B (NB)
+(iii) Upward force exerted by the table (Ntable)
+Force on block C
+C
+mCg
+Ntable
+NB
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 121
+
+PDF_PAGE: 129
+
+------------------------------------------------------------
+
+121
+Unit 3 Laws of Motion
+The force exerted by the road can be 
+resolved into parallel and perpendicular 
+components. 
+The 
+perpendicular 
+component 
+balances 
+the 
+downward 
+gravitational force. There is parallel 
+component along the forward direction. It 
+is greater than the backward force (Fc). So 
+there is net force along the forward direction 
+which causes the forward movement of the 
+horse.
+If we take the cart as the system, then 
+there are three forces acting on the cart.
+ (i) Downward gravitational force (m g
+c )
+ (ii) Force exerted by the road (
+)
+Fr
+’
+(iii) Force exerted by the horse (Fh)
+It is shown in the figure
+Force on the cart
+mcg
+Fh
+Fr′
+F||
+r′
+N = Fr
+⊥′
+Cart
+The force exerted by the road (Fr
+’) can 
+be resolved into parallel and perpendicular 
+components. 
+The 
+perpendicular 
+component cancels the downward gravity 
+(m g
+c ). Parallel component acts backwards 
+and the force exerted by the horse (Fh
+
+) 
+acts forward. Force (Fh
+
+) is greater than the 
+parallel component acting in the opposite 
+direction. So there is an overall unbalanced 
+force in the forward direction which causes 
+the cart to accelerate forward.
+and cart forward with acceleration. As there 
+is an external force acting on the system, 
+Newton’s second law has to be applied and 
+not Newton’s third law.
+The following figures illustrates this.
+(Forward motion)
+m    g
+C
+m   g
+h
+Fr
+Fh
+F:r
+Fc
+road
+Lorem ipsum
+
+;
+F:r
+F:r
+Fr
+N= F:r
+;
+N= Fr
+;
+If we consider the horse as the ‘system’, 
+then there are three forces acting on the 
+horse.
+ (i) Downward gravitational force (m g
+h )
+ (ii) Force exerted by the road (Fr)
+(iii) Backward force exerted by the cart (Fc)
+It is shown in the following figure.
+Fr – Force exerted by the road on the horse
+Fc – Force exerted by the cart on the horse
+Fr
+⊥ – Perpendicular component of Fr  = N
+F||
+r – Parallel component of Fr   which is reason
+       for forward movement
+Fc
+mhg
+Fr
+F||
+r
+Horse
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 122
+
+PDF_PAGE: 130
+
+------------------------------------------------------------
+
+122
+Unit 3 Laws of Motion
+ 
+The acceleration is given by a
+d y
+dt
+ 
+2
+2
+ 
+(or) a
+dv
+dt
+ 
+Here
+ v =velocity of the particle in y direction
+ 
+v
+dy
+dt
+ 
+ = u
+gt
+
+The momentum of the particle = mv = m 
+(u-gt).
+ 
+a
+dv
+dt
+g
+=
+= −
+The force acting on the object is given by 
+F
+ma
+mg
+=
+= −
+The negative sign implies that the force 
+is acting on the negative y direction. This is 
+exactly the force that acts on the object in 
+projectile motion. 
+3.3.2  Particle Moving in an 
+Inclined Plane
+When an object of mass m slides on a 
+frictionless surface inclined at an angle T as 
+shown in the Figure 3.12, the forces acting 
+on it decides the 
+a) acceleration of the object
+b)  speed of the object when it reaches the 
+bottom
+The force acting on the object is 
+ (i) Downward gravitational force (mg)
+(ii)  Normal force perpendicular to inclined 
+surface (N)
+If we take the cart+horse as a system, 
+then there are two forces acting on the 
+system. 
+ (i)  Downward 
+gravitational 
+force 
+(m
+m
+h
+c
+
+)g
+(ii)  The force exerted by the road (Fr) on 
+the system.
+ It is shown in the following figure.
+(mh 
+mc)g
+Fr
+F||
+r 
+
+Parallel component of
+        force exerted by road.
+        It is the reason for forward
+        movement of Cart + Horse
+Fr
+;
+
+
+N
+Cart+Horse
+(iii)  In this case the force exerted 
+by the road (Fr) on the system 
+(cart+horse) is resolved in to parallel 
+and 
+perpendicular 
+components. 
+The perpendicular component is 
+the normal force which cancels 
+the downward gravitational force 
+(m
+m
+h
+c
+
+)g. The parallel component 
+of the force is not balanced, hence the 
+system (cart+horse) accelerates and 
+moves forward due to this force.
+EXAMPLE 3.13
+The position of the particle is represented 
+by y
+ut
+gt
+=
+−1
+2
+2.
+a) What is the force acting on the particle? 
+b) What is the momentum of the particle?
+Solution
+To find the force, we need to find the 
+acceleration experienced by the particle. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 123
+
+PDF_PAGE: 131
+
+------------------------------------------------------------
+
+123
+Unit 3 Laws of Motion
+There is no motion(acceleration) along 
+the y axis. Applying Newton’s second law in 
+the y direction
+ 
+
+ 
+cos
+0
+ 
+ˆ
+ˆ
+mg
+j
+Nj
+No acceleration
+3
+
+
+
+By comparing the components on both 
+sides, N
+mg
+−
+=
+cosθ
+0
+ 
+N
+mg
+=
+cosθ
+The magnitude of normal force (N) exerted 
+by the surface is equivalent to mg cosθ.
+The object slides (with an acceleration) 
+along the x direction. Applying Newton’s 
+second law in the x direction
+ 
+ˆ
+ˆ
+sin
+mg
+i
+mai
+3 
+By comparing the components on both 
+sides, we can equate
+ 
+mg
+ma
+sinθ =
+The acceleration of the sliding object is 
+ 
+a
+g sin
+= 
+θ
+Figure 3.12 Object moving 
+in an inclined plane
+m
+s
+h
+L
+a
+To draw the free body diagram, the block is 
+assumed to be a point mass (Figure 3.13 (a)). 
+Since the motion is on the inclined surface, 
+we have to choose the coordinate system 
+parallel to the inclined surface as shown in 
+Figure 3.13 (b).
+The gravitational force mg is resolved 
+in to parallel component mg sinT along 
+the inclined plane and perpendicular 
+component mg cosT perpendicular to the 
+inclined surface (Figure 3.13 (b)). 
+Note that the angle made by the 
+gravitational 
+force 
+(mg) 
+with 
+the 
+perpendicular to the surface is equal to the 
+angle of inclination T as shown in Figure 
+3.13 (c).
+Figure 3.13 (a) Free body diagram, (b) mg resolved into parallel and perpendicular 
+components (c) The angle θ2 is equal to θ
+m
+N
+Free body
+diagram
+mg
+(a)
+(b)
+(c)
+mg
+m
+x
+y
+N
+mg cosθ
+mg sinθ
+θ
+θ
+D
+E
+90
+B
+C
+A
+θ2
+θ1
+θ
+In the triangle ABC
+total angle = 90 + θ + θ1 = 180
+From the above equation
+θ1 = 180 − 90 − θ = 90 − θ
+But from the figure θ2 + θ1 = 90
+so θ2 = 90 − θ1 = 90 − (90 − θ)
+It given θ2 = θ
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 124
+
+PDF_PAGE: 132
+
+------------------------------------------------------------
+
+124
+Unit 3 Laws of Motion
+Figure 3.14 (a) Two blocks of masses 
+m1 and m2 (m1> m2) kept in contact 
+with each other on a smooth, horizontal 
+frictionless surface
+By the application of a horizontal force 
+F, both the blocks are set into motion 
+with acceleration ‘a’ simultaneously in the 
+direction of the force F.
+To fi nd the acceleration Ga, Newton’s 
+second law has to be applied to the system 
+(combined mass m = m1 + m2)
+ 
+G
+G
+F
+ma
+ 
+If we choose the motion of the two masses 
+along the positive x direction,
+ 
+ˆ
+ˆ
+
+Fi
+mai
+By comparing components on both sides of 
+the above equation
+ 
+F  ma where m = m1 + m2
+Th e acceleration of the system is given by
+ 
+∴=
++
+a
+F
+m
+m
+1
+2
+ 
+ 
+(3.5)
+Note that the acceleration depends on the 
+angle of inclination θ. If the angle θ is 90 
+degree, the block will move vertically with 
+acceleration a = g.
+Newton’s kinematic equation is used to 
+fi nd the speed of the object when it reaches 
+the bottom. Th e acceleration is constant 
+throughout the motion. 
+ v
+u
+as
+2
+2
+2
+=
++
+ along the x direction (3.3)
+Th e acceleration a is equal to g sinT. Th e 
+initial speed (u) is equal to zero as it starts 
+from rest. Here s is the length of the inclined 
+surface. 
+Th e speed (v) when it reaches the bottom 
+is (using equation (3.3))
+ 
+v
+sg sin
+=
+2
+ 
+θ  
+(3.4)
+Here 
+we 
+choose 
+the 
+coordinate system along the 
+inclined plane. Even if we 
+choose the coordinate system parallel 
+to the horizontal surface, we will get 
+the same result. But the mathematics 
+will be quite complicated. Choosing a 
+suitable inertial coordinate system for 
+the given problem is very important.
+Note
+3.3.3  Two Bodies in Contact 
+on a Horizontal Surface
+Consider two blocks of masses m1 and m2 
+(m1> m2) kept in contact with each other on 
+a smooth, horizontal frictionless surface as 
+shown in Figure 3.14.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 125
+
+PDF_PAGE: 133
+
+------------------------------------------------------------
+
+125
+Unit 3 Laws of Motion
+Equation (3.7) shows that the magnitude 
+of contact force depends on mass m2 which 
+provides the reaction force. Note that 
+this force is acting along the negative 
+x direction.
+In vector notation, the reaction force on 
+mass m1 is given by 
+2
+12
+1
+2
+ˆ
+ 
+
+
+Fm
+fi
+m
+m
+For mass m2 there is only one force acting 
+on it in the x direction and it is denoted by 
+G
+f21. This force is exerted by mass m1. The 
+free body diagram for mass m2 is shown in 
+Figure 3.14 (c).
+Figure 3.14 (c) Free body diagram of 
+block of mass m2
+mg
+N
+f21
+f21 m2
+y
+x
+Free body diagram
+for mass m2
+Applying Newton’s second law for mass 
+m2 
+By comparing the components on both 
+sides of the above equation
+ 
+f
+m a
+21
+2
+ 
+ 
+(3.8)
+Substituting for acceleration from equation 
+(3.5) in equation (3.8), we get f
+Fm
+m
+m
+21
+2
+1
+2
+=
++
+In this case the magnitude of the contact 
+force is
+f
+Fm
+m
+m
+21
+2
+1
+2
+=
++
+ The direction of this force 
+is along the positive x direction.
+21
+2
+ˆ
+ˆ
+
+f i
+m ai
+The force exerted by the block m1 on m2 
+due to its motion is called force of contact 
+(
+G
+f21). According to Newton’s third law, the 
+block m2 will exert an equivalent opposite 
+reaction force (
+G
+f12) on block m1.
+Figure 3.14 (b) shows the free body 
+diagram of block m1.
+Figure 3.14 (b) Free body diagram of 
+block of mass m1
+m1
+m1
+f12
+F
+F
+f12
+Free body diagram
+for mass m1
+y
+x
+m1g
+N
+ 
+12
+1
+ˆ
+ˆ
+ˆ
+
+
+
+Fi
+f i
+m ai  
+By comparing the components on both sides 
+of the above equation, we get
+ 
+F
+f
+m a
+−
+=
+12
+1  
+ 
+f
+F
+m a
+12
+1
+=
+−
+  
+(3.6)
+Substituting the value of acceleration from 
+equation (3.5) in (3.6) we get
+ 
+f
+F
+m
+F
+m
+m
+12
+1
+1
+2
+=
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟  
+ 
+f
+F
+m
+m
+m
+12
+1
+1
+2
+1
+=
+−
++
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+f
+Fm
+m
+m
+12
+2
+1
+2
+=
++
+ 
+(3.7)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 126
+
+PDF_PAGE: 134
+
+------------------------------------------------------------
+
+126
+Unit 3 Laws of Motion
+The upward direction is chosen as y 
+direction. The free body diagrams of both 
+masses are shown in Figure 3.16.
+Figure 3.16 Free body 
+diagrams of masses m1 and m2
+m2
+T
+T
+m1
+m2g
+m1g
+x
+y
+Free body diagram
+Applying Newton’s second law for 
+mass m2
+ 
+2
+2
+ˆ
+ˆ
+ˆ
+
+
+Tj
+m gj
+m aj
+The left hand side of the above equation 
+is the total force that acts on m2 and the 
+right hand side is the product of mass and 
+acceleration of m2 in y direction.
+By comparing the components on both 
+sides, we get
+ 
+T
+m g
+m a
+−
+=
+2
+2 
+(3.9)
+Similarly, applying Newton’s second law for 
+mass m1
+ 
+1
+1
+ˆ
+ˆ
+ˆ
+
+ 
+Tj
+m gj
+m aj
+As mass m1 moves downward ( ˆ
+j), its 
+acceleration is along ( ˆ
+j)
+In vector notation, the force acting on 
+mass m2exerted by mass m1is 
+2
+21
+1
+2
+ˆ
+Fm
+fi
+m
+m
+
+
+
+Note 
+G
+G
+f
+f
+12
+21
+= −
+ which confirms Newton’s 
+third law.
+3.3.4  Motion of Connected 
+Bodies
+When objects are connected by strings 
+and a force F is applied either vertically or 
+horizontally or along an inclined plane, it 
+produces a tension T in the string, which 
+affects the acceleration to an extent. Let us 
+discuss various cases for the same.
+Case 1: Vertical motion
+Consider two blocks of masses m1 and 
+m2 (m1> m2) connected by a light and 
+inextensible string that passes over a pulley 
+as shown in Figure 3.15.
+Figure 3.15 Two blocks 
+connected by a string 
+over a pulley
+m2
+m1
+a?
+a@
+T
+T
+m2g
+m1g
+(m1>m2)
+Let the tension in the string be T and 
+acceleration a. When the system is released, 
+both the blocks start moving, m2 vertically 
+upward and m1 downward with same 
+acceleration a. The gravitational force m1g 
+on mass m1 is used in lifting the mass m2.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 127
+
+PDF_PAGE: 135
+
+------------------------------------------------------------
+
+127
+Unit 3 Laws of Motion
+ 
+T
+m g
+m
+m
+m
+m
+=
++
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+1
+2
+1
+2
+1
+ 
+T
+m g m
+m
+m
+m
+m
+m
+=
++
++
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+1
+2
+1
+2
+1
+2
+ 
+T
+m m
+m
+m
+g
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+1
+2
+1
+2
+Equation (3.12) gives only magnitude of 
+acceleration.
+For mass m1, the acceleration vector is 
+given by 
+1
+2
+1
+2
+ˆ
+4
+5
+
+ 6
+7
+
+8
+9
+
+m
+m
+a
+j
+m
+m
+For mass m2, the acceleration vector is 
+given by 
+1
+2
+1
+2
+ˆ
+4
+5
+
+ 6
+7
+
+8
+9
+
+m
+m
+a
+j
+m
+m
+Case 2: Horizontal motion
+In this case, mass m2 is kept on a horizontal 
+table and mass m1 is hanging through 
+a small pulley as shown in Figure 3.17. 
+Assume that there is no friction on the 
+surface.
+Figure 3.17 Blocks in horizontal  
+motion
+m1
+m2
+m1g
+T=m1g 
+T 
+a 
+x
+y
+By comparing the components on both 
+sides, we get 
+ 
+T
+m g
+m a
+−
+= −
+1
+1
+ 
+m g
+T
+m a
+1
+1
+−
+=
+ 
+(3.10)
+Adding equations (3.9) and (3.10), we get
+ 
+m g
+m g
+m a
+m a
+1
+2
+1
+2
+−
+=
++
+ 
+m
+m
+g
+1
+2
+−
+(
+) = (
+)
+m
+m a
+1
+2
+
+  (3.11)
+From equation (3.11), the acceleration of 
+both the masses is
+ 
+a
+m
+m
+m
+m
+g
+=
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+ 
+(3.12)
+If both the masses are equal (m1=m2), from 
+equation (3.12)
+ 
+a 0
+This shows that if the masses are equal, there 
+is no acceleration and the system as a whole 
+will be at rest.
+To find the tension acting on the string, 
+substitute the acceleration from the equation 
+(3.12) into the equation (3.9).
+ T
+m g
+m
+m
+m
+m
+m
+−
+=
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+2
+1
+2
+1
+2
+ 
+T
+m g
+m
+m
+m
+m
+m
+g
+=
++
+−
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+2
+1
+2
+1
+2
+ (3.13)
+By taking m2g common in the RHS of 
+equation (3.13)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 128
+
+PDF_PAGE: 136
+
+------------------------------------------------------------
+
+128
+Unit 3 Laws of Motion
+By comparing the components on both sides 
+of above equation,
+ 
+T
+m a
+ 
+2 
+ 
+(3.15)
+There is no acceleration along y direction 
+for m2.
+ 
+2
+ˆ
+ˆ
+0
+
+
+Nj
+m gj
+By comparing the components on both sides 
+of the above equation 
+ 
+N
+m g
+−
+=
+2
+0
+ 
+N
+m g
+ 
+2 
+(3.16)
+By substituting equation (3.15) in equation 
+(3.14), we can find the tension T
+ 
+m a
+m g
+m a
+2
+1
+1
+−
+= −
+  
+ 
+m a
+m a
+m g
+2
+1
+1
++
+=
+ 
+a = 
+m
+m
+m g
+1
+1
+2
+
+ 
+(3.17)
+Tension in the string can be obtained by 
+substituting equation  (3.17) in equation 
+(3.15)
+ 
+T
+m m
+m
+m g
+=
++
+1
+2
+1
+2
+  
+(3.18)
+Comparing motion in both cases, it is clear 
+that the tension in the string for horizontal 
+motion is half of the tension for vertical 
+motion for same set of masses and strings.
+This result has an important application 
+in industries. The ropes used in conveyor 
+belts (horizontal motion) work for longer 
+duration than those of cranes and lifts 
+(vertical motion).
+As both the blocks are connected to the 
+unstretchable string, if m1 moves with an 
+acceleration a downward then m2 also moves 
+with the same acceleration a horizontally. 
+The forces acting on mass m2 are
+ (i)  Downward gravitational force (m2g)
+ (ii)  Upward normal force (N) exerted by 
+the surface
+(iii)  Horizontal tension (T) exerted by the 
+string
+The forces acting on mass m1 are
+ (i) Downward gravitational force (m1g)
+(ii) Tension (T) acting upwards 
+The free body diagrams for both the masses 
+is shown in Figure 3.18.
+Figure 3.18 Free body diagrams of 
+masses m1 and m2
+m1
+T
+T
+N
+m2
+m1g
+m2g
+x
+y
+Free body diagram
+Applying Newton’s second law for m1
+ 
+1
+1
+ˆ
+ˆ
+ˆ
+
+ 
+Tj
+m gj
+m aj (along y direction)
+By comparing the components on both sides 
+of the above equation,
+ 
+T
+m g
+m a
+−
+= −
+1
+1 
+ 
+(3.14)
+Applying Newton’s second law for m2
+ 
+2
+ˆ
+ˆ
+
+Ti
+m ai (along x direction)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 129
+
+PDF_PAGE: 137
+
+------------------------------------------------------------
+
+129
+Unit 3 Laws of Motion
+a common point O as shown in Figure 3.20. 
+If the point is at equilibrium, then according 
+to Lami’s theorem
+Figure 3.20 Three 
+coplanar and concurrent 
+forces 
+G G
+G
+F F
+F
+1
+2
+3
+,
+ and 
+  
+acting at O
+F1
+F3
+F2
+β
+o
+α
+γ
+ 
+G
+F1 ∝sinα
+ 
+G
+F2 ∝sinβ
+ 
+F3
+sin
+ Therefore, 
+F
+F
+F
+1
+2
+3
+sin
+sin
+sin
+ 
+(3.19)
+Lami’s theorem is useful to analyse the 
+forces acting on objects which are in static 
+equilibrium.
+Application of Lami’s Theorem
+EXAMPLE 3.14
+A baby is playing in a swing which is hanging 
+with the help of two identical chains is at rest. 
+Identify the forces acting on the baby. Apply 
+Lami’s theorem and find out the tension 
+acting on the chain.
+3.3.5  Concurrent Forces and  
+Lami’s Theorem
+A collection of forces is said to be 
+concurrent, if the lines of forces act at 
+a common point. Figure 3.19 illustrates 
+concurrent forces.
+Concurrent forces need not be in the 
+same plane. If they are in the same plane, 
+they are concurrent as well as coplanar 
+forces.
+Figure 3.19 Concurrent forces
+O
+F1
+F2
+F3
+F3
+F2
+45°
+45°
+30°
+30°
+O
+3.4
+LAMI’S THEOREM
+If a system of three concurrent and coplanar 
+forces is in equilibrium, then Lami’s theorem 
+states that the magnitude of each force of the 
+system is proportional to sine of the angle 
+between the other two forces. The constant 
+of proportionality is same for all three forces. 
+Let us consider three coplanar and 
+concurrent forces 
+G G
+G
+F F
+F
+1
+2
+3
+,
+ and  which act at 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 130
+
+PDF_PAGE: 138
+
+------------------------------------------------------------
+
+130
+Unit 3 Laws of Motion
+From this, the tension on each string is 
+T
+mg
+= 2cosθ .
+When θ = °
+0 , the strings are 
+vertical and the tension on 
+each string is T
+mg
+ 2
+Note
+Solution
+Th e baby and the chains are modeled as a 
+particle hung by two strings as shown in the 
+fi gure. Th ere are three forces acting on the 
+baby. 
+ i)  Downward gravitational force along 
+negative y direction (mg)
+ii) Tension (T) along the two strings
+Th ese three forces are coplanar as well as 
+concurrent as shown in the following fi gure. 
+By using Lami’s theorem 
+ 
+T
+T
+mg
+sin
+sin
+sin
+180
+180
+2
+−
+(
+)
+=
+−
+(
+)
+=
+(
+)
+θ
+θ
+θ
+Since sin
+sin
+180 −
+(
+) =
+θ
+θ and sin 2θ
+(
+) =
+sin cos
+2
+θ
+θ
+ We get  
+T
+mg
+sin
+sin cos
+θ
+θ
+θ
+= 2
+T
+mg
+T
+x
+y
+T sinθ
+θ
+θ
+T sinθ
+2T cosθ
+3.5
+LAW OF CONSERVATION 
+OF TOTAL LINEAR 
+MOMENTUM
+In nature, conservation laws play a very 
+important role. Th e dynamics of motion 
+of bodies can be analysed very eff ectively 
+using 
+conservation 
+laws. 
+Th ere 
+are 
+three conservation laws in mechanics. 
+Conservation of total energy, conservation of 
+total linear momentum, and conservation of 
+angular momentum. By combining Newton’s 
+second and third laws, we can derive the law 
+of conservation of total linear momentum.
+When two particles interact with each 
+other, they exert equal and opposite forces 
+on each other. Th e particle 1 exerts force 
+G
+F21 
+on particle 2 and particle 2 exerts an exactly 
+equal and opposite force 
+G
+F12 on particle 1, 
+according to Newton’s third law.
+ 
+G
+G
+F
+F
+21
+12
+= −
+ 
+(3.20)
+In terms of momentum of particles, the 
+force on each particle (Newton’s second law) 
+can be written as
+ 
+G
+G
+F
+dp
+dt
+12
+1
+ 
+ and 
+G
+G
+F
+dp
+dt
+21
+2
+ 
+. 
+(3.21)
+T
+Rigid support
+Rigid support
+mg
+Modeled to
+T
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 131
+
+PDF_PAGE: 139
+
+------------------------------------------------------------
+
+131
+Unit 3 Laws of Motion
+EXAMPLE 3.15
+Identify the internal and external forces 
+acting on the following systems.
+a) Earth alone as a system
+b) Earth and Sun as a system 
+c) Our body as a system while walking
+d) Our body + Earth as a system
+Solution
+a) Earth alone as a system
+Earth orbits the Sun due to gravitational 
+attraction of the Sun. If we consider 
+Earth 
+as 
+a 
+system, 
+then 
+Sun’s 
+gravitational force is an external force. 
+If we take the Moon into account, it 
+also exerts an external force on Earth.
+Sun
+External
+Force exerted 
+by the sun
+Earth
+System
+b) (Earth + Sun) as a system
+In this case, there are two internal forces 
+which form an action and reaction pair-
+the gravitational force exerted by the 
+Sun on Earth and gravitational force 
+exerted by the Earth on the Sun.
+Sun
+Internal force
+Internal force
+exerted by the sun
+exerted by the earth
+Earth
+System
+c) Our body as a system
+While walking, we exert a force on the 
+Earth and Earth exerts an equal and 
+opposite force on our body. If our body 
+alone is considered as a system, then 
+Here Gp1 is the momentum of particle 1 
+which changes due to the force 
+G
+F12 exerted 
+by particle 2. Further Gp2 is the momentum 
+of particle 2. This changes due to 
+G
+F21 exerted 
+by particle 1. 
+Substitute equation (3.21) in equation 
+(3.20)
+ 
+dp
+dt
+dp
+dt
+G
+G
+1
+2
+= −
+ 
+(3.22)
+ 
+dp
+dt
+dp
+dt
+G
+G
+1
+2
+0
++
+= 
+(3.23)
+ 
+d
+dt p
+p
+G
+G
+1
+2
+0
++
+(
+) =
+It implies that G
+G
+p
+p
+1
+2
++
+= constant vector 
+(always). 
+G
+G
+p
+p
+1
+2
+
+ is the total linear momentum of 
+the two particles ( G
+G
+G
+p
+p
+p
+tot =
++
+1
+2). It is also 
+called as total linear momentum of the 
+system. Here, the two particles constitute 
+the system. From this result, the law of 
+conservation of linear momentum can be 
+stated as follows.
+If there are no external forces acting on the 
+system, then the total linear momentum of 
+the system ( Gptot) is always a constant vector. 
+In otherwords, the total linear momentum of 
+the system is conserved in time. Here the word 
+‘conserve’ means that Gp1 and Gp2 can vary,in 
+such a way that G
+G
+p
+p
+1
+2
+
+ is a constant vector.
+The forces 
+G
+F12 and 
+G
+F21 are called the 
+internal forces of the system, because they 
+act only between the two particles. There is 
+no external force acting on the two particles 
+from outside. In such a case the total linear 
+momentum of the system is a constant 
+vector or is conserved.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 132
+
+PDF_PAGE: 140
+
+------------------------------------------------------------
+
+132
+Unit 3 Laws of Motion
+the forces involved in the process. 
+This is difficult to specify in real 
+situations. But conservation of 
+linear momentum does not require 
+any force involved in the process. It 
+is covenient and hence important.
+For example, when two particles collide, 
+the forces exerted by these two particles 
+on each other is difficult to specify. But it 
+is easier to apply conservation of linear 
+momentum during the collision process.
+Before collision
+Collision
+After collision
+Collision of two particles
+ 
+Examples
+• Consider the firing of a gun. Here the 
+system is Gun+bullet. Initially the gun 
+and bullet are at rest, hence the total linear 
+momentum of the system is zero. Let 
+
+p1 
+be the momentum of the bullet and 
+
+p2 the 
+momentum of the gun before firing. Since 
+initially both are at rest,
+Accelerating force on
+the bullet
+Recoil force
+on the gun
+M
+m
+v
+ 
+
+p1
+0
+ , 
+
+p2
+0
+ .
+the force exerted by the Earth on our 
+body is external.
+External force
+exerted by earth
+System
+Our body as a system
+d) (Our body + Earth) as a system
+In this case, there are two internal 
+forces present in the system. One is the 
+force exerted by our body on the Earth 
+and the other is the equal and opposite 
+force exerted by the Earth on our body.
+Internal
+force exerted
+by body
+System
+Internal
+force exerted
+by Earth
+Our body + Earth as a 
+system
+Meaning of law of conservation of 
+momentum
+1) The Law of conservation of linear 
+momentum is a vector law. It 
+implies that both the magnitude and 
+direction of total linear momentum 
+are constant. In some cases, this 
+total momentum can also be zero.
+2) To analyse the motion of a particle, 
+we can either use Newton’s second 
+law or the law of conservation 
+of linear momentum. Newton’s 
+second law requires us to specify 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 133
+
+PDF_PAGE: 141
+
+------------------------------------------------------------
+
+133
+Unit 3 Laws of Motion
+aft er collision also has to be in the forward 
+direction. Th e following fi gure explains this.
+m
+m2
+P tot
+Before collision
+After collision
+P tot
+v
+v2
+v1
+m2
+m
+rest
+A more accurate calculation is covered in 
+section 4.4. It is to be noted that the total 
+momentum vector before and aft er collison 
+points in the same direction. Th is simply 
+means that the total linear momentum is 
+constant before and aft er the collision. At 
+the time of collision, each particle exerts a 
+force on the other. As the two particles are 
+considered as a system, these forces are only 
+internal, and the total linear momentum 
+cannot be altered by internal forces.
+3.5.1 Impulse
+If a very large force acts on an object for a 
+very short duration, then the force is called 
+impulsive force or impulse. 
+If a force (F) acts on the object in a very 
+short interval of time (Δt), from Newton’s 
+second law in magnitude form
+ 
+Fdt
+dp
+ 
+Integrating over time from an initial time ti 
+to a fi nal time t f , we get
+ 
+C
+f
+i
+dp = C
+f
+i
+t
+t
+F dt
+ 
+p
+p
+F dt
+f
+i
+t
+t
+i
+f
+−
+= ∫
+p
+t
+i
+i
+ initial momentum of the object at time
+p
+t
+f
+f
+ final momentum of the object at time 
+Total momentum before fi ring the gun is 
+zero, 
+
+
+p
+p
+1
+2
+0. 
+According to the law of conservation of 
+linear momentum, total linear momemtum 
+has to be zero aft er the fi ring also.
+When the gun is fi red, a force is exerted 
+by the gun on the bullet in forward 
+direction. Now the momentum of the 
+bullet changes from 
+
+
+p
+p
+1
+1
+ to :. To conserve 
+the total linear momentum of the system, 
+the momentum of the gun must also change 
+from 
+
+ 
+p
+ p
+2
+ 2
+to
+′ . Due to the conservation of 
+linear momentum, 
+
+
+p
+p
+1
+2
+0. It implies 
+that 
+
+p
+p
+1
+2, the momentum of the gun is 
+exactly equal, but in the opposite direction 
+to the momentum of the bullet. Th is is the 
+reason aft er fi ring, the gun suddenly moves 
+backward with the momentum 
+
+p2
+’ . It 
+is called ‘recoil momemtum’. Th is is an 
+example of conservation of total linear 
+momentum.
+• Consider two particles. One is at rest and 
+the other moves towards the fi rst particle 
+(which is at rest). Th ey collide and aft er 
+collison move in some arbitrary directions. 
+In this case, before collision, the total linear 
+momentum of the system is equal to the 
+initial linear momentum of the moving 
+particle. According to conservation of 
+momentum, the total linear momentum 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 134
+
+PDF_PAGE: 142
+
+------------------------------------------------------------
+
+134
+Unit 3 Laws of Motion
+ 
+J
+F
+t
+avg
+=
+Δ 
+(3.26)
+The graphical representation of constant 
+force impulse and variable force impulse is 
+given in Figure 3.21.
+Figure 3.21 Constant force impulse 
+and variable force impulse
+ti
+Favg
+Area under graph  
+impulse   F't
+For constant force
+F
+tf
+t
+ti
+Favg
+Fpeak
+Area under graph    
+                             impulse  
+For variable force
+F
+tf
+t
+t
+t
+i
+f
+F dt
+∫
+ (J) =
+Illustration
+1. When a cricket player catches the ball, he 
+pulls his hands gradually in the direction 
+of the ball’s motion. Why? 
+ 
+ If he stops his hands soon after 
+catching the ball, the ball comes to 
+rest very quickly. It means that the 
+momentum of the ball is brought to rest 
+very quickly. So the average force acting 
+p
+p
+p
+f
+i
+−
+=
+=
+Δ
+ change in momentum 
+of the object during the time interval 
+t
+t
+t
+f
+i
+−
+= Δ .
+The integral 
+t
+t
+i
+f
+F dt
+J
+∫
+= is called the impulse 
+and it is equal to change in momentum of 
+the object.
+If the force is constant over the time 
+interval, then
+ 
+t
+t
+t
+t
+f
+i
+i
+f
+i
+f
+F dt
+F dt
+F t
+t
+∫
+∫
+=
+=
+−
+(
+) = '
+F t
+ 
+F
+t
+p
+Δ
+Δ
+=
+ 
+(3.24)
+Equation (3.24) is called the ‘impulse-
+momentum equation’.
+For a constant force, the impulse is 
+denoted as J
+F t
+=
+Δ and it is also equal to 
+change in momentum ('p) of the object 
+over the time interval 't.
+Impulse is a vector quantity and its unit is Ns.
+The average force acted on the object 
+over the short interval of time is defined by
+ 
+F
+p
+t
+avg = Δ
+Δ  
+(3.25)
+From equation (3.25), the average force 
+that act on the object is greater if 't is 
+smaller. Whenever the momentum of the 
+body changes very quickly, the average force 
+becomes larger. 
+The impulse can also be written in terms 
+of the average force. Since 'p is change in 
+momentum of the object and is equal to 
+impulse (J), we have
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 135
+
+PDF_PAGE: 143
+
+------------------------------------------------------------
+
+135
+Unit 3 Laws of Motion
+there is a bump on the road, a sudden 
+force is transferred to the vehicle. Th e 
+shock absorber prolongs the period of 
+transfer of force on to the body of the 
+rider. Vehicles without shock absorbers 
+will harm the body due to this reason.
+4. Jumping on a concrete cemented fl oor 
+is more dangerous than jumping on the 
+sand. Sand brings the body to rest slowly 
+than the concrete fl oor, so that the 
+average force experienced by the body 
+will be lesser.
+Impulse
+If an egg is thrown, can you catch the 
+egg safely without breaking it? How?
+EXAMPLE 3.16
+An object of mass 10 kg moving with a 
+speed of 15 m s−1 hits the wall and comes 
+to rest within 
+a) 0.03 second
+b) 10 second
+on the body will be very large. Due to 
+this large average force, the hands will 
+get hurt. To avoid getting hurt, the player 
+brings the ball to rest slowly.
+ 
+2. When a car meets with an accident, its 
+momentum reduces drastically in a very 
+short time. Th is is very dangerous for the 
+passengers inside the car since they will 
+experience a large force. To prevent this 
+fatal shock, cars are designed with air 
+bags in such a way that when the car 
+meets with an accident, the momentum 
+of the passengers will reduce slowly so 
+that the average force acting on them 
+will be smaller.
+Airir
+bag
+ba
+3. Th e shock absorbers in two wheelers play 
+the same role as airbags in the car. When 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 136
+
+PDF_PAGE: 144
+
+------------------------------------------------------------
+
+136
+Unit 3 Laws of Motion
+by the surface by exerting a frictional force 
+on the object in a direction opposite to 
+applied force. Frictional force always acts on 
+the object parallel to the surface on which 
+the object is placed. There are two kinds 
+of friction namely 1) Static friction and 2) 
+Kinetic friction.
+3.6.2 Static Friction (
+G
+fs)
+Static friction is the force which opposes 
+the initiation of motion of an object on the 
+surface. When the object is at rest on the 
+surface, only two forces act on it. They are the 
+downward gravitational force and upward 
+normal force. The resultant of these two 
+forces on the object is zero. As a result the 
+object is at rest as shown in Figure 3.23.
+If some external force Fext is applied on 
+the object parallel to the surface on which 
+the object is at rest, the surface exerts 
+Fext
+Fext
+Friction
+Friction
+Figure 3.22 Frictional force
+Calculate the impulse and average force 
+acting on the object in both the cases.
+Solution
+Initial momentum of the object 
+pi =10 × 15 =150 k gm s−1
+Final momentum of the object pf 0
+ 
+Δp
+kg ms
+=
+−
+=
+−
+150
+0
+150
+1
+(a)  Impulse J
+p
+N s
+=
+=
+Δ
+150
+.
+(b)  Impulse J
+p
+N s
+=
+=
+Δ
+150
+(a)  Average force F
+p
+t
+avg = Δ
+Δ = 150
+0 03
+5000
+.
+ 
+N
+(b)  Average force F
+N
+avg 
+ 
+150
+10
+15
+We see that, impulse is the same in both 
+cases, but the average force is different.
+3.6
+FRICTION
+3.6.1 Introduction
+If a very gentle force in the horizontal 
+direction is given to an object at rest on the 
+table, it does not move. It is because of the 
+opposing force exerted by the surface on the 
+object which resists its motion. This force 
+is called the frictional force which always 
+opposes the relative motion between an object 
+and the surface where it is placed. If the force 
+applied is increased, the object moves after a 
+certain limit.
+Relative motion: when a force parallel 
+to the surface is applied on the object, the 
+force tries to move the object with respect to 
+the surface. This ‘relative motion’ is opposed 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 137
+
+PDF_PAGE: 145
+
+------------------------------------------------------------
+
+137
+Unit 3 Laws of Motion
+The static and kinetic frictions (which 
+we discuss later) depend on the normal 
+force acting on the object. If the object is 
+pressed hard on the surface then the normal 
+force acting on the object will increase. As 
+a consequence it is more difficult to move 
+the object. This is shown in Figure 3.23 (a) 
+and (b). The static friction does not depend 
+upon the area of contact.
+Fig 3.23 Static friction and 
+kinetic friction (a) Easier to 
+move (b) Harder to move
+F
+m1
+N = m1g
+m1
+F
+(a) Easier to move
+(b) Harder to move
+m2
+N = m1g + m2g
+friction
+friction
+EXAMPLE 3.17
+Consider an object of mass 2 kg resting on 
+the floor. The coefficient of static friction 
+between the object and the floor is μs = 0.8. 
+What force must be applied on the object 
+to move it? 
+Solution
+Since the object is at rest, the gravitational 
+force experienced by an object is balanced 
+by normal force exerted by floor.
+N = mg
+exactly an equal and opposite force on the 
+object to resist its motion and tries to keep 
+the object at rest. It implies that external 
+force and frictional force are exactly equal 
+and opposite. Therefore, no motion parallel 
+to the surface takes place. But if the external 
+force is increased, after a particular limit, the 
+surface cannot provide sufficient opposing 
+frictional force to balance the external force 
+on the object. Then the object starts to slide. 
+This is the maximal static friction that can be 
+exerted by the surface. Experimentally, it is 
+found that the magnitude of static frictional 
+force fs satisfies the following empirical 
+relation.
+ 
+0 ≤
+≤
+f
+N
+s
+s
+μ
+, 
+(3.27)
+where μs is the coefficient of static friction. 
+It depends on the nature of the surfaces in 
+contact. N is normal force exerted by the 
+surface on the body and sometimes it is 
+equal to mg. But it need not be equal to mg 
+always.
+Equation (3.27) implies that the force of 
+static friction can take any value from zero 
+to μsN.
+If the object is at rest and no external 
+force is applied on the object, the static 
+friction acting on the object is zero ( fs 0).
+If the object is at rest, and there is 
+an external force applied parallel to the 
+surface, then the force of static friction 
+acting on the object is exactly equal to 
+the external force applied on the object 
+( f
+F
+s
+ext
+ 
+). But still the static friction fs is 
+less than μsN.
+When object begins to slide, the static 
+friction ( fs) acting on the object attains 
+maximum,
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 138
+
+PDF_PAGE: 146
+
+------------------------------------------------------------
+
+138
+Unit 3 Laws of Motion
+m2 should be used so that mass 7 kg begins 
+to slide on the table?
+Solution
+As shown in the figure, there are four 
+forces acting on the mass m1
+a) Downward gravitational force along the 
+negative y-axis (m1g)
+b) Upward normal force along the positive 
+y axis (N)
+c) Tension force due to mass m2 along the 
+positive x axis
+d) Frictional force along the negative x axis
+Since the mass m1 has no vertical motion, 
+m1g = N
+m1
+f
+T
+Free body diagram for mass m
+1
+N = m1g
+m1g
+y
+x
+f
+m1
+m2
+m2g
+T = m2g
+y
+x
+To determine whether the mass m1 
+moves on the surface, calculate the 
+maximum static friction exerted by the table 
+on the mass m1. If the tension on the mass 
+m1 is equal to or greater than this maximum 
+static friction, the object will move.
+ 
+f
+N
+m g
+s
+max
+s
+s
+=
+=
+μ
+μ
+1
+ 
+f
+X X
+N
+s
+max 
+ 
+0 9 7 9 8
+61 74
+.
+.
+.
+The maximum static frictional force fs
+max = 
+μ
+μ
+s
+s
+N
+mg
+=
+ 
+f
+N
+s
+max =
+× ×
+=
+0 8 2 9 8
+15 68
+.
+.
+.
+  
+Therefore to move the object the external force 
+should be greater than maximum static friction.
+F
+N
+ext >15 68
+.
+EXAMPLE 3.18
+Consider an object of mass 50 kg at rest on 
+the floor. A Force of 5 N is applied on the 
+object but it does not move. What is the 
+frictional force that acts on the object?
+Solution
+When the object is at rest, the external 
+force and the static frictional force are 
+equal and opposite. 
+The magnitudes of these two forces are 
+equal, f
+F
+s
+ext
+ 
+Therefore, the static frictional force 
+acting on the object is 
+ 
+f
+N
+s = 5 .  
+The direction of this frictional force is 
+opposite to the direction of Fext.
+EXAMPLE 3.19
+Two bodies of masses 7 kg and 5 kg are 
+connected by a light string passing over 
+a smooth pulley at the edge of the table 
+as shown in the figure. The coefficient of 
+static friction between the surfaces (body 
+and table) is 0.9. Will the mass m1 = 7 kg 
+on the surface move? If not what value of 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 139
+
+PDF_PAGE: 147
+
+------------------------------------------------------------
+
+139
+Unit 3 Laws of Motion
+3.6.3 Kinetic Friction
+If the external force acting on the object 
+is greater than maximum static friction, 
+the objects begin to slide. When an object 
+slides, the surface exerts a frictional force 
+called kinetic friction 
+G
+fk (also called 
+sliding friction or dynamic friction). To 
+move an object at constant velocity we must 
+apply a force which is equal in magnitude 
+and opposite to the direction of kinetic 
+friction.
+fk
+fk
+Fext
+Fext
+V
+V
+Figure 3.24 Kinetic 
+friction
+Experimentally it was found that the 
+magnitude of kinetic friction satisfies the 
+relation
+ 
+f
+N
+k
+k
+= μ
+ 
+ 
+(3.28)
+where μk is the coefficient of kinetic friction 
+and N the normal force exerted by the 
+surface on the object,
+ and 
+μ
+μ
+k
+s
+<
+This implies that starting of a motion is 
+more difficult than maintaining it. The 
+salient features of static and kinetic friction 
+are given in Table 3.2.
+The tension T
+m g
+X
+N
+ 
+ 
+ 
+2
+5 9 8
+49
+.
+ 
+T
+fs
+max
+
+The tension acting on the mass m1 is less 
+than the maximum static friction. So the 
+mass m1 will not move.
+To move the mass m1, T
+fs
+max
+>
+ where 
+T = m2g
+ 
+m
+m g
+g
+m
+s
+s
+2
+1
+1
+=
+=
+μ
+μ
+ 
+m
+X
+kg
+2
+0 9 7
+6 3
+ 
+ 
+.
+.
+If the mass m2 is greater than 6.3 kg then 
+the mass m1 will begin to slide. Note that if 
+there is no friction on the surface, the mass 
+m1 will move for m2 even for just 1 kg.
+The values of coefficient of static 
+friction for pairs of materials are presented 
+in Table 3.1. Note that the ice and ice pair 
+have very low coefficient of static friction. 
+This means a block of ice can move easily 
+over another block of ice.
+Table 3.1  Coefficient of Static Friction 
+for a Pair of Materials
+Material
+Coefficient of 
+Static Friction
+Glass and glass
+1.0
+Ice and ice
+0.10
+Steel and steel
+0.75
+Wood and wood
+0.35
+Rubber tyre and dry 
+concrete road
+1.0
+Rubber tyre and wet 
+road
+0.7
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 140
+
+PDF_PAGE: 148
+
+------------------------------------------------------------
+
+140
+Unit 3 Laws of Motion
+Th e relation f
+N
+s
+s
+= μ
+is not 
+a vector relation. Th is is 
+because the normal force N 
+and  fs are not in the same direction 
+even though fs is equal to μs times the 
+normal force. Th is is also true in the 
+case of kinetic friction.
+Note
+3.6.4  To Move an Object - 
+Push or pull? 
+Which is easier? 
+When a body is pushed at an arbitrary angle θ 
+0
+2
+ to π
+⎛
+⎝⎜
+⎞
+⎠⎟, the applied force F can be resolved 
+into two components as F sinθ parallel to the 
+surface and F cosθ perpendicular to the surface 
+as shown in Figure 3.26. Th e total downward 
+force acting on the body is mg + Fcosθ. It 
+implies that the normal force acting on the 
+body increases. Since there is no acceleration 
+along the vertical direction the normal force 
+N is equal to
+Th e variation of both static and kinetic 
+frictional forces with external applied force 
+is graphically shown in Figure 3.25.
+fs
+max
+f
+Fext
+fs  Fext
+fk  FkN
+Figure 3.25 Variation of 
+static and kinetic frictional 
+forces with external applied 
+force
+Th e Figure 3.25 shows that static friction 
+increases linearly with external applied 
+force till it reaches the maximum. If the 
+object begins to move then the kinetic 
+friction is slightly lesser than the maximum 
+static friction. Note that the kinetic friction 
+is constant and it is independent of applied 
+force.
+Table 3.2 Salient Features of Static and Kinetic Friction
+Static friction
+Kinetic friction
+It opposes the starting of motion
+It opposes the relative motion of the object 
+with respect to the surface
+Independent of surface of contact
+Independent of surface of contact 
+ms depends on the nature of materials in 
+mutual contact
+mk depends on nature of materials and 
+temperature of the surface
+Depends on the magnitude of applied 
+force
+Independent of magnitude of applied force
+It can take values from zero to μsN
+It can never be zero and always equals to mkN 
+whatever be the speed (true 10 ms-1)
+ 
+f
+f
+s
+max
+k
+!
+It is less than maximal value of static friction
+ 
+μ
+μ
+s
+k
+>
+Coeffi  cient of kinetic friction is less than 
+coeffi  cient of static friction
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 141
+
+PDF_PAGE: 149
+
+------------------------------------------------------------
+
+141
+Unit 3 Laws of Motion
+Equation (3.31) shows that the normal force 
+is less than Npush. From equations (3.29) and 
+(3.31), it is easier to pull an object than to 
+push to make it move.
+3.6.5 Angle of Friction
+The angle of friction is defined as the 
+angle between the normal force (N) and 
+the resultant force (R) of normal force and 
+maximum friction force ( fs
+max)
+fs
+ max
+fs
+ max
+F
+N
+R = resultant force
+R = N + 
+R
+H
+H
+H
+H
+H
+H
+H
+H
+θ
+Figure 3.28 Angle of Friction
+In Figure 3.28 the resultant force is 
+R
+f
+N
+s
+max
+= (
+) +
+2
+2
+ 
+tanθ = f
+N
+s
+max
+ 
+(3.32)
+But from the frictional relation, the object 
+begins to slide when f
+N
+s
+max
+s
+= μ
+ 
+or when f
+N
+s
+max
+s
+= μ 
+(3.33)
+From equations (3.32) and (3.33) the 
+coefficient of static friction is
+ 
+μ
+θ
+s
+tan
+=
+ 
+(3.34)
+ 
+N
+mg
+Fcos
+push =
++
+θ 
+(3.29)
+As a result the maximal static friction also 
+increases and is equal to
+  f
+N
+mg
+F cos
+s
+max
+s
+push
+s
+=
+=
++
+(
+)
+μ
+μ
+θ 
+(3.30)
+Equation (3.30) shows that a greater force 
+needs to be applied to push the object into 
+motion.
+fs
+fs
+F
+F
+mg
+N
+Block
+Free body diagram
+F sin θ
+F cos θ 
+θ
+Figure 3.26 An object is pushed at an 
+angle θ
+When an object is pulled at an angle 
+θ, the applied force is resolved into two 
+components as shown in Figure 3.27. 
+The total downward force acting on the 
+object is
+ 
+Npull = mg
+Fcos
+−
+θ  
+(3.31)
+Figure 3.27 An object is pulled at an 
+angle T
+fs
+F
+F
+mg
+N
+Free body diagram
+F cos θ
+F sin θ
+θ
+fs
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 142
+
+PDF_PAGE: 150
+
+------------------------------------------------------------
+
+142
+Unit 3 Laws of Motion
+Th e component of force parallel to the 
+inclined plane (mg sinT) tries to move the 
+object down. 
+Th e component of force perpendicular 
+to the inclined plane (mg cosT) is balanced 
+by the Normal force (N).
+ 
+N = mg cosT  
+When the object just begins to move, 
+the static friction attains its maximum 
+value
+ 
+f
+f
+N
+mg
+s
+s
+max
+s
+s
+=
+=
+=
+F
+F
+cosθ 
+(3.35)
+Th is friction also satisfi es the relation 
+ 
+f
+mg
+s
+max =
+sinθ  
+(3.36)
+Equating the right hand side of equations 
+(3.35) and (3.36), we get
+ 
+F
+3
+3
+s = sin
+cos
+/
+  
+From the defi nition of angle of friction, we 
+also know that 
+ 
+tanθ
+μ
+=
+s,  
+(3.37)
+in which T is the angle of friction.
+Th us the angle of repose is the same as 
+angle of friction. But the diff erence is that the 
+angle of repose refers to inclined surfaces 
+and the angle of friction is applicable to any 
+type of surface.
+Th e coeffi  cient of static friction is equal to 
+tangent of the angle of friction 
+3.6.6 Angle of Repose
+Consider an inclined plane on which an 
+object is placed, as shown in Figure 3.30. 
+Let the angle which this plane makes with 
+the horizontal be T . For small angles of T, 
+the object may not slide down. As T is 
+increased, for a particular value of T, the 
+object begins to slide down. Th is value is 
+called angle of repose. Hence, the angle of 
+repose is the angle of inclined plane with the 
+horizontal such that an object placed on it 
+begins to slide.
+Figure 3.29 Angle of repose
+fs
+max
+mg
+mg sin θ
+mg cos θ
+N
+θ
+θ
+Let us consider the various forces in action 
+here. Th e gravitational force mg is resolved 
+into components parallel (mg sinT) and 
+perpendicular (mg cosT) to the inclined 
+plane.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 143
+
+PDF_PAGE: 151
+
+------------------------------------------------------------
+
+143
+Unit 3 Laws of Motion
+ 
+mg cosT = N = mg/2
+ 
+fK = mK N = mK mg/2
+ 
+μK
+mg
+mg
+=
+−
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+3
+1
+2
+2
+ 
+μK =
+−
+3
+1
+3.6.7  Application of Angle of 
+Repose
+1. Antlions make sand traps in such a way that 
+when an insect enters the edge of the trap, it 
+starts to slide towards the bottom where the 
+antilon hide itself. The angle of inclination 
+of sand trap is made to be equal to angle of 
+repose. It is shown in the Figure 3.30.
+EXAMPLE 3.20
+A block of mass m slides down the plane 
+inclined at an angle 60° with an acceleration 
+g
+2. Find the coefficient of kinetic friction? 
+Solution
+Kinetic friction comes to play as the 
+block is moving on the surface.
+The forces acting on the mass are the 
+normal force perpendicular to surface, 
+downward gravitational force and kinetic 
+friction fk along the surface.
+fk
+mg
+mg sin θ
+mg cos θ
+N
+θ
+θ
+y
+x
+y
+x
+Along the x-direction
+ 
+mg
+fk
+sinθ −
+ = ma
+But a = g/2
+ 
+mg
+fk
+sin60° −
+ = mg/2
+ 
+ – fk = mg/2
+ 
+f
+mg
+k =
+−
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+3
+2
+1
+2
+ 
+fK =
+−
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+3
+1
+2
+mg
+There is no motion along the y-direction 
+as normal force is exactly balanced by the 
+mg cosT.
+2
+3 mg
+Figure 3.30 Sand trap of antlions
+2. Children are fond of playing on sliding 
+board (Figure 3.31). Sliding will be easier 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 144
+
+PDF_PAGE: 152
+
+------------------------------------------------------------
+
+144
+Unit 3 Laws of Motion
+At the point of sliding 
+tanTs = ms
+  To 
+measure 
+the 
+coeffi  cient of kinetic friction, reduce 
+the inclination of the book aft er it 
+starts sliding, such that the coin/
+eraser moves with uniform velocity. 
+Now measure the angle from which 
+coeffi  cient of kinetic friction can be 
+calculated as
+mK = tanTk
+Observe that θ
+θ
+K
+S
+<
+Note
+3.6.8 Rolling Friction
+Th e invention of the wheel plays a crucial 
+role in human civilization. One of the 
+important applications is suitcases with 
+rolling on coasters. Rolling wheels makes 
+it easier than carrying luggage. When an 
+object moves on a surface, essentially it is 
+sliding on it. But wheels move on the surface 
+through rolling motion. In rolling motion 
+when a wheel moves on a surface, the point 
+of contact with surface is always at rest. 
+Since the point of contact is at rest, there is 
+no relative motion between the wheel and 
+surface. Hence the frictional force is very 
+less. At the same time if an object moves 
+when the angle of inclination of the board is 
+greater than the angle of repose. At the same 
+time if inclination angle is much larger than 
+the angle of repose, the slider will reach the 
+bottom at greater speed and get hurt. 
+Figure 3.31 Sliding board
+Measuring the coeffi  cients 
+of friction
+Take a hard bound note book and a 
+coin. Keep the coin on the note book. 
+Th e note book cover has to be in an 
+inclined position as shown in the 
+fi gure. Slowly increase the angle of 
+inclination of the cover with respect 
+to rest of the pages. When the angle 
+of inclination reaches the angle of 
+repose, the parallel component of 
+gravitational force (mg sinT ) to book 
+surface becomes equal to the frictional 
+force and the coin begins to slide 
+down. Measure the angle of inclination 
+and take the tangent of this angle. It 
+gives the coeffi  cient of static friction 
+between the surface of the cover and 
+coin. Th e same can be repeated with 
+other objects such as an eraser in 
+order to observe that the coeffi  cient 
+of static friction diff ers from case 
+to case. 
+Activity: 
+A C T I V I T Y
+3
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 145
+
+PDF_PAGE: 153
+
+------------------------------------------------------------
+
+145
+Unit 3 Laws of Motion
+3.6.9  Methods to Reduce 
+Friction
+ Frictional force has both positive and 
+negative effects. In some cases it is absolutely 
+necessary. Walking is possible because of 
+frictional force. Vehicles (bicycle, car) can 
+move because of the frictional force between 
+the tyre and the road. In the braking system, 
+kinetic friction plays a major role. As we 
+have already seen, the frictional force comes 
+into effect whenever there is relative motion 
+between two surfaces. In big machines 
+used in industries, relative motion between 
+different parts of the machine produce 
+unwanted heat which reduces its efficiency. 
+To reduce this kinetic friction lubricants are 
+used as shown in Figure 3.34.
+Figure 3.34 Reducing kinetic 
+friction using lubricant
+Without oil
+Viewed through a microscope
+Effect of lubricants
+With oil
+Ball bearings provides another effective 
+way to reduce the kinetic friction (Figure 3.35) 
+in machines. If ball bearings are fixed between 
+two surfaces, during the relative motion only 
+the rolling friction comes to effect and not 
+kinetic friction. As we have seen earlier, the 
+rolling friction is much smaller than kinetic 
+without a wheel, there is a relative motion 
+between the object and the surface. As a 
+result frictional force is larger. This makes 
+it difficult to move the object. The Figure 
+3.32 shows the difference between rolling 
+and kinetic friction. 
+Rolling friction
+Kinetic friction
+Figure 3.32 Rolling and kinetic friction
+Ideally in pure rolling, motion of the 
+point of contact with the surface should be 
+at rest, but in practice it is not so. Due to 
+the elastic nature of the surface at the point 
+of contact there will be some deformation 
+on the object at this point on the wheel or 
+surface as shown in Figure 3.33. Due to this 
+deformation, there will be minimal friction 
+between wheel and surface. It is called 
+‘rolling friction’. In fact, ‘rolling friction’ is 
+much smaller than kinetic friction.
+Figure 3.33 Rolling friction
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 146
+
+PDF_PAGE: 154
+
+------------------------------------------------------------
+
+146
+Unit 3 Laws of Motion
+friction; hence the machines are protected 
+from wear and tear over the years.
+Figure 3.35 Reducing kinetic 
+friction using ball bearing
+During the time of Newton and Galileo, 
+frictional force was considered as one of the 
+natural forces like gravitational force. But 
+in the twentieth century, the understanding 
+on atoms, electron and protons has changed 
+the perspective. The frictional force is 
+actually the electromagnetic force between 
+the atoms on the two surfaces. Even well 
+polished surfaces have irregularities on the 
+surface at the microscopic level as seen in 
+the Figure 3.36.
+When you walk on the tiled floor 
+where water is spilled, you are likely 
+to slip. Why?
+Points to Ponder
+Figure 3.36 Irregularities on the surface at the microscopic level
+N
+Nominal contact area
+True contact
+area
+Force
+Table
+Block
+Friction
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 147
+
+PDF_PAGE: 155
+
+------------------------------------------------------------
+
+147
+Unit 3 Laws of Motion
+Solution
+If an object moves with constant velocity, 
+then it has no acceleration. According to 
+Newton’s second law there is no net force 
+acting on the object. Th e external force is 
+balanced by the kinetic friction.
+It is not that ‘no force acts 
+on the object’. In fact there 
+are two forces acting on the 
+object. Only the net force acting on 
+the object is zero.
+Note
+EXAMPLE 3.21
+Consider an object moving on a horizontal 
+surface with a constant velocity. Some 
+external force is applied on the object to keep 
+the object moving with a constant velocity. 
+What is the net force acting on the object?
+fk
+Fext
+v
+3.7
+DYNAMICS OF CIRCULAR 
+MOTION
+In the previous sections we have studied 
+how to analyse linear motion using 
+Newton’s laws. It is also important to know 
+how to apply Newton’s laws to circular 
+motion, since circular motion is one of 
+the very common types of motion that we 
+come across in our daily life. A particle 
+can be in linear motion with or without 
+any external force. But when circular 
+motion occurs there must necessarily be 
+some force acting on the object. Th ere is 
+no Newton’s fi rst law for circular motion. 
+In other words without a force, circular 
+motion cannot occur in nature. A force 
+can change the velocity of a particle in 
+three diff erent ways.
+1. Th e magnitude of the velocity can be 
+changed without changing the direction 
+of the velocity. In this case the particle 
+will move in the same direction but with 
+acceleration. 
+Frictional force in the motion of a bicycle
+When a bicycle moves in the forward 
+direction, what is the direction of frictional 
+force in the rear and front wheels?
+Front wheel
+Rear wheel
+fF
+fR
+mg
+NF
+NR
+mg
+NR
+When we pedal a bicycle, we try to push 
+the surface backward and the velocity 
+of point of contact in the rear wheel is 
+backwards. So, the frictional force pushes 
+the rear wheel to move forward. But as 
+the front wheel is connected with a rigid 
+support to the back wheel, the forward 
+motion of back wheel pushes the front 
+wheel in the forward direction. So, the 
+frictional forces act backward. Remember 
+both frictional forces correspond to only 
+static friction and not kinetic friction. If 
+the wheel slips then kinetic friction comes 
+into eff ect. In addition to static friction, 
+the rolling friction also acts on both 
+wheels in the backward direction.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 148
+
+PDF_PAGE: 156
+
+------------------------------------------------------------
+
+148
+Unit 3 Laws of Motion
+For uniform circular motion 
+2 ˆ
+cp
+F
+m
+r r
+I
+ 
+
+The direction –rˆ points towards the center 
+of the circle which is the direction of 
+centripetal force as shown in Figure 3.38.
+Figure 3.38 Centripetal force
+o
+o
+Fcp
+Fcp
+Fcp
+Fcp
+r
+r
+r
+r
+v
+v
+v
+v
+r
+r
+r
+r
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+It should be noted that ‘centripetal force’ is 
+not other forces like gravitational force or 
+spring force. It can be said as ‘force towards 
+center’. The origin of the centripetal force 
+can be gravitational force, tension in the 
+string, frictional force, Coulomb force etc. 
+Any of these forces can act as a centripetal 
+force.
+1. In the case of whirling motion of a stone 
+tied to a string, the centripetal force 
+on the particle is provided by the 
+tensional force on the string. In circular 
+motion in an amusement park, the 
+centripetal force is provided by the 
+tension in the iron ropes.
+2. In motion of satellites around the Earth, 
+the centripetal force is given by Earth’s 
+gravitational force on the satellites. 
+Newton’s second law for satellite motion is 
+ 
+F
+mv
+r
+=
+=
+′
+earth s gravitational force
+2
+ Where r- distance of the planet from the 
+center of the Earth.
+ 
+Examples
+ 
+Particle 
+falling 
+down 
+vertically, 
+bike moving in a straight road with 
+acceleration.
+2. The direction of motion alone can be 
+changed without changing the magnitude 
+(speed). If this happens continuously 
+then we call it ‘uniform circular motion’.
+3. Both the direction and magnitude 
+(speed) of velocity can be changed. If this 
+happens non circular motion occurs. For 
+example oscillation of a swing or simple 
+pendulum, elliptical motion of planets 
+around the Sun.
+In this section we will deal with uniform 
+circular motion and non-circular motion.
+3.7.1 Centripetal force
+If a particle is in uniform circular motion, 
+there must be centripetal acceleration 
+towards the center of the circle. If there is 
+acceleration then there must be some force 
+acting on it with respect to an inertial frame. 
+This force is called centripetal force. 
+As we have seen in chapter 2, the 
+centripetal acceleration of a particle in the 
+circular motion is given by a
+v
+r
+ 
+2
+ and it acts 
+towards center of the circle. According to 
+Newton’s second law, the centripetal force is 
+given by
+ 
+F
+ma
+mv
+r
+cp
+cp
+ 
+ 
+2
+The word Centripetal force means center 
+seeking force. 
+In vector notation  
+2
+ˆ
+cp
+mv
+F
+r
+r
+ 
+
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 149
+
+PDF_PAGE: 157
+
+------------------------------------------------------------
+
+149
+Unit 3 Laws of Motion
+ 
+Newton’s second law for this case is
+ 
+Frictional force = mv
+r
+2
+  
+ 
+m-mass of the car
+ 
+v-speed of the car
+ 
+r-radius of curvature of track
+ 
+Even when the car moves on a curved 
+track, the car experiences the centripetal 
+force which is provided by frictional 
+force between the surface and the tyre of 
+the car. This is shown in the Figure 3.41.
+Figure 3.41 Centripetal force 
+due to frictional force between 
+the road and tyre  
+Curvy
+road
+Fcp
+Fcp
+4. When the planets orbit around the Sun, 
+they experience centripetal force towards 
+the center of the Sun. Here gravitational 
+force of the Sun acts as centripetal force 
+on the planets as shown in Figure 3.42
+SUN Centripetal force
+Planet
+Figure 3.42 Centripetal force on the 
+orbiting planet due Sun’s gravity
+ 
+m-mass of the satellite
+ 
+v-speed of the satellite
+3. When a car is moving on a circular 
+track the centripetal force is given by the 
+frictional force between the road and the 
+tyres.
+mg
+N
+mg
+N
+Fs
+straight road
+curved road
+Figure 3.40 Car in the circular track
+F
+Figure 3.39 Whirling motion of objects
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 150
+
+PDF_PAGE: 158
+
+------------------------------------------------------------
+
+150
+Unit 3 Laws of Motion
+ 
+R
+R
+m
+m =
+=
+×
+×
+=
+×
+60
+60 6 4 10
+384 10
+6
+6
+.
+As we know the angular velocity ω
+π
+= 2
+T 
+and T = 27.3 days = 27.3 × 24 × 60 × 60 
+second = 2.358 × 106 sec
+By substituting these values in the formula 
+for acceleration 
+ 
+am = (
+)
+×
+(
+)
+×
+(
+)
+=
+4
+384 10
+2 358 10
+2
+6
+6
+2
+π
+.
+0.00272 m s2
+Th e centripetal acceleration of Moon 
+towards the Earth is 0.00272 m s2
+Th is result was calculated 
+by Newton himself. In 
+unit 6 we will use this 
+result.
+Note
+3.7.2  Vehicle on a leveled 
+circular road
+When a vehicle travels in a curved path, 
+there must be a centripetal force acting on 
+it. Th is centripetal force is provided by the 
+frictional force between tyre and surface 
+of the road. Consider a vehicle of mass ‘m’ 
+moving at a speed ‘v’ in the circular track 
+of radius ‘r’. Th ere are three forces acting on 
+the vehicle when it moves as shown in the 
+Figure 3.43
+1. Gravitational 
+force 
+(mg) 
+acting 
+downwards
+2. Normal force (mg) acting upwards
+3. Frictional force (Fs) acting horizontally 
+inwards along the road
+ 
+Newton’s second law for this motion 
+Gravitational force of Sun on the 
+planet = mv
+r
+2
+EXAMPLE 3.22
+If a stone of mass 0.25 kg tied to a string 
+executes uniform circular motion with a speed 
+of 2 m s1 of radius 3 m, what is the magnitude 
+of tensional force acting on the stone?
+Solution
+ 
+F
+×
+cp =
+( )
+1
+4
+2
+3
+2
+ = 0.333 N.
+EXAMPLE 3.23
+The Moon orbits the Earth once in 
+27.3 days in an almost circular orbit. 
+Calculate the centripetal acceleration 
+experienced by the Moon? (Radius of 
+the Earth is 6.4 × 106 m)
+Solution
+Th e centripetal acceleration is given by 
+a
+v
+r
+ 
+2
+. Th is expression explicitly depends 
+on Moon’s speed which is non trivial. We 
+can work with the formula
+ 
+ω2R
+a
+m
+m
+=
+am is centripetal acceleration of the 
+Moon due to Earth’s gravity.
+Z is angular velocity.
+Rm is the distance between Earth and 
+the Moon, which is 60 times the radius of 
+the Earth. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 151
+
+PDF_PAGE: 159
+
+------------------------------------------------------------
+
+151
+Unit 3 Laws of Motion
+car on the road. So the coefficient of static 
+friction between the tyre and the surface of 
+the road determines what maximum speed 
+the car can have for safe turn. 
+ 
+b) If mv
+r
+mg
+s
+2
+> μ
+, or μs
+v
+rg
+<
+2
+ (skid)
+If the static friction is not able to provide 
+enough centripetal force to turn, the vehicle 
+will start to skid.
+EXAMPLE 3.24
+Consider a circular leveled road of 
+radius 10 m having coefficient of static 
+friction 0.81. Three cars (A, B and C) are 
+travelling with speed 7 m s−1, 8 m s−1 and 
+10 ms−1 respectively. Which car will skid 
+when it moves in the circular level road? 
+(g =10 m s−2)
+Solution
+From the safe turn condition the speed 
+of the vehicle (v) must be less than or equal 
+to μsrg
+Suppose the road is horizontal then the 
+normal force and gravitational force are 
+exactly equal and opposite. The centripetal 
+force is provided by the force of static 
+friction Fs between the tyre and surface of 
+the road which acts towards the center of 
+the circular track,
+ 
+mv
+r
+Fs
+2
+ 
+As we have already seen in the previous 
+section, the static friction can increase from 
+zero to a maximum value 
+ 
+F
+mg
+s
+s
+≤μ
+.
+There are two conditions possible:
+ a) If mv
+r
+mg
+s
+2
+≤μ
+, or μs
+v
+rg
+≥
+2
+ or μsrg
+v
+≥  
+ (Safe turn)
+The static friction would be able to provide 
+necessary centripetal force to bend the 
+mg
+N
+mg
+N
+Fs
+straight road
+curved road
+Figure 3.43 Forces acting on the vehicle on a leveled circular road
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 152
+
+PDF_PAGE: 160
+
+------------------------------------------------------------
+
+152
+Unit 3 Laws of Motion
+Let the surface of the road make angle T 
+with horizontal surface. Then the normal 
+force makes the same angle T with the 
+vertical. When the car takes a turn, there are 
+two forces acting on the car:
+a) Gravitational force mg (downwards)
+b)  Normal force N (perpendicular to 
+surface)
+We can resolve the normal force into two 
+components. N cosT and N sinT as shown 
+in Figure 3.46. The component N cosT 
+balances the downward gravitational force 
+‘mg’ and component N sinT will provide the 
+necessary centripetal acceleration. By using 
+Newton second law
+ 
+N cosT = mg
+ 
+N sinT = mv
+r
+2
+By dividing the equations we get tanθ = v
+rg
+2
+ 
+v
+rg
+=
+tanθ
+The banking angle T and radius of curvature 
+of the road or track determines the safe 
+speed of the car at the turning. If the speed 
+of car exceeds this safe speed, then it starts to 
+skid outward but frictional force comes into 
+effect and provides an additional centripetal 
+force to prevent the outward skidding. At 
+the same time, if the speed of the car is little 
+lesser than safe speed, it starts to skid inward 
+and frictional force comes into effect, which 
+reduces centripetal force to prevent inward 
+skidding. However if the speed of the vehicle 
+is sufficiently greater than the correct speed, 
+then frictional force cannot stop the car 
+from skidding.
+ 
+v
+rg
+s
+≤
+μ
+ 
+rg
+s
+μ
+ = 0 81 10 10
+9
+1
+.
+×
+×
+=
+−
+ms
+For Car C, 
+rg
+s
+μ
+ is less than v
+The speed of car A, B and C are 7 m s−1, 
+8 m s−1 and 10 m s−1 respectively. The cars 
+A and B will have safe turns. But the car 
+C has speed 10 m s−1 while it turns which 
+exceeds the safe turning speed. Hence, the 
+car C will skid.
+3.7.3 Banking of Tracks
+In a leveled circular road, skidding mainly 
+depends on the coefficient of static friction 
+ms The coefficient of static friction depends 
+on the nature of the surface which has a 
+maximum limiting value. To avoid this 
+problem, usually the outer edge of the road 
+is slightly raised compared to inner edge 
+as shown in the Figure 3.44. This is called 
+banking of roads or tracks. This introduces 
+an inclination, and the angle is called 
+banking angle.
+Figure 3.44 Outer edge of the road is 
+slightly raised to avoid skidding 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 153
+
+PDF_PAGE: 161
+
+------------------------------------------------------------
+
+153
+Unit 3 Laws of Motion
+inward centripetal force −m
+r
+ω2 there must 
+be an equal and opposite force that acts on 
+the stone outward with value +m
+r
+ω2 . So the 
+total force acting on the stone in a rotating 
+frame is equal to zero (−
++
+m
+r
+m
+r
+ω
+ω
+2
+2 = 0). 
+This outward force +m
+r
+Z2 is called the 
+centrifugal force. The word ‘centrifugal’ 
+means ‘flee from center’. Note that the 
+‘centrifugal force’ appears to act on the 
+particle, only when we analyse the motion 
+from a rotating frame. With respect to an 
+inertial frame there is only centripetal force 
+which is given by the tension in the string. 
+For this reason centrifugal force is called as a 
+‘pseudo force’. A pseudo force has no origin. 
+It arises due to the non inertial nature of the 
+frame considered. When circular motion 
+problems are solved from a rotating frame 
+of reference, while drawing free body 
+diagram of a particle, the centrifugal force 
+should necessarily be included as shown in 
+the Figure 3.45.
+3.7.5  Effects of Centrifugal 
+Force
+Although centrifugal force is a pseudo force, 
+its effects are real. When a car takes a turn in 
+a curved road, person inside the car feels an 
+outward force which pushes the person away. 
+This outward force is also called centrifugal 
+force. If there is sufficient friction between 
+the person and the seat, it will prevent the 
+person from moving outwards. When a car 
+moving in a straight line suddenly takes 
+a turn, the objects not fixed to the car try 
+to continue in linear motion due to their 
+inertia of direction. While observing this 
+motion from an inertial frame, it appears as 
+a straight line as shown in Figure 3.46. But, 
+when it is observed from the rotating frame 
+it appears to move outwards.
+EXAMPLE 3.25
+Consider a circular road of radius 20 meter 
+banked at an angle of 15 degree. With what 
+speed a car has to move on the turn so that 
+it will have safe turn?
+Solution
+ v
+rg
+= (
+)
+tanθ = 20 9 8
+15
+×
+×
+°
+.
+tan
+ 
+    = 20 9 8 0 26
+7 1
+×
+×
+=
+.
+.
+. m s1
+The safe speed for the car on this road is 7.1 m s1
+3.7.4 Centrifugal Force
+Circular motion can be analysed from two 
+different frames of reference. One is the 
+inertial frame (which is either at rest or in 
+uniform motion) where Newton’s laws are 
+obeyed. The other is the rotating frame of 
+reference which is a non-inertial frame 
+of reference as it is accelerating. When we 
+examine the circular motion from these 
+frames of reference the situations are entirely 
+different. To use Newton’s first and second 
+laws in the rotational frame of reference, 
+we need to include a pseudo force called 
+‘centrifugal force’. This ‘centrifugal force’ 
+appears to act on the object with respect to 
+rotating frames. To understand the concept 
+of centrifugal force, we can take a specific 
+case and discuss as done below.
+Consider the case of a whirling motion 
+of a stone tied to a string. Assume that the 
+stone has angular velocity Z in the inertial 
+frame (at rest). If the motion of the stone is 
+observed from a frame which is also rotating 
+along with the stone with same angular 
+velocity Z then, the stone appears to be 
+at rest. This implies that in addition to the 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 154
+
+PDF_PAGE: 162
+
+------------------------------------------------------------
+
+154
+Unit 3 Laws of Motion
+A person standing on a rotating platform 
+feels an outward centrifugal force and is 
+likely to be pushed away from the platform. 
+Many a time the frictional force between 
+the platform and the person is not sufficient 
+to overcome outward push. To avoid this, 
+usually the outer edge of the platform 
+is little inclined upwards which exerts a 
+normal force on the person which prevents 
+the person from falling as illustrated in 
+Figures 3.47.
+Observer in non-inertial frame  
+Observer in inertial frame  
+m
+m
+(-mω  r)
+2
+(-mω  r)
+2
+(a)
+(b)
+Centripetal force
+(-mω  r)
+2
+(-mω  r)
+2
+(+mω  r)
+2
+Centripetal force
+(+mω  r)
+2
+Centrifugal force
+N
+N
+m
+m
+mg
+mg
+r
+r
+Figure 3.45 Free body diagram of a particle including the centrifugal force
+Figure 3.46 Effects of centrifugal force
+mg
+N
+mg
+N
+Free body
+diagram
+Free body
+diagram
+Inertial frame (with respect observer
+out side the car)
+Non Inertial frame (with respect to car)
+“Centrifugal force”
+Caution!
+It is dangerous to stand near the open 
+door (or) steps while travelling in the 
+bus. When the bus takes a sudden turn 
+in a curved road, due to centrifugal 
+force the person is pushed away from 
+the bus. Even though centrifugal force is 
+a pseudo force, its effects are real. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 155
+
+PDF_PAGE: 163
+
+------------------------------------------------------------
+
+155
+Unit 3 Laws of Motion
+Here R = radius of the Earth 
+and θ = latitude of the Earth where the 
+man is standing.
+Figure 3. 48 Centrifugal force 
+acting on a man on the surface of 
+Earth
+3.7.6  Centrifugal Force due 
+to Rotation of the 
+Earth
+Even though Earth is treated as an 
+inertial frame, it is actually not so. Earth 
+spins about its own axis with an angular 
+velocity Z. Any object on the surface of 
+Earth (rotational frame) experiences a 
+centrifugal force. The centrifugal force 
+appears to act exactly in opposite direction 
+from the axis of rotation. It is shown in the 
+Figure 3.48.
+The centrifugal force on a man standing 
+on the surface of the Earth is F
+m
+r
+c =
+ω2
+where r is perpendicular distance of the 
+man from the axis of rotation. By using right 
+angle triangle as shown in the Figure 3.48, 
+the distance r
+R
+=
+cos θ
+Figure 3.47 Outward centrifugal force in rotating platform
+mω2R
+mω2R
+N
+N
+mg
+mg
+Net outward push
+Free body diagram
+with respect to
+rotating platform
+Free body diagram
+with respect to
+rotating edge lifted 
+plateform
+N
+mg
+Rotating flat platform (outward push experienced)
+Rotating edge lifted platform (no outward push experienced)
+Centrifugal force
+F   = mg   
+tot
+N
+mg
+(+mω  R)
+2
+Centrifugal force
+ + mω  R = N
+2
+F   = mg
+net
+(+mω  R)
+2
++ mω  R
+2
+R
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 156
+
+PDF_PAGE: 164
+
+------------------------------------------------------------
+
+156
+Unit 3 Laws of Motion
+Latitude of Chennai = 13°
+F
+N
+cf =
+×
+×
+(
+) ×
+×
+×
+°
+(
+) =
+−
+60
+7 268 10
+6400 10
+13
+1 9678
+5
+2
+3
+.
+cos
+.
+A 60 kg man experiences centrifugal force 
+of approximately 2 Newton. But due to 
+Earth’s gravity a man of 60 kg experiences a 
+force = mg = 60 × 9.8 = 588N. This force is 
+very much larger than the centrifugal force.
+3.7.7  Centripetal Force Versus 
+Centrifugal Force
+Salient features of centripetal and centrifugal 
+forces are compared in Table 3.4.
+Table 3.4 Salient Features of Centripetal and Centrifugal Forces
+Centripetal force
+Centrifugal force
+It is a real force which is exerted on 
+the body by the external agencies 
+like gravitational force, tension in the 
+string, normal force etc.
+It is a pseudo force or fictitious force which 
+cannot arise from gravitational force, tension 
+force, normal force etc.
+Acts in both inertial and non-inertial 
+frames
+Acts only in rotating frames (non-inertial frame)
+It acts towards the axis of rotation
+or center of the circle in circular motion
+It acts outwards from the axis of rotation or radially 
+outwards from the center of the  circular motion 
+Fcp =  mω2r = mv
+r
+2
+Fcf = m
+r
+mv
+r
+ω2
+2
+=
+Real force and has real effects
+Pseudo force but has real effects
+Origin of centripetal force is interaction 
+between two objects.
+Origin of centrifugal force is inertia. It does not 
+arise from interaction.
+In an inertial frame the object’s inertial motion 
+appears as centrifugal force in the rotating frame.
+In inertial frames centripetal force 
+has to be included when free body 
+diagrams are drawn.
+In inertial frames there is no centrifugal force.
+In rotating frames, both centripetal and 
+centrifugal force have to be included when free 
+body diagrams are drawn.
+EXAMPLE 3.26
+Calculate the centrifugal force experienced 
+by a man of 60 kg standing at Chennai? 
+(Given: Latitude of Chennai is 13°
+Solution
+The centrifugal force is given by 
+F
+m
+R
+c =
+ω
+θ
+2 cos
+The angular velocity (Z) of Earth = 2
+T
+ , 
+where T is time period of the Earth (24 hours)
+ω
+π
+π
+=
+×
+×
+=
+=
+×
+−
+−
+2
+24 60 60
+2
+86400
+7 268 10 5
+1
+.
+radsec
+The radius of the Earth R = 6400 
+Km = 6400 × 103 m
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 157
+
+PDF_PAGE: 165
+
+------------------------------------------------------------
+
+157
+Unit 3 Laws of Motion
+
+
+Aristotle’s idea of motion: To maintain motion, a force is required
+
+
+Galileo’s idea of motion: To maintain motion, a force is not required
+
+
+Mass is a measure of inertia of the body
+
+
+Newton’s first law states that under no external force, the object continues its state 
+of motion
+
+
+Newton’s second law states that to change the momentum of the body, external force 
+is required
+Mathematically it is defined as 
+G
+G
+F
+dp
+dt
+ 
+
+
+Both Newton’s first and second laws are valid only in inertial frames
+
+
+Inertial frame is the one in which if there is no force on the object, the object moves 
+at constant velocity.
+
+
+Newton’s third law states that for every force there is an equivalent and opposite 
+force and such a pair of forces is called action and reaction pair.
+
+
+To draw a free body diagram for an object, 
+Isolate the object from other objects and identify the forces acting on it
+The force exerted by that object should not be taken into account
+Draw the direction of each force with relative magnitude
+Apply Newton’s second law in each direction
+
+
+If no net external force acts on a collection of particles (system), then the total 
+momentum of the collection of particles (system) is a constant vector.
+
+
+Internal forces acting in the system cannot change the total momentum of the system.
+
+
+Lami’s theorem states that if an object is in equilibrium under the concurrent forces, 
+then the ratio of each force with the sine of corresponding opposite angle is same.
+
+
+An impulse acting on a body is equal to the change in momentum of the body. 
+Whenever a force acts on the object for a very short time, it is difficult to calculate 
+the force. But impulse can be calculated.
+
+
+Static friction is the force which always opposes the movement of the object from 
+rest. It can take values from zero to msN. If an external force is greater than msN then 
+object begins to move.
+
+
+If the object begins to move, kinetic friction comes into effect. To move an object 
+with constant velocity, the external force must be applied to overcome the kinetic 
+friction. The kinetic friction is mkN. 
+
+
+Rolling friction is much smaller than static and kinetic friction. This is the reason 
+that to move an object roller coaster is fixed in the bottom of the object. Example: 
+Rolling suitcase
+SUMMARY
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 158
+
+PDF_PAGE: 166
+
+------------------------------------------------------------
+
+158
+Unit 3 Laws of Motion
+SUMMARY(cont)
+
+
+The origin of friction is electromagnetic interaction between the atoms of two 
+surfaces which are touching each other.
+
+
+Whenever there is a motion along a curve, there must be a centripetal force that acts 
+towards the center of the curve. In uniform circular motion the centripetal force 
+acts at the center of the circle. 
+
+
+The centripetal force is not a separate natural force. Any natural force can behave 
+as centripetal force. In planetary motion, Sun’s gravitational force acts as centripetal 
+force. In the whirling motion of a stone attached to a string, the centripetal force is 
+given by the string. When Moon orbits the Earth, it experiences Earth’s gravitational 
+force as centripetal force.
+
+
+Centrifugal force arises whenever the motion is analysed from rotating frame. It is 
+a pseudo force. The inertial motion of the object appears as centrifugal force in the 
+rotating frame.
+
+
+The magnitude of centrifugal and centripetal force is m
+r
+Z2 . But centripetal force 
+acts towards center of the circular motion and centrifugal force appears to acts in 
+the opposite direction to centripetal force.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 159
+
+PDF_PAGE: 167
+
+------------------------------------------------------------
+
+159
+Unit 3 Laws of Motion
+C O N C E P T M A P
+Motion
+Newton
+Force = Change of motion
+Aristotle
+Force          Motion
+Galileo
+Force          Motion
+Law of inertia
+V = constant
+Second Law
+Third Law
+Equal & Opposite forces
+Conservation of
+Momentum 
+Frictional force
+Free body diagram
+Circular Motion
+Static friction
+Kinetic friction
+Centripetal force
+Centrifugal force
+ 
+dt
+p
+d
+F
+
+
+=
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 160
+
+PDF_PAGE: 168
+
+------------------------------------------------------------
+
+160
+Unit 3 Laws of Motion
+EXERCISE 
+ I. Multiple Choice Questions
+ 1. When a car takes a sudden left  turn in 
+the curved road, passengers are pushed 
+towards the right due to 
+(a) inertia of direction
+(b) inertia of motion
+(c) inertia of rest
+(d) absence of inertia
+ 2. An object of mass m held against a 
+vertical wall by applying horizontal 
+force F as shown in the fi gure. Th e 
+minimum value of the force F is
+(IIT JEE 1994)
+(a) Less than mg
+(b) Equal to mg
+(c) Greater than mg
+(d) Cannot determine
+ 3. A vehicle is moving along the positive 
+x direction, if sudden brake is applied, 
+then
+(a)  frictional force acting on the 
+vehicle is along negative x 
+direction
+(b)  frictional force acting on the 
+vehicle is along positive x direction
+(c)  no frictional force acts on the 
+vehicle
+(d)  frictional force acts in downward 
+direction
+ 4. A book is at rest on the table which 
+exerts a normal force on the book. If 
+this force is considered as reaction 
+force, what is the action force according 
+to Newton’s third law?
+(a)  Gravitational force exerted by 
+Earth on the book
+(b)  Gravitational force exerted by the 
+book on Earth
+(c)  Normal force exerted by the book 
+on the table
+(d)  None of the above
+ 5. Two masses m1 and m2 are experiencing 
+the same force where m
+m
+1
+2
+<
+. Th e ratio 
+of their acceleration a
+a
+1
+2
+ is 
+(a) 1
+(b) less than 1
+(c) greater than 1
+(d) all the three cases
+ 6. Choose appropriate free body diagram 
+for the particle experiencing net 
+acceleration along negative y direction. 
+(Each arrow mark represents the force 
+acting on the system).
+a) 
+  b) 
+c) 
+  d) 
+ 7. A particle of mass m sliding on the 
+smooth double inclined plane (shown 
+in fi gure) will experience
+m
+F
+Wall
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 161
+
+PDF_PAGE: 169
+
+------------------------------------------------------------
+
+161
+Unit 3 Laws of Motion
+(a)  greater acceleration along the 
+path AB
+(b)  greater acceleration along the 
+path AC
+(c) same acceleration in both the paths 
+(d) no acceleration in both the paths.
+ 8. Two blocks of masses m and 2m are 
+placed on a smooth horizontal surface 
+as shown. In the first case only a force 
+F1 is applied from the left. Later only a 
+force F2 is applied from the right. If the 
+force acting at the interface of the two 
+blocks in the two cases is same, then 
+F F
+1
+2
+:
+ is
+(Physics Olympiad 2016)
+(a) 1:1 
+(b) 1:2
+(c) 2:1 
+(d) 1:3
+ 9. Force acting on the particle moving 
+with constant speed is
+(a) always zero
+(b) need not be zero
+(c) always non zero
+(d) cannot be concluded
+10. An object of mass m begins to move 
+on the plane inclined at an angle T . 
+The coefficient of static friction of 
+inclined surface is ms. The maximum 
+static friction experienced by the 
+mass is
+(a) mg 
+(b) msmg
+(c)  msmg sinT
+(d)  ms  mg cos T
+11. When the object is moving at constant 
+velocity on the rough surface, 
+(a) net force on the object is zero
+(b) no force acts on the object
+(c)  only external force acts on the 
+object
+(d)  only kinetic friction acts on the 
+object
+12. When an object is at rest on the inclined 
+rough surface,
+(a)  static and kinetic frictions acting 
+on the object is zero
+(b)  static friction is zero but kinetic 
+friction is not zero
+(c)  static friction is not zero and 
+kinetic friction is zero
+(d)  static and kinetic frictions are not 
+zero
+13. The centrifugal force appears to 
+exist 
+(a) only in inertial frames
+(b) only in rotating frames
+(c) in any accelerated frame
+(d)  both in inertial and non-inertial 
+frames
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 162
+
+PDF_PAGE: 170
+
+------------------------------------------------------------
+
+162
+Unit 3 Laws of Motion
+14. Choose the correct statement from the 
+following
+(a)  Centrifugal and centripetal forces 
+are action reaction pairs
+(b)  Centripetal forces is a natural force
+(c)  Centrifugal force arises from 
+gravitational force
+(d)  Centripetal force acts towards 
+the center and centrifugal force 
+appears to act away from the center 
+in a circular motion
+15. If a person moving from pole to 
+equator, the centrifugal force acting on 
+him
+(a) increases
+(b) decreases
+(c) remains the same
+(d) increases and then decreases
+Answers
+ 1) a 
+2) c 
+3) a 
+4) c 
+5) c
+ 6) c 
+7) b 
+8) c 
+9) b 
+10) d
+ 11) a 
+12) c 
+13) b 
+14) d 
+15) a
+II. Short Answer Questions
+ 1. Explain the concept of inertia. Write 
+two examples each for inertia of 
+motion, inertia of rest and inertia of 
+direction.
+ 2. State Newton’s second law.
+ 3. Define one newton.
+ 4. Show that impulse is the change of 
+momentum.
+ 5. Using free body diagram, show that it 
+is easy to pull an object than to push it.
+ 6. Explain various types of friction. 
+Suggest a few methods to reduce 
+friction.
+ 7. What is the meaning by ‘pseudo force’?
+ 8. State the empirical laws of static and 
+kinetic friction.
+ 9. State Newton’s third law.
+ 10. What are inertial frames?
+11. Under what condition will a car skid 
+on a leveled circular road?
+III. Long Answer Questions
+ 1. Prove the law of conservation of linear 
+momentum. Use it to find the recoil 
+velocity of a gun when a bullet is fired 
+from it.
+ 2. What are concurrent forces? State 
+Lami’s theorem.
+ 3. Explain the motion of blocks connected 
+by a string in i) Vertical motion ii) 
+Horizontal motion.
+ 4. Briefly explain the origin of friction. 
+Show that in an inclined plane, angle 
+of friction is equal to angle of repose.
+ 5. State Newton’s three laws and discuss 
+their significance. 
+ 6. Explain the similarities and differences 
+of centripetal and centrifugal forces.
+ 7. Briefly explain ‘centrifugal force’ with 
+suitable examples.
+ 8. Briefly explain ‘rolling friction’.
+ 9. Describe the method of measuring 
+angle of repose.
+ 10. Explain the need for banking of tracks.
+ 11. Calculate the centripetal acceleration 
+of Moon towards the Earth.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 163
+
+PDF_PAGE: 171
+
+------------------------------------------------------------
+
+163
+Unit 3 Laws of Motion
+IV. Conceptual Questions
+ 1. Why it is not possible to push a car 
+from inside?
+ 2. There is a limit beyond which the 
+polishing of a surface increases 
+frictional 
+resistance 
+rather 
+than 
+decreasing it why?
+ 3. Can a single isolated force exist in 
+nature? Explain your answer.
+ 4. Why does a parachute descend slowly?
+ 5. When walking on ice one should take 
+short steps. Why?
+ 6. When a person walks on a surface, 
+the frictional force exerted by the 
+surface on the person is opposite to the 
+direction of motion. True or false?
+ 7. Can the coefficient of friction be more 
+than one?
+ 8. Can we predict the direction of motion of 
+a body from the direction of force on it?
+ 9. The momentum of a system of particles 
+is always conserved. True or false?
+V. Numerical Problems
+ 1. A force of 50N act on the object of mass 
+20 kg. shown in the figure. Calculate 
+the acceleration of the object in x and y 
+directions.
+50 N
+y
+30°
+Ans: ax=2.165 ms2; ay=1.25 ms2
+ 2. A spider of mass 50 g is hanging on 
+a string of a cob web as shown in the 
+figure. What is the tension in the string?
+Ans: T=0.49N
+ 3. What is the reading shown in spring 
+balance?
+Spring balance
+4 kg
+4 kg
+30°
+m
+m = 2kg
+Ans: Zero, 9.8 N
+ 4. The physics books are stacked on each 
+other in the sequence: +1 volumes 1 
+and 2; +2 volumes 1 and 2 on a table.
+ 
+ a)  Identify the forces acting on each 
+book and draw the free body diagram.
+ 
+ b)  Identify the forces exerted by each 
+book on the other.
+ 5. A bob attached to the string oscillates 
+back and forth. Resolve the forces 
+acting on the bob in to components. 
+What is the acceleration experience by 
+the bob at an angle T.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 164
+
+PDF_PAGE: 172
+
+------------------------------------------------------------
+
+164
+Unit 3 Laws of Motion
+Ans:  Tangential acceleration = g sinθ ; 
+centripetal acceleration = 
+m
+(T−mg cosθ).
+ 6. Two masses m1 and m2 are connected 
+with 
+a 
+string 
+passing 
+over 
+a 
+frictionless pulley fixed at the corner 
+of the table as shown in the figure. 
+The coefficient of static friction 
+of mass m1 with the table is μs. 
+Calculate the minimum mass m3 
+that may be placed on m1to prevent 
+it from sliding. Check if m1=15 kg, 
+m2=10 kg, m3=25 and μs =0.2
+m3
+m1
+m2
+Ans: m
+m
+m
+s
+3
+2
+1
+=
+−
+μ
+, the combined masses 
+m1+m3 will slide.
+ 7. Calculate the acceleration of the bicycle 
+of mass 25 kg as shown in Figures 1 and 2.
+500 N
+400 N
+400 N
+400 N
+ 
+Ans: a=4 ms2, zero
+ 8. Apply Lami’s theorem on sling shot and 
+calculate the tension in each string ?
+T
+F = 50N
+30°
+T
+Ans: T= 28.868N.
+ 9. A football player kicks a 0.8 kg ball 
+and imparts it a velocity 12 ms1. Th e 
+contact between the foot and ball is 
+only for one- sixtieth of a second. Find 
+the average kicking force.
+Ans: 576N.
+ 10. A stone of mass 2 kg is attached to a 
+string of length 1 meter. Th e string can 
+withstand maximum tension 200 N. 
+What is the maximum speed that stone 
+can have during the whirling motion?
+Ans: vmax=10ms1
+ 11. Imagine that the gravitational force 
+between Earth and Moon is provided 
+by an invisible string that exists 
+between the Moon and Earth. What is 
+the tension that exists in this invisible 
+string due to Earth’s centripetal force? 
+(Mass of the Moon = 7.34 × 1022 kg, 
+Distance between Moon and Earth = 
+3.84 × 108 m)
+Moon
+Earth
+Invisible
+string
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 165
+
+PDF_PAGE: 173
+
+------------------------------------------------------------
+
+165
+Unit 3 Laws of Motion
+Ans: T 	 2 1020 N.
+12.  Two bodies of masses 15 kg and 10 kg 
+are connected with light string kept on 
+a smooth surface. A horizontal force 
+F=500 N is applied to a 15 kg as shown 
+in the fi gure. Calculate the tension 
+acting in the string 
+Ans: T
+N
+ 200
+.
+13. People oft en say “For every action there 
+is an equivalent opposite reaction”. 
+Here they meant ‘action of a human’. Is 
+it correct to apply Newton’s third law 
+to human actions? What is mean by 
+‘action’ in Newton third law? Give your 
+arguments based on Newton’s laws.
+ 
+ Ans: Newton’s third law is applicable 
+to only human’s actions which involves 
+physical force. Th ird law is not 
+applicable to human’s psychological 
+actions or thoughts
+14. A car takes a turn with velocity 
+50 ms-1 on the circular road of radius 
+of curvature 10 m. calculate the 
+centrifugal force experienced by a 
+person of mass 60kg inside the car?
+Ans: 15,000 N
+15. A long stick rests on the surface. A 
+person standing 10 m away from the 
+stick. With what minimum speed an 
+object of mass 0.5 kg should he thrown 
+so that it hits the stick. (Assume the 
+coeffi  cient of kinetic friction is 0.7).
+Ans: 11.71 ms1
+BOOKS FOR REFERENCE
+ 1. Charles Kittel, Walter Knight, Malvin Ruderman, Carl Helmholtz and Moyer, Mechanics, 
+2nd edition, Mc Graw Hill Pvt Ltd,
+ 2. A.P.French, Newtonian Mechanics, Viva-Norton Student edition
+ 3. SomnathDatta, Mechanics, Pearson Publication
+ 4. H.C.Verma, Concepts of physics volume 1 and Volume 2, Bharati Bhawan Publishers
+ 5. Serway and Jewett, Physics for scientist and Engineers with modern physics, Brook/Coole 
+publishers, Eighth edition
+ 6. Halliday, Resnick & Walker, Fundamentals of Physics, Wiley Publishers, 10th edition
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 166
+
+PDF_PAGE: 174
+
+------------------------------------------------------------
+
+166
+Unit 3 Laws of Motion
+ Force and motion
+Through this activity you will 
+understand the Force and motion
+STEPS:
+•  Open the browser and type the given URL to open the PhET simulation on 
+force and motion. Click OK to open the java applet.
+• Select the values of the applied force to observe the change.
+• Observe the change of the ramp angle by changing the position of the object.
+•  You can also observe the variations in force and ramp angle by changing 
+the weights.
+PhET simulation’s URL:
+https://phet.colorado.edu/en/simulation/ramp-forces-and-motion 
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+www.tntextbooks.in

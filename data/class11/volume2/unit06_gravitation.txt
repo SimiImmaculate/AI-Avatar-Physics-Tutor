@@ -1,0 +1,6360 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 6 – Gravitation
+
+TEXTBOOK_PAGE_RANGE:
+1–48
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 1
+
+PDF_PAGE: 9
+
+------------------------------------------------------------
+
+1
+U N I T
+6
+GRAVITATION
+We are amazed looking at the glittering sky; 
+we wonder how the Sun rises in the East 
+and sets in the West, why there are comets 
+or why stars twinkle. The sky has been 
+an object of curiosity for human beings 
+from time immemorial. We have always 
+wondered about the motion of stars, the 
+Moon, and the planets. From Aristotle to 
+Stephen Hawking, great minds have tried 
+to understand the movement of celestial 
+objects in space and what causes their 
+motion. 
+The ‘Theory of Gravitation’ was 
+developed by Newton in the late 17th 
+century to explain the motion of celestial 
+6.1
+INTRODUCTION
+In this unit, the student is exposed to
+•	 Kepler’s laws for planetary motion
+•	 Newton’s law of gravitation
+•	 connection between Kepler’s laws and law of gravitation
+•	 calculation of gravitational field and potential
+•	 calculation of variation of acceleration due to gravity
+•	 calculation of escape speed and energy of satellites
+•	 concept of weightlessness
+•	 advantage of heliocentric system over geocentric system
+•	 measurement of the radius of Earth using Eratosthenes method
+•	 recent developments in gravitation and astrophysics
+objects and terrestrial objects and answer 
+most of the queries raised. In spite of 
+the study of gravitation and its effect 
+on celestial objects, spanning last three 
+centuries, “gravitation” is still one of the 
+active areas of research in physics today. In 
+2017, the Nobel Prize in Physics was given 
+for the detection of ‘Gravitational waves’ 
+which was theoretically predicted by Albert 
+Einstein in the year 1915. Understanding 
+planetary motion, the formation of stars 
+and galaxies, and recently massive objects 
+like black holes and their life cycle have 
+remained the focus of study for the past 
+few centuries in physics.
+Geocentric Model of Solar System
+In the second century, Claudius Ptolemy, 
+a 
+famous 
+Greco-Roman 
+astronomer, 
+“The most remarkable discovery in all of astronomy is that the stars are made up 
+of atoms of same kind as those in the Earth” – Richard Feynman
+Learning Objectives
+UNIT-6(XI-Physics_Vol-2).indd   1
+UNIT-6(XI-Physics_Vol-2).indd   1
+02-01-2023   14:28:14
+02-01-2023   14:28:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 2
+
+PDF_PAGE: 10
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+2
+6.1.1  Kepler’s Laws of 
+Planetary Motion
+Kepler’s laws are stated as follows:
+1.	 Law of orbits:
+	
+Each planet moves around the Sun in an 
+elliptical orbit with the Sun at one of the foci.
+AN ELLIPTICAL ORBIT OF A PLANET
+Perihelion
+Aphelion
+Planet
+Minor
+axis
+Focus 2
+Focus 1
+Sun
+P
+b
+a
+A
+Major axis
+Figure 6.1  An ellipse traced out by a 
+planet around the Sun.
+	
+The closest point of approach of the 
+planet to the Sun ‘P’ is called perihelion 
+and the farthest point ‘A’ is called aphelion 
+(Figure 6.1). The semi-major axis is ‘a’ 
+and semi-minor axis is ‘b’. In fact, both 
+Copernicus and Ptolemy considered 
+planetary orbits to be circular, but Kepler 
+discovered that the actual orbits of the 
+planets are elliptical.
+Perihelion
+Semi-major axis
+Aphelion
+Planet
+Minor axis
+Focus
+Focus
+Sun
+Major axis
+An Elliptical Path
+developed a theory to explain the motion 
+of celestial objects like the Sun, the Moon, 
+Mars, Jupiter etc. This theory was called 
+the geocentric model. According to the 
+geocentric model, the Earth is at the center 
+of the universe and all celestial objects 
+including the Sun, the Moon, and other 
+planets orbit the Earth. Ptolemy’s model 
+closely matched with the observations 
+of the sky with our naked eye. But later, 
+astronomers found that even though 
+Ptolemy’s model successfully explained 
+the motion of the Sun and the Moon up 
+to a certain level, the motion of Mars and 
+Jupiter could not be explained effectively.
+Heliocentric Model of Nicholas 
+Copernicus
+In the 15th century, a Polish astronomer, 
+Nicholas Copernicus (1473-1543) proposed 
+a new model called the ‘Heliocentric model’ 
+in which the Sun was considered to be 
+at the center of the solar system and all 
+planets including the Earth orbited the Sun 
+in circular orbits. This model successfully 
+explained the motion of all celestial 
+objects.
+Around the same time, Galileo, a famous 
+Italian physicist discovered that all objects 
+close to Earth were accelerated towards 
+the Earth at the same rate. Meanwhile, a 
+noble man called Tycho Brahe (1546-1601) 
+spent his entire lifetime in recording the 
+observations of the stellar and planetary 
+positions with his naked eye. The data that 
+he compiled were analyzed later by his 
+assistant Johannes Kepler (1571–1630) and 
+eventually the analysis led to the deduction 
+of the laws of the planetary motion. These 
+laws are termed as ‘Kepler’s laws of planetary 
+motion’. 
+UNIT-6(XI-Physics_Vol-2).indd   2
+UNIT-6(XI-Physics_Vol-2).indd   2
+02-01-2023   14:28:15
+02-01-2023   14:28:15
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 3
+
+PDF_PAGE: 11
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+3
+	
+where, T is the time period of revolution 
+for a planet and a is the semi-major 
+axis. Physically this law implies that as 
+the distance of the planet from the Sun 
+increases, the time period also increases 
+but not at the same rate.
+	
+  In Table 6.1, the time period of 
+revolution of planets around the Sun 
+along with their semi-major axes are 
+given. From column four, we can realize 
+that T
+a
+2
+3 is nearly a constant endorsing 
+Kepler’s third law.
+2.	 Law of area:
+	
+The radial vector (line joining the Sun 
+to a planet) sweeps equal areas in equal 
+intervals of time.
+	
+In Figure 6.2, the white shaded portion 
+is the area DA swept in a small interval 
+of time Dt, by a planet around the Sun. 
+Since the Sun is not at the center of the 
+ellipse, the planets travel faster when they 
+are nearer to the Sun and slower when they 
+are farther from it, to cover equal area in 
+equal intervals of time. Kepler discovered 
+the law of area by carefully noting the 
+variation in the speed of planets. 
+3.	 Law of period:
+	
+The square of the time period of 
+revolution of a planet around the Sun in 
+its elliptical orbit is directly proportional 
+to the cube of the semi-major axis of the 
+ellipse. It can be written as:
+	
+T
+a
+2
+3
+∝
+	
+(6.1)
+	
+T
+a
+constant
+2
+3 =
+	
+(6.2)
+Radial vector
+One Month
+One Month (t)
+Planet
+Sun
+Planet’s Orbit
+All white shaded area are equal
+Both areas (A) are equal
+r
+Sun
+January
+February
+March
+April
+May
+June
+July
+August
+October
+November
+December
+Radial vector
+Sun
+y
+Rad
+r
+Figure 6.2  Motion of a planet around the Sun depicting ‘law of area’.
+Table 6.1  The time period of 
+revolution of the planets revolving around 
+the Sun and their semi-major axes.
+Planet
+a 
+(1010m)
+T 
+(years)
+T
+a
+2
+3
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+5.79
+10.8
+15.0
+22.8
+77.8
+143
+287
+450
+0.24
+0.615
+1
+1.88
+11.9
+29.5
+84
+165
+2.95
+3.00
+2.96
+2.98
+3.01
+2.98
+2.98
+2.99
+UNIT-6(XI-Physics_Vol-2).indd   3
+UNIT-6(XI-Physics_Vol-2).indd   3
+02-01-2023   14:28:18
+02-01-2023   14:28:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 4
+
+PDF_PAGE: 12
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+4
+where r is the unit vector from M1 towards 
+M2 as shown in Figure 6.3, and G is the 
+Gravitational constant that has the value of 
+6 67
+10 11
+2
+2
+.
+×
+−
+−
+N m kg
+, and r is the distance 
+between the two masses M1 and M2. 
+In Figure 6.3, the vector 
+
+F denotes the 
+gravitational force experienced by M2 due 
+to M1. Here the negative sign indicates 
+that the gravitational force is always 
+attractive in nature and the direction of 
+the force is along the line joining the two 
+masses.
+M1
+F
+r
+r
+M2
+Figure 6.3  Attraction of two 
+masses towards each other.
+In cartesian coordinates, the square 
+of the  distance is expressed as r
+x
+2
+2
+=(
++
+ 
+y
+z
+2
+2
+
+. This is dealt in unit 2.
+EXAMPLE 6.1
+Consider two point masses m1 and m2 
+which are separated by a distance of 
+10  meter as shown in the following 
+figure. Calculate the force of attraction 
+between them and draw the directions of 
+forces on each of them. Take m1= 1 kg and 
+m2 = 2 kg
+m1
+m2
+10 m
+x
+y
+z
+Points to Contemplate
+DATA
+PROBLEM
+Planet
+a
+T
+What is 
+the law 
+connecting 
+a and T?
+A
+1
+3
+B
+2
+6
+C
+4
+18
+Comment on the relation between a 
+and T for these imaginary planets
+6.1.2  Universal Law of 
+Gravitation
+Even though Kepler’s laws were able to 
+explain the planetary motion, they failed to 
+explain the forces responsible for it. It was 
+Isaac Newton who analyzed Kepler’s laws, 
+Galileo’s observations and deduced the law 
+of gravitation.
+Newton’s law of gravitation states that 
+a particle of mass M1 attracts any other 
+particle of mass M2 in the universe with 
+an attractive force. The strength of this 
+force of attraction was found to be directly 
+proportional to the product of their masses 
+and is inversely proportional to the square of 
+the distance between them. In mathematical 
+form, it can be written as:
+	
+
+F
+GM M
+r
+=−
+1
+2
+2
+r	
+(6.3)
+UNIT-6(XI-Physics_Vol-2).indd   4
+UNIT-6(XI-Physics_Vol-2).indd   4
+02-01-2023   14:28:21
+02-01-2023   14:28:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 5
+
+PDF_PAGE: 13
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+5
+10 m
+F12
+F21
+x
+y
+z
+→
+→
+m1
+m2
+Gravitational force of attraction between 
+m1 and m2
+
+F12 = −
+
+F21 which confirms Newton’s third 
+law.
+Important features of gravitational force:
+ 
+
+As the distance between two masses 
+increases, the strength of the force 
+tends to decrease because of inverse 
+dependence on r2. Physically it implies 
+that the planet Uranus experiences less 
+gravitational force from the Sun than the 
+Earth since Uranus is at larger distance 
+from the Sun compared to the Earth. 
+F
+ = G(m1m2)
+r
+r2
+F
+Figure 6.4  Variation of gravitational 
+force with distance
+ 
+
+The gravitational forces between two 
+particles always constitute an action- 
+reaction pair. It implies that the gravitational 
+force exerted by the Sun on the Earth is 
+always towards the Sun. The reaction-force 
+is exerted by the Earth on the Sun. The 
+direction of this reaction force is towards 
+Earth. 
+Solution
+The force of attraction is given by 
+	
+
+F
+Gm m
+r
+r
+=−
+1
+2
+2
+From the figure, r =10 m. 
+First, we can calculate the magnitude of 
+the force
+F
+Gm m
+r
+=
+=
+×
+× ×
+=
+×
+−
+−
+1
+2
+2
+11
+13
+6 67
+10
+2
+100
+13 34
+10
+1
+.
+.
+N
+It is to be noted that this force is very 
+small. This is the reason we do not feel the 
+gravitational force of attraction between 
+each other. The small value of G plays a 
+very crucial role in deciding the strength 
+of the force.
+The force of attraction (
+
+F21) experienced 
+by the mass m2 due to m1 is in the negative 
+‘y’ direction ie., r
+j
+=−. According to 
+Newton’s third law, the mass m2 also exerts 
+equal and opposite force on m1. So the 
+force of attraction (
+
+F12) experienced by m1 
+due to m2 is in the direction of positive ‘y’ 
+axis ie., r
+j
+= .
+	
+
+F
+j
+21
+13
+13 34 10
+=−
+×
+−
+.
+	
+
+F
+j
+12
+13
+13 34 10
+=
+×
+−
+.
+The direction of the force is shown in the 
+figure, 
+UNIT-6(XI-Physics_Vol-2).indd   5
+UNIT-6(XI-Physics_Vol-2).indd   5
+02-01-2023   14:28:23
+02-01-2023   14:28:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 6
+
+PDF_PAGE: 14
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+6
+hollow sphere also as another point mass. 
+Essentially the entire mass of the hollow 
+sphere appears to be concentrated at the 
+center of the hollow sphere. It is shown 
+in the Figure 6.5(a).
+ 
+
+There is also another interesting result. 
+Consider a hollow sphere of mass M. 
+If we place another object of mass ‘m’ 
+inside this hollow sphere as in Figure 
+6.5(b), the force experienced by this 
+mass ‘m’ will be zero. This calculation 
+will be dealt with in higher classes.
+ M
+ m
+ P
+ O
+ M
+ m
+ P
+ O
+r
+r
+ M
+Hollow sphere of mass
+ O
+ m
+No force on m
+Figure 6.5  A mass placed in a hollow 
+sphere.
+ 
+
+The triumph of the law of gravitation is 
+that it concludes that the mango that is 
+falling down and the Moon orbiting the 
+Earth are due to the same gravitational 
+force.
+Newton’s inverse square Law:
+Newton considered the orbits of the planets 
+as circular. For circular orbit of radius r, 
+the centripetal acceleration towards the 
+center is
+	
+a
+v
+r
+ 
+2
+	
+(6.4)
+ 
+
+The torque experienced by the Earth due 
+to the gravitational force of the Sun is 
+given by
+
+
+
+
+τ = ×
+= × −
+
+
+
+
+
+=
+r
+F
+r
+GM M
+r
+r
+S
+E
+2
+0
+Since r
+r r
+r r
+=
+×
+(
+)=
+,
+0
+ So 
+
+τ =
+=
+dL
+dt
+0. It implies that angular 
+momentum 
+
+L is a constant vector. The 
+angular momentum of the Earth about the 
+Sun is constant throughout the motion. 
+It is true for all the planets. In fact, this 
+constancy of angular momentum leads 
+to the Kepler’s second law.
+ 
+
+The expression 
+F
+GM M
+r
+=−
+1
+2
+2
+ has one 
+inherent assumption that both M1 and 
+M2 are treated as point masses. When it is 
+said that Earth orbits around the Sun due 
+to Sun’s gravitational force, we assumed 
+Earth and Sun to be point masses. This 
+assumption is a good approximation 
+because the distance between the two 
+bodies is very much larger than their 
+diameters. For some irregular and 
+extended objects separated by a small 
+distance, we cannot directly use the 
+equation (6.3). Instead, we have to invoke 
+separate mathematical treatment which 
+will be brought forth in higher classes.
+ 
+
+However, this assumption about point 
+masses holds even for small distance 
+for one special case. To calculate force 
+of attraction between a hollow sphere 
+of mass M with uniform density and 
+point mass m kept outside the hollow 
+sphere, we can replace the hollow sphere 
+of mass M as equivalent to a point mass 
+M located at the center of the hollow 
+sphere. The force of attraction between 
+the hollow sphere of mass M and point 
+mass m can be calculated by treating the 
+(a)
+(b)
+UNIT-6(XI-Physics_Vol-2).indd   6
+UNIT-6(XI-Physics_Vol-2).indd   6
+02-01-2023   14:28:25
+02-01-2023   14:28:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 7
+
+PDF_PAGE: 15
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+7
+	
+r
+T
+k
+r
+2
+2
+=
+	
+(6.9)
+By substituting equation 6.9 in the force 
+expression, we can arrive at the law of 
+gravitation.
+	
+F
+mk
+r
+  4
+2
+2
+
+	
+(6.10)
+Here negative sign implies that the force 
+is attractive and it acts towards the center. 
+In equation (6.10), mass of the planet ‘m’ 
+comes explicitly. But Newton strongly felt 
+that according to his third law, if Earth is 
+attracted by the Sun, then the Sun must 
+also be attracted by the Earth with the 
+same magnitude of force. So he felt that 
+the Sun’s mass (M) should also occur 
+explicitly in the expression for force (6.10). 
+From this insight, he equated the constant 
+4
+2
+π k to GM
+ 
+ 
+which turned out to be the law of 
+gravitation.
+	
+F
+GMm
+r
+ 
+2
+Again the negative sign in the above 
+equation implies that the gravitational force 
+is attractive.
+In the above discussion we assumed that 
+the orbit of the planet to be circular which 
+is not true as the orbit of the planet around 
+the Sun is elliptical. But this circular orbit 
+assumption is justifiable because planet’s 
+orbit is very close to being circular and 
+there is only a very small deviation from the 
+circular shape.
+Figure 6.6  Point mass orbiting in a 
+circular orbit.
+ O
+ r
+a= - r
+v2
+Here v is the velocity and r, the distance 
+of the planet from the center of the orbit 
+(Figure 6.6). 
+The velocity in terms of known quantities 
+r and T, is
+	
+v
+r
+T
+ 2 	
+(6.5)
+Here T is the time period of revolution of 
+the planet. Substituting this value of v in 
+equation (6.4) we get,
+	
+a
+r
+T
+r
+r
+T
+ 
+
+
+
+
+ 
+2
+4
+2
+2
+2
+
+
+	
+(6.6)
+Substituting the value of ‘a’ from (6.6) in 
+Newton’s second law, F
+ma
+=
+, where ‘m’ is 
+the mass of the planet.
+	
+F
+mr
+T
+  4
+2
+2
+
+	
+(6.7)
+From Kepler’s third law,
+	
+r
+T
+k constant
+3
+2  
+	
+(6.8)
+UNIT-6(XI-Physics_Vol-2).indd   7
+UNIT-6(XI-Physics_Vol-2).indd   7
+02-01-2023   14:28:30
+02-01-2023   14:28:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 8
+
+PDF_PAGE: 16
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+8
+	
+F
+GM M
+R
+E
+m
+m
+ 
+2
+.
+Here Rm- distance of the Moon from the 
+Earth, Mm – Mass of the Moon 
+The acceleration experienced by the 
+Moon is given by
+	
+a
+GM
+R
+m
+E
+m
+ 
+2
+.
+The ratio between the apple’s acceleration 
+to Moon’s acceleration is given by
+	
+a
+a
+R
+R
+A
+m
+m
+=
+2
+2 . 
+From the Hipparchrus measurement, the 
+distance to the Moon is 60 times that of 
+Earth radius. Rm = 60R. 
+	
+aA / am = 60
+3600
+2
+2
+R
+R
+
+ 
+.
+The apple’s acceleration is 3600 times the 
+acceleration of the Moon. 
+The same result was obtained by 
+Newton using his gravitational formula. 
+The apple’s acceleration is measured 
+easily and it is 9.8 m s−2. Moon orbits the 
+Earth once in 27.3 days and by using the 
+centripetal acceleration formula, (Refer 
+unit 3).
+	
+a
+a
+A
+m
+ = 
+9 8
+0 00272
+3600
+.
+.
+=
+which is exactly what he got through his 
+law of gravitation.
+EXAMPLE 6.2
+Moon and an apple are accelerated by 
+the same gravitational force due to Earth. 
+Compare the acceleration of the two.
+The gravitational force experienced by 
+the apple due to Earth
+	
+F
+GM M
+R
+E
+A
+ 
+2
+Here MA– Mass of the apple, ME– Mass of 
+the Earth and R – Radius of the Earth.
+Equating the above equation with 
+Newton’s second law,
+	
+M a
+GM M
+R
+A
+A
+E
+A
+ 
+2
+.
+Simplifying the above equation we get,
+	
+a
+GM
+R
+A
+E
+ 
+2
+Here aA is the acceleration of apple that is 
+equal to ‘g’.
+Similarly the force experienced by 
+Moon due to Earth is given by
+Points to Contemplate
+If Kepler’s third law was “r3T2 = constant” 
+instead of “ r
+T
+3
+2 = constant” what would 
+be the new law of gravitation? Would 
+it still be an inverse square law? How 
+would the gravitational force change 
+with distance? In this new law of 
+gravitation, will Neptune experience 
+greater gravitational force or lesser 
+gravitational force when compared to 
+the Earth?
+UNIT-6(XI-Physics_Vol-2).indd   8
+UNIT-6(XI-Physics_Vol-2).indd   8
+02-01-2023   14:28:33
+02-01-2023   14:28:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 9
+
+PDF_PAGE: 17
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+9
+Mass m
+RE
+Earth
+Mass M
+RE
+Earth
+r
+Figure 6.7  Force experienced by a mass 
+on the (i) surface of the Earth (ii) at a 
+distance from the centre of the Earth 
+Now the force experienced by some other 
+object of mass M at a distance r from the 
+center of the Earth is given by,
+	
+F
+GM M
+r
+E
+ 
+2
+Using the value of g in equation (6.12), the 
+force F will be,
+	
+F
+gM R
+r
+E
+ 
+2
+2 	
+(6.13)
+From this it is clear that the force can be 
+calculated simply by knowing the value of g. 
+It is to be noted that in the above calculation 
+G is not required.
+In the year 1798, Henry 
+Cavendish 
+experimentally 
+determined the value of 
+gravitational constant ‘G’ by using a 
+torsion balance. He calculated the value 
+of ‘G’ to be equal to 6.75 ×
+−
+−
+10 11
+2
+Nm kg
+2
+. 
+Using modern techniques a more 
+accurate value of G could be measured. 
+The currently accepted value of G is 
+6.67259 ×
+−
+−
+10 11
+2
+Nm kg
+2
+.
+The above calculation depends 
+on knowing the distance 
+between the Earth and the 
+Moon and the radius of the Earth. 
+The radius of the Earth was measured 
+by 
+Greek 
+librarian 
+Eratosthenes 
+and distance between the Earth and 
+the Moon was measured by Greek 
+astronomer Hipparchrus 2400 years ago. 
+It is very interesting to note that in order 
+to measure these distances he used only 
+high school geometry and trigonometry. 
+These details are discussed in the 
+astronomy section (6.5). 
+Note
+6.1.3  Gravitational Constant
+In the law of gravitation, the value of 
+gravitational constant G plays a very 
+important role. The value of G explains 
+why the gravitational force between the 
+Earth and the Sun is so great while the 
+same force between two small objects (for 
+example between two human beings) is 
+negligible. 
+The force experienced by a mass ‘m’ which 
+is on the surface of the Earth (Figure 6.7) is 
+given by 
+	
+F
+GM m
+R
+E
+E
+ 
+2
+	
+(6.11)
+ME-mass of the Earth, m - mass of the 
+object, RE- radius of the Earth.
+Equating Newton’s second law, F
+mg
+= −
+, 
+to equation (6.11) we get,
+	
+−
+= −
+mg
+GM m
+R
+E
+E
+2
+	
+g
+GM
+R
+E
+E
+=
+2 	
+(6.12)
+UNIT-6(XI-Physics_Vol-2).indd   9
+UNIT-6(XI-Physics_Vol-2).indd   9
+02-01-2023   14:28:36
+02-01-2023   14:28:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 10
+
+PDF_PAGE: 18
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+10
+6.2
+Earth are not physically in contact with each 
+other, there exists an interaction between 
+them. This is because of the fact that the 
+Earth experiences the gravitational force of 
+the Sun. This gravitational force is a non-
+contact force.
+It sounds mysterious that the Sun 
+attracts the Earth despite being very far 
+from it and without touching it. For contact 
+forces like push or pull, we can calculate 
+the strength of the force since we can feel 
+or see. But how do we calculate the strength 
+of non-contact force at different distances? 
+To understand and calculate the strength 
+of non-contact forces, the concept of ‘field’ 
+is introduced.
+The gravitational force on a particle of 
+mass ‘m2’ due to a particle of mass ‘m1’ is
+	
+
+F
+Gm m
+r
+r
+21
+1
+2
+2
+=−
+ 
+	
+(6.14)
+where  is a unit vector that points from m1 
+to m2 along the line joining the masses m1 
+and m2.
+The gravitational field intensity 
+
+E1 (here 
+after called as gravitational field) at a point 
+which is at a distance r from m1 is defined as 
+the gravitational force experienced by unit 
+mass placed at that point. It is given by the 
+ratio 
+
+F
+m
+21
+2
+ (where m2 is the mass of the object 
+on which 
+
+F21 acts)
+Using 
+
+
+E
+F
+m
+1
+21
+2
+=
+ in equation (6.14) we get, 
+	
+
+E
+Gm
+r
+r
+1
+1
+2
+=−
+	
+(6.15)
+GRAVITATIONAL FIELD 
+AND GRAVITATIONAL 
+POTENTIAL
+6.2.1  Gravitational field
+Force is basically due to the interaction 
+between two particles. Depending upon 
+the type of interaction we can have 
+two kinds of forces: Contact forces and 
+Non-contact forces (Figure 6.8).
+Planet
+Sun
+Figure 6.8  Depiction of contact and 
+non-contact forces
+Contact forces are the forces applied where 
+one object is in physical contact with the 
+other. The movement of the object is caused 
+by the physical force exerted through the 
+contact between the object and the agent 
+which exerts force. 
+Consider the case of Earth orbiting 
+around the Sun. Though the Sun and the 
+UNIT-6(XI-Physics_Vol-2).indd   10
+UNIT-6(XI-Physics_Vol-2).indd   10
+02-01-2023   14:28:38
+02-01-2023   14:28:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 11
+
+PDF_PAGE: 19
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+11
+
+E1 is a vector quantity that points towards the 
+mass m1 and is independent of mass m2, Here 
+m2 is taken to be of unit magnitude . The unit 
+ is along the line between m1 and the point in 
+question. The field 
+
+E1 is due to the mass m1.
+In general, the gravitational field intensity 
+due to a mass M at a distance r is given by
+	
+
+E
+GM
+r
+r
+=−
+2
+	
+(6.16)
+Now in the region of this gravitational field, a 
+mass ‘m’ is placed at a point P (Figure 6.9). 
+Mass ‘m’ interacts with the field 
+
+E and 
+experiences an attractive force due to M as 
+shown in Figure 6.9. The gravitational force 
+experienced by ‘m’ due to ‘M’ is given by 
+ P
+ M
+ m
+r
+F = m E
+
+
+
+E
+Figure 6.9  Gravitational Field intensity 
+measured with an object of unit mass
+	
+
+
+F
+mE
+m =
+	
+(6.17)
+Now we can equate this with Newton’s 
+second law 
+
+
+F
+ma
+=
+	
+ma
+mE
+
+
+=
+	
+(6.18)
+	
+
+
+a
+E
+=
+	
+(6.19)
+In other words, equation (6.18) implies 
+that the gravitational field at a point is 
+equivalent to the acceleration experienced 
+by a particle at that point. However, it 
+is to be noted that a and 
+
+E are separate 
+physical quantities that have the same 
+magnitude and direction. The gravitational 
+field 
+
+E is the property of the source and 
+acceleration a is the effect experienced by 
+the test mass (unit mass) which is placed 
+in the gravitational field 
+
+E. The non-
+contact interaction between two masses 
+can now be explained using the concept of 
+“Gravitational field”.
+Points to be noted:
+i)	 The strength of the gravitational field 
+decreases as we move away from the 
+mass M as depicted in the Figure 6.10. 
+The magnitude of 
+
+E decreases as the 
+distance r increases.
+Figure 6.10  Strength of the  
+Gravitational field lines decreases with 
+distance
+R
+Q
+P
+	
+Figure 6.10 shows that the strength of 
+the gravitational field at points P, Q, and 
+R is given by 
+
+
+
+E
+E
+E
+P
+Q
+R
+<
+<
+. It can be 
+understood by comparing the length of 
+the vectors at points P, Q, and R.
+ ii)	The “field” concept was introduced 
+as a mathematical tool to calculate 
+gravitational interaction. Later it was 
+found that field is a real physical quantity 
+and it carries energy and momentum in 
+UNIT-6(XI-Physics_Vol-2).indd   11
+UNIT-6(XI-Physics_Vol-2).indd   11
+02-01-2023   14:28:40
+02-01-2023   14:28:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 12
+
+PDF_PAGE: 20
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+12
+space. The concept of field is inevitable in 
+understanding the behaviour of charges.
+iii)	The unit of gravitational field is newton 
+per kilogram (N/kg) or m s-2.
+6.2.2  Superposition principle 
+for Gravitational field
+Consider ‘n’ particles of masses m m
+mn
+1
+2
+,
+,
+.
+
+, 
+distributed in space at positions    …
+r r r
+1
+2
+3
+, ,
+ 
+etc, with respect to point P. The total 
+gravitational field at a point P due to all 
+the masses is given by the vector sum of 
+the gravitational field due to the individual 
+masses (Figure 6.11). This principle is known 
+as superposition of gravitational fields. 
+	
+
+
+
+
+E
+E
+E
+E
+total
+n
+
+
+
+1
+2
+	
+= -
+-
+-
+-
+Gm
+r
+r
+Gm
+r
+r
+Gm
+r
+r
+n
+n
+n
+1
+1
+2
+1
+2
+2
+2
+2
+2
+
+	
+=−
+=∑
+i
+n
+i
+i
+i
+Gm
+r
+r
+1
+2
+.	
+(6.20)
+Figure 6.11  Superposition of two 
+gravitational field intensities giving 
+resultant field.
+ P
+E1
+
+r1
+
+r1
+
+E1
+
+Etot
+
+Etot
+
+E2
+
+E2
+
+m
+m
+Instead of discrete masses, if we have 
+continuous distribution of a total mass M, 
+then the gravitational field at a point P is 
+calculated using the method of integration.
+EXAMPLE 6.3
+(a)	Two particles of masses m and m
+1
+2
+ 
+ 
+ 
+are placed along the x and y axes 
+respectively at a distance ‘a’ from 
+the origin. Calculate the gravitational 
+field at a point P shown in figure 
+below.
+P
+y
+x
+m1
+m2
+a
+0
+a
+Solution
+Gravitational field due to m1 at a point P is 
+given by,
+	
+
+E
+Gm
+a
+j
+1
+1
+2
+=−
+Gravitational field due to m2 at the point p 
+is given by,
+	
+
+E
+Gm
+a
+i
+2
+2
+2
+=−
+	
+
+E
+Gm
+a
+j
+Gm
+a
+i
+total =−
+−
+1
+2
+2
+2
+	
+=−
++
+(
+)
+G
+a
+m
+m
+j
+i
+2
+1
+2 	
+The direction of the total gravitational field 
+is determined by the relative value of m1 
+and m2.
+UNIT-6(XI-Physics_Vol-2).indd   12
+UNIT-6(XI-Physics_Vol-2).indd   12
+02-01-2023   14:28:44
+02-01-2023   14:28:44
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 13
+
+PDF_PAGE: 21
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+13
+6.2.3  Gravitational Potential 
+Energy
+The concept of potential energy and its 
+physical meaning were dealt in unit 4. The 
+gravitational force is a conservative force and 
+hence we can define a gravitational potential 
+energy associated with this conservative 
+force field.
+Two masses m1 and m2 are initially 
+separated by a distance ′r . Assuming m1 to 
+be fixed in its position, work must be done 
+on m2 to move the distance from ′r to r as 
+shown in Figure 6.12(a)
+Figure 6.12  Two distant masses changing 
+the linear distance
+ m1
+ m2
+r′
+ m1
+ m2
++
+r
+r
+r
+dr
+dr
+ m2
+ m2
+(a)
+(b)
+To move the mass m2 through an infinitesimal 
+displacement dr from 
+
+
+r to r
+dr
+ 
+ +
+ (shown 
+in the Figure 6.12(b)), work has to be done 
+externally. This infinitesimal work is given by 
+	
+dW
+F
+dr
+ext
+=
+
+
+.
+ 
+	
+(6.21)
+The work is done against the gravitational 
+force, therefore,
+	
+
+
+F
+F
+Gm m
+r
+ext
+G
+=
+=
+1
+2
+2
+ 
+	
+(6.22)
+Substituting Equation (6.22) in 6.21, we get
+	
+dW
+Gm m
+r
+r dr
+=
+1
+2
+2
+.  
+	
+(6.23)
+When m
+m
+m
+1
+2
+=
+=
+	
+
+E
+Gm
+a
+i
+j
+total =−
++
+(
+)
+2
+(i
+j
+j
+i
++ = + as vectors obeys commutation 
+law).
+P
+y
+x
+m1
+m2
+a
+a
+0
+E1
+Etot
+E2
+
+Etotal points towards the origin of the 
+co-ordinate system and the magnitude of 
+
+Etotal is 2
+2
+Gm
+a
+.
+EXAMPLE 6.4
+Qualitatively indicate the gravitational 
+field of Sun on Mercury, Earth, and Jupiter 
+shown in figure.
+Since the gravitational field decreases 
+as distance increases, Jupiter experiences 
+a weak gravitational field due to the Sun. 
+Since Mercury is the nearest to the Sun, it 
+experiences the strongest gravitational field. 
+SOLAR SYSTEM
+Earth
+Sun
+Mercury
+Mars
+Venus
+Jupiter
+Saturn
+Uranus
+Neptune
+Solar System
+UNIT-6(XI-Physics_Vol-2).indd   13
+UNIT-6(XI-Physics_Vol-2).indd   13
+02-01-2023   14:28:50
+02-01-2023   14:28:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 14
+
+PDF_PAGE: 22
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+14
+  m1
+ m2
+r
+r′
+ m2
+(a)
+ m1
+ m2
+r
+r′
+ m2
+(b)
+Figure 6.13  Cases for calculation of 
+work done by gravity
+Case 2: If r
+r
+> ′
+Work has to be done against gravity to move 
+the object from ′r to r (Figure 6.13(b)). 
+Therefore work is done on the body by 
+external force and hence work done is 
+positive.
+It is to be noted that only potential 
+energy difference has physical significance. 
+Now gravitational potential energy can 
+be discussed by choosing one point as the 
+reference point.
+Let us choose   
+r
+. Then the second 
+term in the equation (6.28) becomes zero.
+	
+W
+Gm m
+r
+ 
+
+1
+2
+0	
+(6.29)
+Now we can define gravitational potential 
+energy of a system of two masses m1 
+and m2 separated by a distance r as the 
+amount of work done to take the mass m2 
+from a distance r to infinity assuming m1 
+to be fixed in its position and is written 
+as U r
+Gm m
+r
+   
+1
+2 . It is to be noted that 
+the gravitational potential energy of 
+the system consisting of two masses m1 
+and m2 separated by a distance r, is the 
+gravitational potential energy difference 
+of the system when the masses are 
+Also we know,
+	
+dr
+drr
+=
+	
+(6.24)
+ ⇒	dW
+Gm m
+r
+r drr
+=
+(
+)
+1
+2
+2
+.
+ 
+	
+(6.25)
+	
+r r
+since both are unit vectors
+. = (
+)
+1
+ 
+ 
+ 
+ 
+∴	 dW
+Gm m
+r
+dr
+=
+1
+2
+2
+ 
+	
+(6.26)
+Thus the total work done for displacing the 
+particle from ′r to r is
+	
+W
+dW
+Gm m
+r
+dr
+r
+r
+r
+r
+=
+=
+∫
+∫
+’
+’
+1
+2
+2
+	
+(6.27)
+	
+W
+Gm m
+r
+r
+r
+ 
+
+
+
+1
+2
+’
+	
+W
+Gm m
+r
+Gm m
+r
+ 
+
+
+1
+2
+1
+2 	
+(6.28)
+	
+W
+U r
+U r
+
+  
+
+ 
+	where U r
+Gm m
+r
+   
+1
+2
+This work done W gives the gravitational 
+potential energy difference of the system 
+of masses m1 and m2 when the separation 
+between them are r and ′r respectively. 
+Case 1: If r
+r
+ 
+Since gravitational force is attractive, 
+m2 is attracted by m1.Then m2 can move 
+from ′r to r without any external work 
+(Figure 6.13(a)). Here work is done by 
+the system spending its internal energy 
+and hence the work done is said to be 
+negative.
+UNIT-6(XI-Physics_Vol-2).indd   14
+UNIT-6(XI-Physics_Vol-2).indd   14
+02-01-2023   14:28:54
+02-01-2023   14:28:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 15
+
+PDF_PAGE: 23
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+15
+	
+U
+GM m
+r
+e
+ 
+	
+(6.30)
+Here r = Re+h, where Re is the radius of the 
+Earth. h is the height above the Earth’s surface
+	
+U
+G
+M m
+R
+h
+e
+e
+ 
+
+
+
+	
+(6.31)
+If h << Re, equation (6.31) can be 
+modified as
+	
+U
+G
+M m
+R
+h R
+e
+e
+e
+ 
+
+
+
+1
+/
+  	
+	
+U
+G M m
+R
+h R
+e
+e
+e
+ 
+
+
+
+
+1
+1
+/
+  	 (6.32)
+By using Binomial expansion and neglecting 
+the higher order terms, we get
+	
+U
+G M m
+R
+h
+R
+e
+e
+e
+= −
+−
+
+
+
+
+1
+.  	
+(6.33)
+We know that, for a mass m on the Earth’s 
+surface,
+	
+G M m
+R
+mgR
+e
+e
+e
+=
+	
+(6.34) 
+Substituting equation (6.34) in (6.33) we get,
+	
+U
+mgR
+mgh
+e
+ 
+
+	
+(6.35)
+It is clear that the first term in the above 
+expression is independent of the height 
+h. For example, if the object is taken from 
+separated by an infinite distance and by 
+distance r. U r
+U r
+U
+  
+  
+
+ . Here we 
+choose U 
+  = 0 as the reference point. 
+The gravitational potential energy U r  is 
+always negative because when two masses 
+come together slowly from infinity, work 
+is done by the system.
+The unit of gravitational potential energy 
+U r  is Joule and it is a scalar quantity. 
+The gravitational potential energy depends 
+upon the two masses and the distance 
+between them.
+6.2.4  Gravitational potential 
+energy near the surface of 
+the Earth
+It is already discussed in chapter 4 that when 
+an object of mass m is raised to a height h, 
+the potential energy stored in the object is 
+mgh (Figure 6.14). This can be derived using 
+the general expression for gravitational 
+potential energy.
+Figure 6.14  Mass placed at a distance r 
+from the center of the Earth
+m
+Re
+ h
+o
+r
+h << Re
+Consider the Earth and mass system, 
+with r, the distance between the mass m and 
+the Earth’s centre. Then the gravitational 
+potential energy,
+UNIT-6(XI-Physics_Vol-2).indd   15
+UNIT-6(XI-Physics_Vol-2).indd   15
+02-01-2023   14:28:57
+02-01-2023   14:28:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 16
+
+PDF_PAGE: 24
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+16
+The gravitational potential at a distance 
+r due to a mass is defined as the amount of 
+work required to take unit mass from the 
+distance r to infinity and it is denoted as V(r). 
+In other words, the gravitational potential 
+at distance r is equivalent to gravitational 
+potential energy per unit mass at the same 
+distance r. It is a scalar quantity and its 
+unit is J kg-1
+We can determine gravitational potential 
+from 
+gravitational 
+potential 
+energy. 
+Consider two masses m1 and m2 separated 
+by a distance r which has gravitational 
+potential energy U r  (Figure 6.15). The 
+gravitational potential due to mass m1 at a 
+point P which is at a distance r from m1 is 
+obtained by making m2 equal to unity (m2 = 
+1kg). Thus the gravitational potential V r  
+due to mass m1 at a distance r is
+	
+V r
+Gm
+r
+   
+1 	
+(6.39)
+m1
+r
+P
+Figure 6.15  Point 
+mass placed at a 
+distance 
+Gravitational field and gravitational force are 
+vector quantities whereas the gravitational 
+potential 
+and 
+gravitational 
+potential 
+energy are scalar quantities. The motion of 
+particles can be easily analyzed using scalar 
+quantities than vector quantities. Consider 
+the example of a falling apple:
+Figure 6.16 shows an apple which falls 
+on Earth due to Earth’s gravitational force. 
+This can be explained using the concept of 
+gravitational potential V r  as follows.
+height h1 to h2,then the potential energy 
+at h1 is
+	
+U h
+mgR
+mgh
+e
+1
+1
+   
+
+  	 (6.36)
+and the potential energy at h2 is
+     
+U h
+mgR
+mgh
+e
+2
+2
+
+  
+
+ 
+	
+(6.37)
+The potential energy difference between h1 
+and h2 is
+    U h
+U h
+mg h
+h
+2
+1
+2
+1
+( ) −
+( ) =
+−
+(
+).	
+(6.38)
+The term mgRe in equations (6.36) and (6.37) 
+plays no role in the result. Hence in the 
+equation (6.35) the first term can be omitted 
+or taken to zero. Thus it can be stated that 
+The gravitational potential energy stored 
+in the particle of mass m at a height h from 
+the surface of the Earth is U
+mgh
+=
+. On the 
+surface of the Earth, U = 0, since h is zero. 
+It is to be noted that mgh is the work 
+done on the particle when we take the mass 
+m from the surface of the Earth to a height 
+h. This work done is stored as a gravitational 
+potential energy in the mass m. Even though 
+mgh is gravitational potential energy of the 
+system (Earth and mass m), we can take 
+mgh as the gravitational potential energy of 
+the mass m since Earth is stationary when 
+the mass moves to height h.
+6.2.5  Gravitational potential V(r)
+It is explained in the previous sections that 
+the gravitational field 
+
+E depends only on the 
+source mass which creates the field. It is a 
+vector quantity. We can also define a scalar 
+quantity called “gravitational potential” 
+which depends only on the source mass.
+UNIT-6(XI-Physics_Vol-2).indd   16
+UNIT-6(XI-Physics_Vol-2).indd   16
+02-01-2023   14:28:59
+02-01-2023   14:28:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 17
+
+PDF_PAGE: 25
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+17
+EXAMPLE 6.5
+Water falls from the top of a hill to the 
+ground. Why?
+This is because the top of the hill is a 
+point of higher gravitational potential than 
+the surface of the Earth i.e.V
+V
+hill
+ground
+>
+Water falling from hill top
+Vhill
+Vground
+The motion of particles can be analyzed 
+more easily using scalars like U r
+or V r
+ 
+ 
+ 
+ 
+ 
+than vector quantities like F or E
+
+
+ 
+ . In 
+modern theories of physics, the concept of 
+potential plays a vital role.
+EXAMPLE 6.6
+Consider four masses m1, m2, m3, and m4 
+arranged on the circumference of a circle 
+as shown in figure below
+ m1
+ m2
+ m3
+ m4
+o
+R
+o
+Force picture
+Gravity pulls
+downwards
+Lower gravitational
+potential
+Higher gravitational
+potential
+Potential picture
+o
+o
+Figure 6.16  Apple falling freely under 
+gravity
+The gravitational potential V r  at a 
+point of height h from the surface of the 
+Earth is given by,
+	
+V r
+R
+h
+GM
+R
+h
+e
+
+
+
+  
+
+
+
+ 
+	 (6.40)
+The gravitational potential V r  on the 
+surface of Earth is given by,
+	
+V r
+R
+GM
+R
+e
+
+
+  
+ 
+	
+(6.41)
+Thus we see that
+	
+V r
+R
+V r
+R
+h
+=
+(
+) <
+=
++
+(
+).  	 (6.42)
+It is already discussed in the previous section 
+that the gravitational potential energy near 
+the surface of the Earth at height h is mgh. 
+The gravitational potential at this point is 
+simply V h
+U h
+m
+  
+ / = gh. In fact, the 
+gravitational potential on the surface of the 
+Earth is zero since h is zero. So the apple 
+falls from a region of a higher gravitational 
+potential to a region of lower gravitational 
+potential. In general, the mass will move 
+from a region of higher gravitational 
+potential to a region of lower gravitational 
+potential.
+UNIT-6(XI-Physics_Vol-2).indd   17
+UNIT-6(XI-Physics_Vol-2).indd   17
+02-01-2023   14:29:03
+02-01-2023   14:29:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 18
+
+PDF_PAGE: 26
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+18
+	
+U
+GM
+R
+ 
+
+
+
+2
+1
+2 2   	
+The gravitational potential V(r) at a point 
+O is equal to the sum of the gravitational 
+potentials due to individual mass. Since 
+potential is a scalar, the net potential at 
+point O is the algebraic sum of potentials 
+due to each mass.
+	
+V
+r
+Gm
+R
+Gm
+R
+Gm
+R
+Gm
+R
+O    
+
+
+
+1
+2
+3
+4
+	
+If m
+m
+m
+m
+M
+1
+2
+3
+4
+=
+=
+=
+=
+  	
+	
+V
+r
+GM
+R
+O     4
+ 
+	
+Calculate 
+(a)	The gravitational potential energy of 
+the system of 4 masses shown in figure.
+(b)	The gravitational potential at the point 
+O due to all the 4 masses.
+Solution
+The gravitational potential energy U r  
+can be calculated by finding the sum of 
+gravitational potential energy of each pair 
+of particles.
+U
+Gm m
+r
+Gm m
+r
+Gm m
+r
+Gm m
+r
+Gm m
+r
+Gm m
+r
+ 
+
+
+
+
+
+1
+2
+12
+1
+3
+13
+1
+4
+14
+2
+3
+23
+2
+4
+24
+3
+4
+34
+Here r12, r13 ... are distance between pair 
+of particles
+	
+r
+R
+R
+R
+14
+2
+2
+2
+2
+2
+
+
+
+	
+r
+R
+r
+r
+r
+14
+12
+23
+34
+2
+=
+=
+=
+=
+	
+r
+r
+R
+13
+24
+2
+=
+=
+U
+Gm m
+R
+Gm m
+R
+Gm m
+R
+Gm m
+R
+Gm m
+R
+Gm m
+R
+ 
+
+
+
+
+
+1
+2
+1
+3
+1
+4
+2
+3
+2
+4
+3
+4
+2
+2
+2
+2
+2
+2
+   
+U
+G
+R
+m m
+m m
+m m
+m m
+m m
+m m
+ 
+
+
+
+
+
+
+
+
+
+1
+2
+1
+3
+1
+4
+2
+3
+2
+4
+3
+4
+2
+2
+2
+2
+2
+2
+	
+If all the masses are equal, then 
+m
+m
+m
+m
+M
+1
+2
+3
+4
+=
+=
+=
+=
+U
+GM
+R
+ 
+
+
+
+
+
+
+
+
+
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+	 U
+GM
+R
+ 
+
+
+
+
+
+2
+1
+4
+2
+6.3
+ACCELERATION DUE TO 
+GRAVITY OF THE EARTH
+When objects fall on the Earth, the 
+acceleration of the object is towards the 
+Earth. From Newton’s second law, an 
+object is accelerated only under the action 
+of a force. In the case of Earth, this force is 
+the gravitational pull of Earth. This force 
+produces a constant acceleration near the 
+Earth’s surface in all bodies, irrespective of 
+their masses. The gravitational force exerted 
+by Earth on the mass m near the surface of 
+the Earth is given by
+	
+
+F
+GmM
+R
+r
+e
+e
+=−
+2
+ˆ
+Now equating Gravitational force to 
+Newton’s second law,
+UNIT-6(XI-Physics_Vol-2).indd   18
+UNIT-6(XI-Physics_Vol-2).indd   18
+02-01-2023   14:29:08
+02-01-2023   14:29:08
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 19
+
+PDF_PAGE: 27
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+19
+Figure 6.17(a)  Mass at a height h from 
+the center of the Earth
+m
+Re
+h
+O
+	
+ 
+
+
+
+
+
+
+
+g
+GM
+R
+h
+R
+e
+e
+2
+2
+1
+ 
+	
+	
+ 
+
+
+
+
+
+
+
+
+g
+GM
+R
+h
+R
+e
+e
+2
+2
+1
+ 
+If h
+Re
+
+We can use Binomial expansion. Taking the 
+terms upto first order
+	
+ 
+
+
+
+
+
+
+
+g
+GM
+R
+h
+R
+e
+e
+2
+1
+2
+	
+ 
+
+
+
+
+
+
+
+g
+g
+h
+Re
+1
+2
+	
+(6.46)
+We find that 
+ 
+g
+g. This means that as 
+altitude h increases the acceleration due to 
+gravity g decreases.
+	
+ma
+GmM
+R
+r
+e
+e
+ =−
+2
+ˆ
+hence, acceleration is,
+	
+a
+GM
+R
+r
+e
+e
+=−
+2 ˆ	
+(6.43)
+The acceleration experienced by the object 
+near the surface of the Earth due to its 
+gravity is called acceleration due to gravity. 
+It is denoted by the symbol g. The magnitude 
+of acceleration due to gravity is
+	
+g
+g
+GM
+R
+e
+e
+=
+=
+2 	
+(6.44)
+It is to be noted that the acceleration 
+experienced by any object is independent 
+of its mass. The value of g depends only on 
+the mass and radius of the Earth. Infact, 
+Galileo arrived at the same conclusion 400 
+years ago that all objects fall towards the 
+Earth with the same acceleration through 
+various quantitative experiments. The 
+acceleration due to gravity g is found to be 
+9.8 m s−2 on the surface of the Earth near 
+the equator.
+6.3.1  Variation of g with 
+altitude, depth and 
+latitude
+Consider an object of mass m at a height h 
+from the surface of the Earth. Acceleration 
+experienced by the object due to Earth is
+	
+ 
+
+g
+GM
+R
+h
+e
+(
+)2 	
+(6.45).
+UNIT-6(XI-Physics_Vol-2).indd   19
+UNIT-6(XI-Physics_Vol-2).indd   19
+02-01-2023   14:29:10
+02-01-2023   14:29:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 20
+
+PDF_PAGE: 28
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+20
+The above two examples show that the 
+acceleration due to gravity is a constant 
+near the surface of the Earth. 
+Can we substitute h = Re in 
+the equation 6.46? No. To get 
+equation 6.46 we assumed 
+that h << Re. However h = 
+Re can be substituted in equation 6.45.
+Note
+Variation of g with depth:
+Consider a particle of mass m which is in 
+a deep mine on the Earth. (Example: coal 
+mines in Neyveli). Assume the depth of 
+the mine as d. To calculate ′g at a depth d, 
+consider the following points.
+m
+R
+(R-d)
+d
+O
+Figure 6.17(b)  Particle in a mine
+The part of the Earth which is above the 
+radius (R
+d
+e −) do not contribute to the 
+acceleration. The result is proved earlier and 
+is given as
+	
+ 
+
+
+
+
+g
+GM
+R
+d
+e
+2 	
+(6.47)
+Here M ’ is the mass of the Earth of radius
+R
+d
+e 
+
+
+Assuming the density of Earth ρ to be 
+constant,
+	
+  M
+V
+	
+(6.48)
+EXAMPLE 6.7
+1.	 Calculate the value of g in the following 
+two cases:
+	
+(a)  If a mango of mass ½ kg falls from 
+a tree from a height of 15 meters, 
+what is the acceleration due to 
+gravity when it begins to fall?
+Solution
+	
+ 
+
+
+
+
+
+
+
+g
+g
+h
+Re
+1
+2
+	
+ 
+
+
+
+
+
+
+
+g
+9 8 1
+2 15
+6400 103
+.
+	
+′ =
+−
+×
+(
+)
+−
+g
+9 8 1
+0 469 10 5
+.
+.
+	
+But  1
+0 00000469
+1
+−
+≅
+.
+	
+	
+Therefore  
+g
+g	
+	
+(b)  Consider a satellite orbiting the 
+Earth in a circular orbit of radius 
+1600 km above the surface of the 
+Earth. What is the acceleration 
+experienced by the satellite due to 
+Earth’s gravitational force?
+Solution
+	
+ 
+
+
+
+
+
+
+
+g
+g
+h
+Re
+1
+2
+	
+ 
+
+
+
+
+
+
+
+
+
+
+g
+g 1
+2 1600 10
+6400 10
+3
+3
+	
+ 
+
+
+
+
+
+g
+g 1
+2
+4
+	
+ 
+
+
+
+
+ 
+g
+g
+g
+1
+1
+2
+2
+/
+UNIT-6(XI-Physics_Vol-2).indd   20
+UNIT-6(XI-Physics_Vol-2).indd   20
+02-01-2023   14:29:13
+02-01-2023   14:29:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 21
+
+PDF_PAGE: 29
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+21
+Variation of g with latitude:
+Whenever we analyze the motion of objects 
+in rotating frames [explained in chapter 3] we 
+must take into account the centrifugal force. 
+Even though we treat the Earth as an inertial 
+frame, it is not exactly correct because the 
+Earth spins about its own axis. So when 
+an object is on the surface of the Earth, it 
+experiences a centrifugal force that depends 
+on the latitude of the object on Earth. If the 
+Earth were not spinning, the force on the 
+object would have been mg. However, the 
+object experiences an additional centrifugal 
+force due to spinning of the Earth.
+R
+R
+Z
+E
+P
+Q
+
+
+
+
+mg
+Fc
+
+O
+=m2 
+R
+Figure 6.18  Variation of g with latitude
+This centrifugal force is given by m
+R
+ω2 ¢.
+	
+ 
+R
+Rcos	
+(6.51)
+where λ is the latitude. The component of 
+centrifugal acceleration experienced by the 
+object in the direction opposite to g is
+	
+a
+R
+R
+PQ=
+ʹ
+=
+ω
+λ
+ω
+λ
+2
+2
+2
+cos
+cos
+	
+since ′ =
+R
+Rcosλ
+where M is the mass of the Earth and V its 
+volume, Thus,
+	
+ 
+
+
+M
+V
+	
+
+ 
+M
+V
+M
+V
+ and 
+ 
+
+M
+M
+V V
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M
+M
+R
+R
+d
+e
+e
+4
+3
+4
+3
+3
+3
+
+(
+)
+	
+ 
+
+M
+M
+R
+R
+d
+e
+e
+3
+3
+(
+) 	
+(6.49)
+Substituting equation (6.49) in equation 
+(6.47)
+	
+ 
+
+
+
+
+g
+G M
+R
+R
+d
+R
+d
+e
+e
+e
+3
+3
+2
+1
+(
+) .
+	
+ 
+
+
+
+
+
+
+
+g
+GM
+R
+d
+R
+R
+e
+e
+e
+1
+3
+	
+ 
+
+
+
+
+
+
+
+g
+GM
+d
+R
+R
+e
+e
+1
+2
+Thus
+	
+ 
+
+
+
+
+
+
+
+g
+g
+d
+Re
+1
+	
+(6.50)
+Here also 
+′ <
+g
+g . As depth increases, 
+′g 
+decreases. It is very interesting to know that 
+acceleration due to gravity is maximum on 
+the surface of the Earth but decreases when 
+we go either upward or downward.
+UNIT-6(XI-Physics_Vol-2).indd   21
+UNIT-6(XI-Physics_Vol-2).indd   21
+02-01-2023   14:29:17
+02-01-2023   14:29:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 22
+
+PDF_PAGE: 30
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+22
+6.4
+ESCAPE SPEED AND 
+ORBITAL SPEED
+Hydrogen and helium are the most abundant 
+elements in the universe but Earth’s atmosphere 
+consists mainly of nitrogen and oxygen. The 
+following discussion brings forth the reason 
+why hydrogen and helium are not found in 
+abundance on the Earth’s atmosphere. When 
+an object is thrown up with some initial speed 
+it will reach a certain height after which it 
+will fall back to Earth. If the same object is 
+thrown again with a higher speed, it reaches a 
+greater height than the previous one and falls 
+back to Earth. This leads to the question of 
+what should be the speed of an object thrown 
+vertically up such that it escapes the Earth’s 
+gravity and would never come back. This 
+speed is called “Escape speed” and it is defined 
+as “the minimum speed required for a body to 
+escape from the earth’s gravitational pull”.
+Consider an object of mass M on the 
+surface of the Earth. When it is thrown 
+up with an initial speed vi, the initial total 
+energy of the object is
+	
+E
+Mv
+GMM
+R
+i
+i
+E
+E
+
+
+1
+2
+2
+ 
+	
+(6.53)
+where, ME is the mass of the Earth and RE- 
+the radius of the Earth. The term − GMM
+R
+E
+E
+ 
+is the potential energy of the mass M.
+When the object reaches a height far 
+away from Earth and hence treated as 
+approaching 
+infinity, 
+the 
+gravitational 
+potential energy becomes zero [U 
+   0] 
+and the kinetic energy becomes zero as 
+well. Therefore the final total energy of the 
+Therefore,
+	
+ 
+
+g
+g
+R
+
+
+2
+2
+cos
+ 
+	
+(6.52)
+From the expression (6.52), we can infer 
+that at equator,   0; 
+ 
+
+g
+g
+R
+2 . The 
+acceleration due to gravity is minimum. At 
+poles λ=
+°
+90 ;  
+g
+g, it is maximum. At the 
+equator, g is minimum.
+EXAMPLE 6.8
+Find out the value of 
+′g in your school 
+laboratory? 
+Solution
+Calculate the latitude of the city or village 
+where the school is located. The information 
+is available in Google search. For example, 
+the latitude of Chennai is approximately 13 
+degree.
+	
+′ =
+−
+g
+g
+R
+ω
+λ
+2
+2
+cos
+Here ω2R = (2x3.14/86400)2 x (6400x103) = 
+3.4x10−2 m s−2.
+It is to be noted that the value of λ 
+should be in radian and not in degree. 13 
+degree is equivalent to 0.2268 rad. 
+′ =
+−
+×
+(
+)×(
+)
+−
+g
+9 8
+3 4
+10
+0 2268
+2
+2
+.
+.
+cos .
+	
+ 
+g
+9 7677
+.
+ m s−2
+Points to Contemplate
+Suppose you move towards east-west 
+along the same latitude. Will the value 
+of ′g change?
+UNIT-6(XI-Physics_Vol-2).indd   22
+UNIT-6(XI-Physics_Vol-2).indd   22
+02-01-2023   14:29:20
+02-01-2023   14:29:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 23
+
+PDF_PAGE: 31
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+23
+in which the object is thrown. Irrespective of 
+whether the object is thrown vertically up, 
+radially outwards or tangentially it requires 
+the same initial speed to escape Earth’s 
+gravity. It is shown in Figure 6.19
+Earth
+Figure 6.19  Escape speed independent 
+of angle
+Lighter molecules such as hydrogen and 
+helium have enough speed to escape from 
+the Earth, unlike the heavier ones such as 
+nitrogen and oxygen. (The average speed of 
+hydrogen and helium atoms compaired with 
+the escape speed of the Earth,is presented in 
+the kinetic theory of gases, unit 9). 
+6.4.1  Satellites, orbital 
+speed and time period
+We are living in a modern world with 
+sophisticated technological gadgets and 
+are able to communicate to any place 
+on Earth. This advancement was made 
+possible because of our understanding 
+of solar system. Communication mainly 
+depends on the satellites that orbit the Earth 
+(Figure 6.20). Satellites revolve around the 
+Earth just like the planets revolve around 
+the Sun. Kepler’s laws are applicable to man-
+made satellites also.
+object becomes zero. This is for minimum 
+energy and for minimum speed to escape. 
+Otherwise Kinetic energy can be nonzero.
+	
+E f = 0
+According to the law of energy conservation,
+	
+E
+E
+i
+f
+=
+	
+(6.54)
+Substituting (6.53) in (6.54) we get,
+	
+1
+2
+0
+2
+Mv
+GMM
+R
+i
+E
+E
+
+
+	
+1
+2
+2
+Mv
+GMM
+R
+i
+E
+E
+=
+	
+(6.55)
+Consider the escape speed, the minimum 
+speed required by an object to escape 
+Earth’s  gravitational field, hence replace 
+vi with ve. i.e,
+	
+1
+2
+2
+Mv
+GMM
+R
+e
+E
+E
+=
+	
+v
+GMM
+R
+M
+e
+E
+E
+2
+2
+=
+.
+	
+v
+GM
+R
+e
+E
+E
+2
+2
+=
+Using g
+GM
+R
+E
+E
+=
+2 ,
+	
+v
+gR
+e
+E
+2
+2
+=
+	
+v
+gR
+e
+E
+=
+2
+	
+(6.56)
+From equation (6.56) the escape speed 
+depends on two factors: acceleration due 
+to gravity and radius of the Earth. It is 
+completely independent of the mass of 
+the  object. By substituting the values of g 
+(9.8 m s−2) and R
+km
+e = 6400
+, the escape 
+speed of the Earth is v
+kms
+e
+-1
+=11 2.
+. The 
+escape speed is independent of the direction 
+UNIT-6(XI-Physics_Vol-2).indd   23
+UNIT-6(XI-Physics_Vol-2).indd   23
+02-01-2023   14:29:23
+02-01-2023   14:29:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 24
+
+PDF_PAGE: 32
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+24
+From equation (6.58) 
+ 
+GM
+R
+h
+R
+h
+T
+E
+E
+E
+
+
+
+
+
+
+
+2
+ 
+	
+(6.59)
+	
+T
+GM
+R
+h
+E
+E
+
+
+
+
+2
+3 2
+
+/   	
+(6.60)
+Squaring both sides of the equation (6.60), 
+we get
+	
+T
+GM
+R
+h
+E
+E
+2
+2
+3
+4
+
+
+
+
+
+	
+	
+4
+2
+π
+GM
+c
+E
+= constant say 	
+	
+T
+c R
+h
+E
+2
+3
+
+
+
+ 	
+(6.61)
+Equation (6.61) implies that a satellite 
+orbiting the Earth has the same relation 
+between time and distance as that of Kepler’s 
+law of planetary motion. For a satellite 
+orbiting near the surface of the Earth, h is 
+negligible compared to the radius of the 
+Earth RE. Then,
+	
+T
+GM R
+E
+E
+2
+2
+3
+4
+
+
+	
+T
+GM
+R
+R
+E
+E
+E
+2
+2
+2
+4
+
+
+	
+T
+g RE
+2
+2
+4
+ 
+	
+sinceGM
+R
+g
+E
+E
+2 =
+	
+T
+R
+g
+E
+ 2
+	
+(6.62)
+For a satellite of mass M to move in a 
+circular orbit, centripetal force must be 
+acting on the satellite. This centripetal force 
+is provided by the Earth’s gravitational force.
+satellite
+h
+Figure 6.20  Satellite revolving around 
+the Earth.
+	
+Mv
+R
+h
+GMM
+R
+h
+E
+E
+E
+2
+2
++
+(
+)
+=
++
+(
+)
+ 
+	
+(6.57)
+	
+v
+GM
+R
+h
+E
+E
+2 =
++
+(
+)
+	
+v
+GM
+R
+h
+E
+E
+=
++
+(
+)
+	
+(6.58)
+As h increases, the speed of the satellite 
+decreases.
+Time period of the satellite:
+The distance covered by the satellite 
+during one rotation in its orbit is equal to 
+2 R
+h
+E 
+
+ and time taken for it is the time 
+period, T. Then
+Speed v
+Distance travelled
+Time taken
+R
+h
+T
+E
+ 
+ 
+ 
+
+
+
+
+
+2
+UNIT-6(XI-Physics_Vol-2).indd   24
+UNIT-6(XI-Physics_Vol-2).indd   24
+02-01-2023   14:29:28
+02-01-2023   14:29:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 25
+
+PDF_PAGE: 33
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+25
+By substituting these values, the distance to 
+the Moon from the surface of the Earth is 
+calculated to be 3.77 ×105 km.
+6.4.2  Energy of an Orbiting 
+Satellite
+The total energy of a satellite orbiting 
+the Earth at a distance h from the surface 
+of Earth is calculated as follows; The 
+total energy of the satellite is the sum of 
+its kinetic energy and the gravitational 
+potential energy. The potential energy of the 
+satellite is,
+	
+U
+GM M
+R
+h
+s
+E
+E
+ 
+
+
+
+ 
+	
+(6.63)
+Here Ms - mass of the satellite, ME - mass of 
+the Earth, RE - radius of the Earth. 
+The Kinetic energy of the satellite is
+	
+K E
+M v
+s
+.
+= 1
+2
+2	
+(6.64)
+Here v is the orbital speed of the satellite 
+and is equal to
+	
+v
+GM
+R
+h
+E
+E
+=
++
+(
+)
+	
+(6.65)
+Substituting the value of v in (6.64), the 
+kinetic energy of the satellite becomes,
+	
+K E
+GM M
+R
+h
+E
+s
+E
+.
+
+
+
+
+1
+2
+By substituting the values of RE =
+×
+6 4
+106
+.
+m 
+and g = 9.8 m s−2, the orbital time period is 
+obtained as T ≅85 minutes.
+EXAMPLE 6.9
+Moon is the natural satellite of Earth and 
+it takes 27 days to go once around its orbit. 
+Calculate the distance of the Moon from 
+the surface of the Earth assuming the orbit 
+of the Moon as circular.
+Solution
+We can use Kepler’s third law,
+	
+ T
+c R
+h
+E
+2
+3
+
+
+
+ 	
+	
+T
+c
+R
+h
+E
+2 3
+1 3
+/
+/
+
+
+
+
+	
+T
+c
+R
+h
+E
+2
+1 3
+
+
+
+
+
+
+
+
+
+
+/
+	
+ T GM
+R
+h
+E
+E
+2
+2
+1
+3
+4
+
+
+
+
+
+ 
+
+
+;
+	
+c
+GME
+ 4
+2
+
+	
+h
+T GM
+R
+E
+E
+ 
+
+
+
+
+
+
+2
+2
+1 3
+4
+/
+Here h is the distance of the Moon from 
+the surface of the Earth. Here,
+	
+RE – radius of the Earth = 6.4 ×106m
+	 ME – mass of the Earth = 6.02 ×1024 kg
+    G – Universal gravitational  
+        constant = 6.67 ×
+−
+10 11
+2
+Nm
+kg
+2
+UNIT-6(XI-Physics_Vol-2).indd   25
+UNIT-6(XI-Physics_Vol-2).indd   25
+02-01-2023   14:29:33
+02-01-2023   14:29:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 26
+
+PDF_PAGE: 34
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+26
+	 Em  
+
+
+
+
+
+
+
+
+
+6 67 10
+6 02 10
+7 35 10
+2 3 84 10
+10
+11
+24
+22
+5
+3
+.
+.
+.
+.
+	
+Em  
+
+
+
+38 42 10
+10
+19
+46
+.
+	
+Em = −
+×
+38 42
+1027
+.
+joule
+The negative energy implies that the Moon 
+is bound to the Earth. 
+Same method can be used to prove that 
+the energy of the Earth is also negative.
+6.4.3  Geo-stationary and 
+polar satellite
+The satellites orbiting the Earth have 
+different time periods corresponding to 
+different orbital radii. Can we calculate the 
+orbital radius of a satellite if its time period 
+is 24 hours? 
+Kepler’s third law is used to find the 
+radius of the orbit.
+	
+T
+GM
+R
+h
+E
+E
+2
+2
+3
+4
+
+
+
+
+
+	
+R
+h
+GM T
+E
+E
+
+
+ 
+3
+2
+2
+4
+	
+R
+h
+GM T
+E
+E
+
+ 
+
+
+
+
+
+2
+2
+1 3
+4
+/
+Substituting for the time period (24 hrs 
+= 86400 seconds), mass, and radius of the 
+Earth, h turns out to be 36,000 km. Such 
+satellites are called “geo-stationary satellites”, 
+since they appear to be stationary when seen 
+from Earth.
+India uses the INSAT group of satellites 
+that are basically geo-stationary satellites for 
+the purpose of telecommunication. Another 
+type of satellite which is placed at a distance 
+Therefore the total energy of the satellite is
+	
+E
+GM M
+R
+h
+GM M
+R
+h
+E
+s
+E
+s
+E
+E
+
+
+
+
+
+
+
+
+1
+2
+	
+E
+GM M
+R
+h
+s
+E
+E
+ 
+
+
+
+2
+	
+(6.66)
+The negative sign in the total energy implies 
+that the satellite is bound to the Earth and it 
+cannot escape from the Earth.
+As h approaches ¥, the total energy 
+tends to zero. Its physical meaning is that 
+the satellite is completely free from the 
+influence of Earth’s gravity and is not bound 
+to Earth at large distances.
+EXAMPLE 6.10
+Calculate the energy of the (i) Moon 
+orbiting the Earth and (ii) Earth orbiting 
+the Sun.
+Solution
+Assuming the orbit of the Moon to be 
+circular, the energy of Moon is given by,
+	
+E
+GM M
+R
+m
+E
+m
+m
+ 
+2
+where 
+ME 
+is 
+the 
+mass 
+of 
+Earth 
+6.02 ×1024 kg; Mmis the mass of Moon 
+7.35 ×1022 kg; and Rm is the distance 
+between the Moon and the center of the 
+Earth 3.84 ×105km
+	
+G = 6.67 
+
+10 11N m2 kg−2.
+UNIT-6(XI-Physics_Vol-2).indd   26
+UNIT-6(XI-Physics_Vol-2).indd   26
+02-01-2023   14:29:37
+02-01-2023   14:29:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 27
+
+PDF_PAGE: 35
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+27
+6.4.4  Weightlessness
+Weight of an object
+Objects on Earth experience the gravitational 
+force of Earth. The gravitational force acting 
+on an object of mass m is mg. This force 
+always acts downwards towards the center 
+of the Earth. When we stand on the floor, 
+there are two forces acting on us. One is 
+the gravitational force, acting downwards 
+and the other is the normal force exerted 
+by the floor upwards on us to keep us at 
+rest. The weight of an object W
+
+ is defined 
+as the downward force whose magnitude 
+W is equal to that of upward force that must 
+be applied to the object to hold it at rest or 
+at constant velocity relative to the earth. 
+The direction of weight is in the direction 
+of gravitational force. So the magnitude of 
+of 500 to 800 km from the surface of the 
+Earth orbits the Earth from north to south 
+direction. This type of satellite that orbits 
+Earth from North Pole to South Pole is 
+called a polar satellite. The time period of a 
+polar satellite is nearly 100 minutes and the 
+satellite completes many revolutions in a day. 
+A Polar satellite covers a small strip of area 
+from pole to pole during one revolution. In 
+the next revolution it covers a different strip 
+of area since the Earth would have moved 
+by a small angle. In this way polar satellites 
+cover the entire surface area of the Earth.
+Strip
+Figure 6.22  Strip of communication 
+region, covered by a polar satellite.
+Polar orbit
+Polar orbiting
+satellite
+Geostationary
+satellite
+Geostationary
+orbit
+Figure 6.21  Polar orbit and geostationary satellite
+UNIT-6(XI-Physics_Vol-2).indd   27
+UNIT-6(XI-Physics_Vol-2).indd   27
+02-01-2023   14:29:39
+02-01-2023   14:29:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 28
+
+PDF_PAGE: 36
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+28
+Hence, in this case also the apparent weight 
+of the man is equal to his actual weight. It is 
+shown in Figure 6.23(a)
+Case (iii) When the elevator is accelerating 
+upwards 
+If an elevator is moving with upward 
+acceleration (
+)
+a
+aj
+=
+ with respect to inertial 
+frame (ground), applying Newton’s second 
+law on the man,
+	
+
+
+
+F
+N
+ma
+G +
+=
+	
+Writing the above equation in terms of unit 
+vector in the vertical direction,
+	
+−
++
+=
+mgj
+Nj
+maj 	
+By comparing the components, 
+	
+N = m (g + a )	
+(6.68)
+Therefore, apparent weight of the man is 
+greater than his actual weight. It is shown in 
+Figure 6.23(b)
+Case (iv) When the elevator is accelerating 
+downwards 
+If the elevator is moving with downward 
+acceleration 
+( a
+aj
+=−ˆ), 
+by 
+applying 
+Newton’s second law on the man, we can 
+write
+	
+
+
+
+F
+N
+ma
+G 
+
+	
+Writing the above equation in terms of unit 
+vector in the vertical direction,
+	
+−
++
+=−
+mgj
+Nj
+maj 	
+By comparing the components, 
+	
+N = m (g − a )	
+(6.69)
+weight of an object is denoted as, W=N=mg. 
+Note that even though magnitude of weight 
+is equal to mg, it is not same as gravitational 
+force acting on the object.
+Apparent weight in elevators
+Everyone who used an elevator would have 
+felt a jerk when the elevator takes off or stops. 
+Why does it happen? Understanding the 
+concept of weight is crucial for explaining 
+this effect. Let us consider a man inside an 
+elevator in the following scenarios.
+When a man is standing in the elevator, 
+there are two forces acting on him.
+1.	 Gravitational 
+force 
+which 
+acts 
+downward. If we take the vertical 
+direction as positive y direction, the 
+gravitational force acting on the man is 
+
+F
+mgj
+G =−
+2.	 The normal force exerted by floor on 
+the man which acts vertically upward, 
+
+N
+Nj
+=
+Case (i) When the elevator is at rest 
+The acceleration of the man is zero. Therefore 
+the net force acting on the man is zero. With 
+respect to inertial frame (ground), applying 
+Newton’s second law on the man,
+	
+
+
+F
+N
+mgj
+Nj
+G +
+=
+−
++
+=
+0
+0
+	
+By comparing the components, we can write
+	
+N – mg = 0 (or) N = mg	
+(6.67)
+Since weight, W =N, the apparent weight of 
+the man is equal to his actual weight. 
+Case (ii) When the elevator is moving 
+uniformly in the upward or downward 
+direction 
+In uniform motion (constant velocity), the 
+net force acting on the man is still zero. 
+UNIT-6(XI-Physics_Vol-2).indd   28
+UNIT-6(XI-Physics_Vol-2).indd   28
+02-01-2023   14:29:41
+02-01-2023   14:29:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 29
+
+PDF_PAGE: 37
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+29
+Therefore, apparent weight W = N = m(g-a) 
+of the man is lesser than his actual weight. It 
+is shown in Figure 6.23(c)
+Weightlessness of freely 
+falling bodies
+Freely falling objects experience only 
+gravitational force. As they fall freely, they 
+are not in contact with any surface (by 
+neglecting air friction). The normal force 
+acting on the object is zero. The downward 
+acceleration is equal to the acceleration due 
+to the gravity of the Earth. i.e (a = g). From 
+equation (6.69) we get.
+	
+ a = g  ∴ N = m (g – g) = 0. 	
+This is called the state of weightlessness. When 
+the lift falls (when the lift wire cuts) with 
+downward acceleration a = g, the person inside 
+the elevator is in the state of weightlessness or 
+free fall. It is shown in Figure 6.23(d)
+When the apple was falling from the 
+tree it was weightless.As soon as it hit 
+Newton’s head, it gained weight! and 
+Newton gained physics!
+Weightlessness in satellites:
+There is a wrong notion that the astronauts 
+in satellites experience no gravitational force 
+because they are far away from the Earth. 
+Actually the Earth satellites that orbit very 
+close to Earth experience only gravitational 
+force. The astronauts inside the satellite also 
+experience the same gravitational force. 
+Because of this, they cannot exert any force on 
+the floor of the satellite. Thus, the floor of the 
+satellite also cannot exert any normal force on 
+the astronaut. Therefore, the astronauts inside 
+a satellite are in the state of weightlessness. Not 
+only the astronauts, but all the objects in the 
+satellite will be in the state of weightlessness 
+which is similar to that of a free fall. It is 
+shown in the Figure 6.24.
+a
+a
+v
+g
+Figure 6.23  Apparent weight in the lift
+(a)
+(b)
+(c)
+(d)
+N = mg
+N = m(g–a)
+N = m(g+a)
+Apparent Weight 
+   < Actual Weight
+Apparent  
+   > Actual Weight
+Free Fall 
+N = 0; g = a 
+UNIT-6(XI-Physics_Vol-2).indd   29
+UNIT-6(XI-Physics_Vol-2).indd   29
+02-01-2023   14:29:47
+02-01-2023   14:29:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 30
+
+PDF_PAGE: 38
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+30
+shortcoming of the geocentric model over 
+heliocentric model. 
+6.5.1  Heliocentric system 
+over geocentric  
+system
+When the motion of the planets are observed 
+in the night sky by naked eyes over a period 
+of a few months, it can be seen that the 
+planets move eastwards and reverse their 
+motion for a while and return to eastward 
+motion again. This is called “retrograde 
+motion” of planets.
+Figure 6.25 shows the retrograde motion 
+of the planet Mars. Careful observation 
+for a period of a year clearly shows that 
+Mars initially moves eastwards (February 
+to June), then reverses its path and moves 
+backwards (July, August, September). It 
+changes its direction of motion once again 
+and continues its forward motion (October 
+onwards). In olden days, astronomers 
+recorded the retrograde motion of all 
+6.5
+Figure 6.24  The well known scientist Stephen Hawking in the state of weightlessness.
+https://www.youtube.com/watch?v=OCsuHvv_D0s
+ELEMENTARY IDEAS OF 
+ASTRONOMY
+Astronomy is one of the oldest sciences 
+in the history of mankind. In the olden 
+days, astronomy was an inseparable part of 
+physical science. It contributed a lot to the 
+development of physics in the 16th century. 
+In fact Kepler’s laws and Newton’s theory 
+of gravitation were formulated and verified 
+using astronomical observations and data 
+accumulated over the centuries by famous 
+astronomers like Hipparchus, Aristachrus, 
+Ptolemy, Copernicus and Tycho Brahe. 
+Without 
+Tycho 
+Brahe’s 
+astronomical 
+observations, Kepler’s laws would not have 
+emerged. Without Kepler’s laws, Newton’s 
+theory of gravitation would not have been 
+formulated.
+ It was mentioned in the beginning of this 
+chapter that Ptolemy’s geocentric model was 
+replaced by Copernicus’ heliocentric model. 
+It is important to analyze and explain the 
+UNIT-6(XI-Physics_Vol-2).indd   30
+UNIT-6(XI-Physics_Vol-2).indd   30
+02-01-2023   14:29:48
+02-01-2023   14:29:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 31
+
+PDF_PAGE: 39
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+31
+Figure 6.25  Retrograde motion of planets
+Retrograde  motion of Mars over a year
+Feb
+Mar
+Apr
+May
+Oct
+June
+Sep
+Aug
+Jul
+Nov
+Dec
+East
+West
+Figure 6.26  “Epicycle” motion of 
+planetary objects around Earth, depicted 
+with respect to months of observation.
+Earth
+Planet
+Epicycle
+Deferent
+Center of epicycle
+Earth
+1
+2
+3
+4
+5
+6
+7
+visible planets and tried to explain the 
+motion. According to Aristotle, the other 
+planets and the Sun move around the 
+Earth in the circular orbits. If it was really 
+a circular orbit it was not known how 
+the planet could reverse its motion for a 
+brief interval. To explain this retrograde 
+motion, Ptolemy introduced the concept 
+of “epicycle” in his geocentric model. 
+According to this theory, while the planet 
+orbited the Earth, it also underwent 
+another 
+circular 
+motion 
+termed 
+as 
+“epicycle”. A combination of epicycle and 
+circular motion around the Earth gave 
+rise to retrograde motion of the planets 
+with respect to Earth (Figure  6.26). 
+Essentially Ptolemy retained the Earth 
+centric idea of Aristotle and added the 
+epicycle motion to it. 
+UNIT-6(XI-Physics_Vol-2).indd   31
+UNIT-6(XI-Physics_Vol-2).indd   31
+02-01-2023   14:29:48
+02-01-2023   14:29:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 32
+
+PDF_PAGE: 40
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+32
+on correctness of the Copernicus model 
+over to Ptolemy’s model can be found in 
+astronomy books.
+Students are encouraged to observe the 
+motion of the planet Mars by naked 
+eye and identify its retrograde motion. 
+As mentioned above, to observe the 
+retrograde motion six to seven months 
+are required. So students may start their 
+observation of Mars from the month of 
+June and continue till April next year. 
+Mars is the little bright planet with 
+reddish color. The position of the planet 
+Mars in the sky can be easily taken 
+from ‘Google’.
+Activity
+But Ptolemy’s model became more and 
+more complex as every planet was found 
+to undergo retrograde motion. In the 15th 
+century, the Polish astronomer Copernicus 
+proposed the heliocentric model to explain 
+this problem in a simpler manner. According 
+to this model, the Sun is at the center of 
+the solar system and all planets orbited the 
+Sun. The retrograde motion of planets with 
+respect to Earth is because of the relative 
+motion of the planet with respect to Earth. 
+The retrograde motion from the heliocentric 
+point of view is shown in Figure 6.27.
+Figure 6.27 shows that the Earth orbits 
+around the Sun faster than Mars. Because 
+of the relative motion between Mars and 
+Earth, Mars appears to move backwards 
+from July to October. In the same way the 
+retrograde motion of all other planets was 
+explained successfully by the Copernicus 
+model. It was because of its simplicity, the 
+heliocentric model slowly replaced the 
+geocentric model. Historically, if any natural 
+phenomenon has one or more explanations, 
+the simplest one is usually accepted. Though 
+this was not the only reason to disqualify 
+the geocentric model, a detailed discussion 
+a
+a
+b
+b
+e
+e
+d
+d
+f
+f
+c
+c
+g
+g
+West
+East
+Earth
+Sun
+Mars
+Figure 6.27  ‘Retrograde motion’ in heliocentric model
+UNIT-6(XI-Physics_Vol-2).indd   32
+UNIT-6(XI-Physics_Vol-2).indd   32
+02-01-2023   14:29:49
+02-01-2023   14:29:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 33
+
+PDF_PAGE: 41
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+33
+Venus
+46°
+Mercury
+22.5°
+Figure 6.28  Angle of elevation for Venus 
+and Mercury from horizon
+The trigonometric relation satisfied 
+by  this right angled triangle is shown in 
+Figure 6.29.
+	
+sin  r
+R
+where R = 1 AU. 
+	
+r
+R
+AU
+
+ 
+
+
+
+
+sin
+sin
+
+1
+46
+6.5.2  Kepler’s Third Law 
+and The Astronomical 
+Distance
+When Kepler derived his three laws, 
+he strongly relied on Tycho Brahe’s 
+astronomical observation. In his third law, 
+he formulated the relation between the 
+distance of a planet from the Sun to the 
+time period of revolution of the planet. 
+Astronomers cleverly used geometry 
+and trigonometry to calculate the distance 
+of a planet from the Sun in terms of the 
+distance between Earth and Sun. Here we 
+can see how the distance of Mercury and 
+Venus from the Sun were measured. The 
+Venus and Mercury, being inner planets 
+with respect to Earth, the maximum 
+angular distance they can subtend at a 
+point on Earth with respect to the Sun is 
+46 degree for Venus and 22.5 degree for 
+Mercury. It is shown in the Figure 6.28
+Figure 6.29 shows that when Venus is at 
+maximum elongation (i.e., 46 degree) with 
+respect to Earth, Venus makes 90 degree 
+to Sun. This allows us to find the distance 
+between Venus and Sun. The distance 
+between Earth and Sun is taken as one 
+Astronomical unit (1 AU). 
+46
+
+22.5
+90
+90
+Earth
+Sun
+Venus
+Venus
+Evening sky
+Morning sky
+Earth
+Sun
+90
+Sun
+2
+90
+9
+Sun
+Mercury
+46
+90
+Earth
+Sun
+90
+Sun
+Venus
+Figure 6.29  Angle of elevation for Mercury from horizon
+UNIT-6(XI-Physics_Vol-2).indd   33
+UNIT-6(XI-Physics_Vol-2).indd   33
+02-01-2023   14:29:51
+02-01-2023   14:29:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 34
+
+PDF_PAGE: 42
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+34
+Venus can be observed with the naked 
+eye. We can see Venus during sunrise 
+or sunset. Students are encouraged to 
+observe the motion of Venus and verify 
+that the maximum elevation is at 46 degree 
+and calculate the distance of Venus from 
+the Sun. As pointed out already Google or 
+Stellarium will be helpful in locating the 
+position of Venus in the sky.
+Activity
+6.5.3  Measurement of radius 
+of the Earth
+Around 225 B.C a Greek librarian 
+“Eratosthenes” who lived at Alexandria 
+measured the radius of the Earth with a 
+small error when compared with results 
+using modern measurements. The technique 
+he used involves lower school geometry and 
+Here sin
+.
+46
+0 72
+° =
+. Hence Venus is at a 
+distance of 0.72 AU from Sun. Similarly, the 
+distance between Mercury (θ is 22.5 degree) 
+and Sun is calculated as 0.38 AU. To find the 
+distance of exterior planets like Mars and 
+Jupiter, a slightly different method is used. 
+The  distances of planets from the Sun is 
+given in the table below.
+Table 6.2  a3/T2 for different planets
+Planet
+semi major 
+axis of the 
+orbit(a) 
+Period T
+(days)
+a3/T2
+Mercury
+0.389 AU
+87.77
+7.64
+Venus
+0.724 AU
+224.70
+7.52
+Earth
+1.000 AU
+365.25
+7.50
+Mars
+1.524 AU
+686.98
+7.50
+Jupiter
+5.200 AU
+4332.62
+7.49
+Saturn
+9.510 AU
+10,759.20
+7.40
+It is to be noted that to verify the Kepler’s 
+law we need only high school level geometry 
+and trigonometry.
+Figure 6.30  Measuring radius of The Earth
+7.2
+7.2
+
+
+Sun shadow angle
+Sun rays
+How to measure the sun shadow angle
+tan  = L/h
+Shadow length (L)
+Pole height (h)
+No
+shadow
+Syne
+R
+S
+R
+Small
+shadow
+O
+Alexandria
+UNIT-6(XI-Physics_Vol-2).indd   34
+UNIT-6(XI-Physics_Vol-2).indd   34
+02-01-2023   14:29:52
+02-01-2023   14:29:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 35
+
+PDF_PAGE: 43
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+35
+brilliant insight. He observed that during 
+noon time of summer solstice the Sun’s rays 
+cast no shadow in the city Syne which was 
+located 500 miles away from Alexandria. 
+At the same day and same time he found 
+that in Alexandria the Sun’s rays made 7.2 
+degree with local vertical as shown in the 
+Figure 6.30. He realized that this difference 
+of 7.2 degree was due to the curvature of the 
+Earth. 
+The angle 7.2 degree is equivalent to 
+1
+8 radian. So q = 1
+8 rad;
+If S is the length of the arc between the 
+cities of Syne and Alexandria, and if R is 
+radius of Earth, then 
+S
+R
+=
+=
+q
+500miles, 
+so radius of the Earth
+	
+R  500
+ miles
+	
+R = 
+
+
+
+
+
+500
+1
+8
+miles
+	
+R = 4000 miles
+1 mile is equal to 1.609 km. So, he measured 
+the radius of the Earth to be equal to R = 
+6436 km, which is amazingly close to the 
+correct value of 6378 km. 
+The distance of the Moon from Earth was 
+measured by a famous Greek astronomer 
+Hipparchus in the 3rd century BC. 
+To measure the radius of the Earth, 
+choose two different places (schools) 
+that are separated by at least 500 km. It is 
+important to note that these two places 
+have to be along the same longitude 
+of the Earth (For example Hosur and 
+Kanyakumari lie along the same longitude 
+of 77.82° E). Take poles of known length 
+(h) and fix them vertically in the ground 
+(it may be in the school playgrounds) 
+at both the places. At exactly noon in 
+both the places the length of the shadow 
+(L) cast by each pole has to be noted 
+down. Draw the picture like  in Figure 
+6.30. By using the equation tan  L
+h, 
+the angle in radian can be found at each 
+place. The difference in angle (θ′) is 
+due to the curvature of the Earth. Now 
+the distance between the two schools 
+can be obtained from ‘Google maps’. 
+Divide the distance with the angle (θ′ in 
+radians) which will give the radius of the 
+Earth.
+Activity
+6.5.4  Interesting 
+Astronomical Facts
+1.	 Lunar eclipse and measurement of 
+shadow of Earth
+	
+On January 31, 2018 there was a total 
+lunar eclipse which was observed from 
+various places including Tamil Nadu. It is 
+possible to measure the radius of shadow 
+of the Earth at the point where the Moon 
+crosses. Figure 6.31 illustrates this. 
+	
+  When the Moon is inside the umbra 
+shadow, it appears red in color. As soon 
+as the Moon exits from the umbra 
+UNIT-6(XI-Physics_Vol-2).indd   35
+UNIT-6(XI-Physics_Vol-2).indd   35
+02-01-2023   14:29:53
+02-01-2023   14:29:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 36
+
+PDF_PAGE: 44
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+36
+Figure 6.33  Schematic diagram of umbra 
+disk radius
+Earth
+Earth umbra
+shadow
+Moon
+Radius of umbra 
+disc(Rs)
+	
+The apparent radius of Earth’s umbra 
+shadow = Rs = 13.2 cm
+	
+The apparent radius of the Moon = Rm= 
+5.15 cm
+	
+The ratio R
+R
+s
+m
+» 2 56
+.
+	
+The radius of the Earth’s umbra shadow 
+is R
+R
+s
+m
+
+
+2 56
+.
+	
+The radius of Moon Rm =1737km
+shadow, it appears in crescent shape. 
+Figure 6.32 is the photograph taken by 
+digital camera during Moon’s exit from 
+the umbra shadow.
+Figure 6.32  Image of the Moon when it 
+exits from umbra shadow
+	
+  By finding the apparent radii of the 
+Earth’s umbra shadow and the Moon, the 
+ratio of the these radii can be calculated. 
+This is shown in Figures 6.33 and 6.34.
+Figure 6.31  Total lunar eclipse
+Penumbra
+(partial shadow)
+Penumbra
+(partial shadow)
+Earth
+Moon’s orbit
+Sun
+Umbra
+(full shadow)
+Moon
+(eclipsed)
+Lunar Eclipse
+UNIT-6(XI-Physics_Vol-2).indd   36
+UNIT-6(XI-Physics_Vol-2).indd   36
+02-01-2023   14:29:55
+02-01-2023   14:29:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 37
+
+PDF_PAGE: 45
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+37
+observe solar eclipse. But Moon’s orbit is 
+tilted 5° with respect to Earth’s orbit. Due 
+to this 5° tilt, only during certain periods 
+of the year, the Sun, Earth and Moon 
+align in straight line leading to either 
+lunar eclipse or solar eclipse depending 
+on the alignment. This is shown in 
+Figure 6.35
+3.	 Why do we have seasons on Earth?
+	
+The common misconception is that 
+‘Earth revolves around the Sun, so when 
+the Earth is very far away, it is winter and 
+when the Earth is nearer, it is summer’. 
+Actually, the seasons in the Earth arise 
+due to the rotation of Earth around the 
+Sun with 23.5° tilt. This is shown in 
+Figure 6.36
+	
+  Due to this 23.5° tilt, when the 
+northern part of Earth is farther to 
+the Sun, the southern part is nearer to 
+the Sun. So when it is summer in the 
+southern hemisphere, the northern 
+hemisphere experience winter. 
+Figure 6.34  Calculation of umbra radius
+Rs
+Rm
+	
+The radius of the Earth’s umbra shadow 
+is Rs =
+×
+2 56
+1737
+.
+km ≅4446km. 
+	
+The correct radius is 4610 km. 
+	
+The percentage of error in the calculation 
+= 4610
+4446
+4610
+
+100
+3 5
+ . %.
+	
+  The error will reduce if the pictures 
+taken using a high quality telescope 
+are used. It is to be noted that this 
+calculation is done using very simple 
+mathematics. 
+	
+  Early astronomers proved that Earth 
+is spherical in shape by looking at the 
+shape of the shadow cast by Earth on the 
+Moon during lunar eclipse. 
+2.	 Why there are no lunar eclipse and 
+solar eclipse every month?
+	
+If the orbits of the Moon and Earth lie on 
+the same plane, during full Moon of every 
+month, we can observe lunar eclipse. 
+If this is so during new Moon we can 
+UNIT-6(XI-Physics_Vol-2).indd   37
+UNIT-6(XI-Physics_Vol-2).indd   37
+02-01-2023   14:29:55
+02-01-2023   14:29:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 38
+
+PDF_PAGE: 46
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+38
+4.	 Star’s apparent motion and spinning 
+of the Earth
+	
+  The Earth’s spinning motion can be 
+proved by observing star’s position over 
+a night. Due to Earth’s spinning motion, 
+the stars in sky appear to move in circular 
+motion about the pole star as shown in 
+Figure 6.37
+Pole star is a star located 
+exactly above the Earth’s axis of 
+rotation, hence it appears to be 
+stationary. The Star Polaris is our pole star.
+Note
+Point to ponder
+Using Sun rays and shadows, How will 
+you prove that the Earth’s tilt is 23.5° ?
+Figure 6.35  Orbital tilt of the Moon
+Full moon
+(No eclipse)
+Full moon
+(Lunar eclipse)
+New moon
+(Solar eclipse)
+New moon
+(No eclipse)
+Orbital plane of earth
+The sun
+5°
+Figure 6.36  Seasons on Earth
+UNIT-6(XI-Physics_Vol-2).indd   38
+UNIT-6(XI-Physics_Vol-2).indd   38
+02-01-2023   14:29:57
+02-01-2023   14:29:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 39
+
+PDF_PAGE: 47
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+39
+Subramanian 
+Chandrasekar 
+formulated 
+the theory of black holes and explained the 
+life of stars. These studies brought him the 
+Nobel prize in the year 1983. Another very 
+notable Indian astrophysicist Meghnad 
+Saha discovered the ionization formula 
+which was useful in classifying stars. This 
+formula is now known as “Saha ionization 
+formula”. In the field of gravitation Amal 
+Kumar Raychaudhuri solved an equation 
+now known as “Raychaudhuri equation” 
+which was a very important contribution. 
+Another notable Indian Astrophysicist 
+Jayant 
+V 
+Narlikar 
+made 
+pioneering 
+contribution in the field of astrophysics 
+and has written interesting books on 
+astronomy and astrophysics. IUCAA (Inter 
+University Center for Astronomy and 
+Astrophysics) is one of the important Indian 
+research institutes where active research in 
+astrophysics and gravitation are conducted. 
+The institute was founded by Prof. J.V. 
+Narlikar. Students are encouraged to read 
+more about the recent developments in these 
+fields. 
+6.5.5  Recent developments 
+of astronomy and 
+gravitation
+Till the 19th century astronomy mainly 
+depended upon either observation with 
+the naked eye or telescopic observation. 
+After the discovery of the electromagnetic 
+spectrum at the end of the 19th century, our 
+understanding of the universe increased 
+enormously. Because of this development 
+in the late 19th century it was found that 
+Newton’s law of gravitation could not 
+explain certain phenomena and showed 
+some 
+discrepancies. 
+Albert 
+Einstein 
+formulated his ‘General theory of relativity’ 
+which was one of the most successful 
+theories of 20th century in the field of 
+gravitation.
+ In the twentieth century both astronomy 
+and gravitation merged together and have 
+grown in manifold. The birth and death of stars 
+were more clearly understood. Many Indian 
+physicists made very important contributions 
+to the field of astrophysics and gravitation. 
+Pole star
+P
+Q
+O
+Rotation of the earth about PQ 
+explains the apparent rotation of 
+stars (in opposite direction) about PQ.
+If we observe the stars, it slowly changes its position and appears to
+move in a circle over the night.
+Pole star
+Figure 6.37  Star’s apparent circular motion due to Earth’s rotation.
+UNIT-6(XI-Physics_Vol-2).indd   39
+UNIT-6(XI-Physics_Vol-2).indd   39
+02-01-2023   14:29:57
+02-01-2023   14:29:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 40
+
+PDF_PAGE: 48
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+40
+ 
+
+The motion of planets can be explained using Kepler’s laws. 
+ 
+
+Kepler’s first law: All the planets in the solar system orbit the Sun in elliptical orbits 
+with the Sun at one of the foci.
+ 
+
+Kepler’s second law: The radial vector line joining the Sun to a planet sweeps equal 
+areas in equal intervals of time.
+ 
+
+Kepler’s third law: The ratio of the square of the time period of planet to the cubic 
+power of semi major axis is constant for all the planets in the solar system.
+ 
+
+Newton’s law of gravitation states that the gravitational force between two masses 
+is directly proportional to product of masses and inversely proportional to square of 
+the distance between the masses. In vector form it is given by 
+F
+Gm m
+r
+r
+=−
+1
+2
+2
+ 
+
+Gravitational force is a central force. 
+ 
+
+Kepler’s laws can be derived from Newton’s law of gravitation.
+ 
+
+The gravitational field due to a mass m at a point which is at a distance r from mass 
+m is given by 
+E
+Gm
+r
+r
+=−
+2
+. It is a vector quantity.
+ 
+
+The gravitational potential energy of two masses is given by U
+Gm m
+r
+ 
+1
+2 . It is a 
+scalar quantity.
+ 
+
+The gravitational potential at a point which is at a distance r from mass m is given by 
+V
+Gm
+r
+ 
+. It is a scalar quantity.
+ 
+
+The acceleration due to Earth’s gravity decreases as altitude increases and as depth 
+increases.
+ 
+
+Due to rotation of the Earth, the acceleration due to gravity is maximum at poles 
+and minimum at Earth’s equator.
+ 
+
+The (escape) speed of any object required to escape from the Earth’s gravitational 
+field is v
+gR
+e
+e
+=
+2
+. It is independent of mass of the object.
+ 
+
+The energy of the satellite is negative. It implies that the satellite is bound to Earth’s 
+gravitational force. 
+ 
+
+Copernicus model explained that retrograde motion is due to relative motion 
+between planets. This explanation is simpler than Ptolemy’s epicycle explanation 
+which is complicated
+ 
+
+Copernicus and Kepler measured the distance between a planet and the Sun using 
+simple geometry and trigonometry.
+ 
+
+2400 years ago, Eratosthenes measured the radius of the Earth using simple geometry 
+and trigonometry.
+SUM MA R Y
+UNIT-6(XI-Physics_Vol-2).indd   40
+UNIT-6(XI-Physics_Vol-2).indd   40
+02-01-2023   14:29:58
+02-01-2023   14:29:58
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 41
+
+PDF_PAGE: 49
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+41
+Kepler’s Laws
+Altitude Variation
+Depth Variation
+Latitude Variation
+Astronomical
+Measurements
+Ptolemy Vs
+Copernicus
+Newton’s Law of
+Gravitation
+Satellites, Energy,
+Escape Speed
+Gravitational Field
+Gravitational Potential energy
+Gravitational Potential
+Planetary Motion
+Elementary Ideas of Astronomy
+Recent
+Developments
+Acceleration due to 
+Gravity g
+C O N C EP T M AP
+UNIT-6(XI-Physics_Vol-2).indd   41
+UNIT-6(XI-Physics_Vol-2).indd   41
+02-01-2023   14:29:59
+02-01-2023   14:29:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 42
+
+PDF_PAGE: 50
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+42
+EVALUATION
+I.  Multiple Choice Questions
+	 1.	 The linear momentum and position 
+vector of the planet is perpendicular to 
+each other at
+(a)  perihelion and aphelion
+(b)  at all points 
+(c)  only at perihelion 
+(d)  no point
+	 2.	 If the masses of the Earth and Sun 
+suddenly double, the gravitational 
+force between them will
+(a)  remain the same
+(b)  increase 2 times
+(c)  increase 4 times
+(d)  decrease 2 times
+	 3.	 A planet moving along an elliptical 
+orbit is closest to the Sun at distance 
+r1 and farthest away at a distance of r2. 
+If v1 and v2 are linear speeds at these 
+points respectively. Then the ratio v
+v
+1
+2
+ is
+(NEET 2016)
+(a)	 r
+r
+2
+1
+  
+ 
+(b)  r
+r
+2
+1
+2
+
+
+
+
+
+
+(c) r
+r
+1
+2
+  
+ 
+(d)  r
+r
+1
+2
+2
+
+
+
+
+
+
+	 4.	 The time period of a satellite orbiting 
+Earth in a cirular orbit is independent 
+of .
+(a)  Radius of the orbit 
+(b)  The mass of the satellite 
+(c)  Both the mass of the satellite and 
+radius of the orbit
+(d)  Neither the mass of the satellite 
+nor the radius of its orbit
+	 5.	 If the distance between the Earth 
+and Sun were to be doubled from its 
+present value, the number of days in a 
+year would be
+(a)  64.5	
+(b)  1032
+(c)  182.5	
+(d)  730
+	 6.	 According to Kepler’s second law, 
+the radial  vector to a planet from 
+the Sun sweeps out equal areas in 
+equal intervals of time. This law is a 
+consequence of 
+(a)  conservation of linear momentum
+(b)  conservation of angular momentum
+(c)  conservation of energy 
+(d)  conservation of kinetic energy
+	 7.	 The gravitational potential energy of 
+the Moon with respect to Earth is
+(a)  always positive
+(b)  always negative
+(c)  can be positive or negative
+(d)  always zero
+	 8.	 The kinetic energies of a planet in 
+an elliptical orbit about the Sun, at 
+positions A, B and C are KA, KB and 
+KC respectively. AC is the major axis 
+and SB is perpendicular to AC at the 
+position of the Sun S as shown in the 
+figure. Then
+(NEET 2018)
+(a)  KA > KB >KC
+(b)  KB < KA <KC
+(c)  KA < KB <KC
+(d)  KB > KA >KC
+S
+B
+A
+C
+UNIT-6(XI-Physics_Vol-2).indd   42
+UNIT-6(XI-Physics_Vol-2).indd   42
+02-01-2023   14:30:00
+02-01-2023   14:30:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 43
+
+PDF_PAGE: 51
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+43
+	 9.	 The work done by the Sun’s gravitational 
+force on the Earth is
+(a)  always zero
+(b)  always positive
+(c)  can be positive or negative
+(d)  always negative
+10.	 If the mass and radius of the Earth are 
+both doubled, then the acceleration 
+due to gravity g' 
+(a)  remains same	
+(b)  g
+2
+(c)  2 g	
+(d)  4 g
+11.	 The magnitude of the Sun’s gravitational 
+field as experienced by Earth is 
+(a)  same over the year
+(b)  decreases in the month of January 
+and increases in the month of July
+(c)  decreases in the month of July and 
+increases in the month of January 
+(d)  increases during day time and 
+decreases during night time. 
+12.	 If a person moves from Chennai to 
+Trichy, his weight 
+(a)  increases
+(b)  decreases
+(c)  remains same
+(d)  increases and then decreases
+13.	 An object of mass 10 kg is hanging on 
+a spring scale which is attached to the 
+roof of a lift. If the lift is in free fall, the 
+reading in the spring scale is
+(a)  98 N	
+(b)  zero
+(c)  49 N	
+(d)  9.8 N
+14.	 If the acceleration due to gravity 
+becomes 4 times its original value, then 
+escape speed 
+(a)  remains same
+(b)  2 times of original value
+(c)  becomes halved
+(d)  4 times of original value
+15.	 The kinetic energy of the satellite 
+orbiting around the Earth is 
+(a)  equal to potential energy
+(b)  less than potential energy
+(c)  greater than kinetic energy
+(d)  zero
+Answers
+	 1) a	
+2) c	
+3) a	
+4) b	
+5) b
+	 6) b	
+7) b	
+8) a	
+9) c	
+10) b
+	11) c	
+12) b	
+13) b	
+14) b	
+15) b
+II.  Short Answer Questions
+	 1.	 State Kepler’s three laws.
+	 2.	 State Newton’s Universal law of 
+gravitation.
+	 3.	 Will the angular momentum of a planet 
+be conserved? Justify your answer.
+	 4.	 Define the gravitational field. Give its 
+unit.
+	 5.	 What is meant by superposition of 
+gravitational field?
+	 6.	 Define gravitational potential energy.
+	 7.	 Is potential energy the property of a 
+single object? Justify.
+	 8.	 Define gravitational potential. 
+	 9.	 What is the difference between 
+gravitational potential and gravitational 
+potential energy?
+	10.	 What is meant by escape speed in the 
+case of the Earth?
+	11.	 Why is the energy of a satellite (or any 
+other planet) negative?
+	12.	 What are geostationary and polar 
+satellites?
+	13.	 Define weight 
+UNIT-6(XI-Physics_Vol-2).indd   43
+UNIT-6(XI-Physics_Vol-2).indd   43
+02-01-2023   14:30:00
+02-01-2023   14:30:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 44
+
+PDF_PAGE: 52
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+44
+	14.	 Why is there no lunar eclipse and solar 
+eclipse every month?
+	15.	 How will you prove that Earth itself is 
+spinning?
+III.  Long Answer Questions
+	 1.	 Discuss the important features of the 
+law of gravitation.
+	 2.	 Explain how Newton arrived at his law 
+of gravitation from Kepler’s third law.
+	 3.	 Explain how Newton verified his law of 
+gravitation.
+	 4.	 Derive the expression for gravitational 
+potential energy.
+	 5.	 Prove that at points near the surface of 
+the Earth, the gravitational potential 
+energy of the object is U
+mgh
+=
+	 6.	 Explain 
+in 
+detail 
+the 
+idea 
+of 
+weightlessness using lift as an example.
+	 7.	 Derive an expression for escape speed.
+	 8.	 Explain the variation of g with lattitude.
+	 9.	 Explain the variation of g with altitude.
+	10.	 Explain the variation of g with depth 
+from the Earth’s surface.
+	11.	 Derive the time period of satellite 
+orbiting the Earth.
+	12.	 Derive an expression for energy of 
+satellite.
+	13.	 Explain in detail the geostationary and 
+polar satellites.
+	14.	 Explain how geocentric theory is 
+replaced by heliocentric theory using 
+the idea of retrograde motion of 
+planets.
+	15.	 Explain in detail the Eratosthenes 
+method of finding the radius of Earth.
+	16.	 Describe the measurement of Earth’s 
+shadow (umbra) radius during total 
+lunar eclipse
+IV.  Exercises
+	 1.	 An unknown planet orbits the Sun 
+with distance twice the semi major 
+axis distance of the Earth’s orbit. If the 
+Earth’s  time period is T1, what is the 
+time period of this unknown planet?
+
+Ans: T
+T
+2
+1
+2 2
+=
+	 2.	 Assume that you are in another solar 
+system and provided with the set of data 
+given below consisting of the planets’ 
+semi major axes and time periods. Can 
+you infer the relation connecting semi 
+major axis and time period? 
+Planet 
+(imaginary)
+Time 
+period(T) 
+(in year)
+Semi major 
+axis (a) 
+(in AU)
+Kurinji
+2
+8
+Mullai
+3
+18
+Marutham
+4
+32
+Neithal
+5
+50
+Paalai
+6
+72
+
+Ans: a
+T
+µ 2
+2
+	 3.	 If the masses and mutual distance 
+between the two objects are doubled, 
+what is the change in the gravitational 
+force between them?
+
+Ans: No change
+	 4.	 Two bodies of masses m and 4m are 
+placed at a distance r. Calculate the 
+gravitational potential at a point on the 
+line joining them where the gravitional 
+field is zero.
+
+Ans: V
+Gm
+r
+=−9
+UNIT-6(XI-Physics_Vol-2).indd   44
+UNIT-6(XI-Physics_Vol-2).indd   44
+02-01-2023   14:30:01
+02-01-2023   14:30:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 45
+
+PDF_PAGE: 53
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+45
+	 5.	 If the ratio of the orbital distance of 
+two planets d
+d
+1
+2
+ =2, what is the ratio of 
+gravitational field experienced by these 
+two planets?
+
+Ans: E2 = 4 E1
+	 6.	 The Moon Io orbits Jupiter once in 
+1.769 days. The orbital radius of the 
+Moon Io is 421700 km. Calculate the 
+mass of Jupiter? 
+
+Ans: 1.898 ×1027 kg
+	 7.	 If the angular momentum of a planet is 
+given by
+
+L
+t
+tj
+k
+i
+=
+−
++
+5
+6
+3
+2
+  What is the 
+torque experienced by the planet? Will 
+the torque be in the same direction as 
+that of the angular momentum?
+
+Ans: τ =
+−
+10
+6
+ti
+j
+	 8.	 Four particles, each of mass M and 
+equidistant from each other, move 
+along a circle of radius R under the 
+action of their mutual gravitational 
+attraction. Calculate the speed of each 
+particle
+
+Ans: 1
+2
+1
+2 2
+GM
+R
++
+(
+)
+	 9.	 Suppose unknowingly you wrote the 
+universal gravitational constant value 
+as G 
+
+6 67 1011
+.
+ instead of the correct 
+value G 
+
+
+6 67 10 11
+.
+, what is the 
+acceleration due to gravity g’ for this 
+incorrect G? According to this new 
+acceleration due to gravity, what will 
+be your weight W’?
+
+Ans: g’ =1022 g, W’ = 1022W
+	10.	 Calculate the gravitational field at 
+point O due to three masses m1,m2 
+and m3 whose positions are given by 
+the following figure. If the masses m1 
+and m2 are equal what is the change in 
+gravitational field at the point O?
+m3
+y
+a
+a
+o
+x
+m1
+a
+m2
+
+Ans: 
+
+E
+G
+a
+m
+m i
+m j
+=
+−
+(
+) +
+
+
+2
+1
+2
+3
+
+if m1 = m2,
+
+E
+G
+a
+m j
+=
+[
+]
+2
+3 
+	11.	 What is the gravitational potential 
+energy of the Earth and Sun? The 
+Earth to Sun distance is around 
+150 million km. The mass of the Earth 
+is 5.9 × 1024 kg and mass of the Sun is 
+1.9 × 1030 kg. 
+
+Ans: U= -49.84 × 1032 Joule
+	12.	 Earth revolves around the Sun at 30 
+km s−1. Calculate the kinetic energy of 
+the Earth. In the previous example you 
+calculated the potential energy of the 
+Earth. What is the total energy of the 
+Earth in that case? Is the total energy 
+positive? Give reasons.
+
+Ans: K.E = 26.5 × 1032 J
+
+E = −23.29 × 1032 J
+(−) ve implies that Earth is bounded with 
+Sun
+	13.	 An object is thrown from Earth in 
+such a way that it reaches a point at 
+infinity with non-zero kinetic energy 
+UNIT-6(XI-Physics_Vol-2).indd   45
+UNIT-6(XI-Physics_Vol-2).indd   45
+02-01-2023   14:30:04
+02-01-2023   14:30:04
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 46
+
+PDF_PAGE: 54
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+46
+K E r
+Mv
+.
+
+
+ 
+
+
+
+
+
+
+1
+2
+2 , 
+with 
+what 
+velocity should the object be thrown 
+from Earth?
+
+Ans: v
+v
+gR
+e
+E
+=
++
+∞
+2
+2
+	14.	 Suppose we go 200 km above and 
+below the surface of the Earth, what 
+are the g values at these two points? 
+In which case, is the value of g 
+small?
+
+Ans: gdown = 0.96 g 
+
+gup = 0.94 g 
+	15.	 Calculate the change in g value in 
+your district of Tamil nadu. (Hint: Get 
+the latitude of your district of Tamil 
+nadu from the Google). What is the 
+difference in g values at Chennai and 
+Kanyakumari?
+
+Ans: gchennai = 9.7677 m s–2 
+
+gKanyakumari = 9.7667 m s–2 
+
+Δg = 0.001 m s–2
+V.  Conceptual Questions
+	 1.	 In the following, what are the quantities 
+which that are conserved?
+a)  Linear momentum of planet
+b)  Angular momentum of planet
+c)  Total energy of planet
+d)  Potential energy of a planet
+	 2.	 The work done by Sun on Earth in one 
+year will be
+a)  Zero	
+b)  Non zero
+c)  positive	
+d)  negative
+	 3.	 The work done by Sun on Earth at any 
+finite interval of time is
+a)  positive, negative or zero
+b)  Strictly positive
+c)  Strictly negative
+d)  It is always zero
+	 4.	 If a comet suddenly hits the Moon and 
+imparts energy which is more than the 
+total energy of the Moon, what will 
+happen?
+	 5.	 If the Earth’s pull on the Moon suddenly 
+disappears, what will happen to the 
+Moon?
+	 6.	 If the Earth has no tilt, what happens to 
+the seasons of the Earth?
+	 7.	 A student was asked a question ‘why 
+are there summer and winter for us? 
+He replied as ‘since Earth is orbiting 
+in an elliptical orbit, when the Earth is 
+very far away from the Sun(aphelion) 
+there will be winter, when the Earth is 
+nearer to the Sun(perihelion) there will 
+be winter’. Is this answer correct? If not, 
+what is the correct explanation for the 
+occurrence of summer and winter?
+	 8.	 The following photographs are taken 
+from the recent lunar eclipse which 
+occurred on January 31, 2018. Is it 
+possible to prove that Earth is a sphere 
+from these photographs?
+UNIT-6(XI-Physics_Vol-2).indd   46
+UNIT-6(XI-Physics_Vol-2).indd   46
+02-01-2023   14:30:05
+02-01-2023   14:30:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 47
+
+PDF_PAGE: 55
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+47
+BOOKS FOR REFERENCE
+	 1.	 Mechanics by Charles Kittel, Walter Knight, Malvin Ruderman, Carl Helmholtz and 
+Moyer
+	 2.	 Newtonian Mechanics by A.P. French
+	 3.	 Introduction to Mechanics by Daniel Kepler and Robert Kolenkow
+	 4.	 Mechanics by Somnath Datta
+	 5.	 Concepts of Physics volume 1 and Volume 2 by H.C. Verma
+	 6.	 Physics for Scientist and Engineers with Modern physics by Serway and Jewett
+	 7.	 Physics for Scientist and Engineers by Paul Tipler and Gene Mosca
+	 8.	 Physics for the Inquiring Mind by Eric Rogers
+	 9.	 Fundamental laws of Mechanics by Irodov.
+	10.	 Question and Problems in School Physics by Tarasov and Tarasova
+UNIT-6(XI-Physics_Vol-2).indd   47
+UNIT-6(XI-Physics_Vol-2).indd   47
+02-01-2023   14:30:05
+02-01-2023   14:30:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 48
+
+PDF_PAGE: 56
+
+------------------------------------------------------------
+
+Unit 6  Gravitation
+48
+Gravitation
+Through this activity you will be able to 
+learn about the gravitational force and 
+orbital paths.
+STEPS:
+• Click the URL or scan the QR code to launch the activity page. Click on the box labelled 
+“Model” to start the activity.
+• In the activity window, a diagram of sun and earth is given. Click the play icon to see the 
+motion of earth.
+• We can change the objects by selecting objects from the table given in the right side window.
+• The path of the gravity, velocity and the object in motion can be viewed. Check on the 
+relevant boxes given in the table.
+URL:
+https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-
+and-orbits_en.html
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+UNIT-6(XI-Physics_Vol-2).indd   48
+UNIT-6(XI-Physics_Vol-2).indd   48
+02-01-2023   14:30:09
+02-01-2023   14:30:09
+www.freetnbooks.com
+www.FREETNBOOKS.com

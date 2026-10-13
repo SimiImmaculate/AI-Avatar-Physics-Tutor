@@ -1,0 +1,2388 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit 5 – Electromagnetic Waves
+
+TEXTBOOK_PAGE_RANGE:
+266–285
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 266
+
+PDF_PAGE: 274
+
+------------------------------------------------------------
+
+U N I T
+5
+ELECTROMAGNETIC WAVES
+In this unit, the student is exposed to 
+•	 the displacement current 
+•	 Maxwell’s correction to Ampere's circuital law
+•	 Maxwell’s equation in integral form
+•	 production and properties of electromagnetic waves – Hertz’s experiment
+•	 sources of electromagnetic waves
+•	 electromagnetic spectrum
+“One scientific epoch ended and another began with James Clerk Maxwell”
+– Albert Einstein
+Learning Objectives
+Figure 5.1  Visible spectrum – rainbow 
+and lightning
+We see the world around us through 
+light. Light from the Sun is one of the sources 
+of energy without which human beings 
+cannot survive in this planet. Light plays 
+crucial role in understanding the structure 
+5.1
+INTRODUCTION
+and properties of various things from atom 
+to universe. Without light, even our eyes 
+cannot see objects. What is light?. This puzzle 
+made many physicists sleepless until middle 
+of 19th century. Earlier, many scientists 
+thought that optics and electromagnetism 
+are two different branches of physics. But 
+from the work of James Clerk Maxwell, who 
+actually enlightened the concept of light 
+from his theoretical prediction that light 
+is an electromagnetic wave which moves 
+with the speed equal to 3 × 108 ms–1 (in free 
+space or vacuum). Later, it was confirmed 
+that visible light is just only small portion 
+of electromagnetic spectrum, which ranges 
+from gamma rays to radio waves.
+In unit 4, we studied that time varying 
+magnetic 
+field 
+produces 
+an 
+electric 
+field (Faraday’s law of electromagnetic 
+induction). Maxwell strongly believed that 
+nature must possess symmetry and he asked 
+266
+12th Physics_Vol-1_Unit 5_English Medium.indd   266
+12th Physics_Vol-1_Unit 5_English Medium.indd   266
+24-12-2021   15:57:23
+24-12-2021   15:57:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 267
+
+PDF_PAGE: 275
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+267
+In today's digital world, cell phones 
+(Figure 5.2 (a)) have greater influence 
+in our day to day life. It is a faster and 
+more effective mode of transferring 
+information from one place to another. 
+It works on the basis that light is an 
+electromagnetic wave. In hospitals, the 
+location of bone fracture can be detected 
+using X-rays as shown in Figure 5.2 (b), 
+which is also an electromagnetic wave. 
+For cooking microwave oven is used. The 
+microwave is also an electromagnetic 
+wave. There are plenty of applications of 
+electromagnetic waves in engineering, 
+medicine (example LASER surgery, etc), 
+defence (example, RADAR signals) and 
+also in fundamental scientific research. 
+In this unit, basics of electromagnetic 
+waves are discussed.
+5.1.1  Displacement current 
+and Maxwell’s correction to 
+Ampere's circuital law
+Induced magnetic field
+Faraday’s 
+law 
+of 
+electromagnetic 
+induction states that the change in 
+magnetic field produces an electric field. 
+Mathematically, it is written as
+ 
+E dl
+d
+dt
+d
+dt
+B dA
+l
+B
+S
+−
+−
+=
+=
+∫
+∫
+Φ
+.
+.
+(5.1)
+ 
+Electric field
+induced along 
+a closed loop
+Variation of 
+magnetic flux 
+with time
+Changing magnetic 
+flux ΦB in the region 
+enclosed by the loop
+where ΦB is the magnetic flux and d
+dt
+ is 
+the total derivative with respect to time. 
+Equation (5.1) means that the electric field 
+
+E is induced along a closed loop by the 
+changing magnetic flux ΦB in the region 
+encircled by the loop. 
+the following question, “when the time 
+varying magnetic field produces an electric 
+field, why not the time varying electric field 
+produce a magnetic field?”
+Symmetry in nature
+Later he proved that it is indeed 
+true. In 1888, H. Hertz experimentally 
+verified 
+Maxwell’s 
+prediction 
+and 
+hence, this understanding resulted in 
+new technological invention, especially 
+in 
+wireless 
+communication, 
+LASER 
+(Light 
+Amplification 
+by 
+Stimulated 
+Emission 
+of 
+Radiation) 
+technology, 
+RADAR (Radio Detection And Ranging) 
+etc.
+Figure 5.2  (a) Cell phone tower and cell 
+phone (b) X-ray radiograph 
+(a)
+(b)
+12th Physics_Vol-1_Unit 5_English Medium.indd   267
+12th Physics_Vol-1_Unit 5_English Medium.indd   267
+24-12-2021   15:57:24
+24-12-2021   15:57:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 268
+
+PDF_PAGE: 276
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+268
+Ampere’s circuital law can be used to find 
+the magnetic field produced around the 
+current carrying wire.
+To calculate the magnetic field at a point 
+P near the wire and outside the capacitor, 
+let us draw a circular Amperian loop which 
+encloses the circular surface S1 (Figure 5.3). 
+Using Ampere’s circuital law for this loop, 
+we get  
+
+
+
+B dl
+iC
+⋅
+=
+∫
+µ0
+enclosing S1
+
+(5.3)
+where µo is the permeability of free space.
+Figure 5.4  Applying Ampere's circuital 
+law - loop enclosing surface S2 
+S2
+P
+iC
+iC
++
+–
+Amperian loop
+Now, the same loop is enclosed by 
+balloon shaped surface S2 such that 
+boundaries of two surfaces S1 and S2 are 
+same but the shape of the surfaces is 
+different (Figure 5.4). As Ampere’s law 
+applied for a given closed loop does not 
+depend on the shape of the enclosing 
+surface, the integrals should give the same 
+answer. But by applying Ampere’s circuital 
+law for the surface S2, we get
+
+
+
+B dl
+⋅
+=
+∫
+0
+enclosing S2
+
+(5.4)
+The right hand side of equation is zero 
+because the surface S2 nowhere touches 
+the wire carrying conduction current and 
+further, there is no current flowing between 
+From symmetry considerations, James 
+Clerk Maxwell showed that the change in 
+electric field also produces a magnetic field 
+which is given by
+B dl
+d
+dt
+d
+dt
+E dA
+l
+E
+S
+= −
+−
+=
+∫
+∫
+Φ
+.
+.
+ (5.2)
+ 
+Magnetic field 
+induced along 
+a closed loop
+Variation of 
+electric flux 
+with time
+Changing electric 
+flux ΦE in the region 
+enclosed by the loop
+where ΦE is the electric flux. This is known 
+as Maxwell’s law of induction which 
+explains that the magnetic field 
+
+B is induced 
+along a closed loop by the changing electric 
+flux ΦE in the region encircled by that 
+loop. This symmetry between electric and 
+magnetic fields explains the existence of 
+electromagnetic waves such as radio waves, 
+gamma rays, infrared rays etc.
+Displacement current − Maxwell’s 
+correction
+In order to understand how the 
+changing electric field induces magnetic 
+field, let us consider a situation of charging 
+a parallel plate capacitor which contains 
+non−conducting medium between the 
+plates.
+Let a time−dependent current ic, 
+called conduction current be passed 
+through the wire to charge the capacitor. 
+Figure 5.3  Applying Ampere's circuital 
+law - loop enclosing surface 
+S1
+iC
+iC
+P
+Amperian loop
++
+–
+12th Physics_Vol-1_Unit 5_English Medium.indd   268
+12th Physics_Vol-1_Unit 5_English Medium.indd   268
+24-12-2021   15:57:25
+24-12-2021   15:57:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 269
+
+PDF_PAGE: 277
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+269
+where 
+d
+dq = i
+dt
+ is known as displacement 
+current or Maxwell’s displacement current. 
+The displacement current can be defined 
+as the current which comes into play in the 
+region in which the electric field (or the 
+electric flux) is changing with time. In other 
+words, whenever the change in electric field 
+takes place, displacement current is produced. 
+Maxwell modified Ampere's law as 
+0
+0
+0
+0
+[
+]
+c
+d
+l
+E
+c
+0
+l
+B.dl =
+i =
+i +i
+d
+B.dl = 
+i +
+dt
+µ
+µ
+Φ
+µ
+µ
+∫
+∫
+
+
+
+
+e
+
+(5.6)
+where the total current enclosed by the surface 
+becomes the sum of conduction current and 
+displacement current. Therefore, =
++
+c
+d
+i
+i
+i . 
+The equation (5.6) is known as Ampere−
+Maxwell law. When the current in the 
+circuit is constant, the displacement current 
+is zero. 
+Between the plates, the conduction 
+current is zero while the displacement current 
+is non−zero. This displacement current or 
+time−varying electric field can also produce 
+a magnetic field between the plates of the 
+capacitor. The magnetic field at a point inside 
+the capacitor is perpendicular to the electric 
+field and is shown in Figure 5.6. This magnetic 
+field can be determined using equation (5.6). 
+the plates of the capacitor (gap between the 
+plates). So the magnetic field at a point P 
+is zero. Hence there is an inconsistency 
+between equations (5.3) and (5.4).
+Maxwell resolved this inconsistency 
+as follows: While the capacitor is being 
+charged up, varying electric field is 
+produced between capacitor plates. There 
+must be a current associated with the 
+changing electric field between capacitor 
+plates. In other words, time−varying 
+electric field (or time−varying electric 
+flux) produces a current. This is known as 
+displacement current flowing between the 
+plates of the capacitor (Figure 5.5). 
+Figure 5.5  Applying Gauss’s law between 
+the plates of the capacitor
+S2
+E
+→
+iC
+iC
+P
++
+–
+id
+From Gauss’s law of electrostatics, 
+the electric flux between the plates of the 
+capacitor is 
+ΦE
+S
+E dA
+EA
+q
+=
+⋅
+=
+=
+∫
+
+
+
+
+e 
+where A is the area of the plates of capacitor. 
+The change in electric flux is given by
+(
+)
+ or
+E
+o
+E
+o
+E
+d
+o
+d
+1 dq
+=
+      
+dt
+dt
+d
+dq =
+dt
+dt
+d
+i =
+      
+dt
+Φ
+Φ
+Φ
+e
+e
+e
+
+(5.5)
+Figure 5.6  Magnetic feld produced by 
+conduction and displacement currents
++
+–
+iC
+id
+iC
+E
+→
+B
+→
+B
+→
+B
+→
+12th Physics_Vol-1_Unit 5_English Medium.indd   269
+12th Physics_Vol-1_Unit 5_English Medium.indd   269
+24-12-2021   15:57:26
+24-12-2021   15:57:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 270
+
+PDF_PAGE: 278
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+270
+EXAMPLE 5.1
+Consider a parallel plate capacitor which 
+is connected to an 230 V RMS value and 
+50 Hz frequency. If the separation distance 
+between the plates of the capacitor and 
+area of the plates are 1  mm and 20 cm2 
+respectively. Calculate the displacement 
+current at t = 1 s. 
+Solution
+Potential difference between the plates of 
+the capacitor, 
+    V = Vmax sin2pft 
+        = 230 2 sin(2p × 50t)
+∴
+=
+V
+t
+325
+100
+sin
+π
+d = 1 mm = 1 × 10–3 m
+A = 20 cm2 = 20 × 10–4 m2 
+Displacement current, i
+d
+dt
+d(EA)
+dt
+d
+E
+=
+= e
+
+Φ
+e
+
+ 
+∴
+=
+
+
+
+
+
+
+=
+
+
+
+
+
+
+=
+=
+i
+A
+d
+dV
+dt
+E
+V
+d
+A
+d
+t
+d
+e
+e
+0
+0
+325 100
+100
+
+(
+)(
+) cos
+π
+π
+8 85 10
+20 10
+325
+100
+3 14
+100
+1
+1
+12
+4
+.
+.
+cos(
+)
+×
+×
+×
+×
+×
+×
+×
+×
+
+
+
+
+
+
+−
+−
+π
+×
+(
+)
+=
+×
+× =
+−
+−
+10
+1 81 10
+100
+1
+1
+3
+6
+.
+[
+cos(
+)
+]
+A=1.81 A
+µ
+π
+
+5.1.2  Maxwell’s equations in 
+integral form
+Electrodynamics can be summarized in 
+four basic equations, known as Maxwell’s 
+equations. These equations are analogous 
+to Newton’s equations in mechanics. 
+Maxwell’s equations completely explain 
+the behaviour of charges, currents and 
+properties of electric and magnetic 
+fields. These equations can be written in 
+integral form (or integration form) or 
+derivative form (or differential form). The 
+Importance of Maxwell’s correction:
+Earth receives radiations from Sun and 
+other stars. These radiations travel through 
+empty space where there are no electric 
+charges and hence no electric current. 
+Ampere’s law says that only electric current 
+can produce a magnetic field. If Ampere’s law 
+alone is true, there will not be any radiation. 
+Maxwell’s correction term 
+E
+0
+0
+d
+dt
+µ
+Φ
+
+
+
+
+
+
+e
+in Ampere’s law ensures that time−varying 
+electric field or displacement current can 
+also produce a magnetic field. Though 
+conduction current is zero in an empty 
+space, displacement current does exist. So, 
+the equation (5.6) becomes
+E
+0
+d
+dt
+0
+l
+B.dl =
+Φ
+µ
+∫
+
+
+e
+In stars, due to thermal excitation 
+of atoms, time−varying electric field is 
+produced which in turn, produces time−
+varying magnetic field. According to 
+Faraday’s law, this time−varying magnetic 
+field produces again time−varying electric 
+field and so on. The coupled time−varying 
+electric and magnetic fields travel through 
+empty space with the speed of light and is 
+called electromagnetic wave. 
+Even though Maxwell initially started 
+with purely symmetry argument, his 
+correction term explains one of the important 
+aspects of the universe, namely the existence 
+of electromagnetic waves.
+Displacement current
+The name stuck because 
+Maxwell named it. The word 
+displacement is poorly chosen because 
+nothing is being displaced here.
+Note
+12th Physics_Vol-1_Unit 5_English Medium.indd   270
+12th Physics_Vol-1_Unit 5_English Medium.indd   270
+24-12-2021   15:57:27
+24-12-2021   15:57:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 271
+
+PDF_PAGE: 279
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+271
+Third equation
+It is Faraday’s law of electromagnetic 
+induction. This law relates electric field 
+with the changing magnetic flux which is 
+mathematically written as
+
+
+ E dl
+d
+dt
+l
+B
+⋅
+=−
+∫
+Φ
+(Faraday’s law)
+(5.9)
+where 
+
+E is the electric field. This 
+equation implies that the line integral of 
+the electric field around any closed path 
+is equal to the rate of change of magnetic 
+flux through the closed path bounded by 
+the surface. 
+Our modern technological revolution 
+is due to Faraday’s laws of electromagnetic 
+induction. 
+Fourth equation 
+It is modified Ampere’s circuital law. 
+This is also known as Ampere – Maxwell 
+law. This law relates the magnetic field 
+around any closed path to the conduction 
+current and displacement current through 
+that path. 
+ 
+  
+
+
+B dl
+i
+d
+dt
+E dA
+l
+C
+s
+.
+.
+∫
+∫
+=
++
+µ
+µ
+0
+0
+0e
+(Ampere-
+)
+Maxwell law
+
+(5.10)
+where 
+
+B is the magnetic field. This equation 
+shows that both conduction current and 
+displacement current produce magnetic field. 
+These four equations are known as 
+Maxwell’s equations in electrodynamics. 
+This 
+equation 
+ensures 
+the 
+existence 
+of electromagnetic waves. The entire 
+communication system in the world 
+depends on electromagnetic waves. In fact 
+our understanding of stars, galaxy, planets 
+etc come by analysing the electromagnetic 
+waves emitted by these astronomical objects.
+differential form of Maxwell’s equation 
+is beyond higher secondary level. So we 
+focus only the integral form of Maxwell’s 
+equations.
+First equation
+It is nothing but the Gauss’s law of 
+electricity. It relates the net electric flux to 
+net electric charge enclosed in a surface. 
+Mathematically, it is expressed as 
+
+
+
+ E dA
+Qenclosed
+s
+⋅
+=
+∫
+e
+(Gauss’slaw for electricity)
+
+(5.7)
+where 
+
+E is the electric field and Q enclosed 
+is the net charge enclosed by the surface S. 
+This equation is true for both discrete and 
+continuous distribution of charges. 
+It also indicates that the electric field 
+lines start from positive charge and 
+terminate at negative charge. This implies 
+that the electric field lines do not form a 
+continuous closed path. In other words, it 
+means that an isolated positive charge or 
+negative charge can exist.
+Second equation 
+This law is similar to Gauss’s law for 
+electricity. So this law can also be called 
+as Gauss’s law for magnetism. The surface 
+integral of magnetic field over a closed 
+surface is zero. Mathematically,
+
+
+ B dA
+s
+⋅
+=
+∫
+0
+(Gauss’s law for magnetism)(5.8)
+where 
+
+B is the magnetic field. 
+This equation implies that the magnetic 
+lines of force form a continuous closed path. 
+In other words, it means that no isolated 
+magnetic monopole exists.
+12th Physics_Vol-1_Unit 5_English Medium.indd   271
+12th Physics_Vol-1_Unit 5_English Medium.indd   271
+24-12-2021   15:57:29
+24-12-2021   15:57:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 272
+
+PDF_PAGE: 280
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+272
+type — not completely closed) which is kept 
+at far distance. This implies that the energy 
+is transmitted from electrode to the receiver 
+(ring electrode) in the form of waves, known 
+as electromagnetic waves. 
+If the receiver is rotated by 90°, then 
+no spark is observed by the receiver. This 
+confirms that electromagnetic waves are 
+transverse waves as predicted by Maxwell. 
+Hertz detected radio waves and also 
+computed the speed of radio waves which is 
+equal to the speed of light (3 × 108 m s–1).
+LC oscillator circuit with 
+proper setup can be used to 
+generate radio waves whose 
+frequency is same as frequency of LC 
+oscillations f =
+
+
+
+
+
+
+1
+2π LC
+Hz .
+Note
+Properties of electromagnetic waves
+	 1.	 Electromagnetic waves are produced 
+by any accelerated charge.
+	 2.	 Electromagnetic waves do not require any 
+medium for propagation. So electromagnetic 
+wave is a non-mechanical wave. 
+	 3.	 Electromagnetic waves are transverse 
+in nature. The oscillating electric field 
+vector, oscillating magnetic field vector 
+and propagation vector (gives direction of 
+propagation) are mutually perpendicular to 
+5.2
+ELECTROMAGNETIC WAVES
+Electromagnetic 
+waves 
+are 
+non-
+mechanical waves which move with speed 
+equals to the speed of light (in vacuum). 
+It is a transverse wave. In the following 
+subsections, we discuss the production of 
+electromagnetic waves and its properties, 
+sources of electromagnetic waves and also 
+classification of electromagnetic spectrum. 
+5.2.1  Production and 
+properties of electromagnetic 
+waves 
+Production of electromagnetic waves - Hertz 
+experiment
+Maxwell’s prediction was experimentally 
+confirmed by Heinrich Rudolf Hertz in 
+1888. The experimental set up used is shown 
+in Figure 5.7 (b). 
+It consists of two metal electrodes which 
+are made of small spherical metals. These are 
+connected to larger spheres and the ends of 
+them are connected to induction coil with 
+very large number of turns. This is to produce 
+very high electromotive force (emf). 
+Since the coil is maintained at very high 
+potential, air between the electrodes gets 
+ionized and spark (spark means discharge 
+of electricity) is produced. This discharge 
+of electricity affects another electrode (ring 
+Figure 5.7  (a) Heinrich Rudolf Hertz      (b) Schematic diagram of Hertz apparatus
+Input
+Transmitter
+Receiver
+Induction
+coil
+q
+–q
++
+_
++
+_
+(a)
+(b)
+12th Physics_Vol-1_Unit 5_English Medium.indd   272
+12th Physics_Vol-1_Unit 5_English Medium.indd   272
+24-12-2021   15:57:30
+24-12-2021   15:57:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 273
+
+PDF_PAGE: 281
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+273
+Figure 5.8  Electromagnetic waves – 
+transverse wave 
+E
+Direction of
+propagation
+
+B
+
+y
+x
+z
+each other. For example, if the electric and 
+magnetic fields are as shown in Figure 5.8, 
+then the direction of propagation will be 
+along x-direction. 
+	 4.	 Electromagnetic waves travel with speed 
+which is equal to the speed of light in vacuum 
+or free space, c =
+= ×
+−
+1
+3 10
+0
+0
+8
+e µ
+ms 1, where 
+eo is the permittivity of free space or vacuum 
+and µo is the permeability of free space or 
+vacuum (refer Unit 1 for permittivity and 
+Unit 3 for permeability).
+	 5.	 In a medium with permittivity ε and 
+permeability µ, the speed of electromagnetic 
+wave v is less than that in free space or 
+vacuum (v < c). 
+	 In a medium of refractive index, 
+ 
+n
+c
+n
+r
+r
+=
+=
+∴
+=
+v
+1
+1
+0
+0
+e
+e
+e
+µ
+µ
+µ
+ 
+	 where er is the relative permittivity of 
+the medium (also known as dielectric 
+constant) and µr is the relative permeability 
+of the medium. 
+	 6.	 Electromagnetic waves are not deflected 
+by electric field or magnetic field.
+	 7.	 Electromagnetic waves can exhibit 
+interference, diffraction and polarization. 
+	 8.	 Like other waves, electromagnetic 
+waves also carry energy, linear momentum 
+and angular momentum.
+	 9.	 If the electromagnetic wave incident on a 
+material surface is completely absorbed, then 
+the energy delivered is U and momentum 
+imparted on the surface is p
+U
+c
+=
+.
+	 10.	If the incident electromagnetic wave 
+of energy U is totally reflected from the 
+surface, then the momentum delivered to 
+the surface is ∆=
+−−
+
+
+
+
+
+=
+p
+U
+c
+U
+c
+U
+c
+2
+.
+•	 It is surprising to realize that EM waves have linear momentum and angular 
+momentum like particles. In the year 2018, Nobel prize in physics was awarded 
+for the invention of optical tweezers and production of high intense light pulses. 
+•	 Optical tweezer is nothing but a laser light, used to move micro sized particles or 
+molecules from one location to another location. It has a lot of applications in the medical 
+field. The bacteria and virus can alone be separated from regular tissue using this optical 
+tweezer and cancerous cells can be separated from normal healthy cells. The optical tweezer 
+utilizes  momentum property of EM waves.  
+•	 In fact, the comet has tail shape because the sun light impart large amount of linear 
+momentum which pushes the masses of the comet away from the sun.
+•	 Angular momentum of EM waves can be understood in simple way. Consider a setup of 
+oppositely-charged coaxial cylindrical shells and in between them a solenoid is kept. An AC current 
+is flowing through it and when the current in the solenoid is reduced to zero, then the inner and 
+outer cylindrical shells start to rotate in opposite directions. The rotation of these cylinders is due to 
+the impart of angular momentum from the electromagnetic field produced by the AC current.
+12th Physics_Vol-1_Unit 5_English Medium.indd   273
+12th Physics_Vol-1_Unit 5_English Medium.indd   273
+24-12-2021   15:57:31
+24-12-2021   15:57:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 274
+
+PDF_PAGE: 282
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+274
+particle accelerates, it produces magnetic 
+field in addition to electric field. Both 
+electric and magnetic fields are time 
+varying fields. Since the electromagnetic 
+waves are transverse waves, the direction 
+of propagation of electromagnetic waves 
+is perpendicular to the planes containing 
+electric and magnetic field vectors.
+Any oscillatory motion is also an 
+accelerated motion. So, when the charge 
+oscillates (oscillating molecular dipole) 
+about their mean position (Figure 5.9), it 
+produces electromagnetic waves. 
+Suppose the electromagnetic field in 
+free space propagates along z-direction 
+and if the electric field vector points along 
+x-axis, then the magnetic field vector will 
+be mutually perpendicular to both electric 
+field and the direction of wave propagation. 
+Thus 
+E
+E
+kz
+t
+x =
+−
+(
+)
+0 sin
+ω
+B
+B
+kz
+t
+y =
+−
+(
+)
+0 sin
+ω
+where Eo and Bo are amplitudes of oscillating 
+electric and magnetic field, k is a wave 
+number, ω is the angular frequency of the 
+EXAMPLE 5.2
+The 
+relative 
+magnetic 
+permeability 
+of the medium is 2.5 and the relative 
+electrical permittivity of the medium is 
+2.25. Compute the refractive index of the 
+medium. 
+Solution
+Dielectric constant (relative permittivity 
+of the medium), er = 2.25 
+Magnetic permeability, µr = 2.5 
+Refractive index of the medium, 
+n
+r
+r
+=
+=
+×
+=
+e µ
+2 25
+2 5
+2 37
+.
+.
+.
+5.2.2  Sources of 
+electromagnetic waves
+Any stationary charge produces only 
+electric field (refer Unit 1). When the 
+charge moves with uniform velocity, it 
+produces steady current which gives rise to 
+magnetic field (not time dependent, only 
+space dependent) around the conductor 
+in which charge flows. If the charged 
+Figure 5.9  Oscillating charges - sources of electromagnetic waves
+Propagation of an Electromagnetic Wave
+E
+
+B
+
+Source
+Direction of 
+propagation
+Electric
+ﬁeld
+vectors
+Magnetic
+ﬁeld
+vectors
+Discharging
+spark or
+oscillating
+molecular
+dipole
+z
+x
+y
+12th Physics_Vol-1_Unit 5_English Medium.indd   274
+12th Physics_Vol-1_Unit 5_English Medium.indd   274
+24-12-2021   15:57:32
+24-12-2021   15:57:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 275
+
+PDF_PAGE: 283
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+275
+5.2.3  Electromagnetic 
+spectrum
+Figure 5.10  Electromagnetic spectrum - 
+Radio
+Microwave
+Wavelength
+Energy
+1 cm = 10,000,000 nanometers
+0.000000248
+5,000,000,000
+0.124
+2.48
+4.96
+2480
+2,480,000 electron volts
+10,000
+500
+250
+0.5
+0.0005
+nanometers
+Infrared
+Visible
+light
+UV
+X-Ray
+Gamma
+Electromagnetic spectrum is an orderly 
+distribution of electromagnetic waves in terms 
+of wavelength or frequency (Figure 5.10).
+Radio waves
+They are produced by accelerated 
+motion of charges in conducting wires. The 
+frequency range is from a few Hz to 109 Hz. 
+They show reflection and diffraction.
+They are used in radio and television 
+communication systems and also in cellular 
+phones to transmit voice communication 
+in the ultra high frequency band. 
+Microwaves
+It is produced by special vacuum tubes 
+such as klystron, magnetron and gunndiode. 
+The frequency range of microwaves is 109 Hz 
+to 1011 Hz.These waves undergo reflection 
+and can be polarised. 
+It is used in radar system for aircraft 
+navigation, speed of the vehicle, microwave 
+oven for cooking and very long distance 
+wireless communication through satellites.
+Infrared radiation
+It is produced by hot bodies (also 
+known as heat waves) and also by when 
+the molecules undergoing rotational and 
+vibrational transitions. The frequency range 
+is 1011 Hz to 4 × 1014 Hz. 
+It provides electrical energy to satellites 
+by means of solar cells. It is used to produce 
+wave and k (unit vector, here it is called 
+propagation vector) denotes the direction of 
+propagation of electromagnetic wave. 
+Note that both electric field and 
+magnetic field oscillate with a frequency 
+(frequency of electromagnetic wave) which 
+is equal to the frequency of the source 
+(here, oscillating charge is the source for 
+the production of electromagnetic waves). 
+In free space or in vacuum, the ratio 
+between Eo and Bo is equal to the speed of 
+electromagnetic wave and is equal to speed 
+of light c. 
+c
+E
+B
+=
+0
+0
+In any medium, the ratio of Eo and Bo is 
+equal to the speed of electromagnetic wave 
+in that medium. Thus 
+v =
+<
+E
+B
+c
+0
+0
+Further, the energy of electromagnetic 
+waves comes from the energy of the 
+oscillating charge. 
+EXAMPLE 5.3
+Compute the speed of the electromagnetic 
+wave in a medium if the amplitude of 
+electric and magnetic fields are 3 × 104 N C–1 
+and 2 × 10–4 T, respectively.
+Solution
+The amplitude of the electric field,  
+Eo = 3 × 104 N C–1
+The amplitude of the magnetic field, 
+Bo = 2 × 10–4 T. Therefore, speed of the 
+electromagnetic wave in that medium is 
+v =
+×
+×
+=
+×
+−
+−
+3 10
+2 10
+1 5 10
+4
+4
+8
+1
+.
+ms
+12th Physics_Vol-1_Unit 5_English Medium.indd   275
+12th Physics_Vol-1_Unit 5_English Medium.indd   275
+24-12-2021   15:57:33
+24-12-2021   15:57:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 276
+
+PDF_PAGE: 284
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+276
+It has less penetrating power. It can be 
+absorbed by atmospheric ozone and is harmful 
+to human body. It is used to destroy bacteria 
+in sterilizing the surgical instruments, burglar 
+alarm, to detect the invisible writing, finger 
+prints and also in the study of atomic structure. 
+X-rays
+It is produced when there is sudden 
+stopping of high speed electrons at high-
+atomic number target, and also by electronic 
+transitions among the innermost orbits of 
+atoms. The frequency range of X-rays is 
+from 1017 Hz to 1019 Hz. 
+X-rays have more penetrating power 
+than ultraviolet radiation. X-rays are used 
+extensively in studying structures of inner 
+atomic electron shells and crystal structures. 
+It is used in detecting fractures, diseased 
+organs, formation of bones and stones, 
+dehydrated fruits, in green houses to keep 
+the plants warm, heat therapy for muscular 
+pain or sprain, TV remote as a signal carrier, 
+to look through haze fog or mist and used in 
+night vision or infrared photography. 
+Visible light
+It is produced by incandescent bodies 
+and also it is radiated by excited atoms 
+in gases. The frequency range is from 
+4 × 1014 Hz to 8 × 1014 Hz. 
+It obeys the laws of reflection and refraction. 
+It undergoes interference, diffraction and can 
+be polarised. It exhibits photo-electric effect 
+also. It can be used to study the structure of 
+molecules, arrangement of electrons in external 
+shells of atoms. It causes sensation of vision. 
+Ultraviolet radiation
+It is produced by Sun, arc and ionized 
+gases. 
+Its 
+frequency 
+range 
+is 
+from 
+8 × 1014 Hz to 1017 Hz. 
+Measuring the speed of light using the microwave oven
+Nowadays the microwave oven is very commonly used to heat the food items. Micro waves 
+of wavelengths 1 mm to 30 cm are produced in these ovens. Such waves form the standing 
+waves between the interior walls of the oven. It is interesting to note that the speed of light 
+can be measured using micro wave oven.   
+(a)
+(b)
+             Hot
+             Hot
+             Hot
+             Hot
+             Hot
+H
+H
+H
+o
+Ho
+o
+             
+(c)
+(d)
+We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves 
+have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero 
+and at antinodes point, the amplitude is maximum. In other words, the maximal energy of 
+microwaves is located at antinode points. When we keep some food items like chappathi or 
+choclate (after removing the rotating platform) inside the oven, we can notice that at antinode 
+locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) 
+and (d). The distance between two successive burnt spots will give the half wavelength of 
+microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength 
+and frequency of microwaves, using the formula vλ = c, we can calculate the speed of light c.
+Activity
+12th Physics_Vol-1_Unit 5_English Medium.indd   276
+12th Physics_Vol-1_Unit 5_English Medium.indd   276
+24-12-2021   15:57:33
+24-12-2021   15:57:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 277
+
+PDF_PAGE: 285
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+277
+B =
+×
+(
+)
+×
+(
+)
+×
+(
+)
+=
+×
+−
+−
+−
+9 11 10
+1 54 10
+1 60 10
+8 7683 10
+31
+10
+19
+2
+.
+.
+.
+.
+T
+ B = 0.08768 T
+This magnetic field can be easily produced 
+with a permanent magnet. So, electromagnetic 
+waves of frequency 2450 MHz can be used 
+for heating and cooking food because they 
+are strongly absorbed by water molecules. 
+5.3
+TYPES OF SPECTRUM-  
+EMISSION AND 
+ABSORPTION SPECTRUM- 
+FRAUNHOFER LINES
+When an object burns, 
+it emits radiations. That is, 
+it emits electromagnetic 
+radiation which depends on 
+temperature. If the object 
+becomes hot, it glows in 
+red colour. If the temperature of the object is 
+further increased, then it glows in reddish-
+orange colour and becomes white when it is 
+hottest. The spectrum in Figure 5.11 usually 
+observing the progress of healing bones. 
+Further, in a finished metal product, it is 
+used to detect faults, cracks, flaws and holes. 
+Gamma rays
+It is produced by transitions of 
+radioactive nuclei and decay of certain 
+elementary 
+particles. 
+They 
+produce 
+chemical reactions on photographic plates, 
+fluorescence, ionisation, diffraction. The 
+frequency range is 1018 Hz and above. 
+Gamma rays have higher penetrating 
+power than X-rays and ultraviolet radiations; 
+it has no charge but harmful to human body. 
+Gamma rays provide information about the 
+structure of atomic nuclei. It is used in radio 
+therapy for the treatment of cancer and 
+tumour, in food industry to kill pathogenic 
+microorganism.
+EXAMPLE 5.4
+A magnetron in a microwave oven emits 
+electromagnetic waves (em waves) with 
+frequency f = 2450 MHz. What magnetic 
+field strength is required for electrons to 
+move in circular paths with this frequency?.
+Solution
+Frequency of the electromagnetic waves 
+given, f = 2450 MHz
+The corresponding angular frequency is 
+ω = 2πf = 2 × 3.14 × 2450 × 106 
+    = 15,386 × 106 Hz 
+    = 1.54 × 1010 s–1 
+The required magnetic field, B
+m
+q
+e
+=
+ω
+Mass of the electron, me = 9.11 × 10–31 kg 
+Charge of the electron, 
+ q
+q
+=−
+×
+⇒
+=
+×
+−
+−
+1 60 10
+1 60 10
+19
+19
+.
+.
+C
+C
+Figure 5.11  Black body radiation 
+spectrum – variation with temperature
+Intensity
+6000 K
+4000 K
+3000 K
+Infrared
+Ultraviolet
+Wavelength
+Bodies radiating at similar
+temperatures
+Surface of the sun ≈ 6000 K
+Carbon arc lamp ≈ 4000 K
+Lamp ﬁlament ≈ 3000 K
+12th Physics_Vol-1_Unit 5_English Medium.indd   277
+12th Physics_Vol-1_Unit 5_English Medium.indd   277
+24-12-2021   15:57:34
+24-12-2021   15:57:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 278
+
+PDF_PAGE: 286
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+278
+emission spectrum. The emission spectrum 
+can be divided into three types:
+(i) Continuous emission spectrum (or 
+continuous spectrum)
+If the light from incandescent lamp 
+(filament bulb) is allowed to pass through 
+prism (simplest spectroscope), it splits 
+up into seven colours. Thus, it consists 
+of wavelengths containing all the visible 
+colours ranging from violet to red (Figure 
+5.13). Examples: spectrum obtained from 
+carbon arc and incandescent solids. 
+(ii) Line 
+emission 
+spectrum 
+(or 
+line 
+spectrum):
+Suppose light from hot gas is allowed 
+to pass through prism, line spectrum is 
+observed (Figure 5.14). Line spectra are also 
+known as discontinuous spectra. The line 
+spectra consists of  sharp lines of definite 
+wavelengths or frequencies. Such spectra 
+arise due to excited atoms of elements. These 
+lines are the characteristics of the element 
+and are different for different elements. 
+Examples: spectra of atomic hydrogen, 
+helium, etc.
+(iii) Band 
+emission 
+spectrum 
+(or 
+band 
+spectrum)
+Band spectrum consists of several 
+number of very closely spaced spectral lines 
+which overlap together forming specific 
+is called black body spectrum (Refer XI 
+Physics Unit 8). It is a continuous frequency 
+(or wavelength) curve depending on the 
+body’s temperature.
+Suppose we allow a beam of white light to 
+pass through the prism (as shown in Figure 
+5.12). It is split into its seven constituent 
+colours which can be viewed on the screen 
+as continuous spectrum. This phenomenon 
+is known as dispersion of light and the 
+definite pattern of colours obtained on the 
+screen after dispersion is called as spectrum. 
+The spectra can be broadly classified into 
+two catagories:
+Figure 5.12  White light passed through 
+prism – dispersion
+(a)Emission spectra 
+When the spectrum of self luminous 
+source is taken, we get emission spectrum. 
+Each source has its own characteristic 
+Continuous spectrum
+Figure 5.13  continuous emission spectra
+Figure 5.14  line emission spectra
+Line spectrum
+Hot gas
+12th Physics_Vol-1_Unit 5_English Medium.indd   278
+12th Physics_Vol-1_Unit 5_English Medium.indd   278
+24-12-2021   15:57:34
+24-12-2021   15:57:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 279
+
+PDF_PAGE: 287
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+279
+known as Fraunhofer lines (Figure 5.16). The 
+absorption spectra for various materials are 
+compared with the Fraunhofer lines in the 
+solar spectrum, which helps in identifying 
+elements present in the Sun’s atmosphere. 
+Fraunhofer lines
+When the spectrum obtained from the 
+Sun is examined, it consists of large number 
+of dark lines (line absorption spectrum). 
+These dark lines in the solar spectrum are 
+bands which are separated by dark spaces. 
+This spectrum has a sharp edge at one end 
+and fades out at the other end. Such spectra 
+arise when the molecules are excited. 
+Band spectrum is the characteristic of the 
+molecule and hence the structure of the 
+molecules can be studied using their band 
+spectra. Example: spectra of ammonia gas 
+in the discharge tube etc.
+(b) Absorption spectra
+When light is allowed to pass through 
+a medium or an absorbing substance 
+then the spectrum obtained is known as 
+absorption spectrum. It is the characteristic 
+of 
+absorbing 
+substance. 
+Absorption 
+spectrum is classified into three types:
+(i) Continuous absorption spectrum
+When we pass white light through a blue 
+glass plate, it absorbs all the colours except 
+blue and gives continuous absorption 
+spectrum.
+Figure 5.15  line absorption spectra
+Cold gas
+Absorption spectrum
+(ii) Line absorption spectrum
+When light from the incandescent lamp 
+is passed through cold gas (medium), the 
+spectrum obtained through the dispersion 
+due to prism is line absorption spectrum 
+(Figure 5.15). Similarly, if the light from 
+the carbon arc is made to pass through 
+sodium vapour, a continuous spectrum 
+of carbon arc with two dark lines in the 
+yellow region  are obtained. 
+(iii) Band absorption spectrum
+When white light is passed through the 
+iodine vapour, dark bands on continuous 
+bright background is obtained. This type 
+of band is also obtained when white light 
+is passed through diluted solution of 
+blood or chlorophyll or through certain 
+solutions of organic and inorganic 
+compounds. 
+Figure 5.16  Solar spectrum - Fraunhofer lines 
+4000
+Ultraviolet
+       X-rays
+       Y-rays
+KH
+h
+d
+h
+c
+a
+b
+4-1
+3-1
+g
+f e
+G
+F
+E
+D
+C
+B
+A
+Infrared 
+and radio 
+spectrum
+5000
+6000
+7000
+4500
+5500
+6500
+7500 (λ in Å)
+12th Physics_Vol-1_Unit 5_English Medium.indd   279
+12th Physics_Vol-1_Unit 5_English Medium.indd   279
+24-12-2021   15:57:34
+24-12-2021   15:57:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 280
+
+PDF_PAGE: 288
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+280
+ 
+
+Displacement current can be defned as ‘the current which comes into play in the 
+region in which the electric feld and the electric fux are changing with time’.
+ 
+
+Maxwell modifed Ampere's law as 
+	
+ 
+ B dl
+i
+i
+i
+o
+o
+c
+d
+⋅
+=
+=
++
+(
+)
+∫
+µ
+µ
+.
+ 
+
+An electromagnetic wave is radiated by an accelerated charge which propagates 
+through space as coupled electric and magnetic felds, oscillating perpendicular to 
+each other and to the direction of propagation of the wave.
+ 
+
+Electromagnetic waves are non-mechanical and do not require any medium for 
+propagation.
+ 
+
+Te instantaneous magnitude of the electric and magnetic feld vectors in 
+electromagnetic wave are related by c = E / B.
+ 
+
+Electromagnetic waves can show interference, difraction and also can be polarized
+ 
+
+Electromagnetic waves carry not only energy and momentum but also angular 
+momentum. 
+ 
+
+Types of spectra: emission and absorption spectra.
+ 
+
+When the spectrum of self luminous source is taken, we get emission spectrum. Each 
+source has its own characteristic emission spectrum. Te emission spectrum can be 
+divided into three types: continuous, line and band.
+ 
+
+When the spectrum obtained from the Sun is examined, it consists of a large number 
+of dark lines (line absorption spectrum). Tese dark lines in the solar spectrum are 
+known as Fraunhofer lines.
+S U M M A R Y
+12th Physics_Vol-1_Unit 5_English Medium.indd   280
+12th Physics_Vol-1_Unit 5_English Medium.indd   280
+24-12-2021   15:57:35
+24-12-2021   15:57:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 281
+
+PDF_PAGE: 289
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+281
+Electromagnetic waves
+Displacement 
+Current
+Maxwell’s 
+equations
+Sources
+Production
+Absorption 
+Spectrum
+Emission
+ Spectrum
+Band Emission
+ Spectrum
+Band Absorption 
+Spectrum
+Continuous 
+Absorption
+ Spectrum
+Line Absorption 
+Spectrum
+Continuous 
+Emission Spectrum
+Line Emission 
+Spectrum
+Fraunhofer Lines
+EM Spectrum
+C O N C E P T M A P
+12th Physics_Vol-1_Unit 5_English Medium.indd   281
+12th Physics_Vol-1_Unit 5_English Medium.indd   281
+24-12-2021   15:57:35
+24-12-2021   15:57:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 282
+
+PDF_PAGE: 290
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+282
+EVALUATION
+I Multiple choice questions
+	 1.	 Te dimension of 
+1
+µoe
+is 
+(a) [L T−1]	
+ (b) [L2 T−2]
+(c) [L−1 T]	
+(d) [L−2 T2]
+	 2.	 If the amplitude of the magnetic feld is 
+3 × 10−6 T, then amplitude of the electric 
+feld for a electromagnetic waves is 
+(a) 100 V m−1	
+(b) 300 V m−1 
+(c) 600 V m−1	
+(d) 900 V m−1
+	 3.	 Which of the following electromagnetic 
+radiations is used for viewing objects 
+through fog
+(a) microwave 	
+(b) gamma rays
+(c) X- rays	
+(d) infrared 
+	 4.	 Which of the following is false for 
+electromagnetic waves 
+(a) transverse
+(b) non-mechanical waves 
+(c) longitudinal
+(d) produced by accelerating charges  
+	 5.	 Consider an oscillator which has a 
+charged particle oscillating about 
+its mean position with a frequency 
+of 300 MHz. Te wavelength of 
+electromagnetic waves produced by 
+this oscillator is
+(a) 1 m 	
+(b) 10 m 
+(c) 100 m	
+(d) 1000 m
+	 6.	 Te electric and the magnetic felds, 
+associated with an electromagnetic 
+wave, propagating along negative 
+X axis can be represented by
+(a) 
+
+
+
+
+E
+E i
+B
+B k
+=
+=
+
+
+and
+(b) 
+
+
+
+
+E
+E k
+B
+B j
+=
+=
+
+
+and
+(c) 
+
+
+
+
+E
+E i
+B
+B j
+=
+=
+
+
+and
+(d) 
+
+
+
+
+E
+E j
+B
+B i
+=
+=
+
+
+and
+	 7.	 In an electromagnetic wave travelling 
+in free space the rms value of the 
+electric feld is 3 V m−1. Te peak value 
+of the magnetic feld is 
+(a) 1.414 × 10−8 T 	
+(b) 1.0 × 10−8  T
+(c) 2.828 × 10−8 T	
+(d) 2.0 × 10−8 T 
+	 8.	 An e.m. wave is propagating in a 
+medium with a velocity 
+
+v
+v i
+=
+. Te 
+instantaneous oscillating electric feld 
+of this e.m. wave is along +y-axis, then 
+the direction of oscillating magnetic 
+feld of the e.m. wave will be along:
+(a) –y direction
+(b) –x direction
+(c) +z direction
+(d) –z direction
+	 9.	 If the magnetic monopole exists, then 
+which of the Maxwell’s equation to be 
+modifed?. 
+(a) 
+
+
+
+ E dA
+Qenclosed
+s
+⋅
+=
+∫
+e
+(b) 
+
+
+ B dA
+s
+⋅
+=
+∫
+0
+(c)
+ 
+  
+
+
+B dl
+i
+d
+dt
+E dA
+l
+c
+s
+.
+.
+∫
+∫
+=
++
+µ
+µ
+0
+0
+0e
+(d) 
+
+
+ E dl
+d
+dt
+B
+l
+⋅
+=−
+∫
+Φ
+10. Fraunhofer lines are an example of 
+_______ spectrum.
+(a) line emission   (b) line absorption
+(c) band emission  (d) band absorption
+12th Physics_Vol-1_Unit 5_English Medium.indd   282
+12th Physics_Vol-1_Unit 5_English Medium.indd   282
+24-12-2021   15:57:37
+24-12-2021   15:57:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 283
+
+PDF_PAGE: 291
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+283
+11. Which of the following is an 
+electromagnetic wave?
+(a) α - rays	
+(b) β - rays
+(c) γ - rays	
+(d) all of them
+12. Which one of them is used to produce a 
+propagating electromagnetic wave?
+(a) an accelerating charge
+(b) a charge moving with constant 
+velocity  (c) a stationary charge
+(d) an uncharged particle
+13. If E = Eo sin[106 x -ωt] be the electric 
+feld of a plane electromagnetic wave, 
+the value of ω is 
+(a) 0.3 × 10−14 rad s−1
+(b) 3 × 10−14 rad s−1 
+(c) 0.3 × 1014 rad s−1
+(d) 3 × 1014 rad s−1 
+14. Which of the following is NOT true for 
+electromagnetic waves?.
+(a) it transports energy
+(b) it transports momentum 
+(c) it transports angular momentum
+(d) in vacuum, it travels with diferent 
+speeds which depend on their 
+frequency
+15. Te electric and magnetic felds of an 
+electromagnetic wave are 
+(a) in phase and perpendicular to each 
+other
+(b) out of phase and not perpendicular 
+to each other
+(c) in phase and not perpendicular to 
+each other
+(d) out of phase and  perpendicular to 
+each other 
+Answers
+	 1) b	
+2) d	
+3) d	
+4) c	
+5) a
+	 6) b	
+7) a	
+8) c	
+9) b	
+10) b
+	11) c	
+12) a	
+13) d	
+14) d	
+15) a
+II Short answer questions 
+	 1.	 What is displacement current?
+	 2.	 What are electromagnetic waves?
+	 3.	 Write down the integral form of 
+modifed Ampere’s circuital law. 
+	4.	 Write notes on Gauss' law in 
+magnetism.
+	 5.	 Give two uses each of (i) IR radiation, 
+(ii) Microwaves and (iii) UV radiation.
+	 6.	 What are Fraunhofer lines? How are 
+they useful in the identifcation of 
+elements present in the Sun?
+	 7.	 Write notes on Ampere-Maxwell law.
+	 8.	 Why are e.m. waves non-mechanical?
+III Long answer questions
+	 1.	 Write down Maxwell equations in 
+integral form. 
+	 2.	 Write short notes on (a) microwave 
+(b) X-ray (c) radio waves (d) visible 
+spectrum
+	 3.	 Discuss the Hertz experiment. 
+	 4.	 Explain the Maxwell’s modifcation of 
+Ampere’s circuital law. 
+	 5.	 Explain the importance of Maxwell’s 
+correction.
+	 6.	 Write 
+down 
+the 
+properties 
+of 
+electromagnetic waves.
+	 7.	 Discuss the source of electromagnetic 
+waves. 
+	 8.	 Explain the types of emission spectrum.
+	 9.	 Explain the types of absorption 
+spectrum. 
+12th Physics_Vol-1_Unit 5_English Medium.indd   283
+12th Physics_Vol-1_Unit 5_English Medium.indd   283
+24-12-2021   15:57:37
+24-12-2021   15:57:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 284
+
+PDF_PAGE: 292
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+284
+IV Numerical problems
+	 1.	 Consider a parallel plate capacitor 
+whose plates are closely spaced. Let R be 
+the radius of the plates and the current 
+in the wire connected to the plates is 
+5 A, calculate the displacement current 
+through the surface passing between 
+the plates by directly calculating the 
+rate of change of fux of electric feld 
+through the surface.
+
+Answer: Id = Ic = 5 A
+	 2.	 A transmitter consists of LC circuit with 
+an inductance of 1 µH and a capacitance 
+of 1 µF. What is the wavelength of 
+the electromagnetic waves it emits? 
+
+Answer: 18.84 × 102 m 
+	 3.	 A pulse of light of duration 10−6 s is 
+absorbed completely by a small object 
+initially at rest. If the power of the 
+pulse is 60 × 10−3 W, calculate the fnal 
+momentum of the object.
+
+Answer: 20 × 10−17 kg m s−1 
+	 4.	 Let an electromagnetic wave propagate 
+along the x - direction, the magnetic 
+feld oscillates at a frequency of 1010 Hz 
+and has an amplitude of 10−5 T, acting 
+along the y - direction. Ten, compute 
+the wavelength of the wave. Also write 
+down the expression for electric feld 
+in this case. 
+
+Answer: λ = 3 × 10−2 m and 
+
+E x t
+x
+t
+k
+( , )
+sin
+.
+.
+= ×
+×
+−
+×
+(
+) −
+(
+)
+−
+3 10
+2 09 10
+6 28 10
+3
+2
+10
+NC
+1 
+	 5.	 If the relative permeability and relative 
+permittivity of a medium are 1.0 and 
+2.25 respectively, fnd the speed of the 
+electromagnetic wave in this medium. 
+
+Answer: v = 2 × 108 m s−1 
+BOOKS FOR REFERENCE:
+	 1.	 H. C. Verma, Concepts of Physics – Volume 2, Bharati Bhawan Publisher. 
+	 2.	 Halliday, Resnick and Walker, Fundamentals of Physics, Wiley Publishers, 10th edition. 
+	 3.	 Serway and Jewett, Physics for scientist and engineers with modern physics, Brook/Coole 
+publishers, Eighth edition.
+	 4.	 David J. Grifths, Introduction to electrodynamics, Pearson publishers.
+	 5.	 Paul Tipler and Gene Mosca, Physics for scientist and engineers with modern physics, Sixth 
+edition, W.H.Freeman and Company.
+12th Physics_Vol-1_Unit 5_English Medium.indd   284
+12th Physics_Vol-1_Unit 5_English Medium.indd   284
+24-12-2021   15:57:38
+24-12-2021   15:57:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 285
+
+PDF_PAGE: 293
+
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+285
+Electromagnetic waves
+In this activity you will be able to how do 
+microwaves heat food?
+STEPS:
+• Open the browser and type “phet.colorado.edu/en/simulation/microwaves” in the address bar. 
+Run the simulation.
+• select ‘one molecule’ tab. Turn on the microwave using the button in the right control panel. Te 
+arrows indicate the strength and direction of the force that would be exerted by the micro wave 
+on the water molecules present in food. Observe the response of water molecule in response to 
+this force?
+• Observe how do microwaves heat food by rotating water molecule?
+• Change amplitude and frequency of microwave and discuss how fast the water molecules are 
+rotating? 
+Note:
+Install Java application if it is not in your system. You can download all the phet 
+simulation and works in off line from https://phet.colorado.edu/en/offline-access.
+URL:
+https://phet.colorado.edu/en/simulation/microwaves
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Physics of 
+microwaves and 
+heating food
+Discuss the relationship between rotating speed of the molecule with cooking time.
+12th Physics_Vol-1_Unit 5_English Medium.indd   285
+12th Physics_Vol-1_Unit 5_English Medium.indd   285
+24-12-2021   15:57:38
+24-12-2021   15:57:38
+www.freetnbooks.com
+www.FREETNBOOKS.com

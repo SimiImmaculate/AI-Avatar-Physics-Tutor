@@ -1,0 +1,7829 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 7 – Wave Optics
+
+TEXTBOOK_PAGE_RANGE:
+53–107
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 53
+
+PDF_PAGE: 61
+
+------------------------------------------------------------
+
+53
+U N I T 
+7
+WAVE OPTICS
+In this unit, the students are exposed to,
+•	 Te wave aspect of light.
+•	 Te proof for law of  refection and refraction.
+•	 Te phenomena like interference, difraction and polarisation.
+•	 Te terms like magnifcation and resolving power etc.
+•	 Te diferent optical instruments like microscope, telescope etc.
+An age is called dark, not because the light fails to shine, but because people refuse to see. 
+	
+— James Albert Michener
+Learning Objectives
+THEORIES ON LIGHT
+Light is a form of energy that is 
+transferred from one place to another. A 
+glance at the evolution of various theories 
+of light put forth by scientists will give not 
+only an over view of the nature of light but 
+also its propagation and some phenomenon 
+demonstrated by it. 
+7.1.1  Corpuscular theory
+Sir Isaac Newton (1672) gave the 
+corpuscular theory of light which was 
+also suggested earlier by Descartes (1637) 
+to explain the laws of reflection and 
+refraction. According this theory, light 
+is emitted as tiny, massless (negligibly 
+small mass) and perfectly elastic particles 
+called corpuscles. As the corpuscles are 
+very small, the source of light does not 
+7.1
+suffer appreciable loss of mass even if it 
+emits light for a long time. On account 
+of high speed, they are unaffected by the 
+force of gravity and their path is a straight 
+line in a medium of uniform refractive 
+index. The energy of light is the kinetic 
+energy of these corpuscles. When these 
+corpuscles impinge on the retina of the 
+eye, the vision is produced. The different 
+sizes of the corpuscles give different 
+colours to light. When the corpuscles 
+approach a surface between two media, 
+they are either repelled (or) attracted. The 
+reflection of light is due to the repulsion 
+of the corpuscles by the medium and 
+refraction of light is due to the attraction 
+of the corpuscles by the medium.
+This theory could not explain the reason 
+why the speed of light is lesser in denser 
+medium than in rarer medium and also the 
+phenomena like interference, diffraction 
+and polarisation.
+XII_Physics_Vol-2_UNIT-7_EM.indd   53
+XII_Physics_Vol-2_UNIT-7_EM.indd   53
+03-03-2022   15:18:21
+03-03-2022   15:18:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 54
+
+PDF_PAGE: 62
+
+------------------------------------------------------------
+
+7.1.2  Wave theory
+Christian Huygens (1678) proposed the 
+wave theory to explain the propagation 
+of light through a medium. According to 
+him, light is a disturbance from a source 
+travels that as longitudinal mechanical 
+waves through the ether medium (that was 
+presumed to pervade all space) as mechanical 
+wave requires a medium for its propagation. 
+The wave theory could successfully explain 
+phenomena 
+of 
+reflection, 
+refraction, 
+interference and diffraction of light. 
+Later, the existence of ether in all space 
+was proved to be wrong. Hence, this theory 
+could not explain the propagation of light 
+through vacuum. The phenomenon of 
+polarisation could not be explained by this 
+theory as it is the property of only transverse 
+waves.
+7.1.3  Electromagnetic wave 
+theory
+Maxwell (1864) proved that light is an 
+electromagnetic wave which is transverse in 
+nature carrying electromagnetic energy. He 
+could also show that no medium is necessary 
+for the propagation of electromagnetic 
+waves. All the phenomenon of light could 
+be successfully explained by this theory. 
+Nevertheless, 
+the 
+interaction 
+phenomenon of light with matter like 
+photoelectric effect and Compton effect 
+could not be explained by this theory.
+7.1.4  Quantum theory
+Albert Einstein (1905), endorsing the 
+views of Max Plank (1900), was able to explain 
+photoelectric effect (discussed in Unit 8) in 
+which light interacts with matter as photons 
+to eject the electrons. A photon is a discrete 
+packet of energy. Each photon has energy E of, 
+E = hv
+(7.1)
+Where, 
+h 
+is 
+Plank’s 
+constant 
+(h = 6.625 × 10–34 Js) and v is frequency of 
+electromagnetic wave. 
+As light has both wave as well as particle 
+nature it is said to have dual nature. It is 
+concluded that light propagates as a wave 
+and interacts with matter as a particle. 
+WAVE NATURE OF LIGHT 
+Light is a transverse, electromagnetic 
+wave. The wave nature of light was first 
+demonstrated 
+through 
+experiments 
+like interference and diffraction. The 
+transverse nature of light is demonstrated 
+in polarization. Like all electromagnetic 
+waves, light can travel through vacuum. 
+7.2.1  Wave optics
+Wave optics deals with the wave 
+characteristics of light. Even the law of 
+reflection and refraction are proved only 
+with the help of wave optics. Though 
+light propagates as a wave, its direction of 
+propagation is still represented as a ray. 
+A good example for wave propagation 
+is the spreading of circular ripples on the 
+surface of still water from a point where 
+a stone is dropped. The molecules (or) 
+particles of water at a point are moving only 
+up and down (oscillate) when a ripple passes 
+through that point. All these particles on 
+the circular ripple are in the same phase of 
+vibration as they are all at the same distance 
+from the center. The ripple represents a 
+wavefront as shown in Figure 7.1(a). A 
+wavefront is the locus of points which are 
+in the same state (or) phase of vibration. 
+7.2
+Unit 7  wave optics
+54
+XII_Physics_Vol-2_UNIT-7_EM.indd   54
+XII_Physics_Vol-2_UNIT-7_EM.indd   54
+03-03-2022   15:18:21
+03-03-2022   15:18:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 55
+
+PDF_PAGE: 63
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+55
+7.2.2  Huygens’ Principle
+Huygens principle is basically a geometrical 
+construction which gives the shape of the 
+wavefront at any time if we know its shape 
+at t = 0. According to Huygens principle, 
+each point on the wavefront behaves as the 
+source of secondary wavelets spreading out 
+in all directions with the speed of the wave. 
+These are called as secondary wavelets. 
+The envelope to all these wavelets gives the 
+position and shape of the new wavefront at a 
+later time. Thus, Huygens’ principle explains 
+the propagation of a wavefront.
+The propagation of a spherical and 
+plane wavefront can be explained using 
+Huygens’ principle. Let, AB be the 
+wavefront at a time, t = 0. According to 
+Huygens’ principle, every point on AB 
+acts as a source of secondary wavelet 
+which travels with the speed of the wave 
+(speed of light c). To find the position 
+of the wavefront after a time t, circles of 
+radius equal to ct are drawn with points 
+P, Q, R ... etc., as centers on AB. The 
+forward envelope (or) the tangent 
+′ ′
+A B of 
+the small circles is the new wavefront at 
+that instant t. The wavefront 
+′ ′
+A B will be 
+a spherical wavefront from a point object 
+which is at a finite distance as shown in 
+Figure 7.3(a) and it is a plane wavefront 
+if the source of light is at a large distance 
+(infinity) as shown in Figure 7.3(b).
+A
+A
+A'
+A'
+P
+P
+R
+R
+B
+B
+B'
+B'
+Q
+Q
+(a) Spherical wavefront
+(b) Plane wavefront
+Figure 7.3  Huygens’ Principle
+When a wave propagates it is treated as the 
+propagation of wavefront. The wavefront is 
+always perpendicular to the direction of the 
+propagation of the wave. As the direction of 
+ray is in the direction of propagation of the 
+wave, the wavefront is always perpendicular 
+to the ray as shown in Figure 7.1(b). 
+(a)
+(b)
+Figure 7.1  (a) Ripples on water surface 
+(b) Wavefront and ray
+The shape of a wavefront observed at a 
+point depends on the shape of the source 
+and also the distance at which the source is 
+located. A point source located at a finite 
+distance gives spherical wavefronts. An 
+extended (or) line source at finite distance 
+gives cylindrical wavefronts. Any source 
+that is located at infinity gives plane 
+wavefront as shown in Figure 7.2. 
+Point source
+O
+A
+B
+Line source
+Source at inﬁnity
+A
+B
+Figure 7.2  Wavefronts 
+XII_Physics_Vol-2_UNIT-7_EM.indd   55
+XII_Physics_Vol-2_UNIT-7_EM.indd   55
+03-03-2022   15:18:22
+03-03-2022   15:18:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 56
+
+PDF_PAGE: 64
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+56
+the reflection. The time taken for the light 
+to travel from B to 
+′
+B and A to 
+′
+A are the 
+same. Thus, the distance BB′ is equal to the 
+distance AA′ ; (AA = BB )
+′
+′ .
+(i)	 The incident rays, the reflected rays and 
+the normal are in the same plane.
+(ii) Angle of incidence, 
+∠i = ∠NAL = 90o – ∠NAB = ∠BAB′
+Angle of reflection, 
+∠r = ∠
+′ ′
+′
+N B M = 90 o–∠
+′ ′ ′
+N B A = ∠
+′ ′
+A B A
+For the two right angle triangles, ∆ABB′ 
+and ∆
+′ ′
+B A A, the two right angles, ∠B and 
+∠
+′
+A are equal, (∠B and ∠
+′
+A = 90o); the two 
+sides, AA′ and BB′ are equal, AA =BB
+′
+′
+(
+); 
+the side AB′ is common. Thus, the two 
+triangles are congruent. As per the property 
+of congruency, the two angles, ∠BAB′ and 
+∠
+′ ′
+A B A must also be equal. 
+i = r
+(7.2)
+Hence, the laws of reflection are proved.
+7.2.4  Proof for laws of 
+refraction using Huygens’ 
+Principle
+Let us consider a parallel beam of 
+light is incident on a refracting plane 
+surface XY such as a glass as shown in 
+Figure 7.5. The incident wavefront AB 
+is in rarer medium  (1) and the refracted 
+wavefront 
+′ ′
+A B is in denser medium (2). 
+These wavefronts are perpendicular to the 
+incident rays L, M and refracted rays ′
+′
+L ,M 
+respectively. By the time the point A of the 
+incident wavefront touches the refracting 
+surface, the point B is yet to travel a distance 
+BB′ to touch the refracting surface at 
+′
+B . 
+When the point B touches the refracting 
+surface at ′
+B , the point A would have reached 
+′
+A in the other medium. This is applicable 
+There is one shortcoming in the above 
+Huygens’ construction for propagation of a 
+wavefront. It could not explain the absence of 
+backward wave which also arises in the above 
+construction. According to electromagnetic 
+wave theory, the backward wave is ruled out 
+inherently. However, Huygens’ principle is 
+a good diagrammatic construction which 
+explains the propagation of the wavefront.
+7.2.3  Proof for laws of 
+reflection using Huygens’ 
+Principle
+Let us consider a parallel beam of light is 
+incident on a reflecting plane surface such as 
+a plane mirror XY as shown in Figure 7.4. The 
+incident wavefront is AB and the reflected 
+wavefront is 
+′ ′
+A B . These wavefronts are 
+perpendicular to the incident rays L, M 
+and reflected rays 
+′
+L , 
+′
+M respectively. By 
+the time point A of the incident wavefront 
+touches the reflecting surface, the point B 
+is yet to travel a distance BB′ to touch the 
+reflecting surface at 
+′
+B . When the point B 
+touches the reflecting surface at ′
+B , the point 
+A would have reached 
+′
+A . This is applicable 
+to all the points on the wavefront. Thus, 
+the reflected wavefront 
+′ ′
+A B emanates as 
+a plane wavefront. The two normals N and 
+′
+N are considered at the points where the 
+rays L and M fall on the reflecting surface. 
+As reflection happens in the same medium, 
+the speed of light is same before and after 
+M'
+M
+L'
+L
+B'
+B
+N'
+N
+A
+A'
+i
+i
+r
+r
+X
+Y
+Figure 7.4  Laws of refection
+XII_Physics_Vol-2_UNIT-7_EM.indd   56
+XII_Physics_Vol-2_UNIT-7_EM.indd   56
+03-03-2022   15:18:29
+03-03-2022   15:18:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 57
+
+PDF_PAGE: 65
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+57
+of medium (1) is, c/v1 = n1 and that of 
+medium (2) is, c/v2 = n2.
+ In ratio form,
+sin
+sin
+i
+r
+n
+n
+=
+2
+1
+
+(7.3)
+In product form, 
+n1sin i = n2 sin r 
+(7.4)
+Hence, the laws of refraction are proved.
+In the same way the laws of refraction 
+can be proved for wavefront travelling from 
+denser to rarer medium also. 
+The speed of light is inversely proportional 
+to the refrative index of the medium (
+)
+v
+n
+µ1
+ 
+and also directly proportional to wavelength 
+of light (
+)
+v ∝λ . Hence, 
+λ
+λ
+1
+2
+2
+1
+= n
+n 
+(7.5)
+If light of a particular frequency 
+travels 
+through 
+different 
+media, then, its frequency 
+remains unchanged in all the media. 
+Only the wavelength changes according 
+to speed of light in that medium.
+Note
+EXAMPLE 7.1
+The wavelength of light from sodium 
+source in vacuum is 5893Å.What are its 
+(a) wavelength, (b) speed and (c) frequency 
+when this light travels in water which has a 
+refractive index of 1.33.
+Solution 
+The refractive index of vacuum, n1 = 1
+The wavelength in vacuum, λ1 = 5893 Å.
+The speed in vacuum, c = v1 = 3 × 108  m s–1
+to all the points on the wavefront. Thus, 
+the refracted wavefront 
+′ ′
+A B emanates as 
+a plane wavefront. The two normals N and 
+′
+N are considered at the points where the 
+rays L and M fall on the refracting surface. 
+As refraction happens from rarer medium 
+(1) to denser medium (2), the speed of light 
+is v1 and v2 before and after refraction and 
+v1 is greater than v2, (v1>v2). But, the time 
+taken t for the ray to travel from B to 
+′
+B is 
+the same as the time taken for the ray to 
+travel from A to 
+′
+A .
+t
+BB
+v
+AA
+v
+BB
+AA
+v
+v
+=
+′ =
+′
+′
+′ =
+1
+2
+1
+2
+ (or) 
+(i)	 The incident rays, the refracted rays and 
+the normal are in the same plane.
+(ii) Angle of incidence, 
+i = ∠NAL = 90o – ∠NAB = ∠BAB′
+Angle of refraction, 
+r = ∠
+′
+′
+′
+N B M = 90 o – ∠
+′
+′
+′
+N B A = ∠′
+′
+A B A
+For the two right angle triangles ∆ABB′ 
+and ∆AA'B', 
+sin
+sin
+/
+/
+i
+r
+BB
+AB
+AA
+AB
+BB
+AA
+=
+′
+′
+′
+′ =
+′
+′ =
+/
+/
+c
+c
+=
+v
+v
+2
+1
+v1
+v2 
+= v1
+v2 
+× 
+c
+c
+Here, c is speed of light in vacuum. 
+The ratio c/v is a constant, called refractive 
+index of the medium. The refractive index 
+M'
+M
+L'
+L
+B'
+B
+N'
+N
+A
+A'
+i
+i
+r
+r
+r
+X
+Y
+Medium(1)
+Medium(2)
+Figure 7.5  Law of refraction
+XII_Physics_Vol-2_UNIT-7_EM.indd   57
+XII_Physics_Vol-2_UNIT-7_EM.indd   57
+03-03-2022   15:18:33
+03-03-2022   15:18:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 58
+
+PDF_PAGE: 66
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+58
+INTERFERENCE 
+The phenomenon of superposition of 
+two light waves which produces increase 
+in intensity at some points and decrease 
+in intensity at some other points is called 
+interference of light.
+Superposition of waves refers to addition 
+of waves. The concept of superposition of 
+mechanical waves is studied in (XI Physics 
+11.7). When two waves simultaneously 
+pass through a particle in a medium, the 
+resultant displacement of that particle is 
+the vector addition of the displacements 
+due to the individual waves. The resultant 
+displacement 
+will 
+be 
+maximum 
+or 
+minimum depending upon the phase 
+difference between the two superimposing 
+waves. These concepts hold good for light 
+as well.
+Let us consider two light waves from the 
+two sources S1 and S2 meeting at a point P as 
+shown in Figure 7.6. 
+P
+S1
+S1P
+S2P
+S2
+Figure 7.6  Superposition principle
+The wave from S1 at an instant t at P is, 
+y1 = a1sin ωt
+(7.6)
+The wave form S2 at an instant t at P is, 
+y2 = a2sin (ωt+ϕ)
+(7.7)
+7.3
+The refractive index of water, n2 = 1.33
+The wavelength of light in water, λ2
+The speed of light in water, v2
+(a) The equation relating the wavelength 
+and refractive index is,	
+       l
+l
+1
+2
+2
+1
+= n
+n
+Rewriting, l
+l
+2
+1
+2
+1
+=
+×
+n
+n
+Substituting the values, 
+l2
+1
+1 33
+5893
+4431
+=
+×
+=
+.
+A
+A
+o
+o
+l2
+4431
+=
+A
+o
+(b) The equation relating the speed and 
+refractive index is,
+       v
+v
+1
+2
+2
+1
+= n
+n
+Rewriting,  v
+v
+2
+1
+2
+1
+=
+×
+n
+n
+Substituting the values, 
+v2
+8
+8
+1
+1 33
+3 10
+2 256 10
+=
+× ×
+=
+×
+.
+.
+v2
+8
+1
+2 256 10
+=
+×
+−
+.
+ms
+(c)  Frequency of light in vacuum is, 
+       v
+c
+1
+1
+= l
+Substituting the values, 
+v1
+8
+10
+14
+3 10
+5893 10
+5 091 10
+=
+×
+×
+=
+×
+−
+.
+Hz
+Frequency of light in water is, v
+v
+2
+2
+= l
+Substituting the values, 
+v2
+8
+1
+10
+14
+2 256 10
+4431 10
+5 091 10
+=
+×
+×
+=
+×
+−
+−
+.
+.
+ms
+Hz
+The results show that the frequency 
+remains same in all media.
+XII_Physics_Vol-2_UNIT-7_EM.indd   58
+XII_Physics_Vol-2_UNIT-7_EM.indd   58
+03-03-2022   15:18:35
+03-03-2022   15:18:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 59
+
+PDF_PAGE: 67
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+59
+In equation (7.15) if the phase difference, 
+ϕ = ±π, ±3π, ±5π. . . , it corresponds to the 
+condition for minimum intensity of light 
+called destructive interference. 
+The resultant minimum intensity is, 
+ 
+I
+a
+a
+I
+I
+I
+I I
+min
+min
+∝
+−
+(
+)
+=
++
+−
+1
+2
+2
+1
+2
+1 2
+2
+
+(7.17)
+As a special case, if a1 = a2 = a, then 
+equation (7.10). becomes,
+A
+a
+a c
+a
+c
+=
++
+=
++
+2
+2
+2
+1
+2
+2
+2
+os
+(
+os )
+f
+f
+                                     =
+2
+2
+2
+2
+2
+a
+cos ( / )
+f
+A
+a
+= 2
+2
+cos( / )
+f
+
+(7.18)
+I
+a
+I
+A
+∝
+∝
+
+
+4
+2
+2
+2
+2
+cos ( / )
+f
+
+
+(7.19)
+I
+I
+a
+=
+∝
+
+
+4
+2
+0
+2
+0
+2
+I cos ( / )
+f
+
+
+(7.20)
+I
+I
+max = 4 0 when, f
+p
+p
+=
+±
+0
+2
+4
+,
+,
+..., (7.21)
+Imin = 0 when, f
+p
+p
+p
+= ±
+±
+±
+,
+,
+...,
+3
+5
+(7.22)
+We conclude that the phase difference ϕ, 
+between the two waves decides the intensity 
+of light at that point where the two waves 
+meet. 
+EXAMPLE 7.2
+Two light sources with amplitudes 5 units 
+and 3 units respectively interfere with each 
+other. Calculate the ratio of maximum and 
+minimum intensities.
+Solution
+Amplitudes, a1 = 5, a2 = 3
+Resultant amplitude, 
+A
+a
+a
+a a
+=
++
++
+1
+2
+2
+2
+1
+2
+2
+cosf
+The two waves have different amplitudes 
+a1 and a2, same angular frequency ω, and a 
+phase difference of ϕ between them. The 
+resultant displacement will be given by,
+y = y1 + y2 = a1sin ωt + a1sin (ωt+ϕ)  (7.8)
+The simplification of the above equation 
+by using trigonometric identities as done in 
+(XI Physics 11.7) gives,
+y = A sin (ωt+θ)
+(7.9)
+Where, A
+a
+a
+a a
+=
++
++
+1
+2
+2
+2
+1
+2
+2
+cosf (7.10)
+q
+f
+f
+=
++
+−
+tan
+sin
+cos
+1
+2
+1
+2
+a
+a
+a
+
+(7.11)
+The resultant amplitude is maximum, 
+A
+a
+a
+max =
++
+(
+)
+1
+2
+2; when ϕ = 0, ±2π, ±4π. . . ,
+
+(7.12)
+The resultant amplitude is minimum, 
+A
+a
+a
+min =
+−
+(
+)
+1
+2
+2 ; when ϕ= ±π, ±3π, ±5π...,
+
+(7.13)
+The intensity of light is proportional to 
+square of amplitude, 
+I ∝ A2
+(7.14)
+Now, squaring equation (7.10) on both 
+sides, 
+I
+I
+I
+I I
+=
++
++
+1
+2
+1 2
+2
+cosf
+(7.15)
+In equation (7.15) if the phase difference, 
+ϕ = 0, ±2π, ±4π. . . , it corresponds to the 
+condition for maximum intensity of light 
+called constructive interference. 
+The resultant maximum intensity is, 
+I
+a
+a
+I
+I
+I
+I I
+max
+max
+∝
++
+(
+)
+=
++
++
+1
+2
+2
+1
+2
+1 2
+2
+
+(7.16)
+XII_Physics_Vol-2_UNIT-7_EM.indd   59
+XII_Physics_Vol-2_UNIT-7_EM.indd   59
+03-03-2022   15:18:40
+03-03-2022   15:18:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 60
+
+PDF_PAGE: 68
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+60
+EXAMPLE 7.4
+Two light sources have intensity of light as 
+I0. What is the resultant intensity at a point 
+where the two light waves have a phase 
+difference of π/3? 
+Solution
+Let the intensities be I0.
+The resultant intensity is, I =4 I0cos2(ϕ/2)
+Resultant intensity when, f
+p
+=
+/ ,3 is 
+I
+I
+=
+(
+)
+4
+6
+0
+2
+cos
+/
+p
+I
+I
+I
+=
+(
+) =
+4
+3 2
+3
+0
+2
+0
+/
+7.3.1  Phase difference and 
+path difference
+Phase is the angular position of vibration 
+when a wave is progresses, there is a relation 
+between the phase of the vibration and the 
+path travelled by the wave. We can express 
+the phase in terms of path and vice versa. 
+In the path of the wave, one wavelength λ 
+corresponds to a phase of 2π as shown in 
+Figure 7.7. A path difference δ corresponds to 
+a phase difference ϕ as given by the equation,
+λ
+0
+2π
+Figure 7.7  Path diference and phase 
+diference
+d
+l
+p
+f
+=
+×
+2
+ (or) f
+p
+l
+d
+=
+×
+2
+ 
+(7.23)
+For constructive interference, the phase 
+difference should be, ϕ = 0, 2π, 4π . . . Hence, 
+Resultant amplitude is maximum when, 
+f =
+=
+=
++
++
+0
+0
+1
+2
+1
+2
+2
+2
+1
+2
+, cos
+,
+max
+A
+a
+a
+a a 
+A
+a
+a
+units
+max =
++
+(
+) =
++
+(
+) = ( )
+=
+1
+2
+2
+2
+2
+5
+3
+8
+8
+Resultant amplitude is minimum when,  
+f
+p
+p
+=
+=−
+=
++
+−
+, cos
+,
+max
+1
+2
+1
+2
+2
+2
+1
+2
+A
+a
+a
+a a
+A
+a
+a
+units
+min =
+−
+(
+) =
+−
+(
+) = ( )
+=
+1
+2
+2
+2
+2
+5
+3
+2
+2
+I ∝ A2 
+I
+I
+A
+A
+max
+min
+max
+min
+= (
+)
+(
+)
+2
+2
+Substituting, 
+I
+I
+I
+I
+max
+min
+max
+min
+(
+)
+:
+:
+= ( )
+( )
+=
+=
+=
+8
+2
+64
+4
+16
+16 1
+2
+2
+ or
+EXAMPLE 7.3
+Two light sources of equal amplitudes 
+interfere with each other. Calculate 
+the ratio of maximum and minimum 
+intensities.
+Solution 
+Let the amplitude be a.
+The intensity is, I
+a
+µ 4
+2
+2
+2
+cos ( / )
+f
+	
+or I
+I
+= 4
+2
+0
+2
+cos ( / )
+f
+Resultant intensity is maximum when, 
+f =
+=
+∝
+0
+0
+1
+4
+2
+, cos
+, Imax
+a
+Resultant amplitude is minimum when, 
+f
+p
+p
+=
+(
+)=
+=
+, cos
+/
+, Imin
+2
+0
+0
+I
+:
+:
+max
+min
+I
+a
+= 4
+0
+2
+XII_Physics_Vol-2_UNIT-7_EM.indd   60
+XII_Physics_Vol-2_UNIT-7_EM.indd   60
+03-03-2022   15:18:43
+03-03-2022   15:18:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 61
+
+PDF_PAGE: 69
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+61
+a property of waves that enables to obtain 
+stationary interference patterns.
+Two 
+independent 
+monochromatic 
+sources can never be coherent, because 
+they may emit waves of same frequency 
+and same amplitude, but not with same 
+phase. This is because, atoms while 
+emitting light, produce change in phase 
+due 
+to 
+thermal 
+vibrations. 
+Hence, 
+these sources are said to be incoherent 
+sources. 
+To obtain coherent light waves, we have 
+the following three techniques. 
+(i)  Wavefront division
+(ii) Intensity (or) Amplitude division  
+(iii) Source and Images.
+(i)	 Wavefront division: This is the most 
+commonly used method for producing 
+coherent sources. We know a point 
+source produces spherical wavefronts. 
+All the points on the wavefront are 
+at the same phase. If two points are 
+chosen on the wavefront by using 
+a double slit, the two points will act 
+as coherent sources as shown in 
+Figure 7.8.
+S
+S1
+S2
+Figure 7.8  Wavefront division
+the path difference must be, δ = 0, λ, 2λ . . . 
+In general, the integral multiples of λ.
+δ = nλ where, n = 0, 1, 2, 3 . . . 	 (7.24)
+For destructive interference, the phase 
+difference should be, ϕ = π, 3π, 5π . . . Hence, 
+the path difference must be, d
+l
+l
+= 2
+3
+2
+,
+..... 
+In general, the half integral multiples 
+of λ.
+d
+l
+=
+−
+(
+)
+2
+1 2
+n
+ where, n = 1, 2, 3 . . .  (7.25)
+EXAMPLE 7.5
+The wavelength of a light is 450 nm. How 
+much phase it will differ for a path of 
+3 mm?
+Solution
+Wavelength, l =
+=
+×
+−
+450
+450 10 9
+nm
+m 
+Path difference, d =
+= ×
+−
+3
+3 10 3
+mm
+m
+Relation between phase difference and 
+path difference, f
+p
+l
+d
+=
+×
+2
+Substituting,
+f
+p
+p
+=
+×
+× ×
+=
+×
+−
+−
+2
+450 10
+3 10
+75
+10
+9
+3
+6
+f
+p
+=
+×
+75
+106rad = 4.19 × 104 rad.
+7.3.2  Coherent sources 
+Two light sources are said to be 
+coherent if they produce waves which 
+have same phase or constant phase 
+difference, same frequency or wavelength 
+(monochromatic), same waveform and 
+preferably same amplitude. Coherence is 
+XII_Physics_Vol-2_UNIT-7_EM.indd   61
+XII_Physics_Vol-2_UNIT-7_EM.indd   61
+03-03-2022   15:18:45
+03-03-2022   15:18:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 62
+
+PDF_PAGE: 70
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+62
+Virtual Image
+Virtual Image
+Superposition region
+Source
+Biprism
+Screen
+Fresnel’s Biprism
+Virtual Image
+Superposition region
+Source
+Lloyd’s Mirror
+Screen
+Figure 7.10  Source and images as 
+coherent sources
+7.3.3  Double slit as coherent 
+sources
+Double slit uses the principle of wavefront 
+division. Two slits S1 and S2 illuminated 
+by a single monochromatic source S act 
+as two coherent sources. The waves from 
+them travel in the same medium and 
+superpose. The constructive and destructive 
+interference formed by them are shown in 
+Figure 7.11(a). The crests of the waves are 
+shown by thick continuous lines and troughs 
+are shown by broken lines in Figure 7.11(b).
+At points where the crest of one wave 
+meets the crest of the other wave (or) the trough 
+of one wave meets the trough of the other 
+wave, the waves are in-phase. Hence, the 
+displacement is maximum and these points 
+appear bright as a result of this constructive 
+interference.
+At points where the crest of one wave 
+meets the trough of the other wave and 
+(ii)	 Intensity (or) Amplitude division: 
+If we allow light to pass through 
+a partially silvered mirror (beam 
+splitter), 
+both 
+reflection 
+and 
+refraction take place simultaneously. 
+As the two light beams are obtained 
+from the same light source, the two 
+divided light beams will be coherent 
+beams. They will be either in-phase 
+or at constant phase difference 
+as shown in Figure 7.9. Instruments 
+like 
+Michelson’s 
+interferometer, 
+Fabray-Perrot etalon work on this 
+principle.
+Mirror
+Mirror
+Monochromatic
+Light Source
+Half- Silvered
+Mirror
+Coherent light
+Figure 7.9  Intensity (or) amplitude 
+division 
+(iii)	Source and Images: In this method 
+a source and its images will act as 
+a set of coherent sources, because 
+the source and its image will have 
+waves in-phase (or) constant phase 
+difference as shown in Figure 7.10. 
+The Instrument, Fresnel’s biprism 
+uses two virtual images of the source 
+as two coherent sources and the 
+instrument, Lloyd’s mirror uses a 
+source and its one virtual image as 
+two coherent sources.
+XII_Physics_Vol-2_UNIT-7_EM.indd   62
+XII_Physics_Vol-2_UNIT-7_EM.indd   62
+03-03-2022   15:18:45
+03-03-2022   15:18:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 63
+
+PDF_PAGE: 71
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+63
+S2 kept equidistance from a source S 
+as shown in Figure 7.12. The width of 
+each slit is about 0.03 mm and they are 
+separated by a distance of about 0.3 mm. 
+As S1 and S2 are equidistant from S the 
+same wavefront is cut by S1 and S2. The 
+light waves at S1 and S2 are in-phase. 
+So, S1 and S2 act as coherent sources 
+which is the requirement for obtaining 
+interference pattern.
+Double slit
+Screen
+S1
+S
+S2
+P
+O
+Figure 7.12  Young’s double slit 
+experimental setup
+Wavefronts from S1 and S2 spread out 
+and overlap on the other side of the double 
+slit. When a screen is placed at a distance 
+of about 1 m from the slits, alternate bright 
+and dark fringes which are equally spaced 
+appear on the screen. These are called 
+interference fringes (or) bands. Using an 
+eyepiece, the fringes can be seen directly. 
+At the center point O on the screen, the 
+waves from S1 and S2 travel equal distances 
+and arrive in-phase as shown in Figure 7.12. 
+These two waves constructively interfere 
+and a bright fringe is observed at O. This 
+is called central bright fringe. When one 
+of the slits is closed, the fringes disappear 
+and there is uniform illumination on the 
+screen. This shows clearly that the bands 
+are due to interference.
+Equation for path difference
+The 
+schematic 
+diagram 
+of 
+the 
+experimental setup is shown in Figure 7.13. 
+vice-versa, the waves are out-of-phase. 
+Hence, the displacement is minimum and 
+these points appear dark as a result of this 
+destructive interference. 
+On a screen the intensity of light will be 
+alternative maximum and minimum strips 
+i.e. bright and dark bands which are referred 
+as interference fringes. 
+7.3.4  Young’s double slit 
+experiment
+Experimental setup
+Thomas Young, a British Physicist in 
+1801 used an opaque screen with two 
+small openings called double slit S1 and 
++
++
+=
+=
+Constructive Interference
+Brightness
+Destructive Interference 
+Darkness
+(a) Superposition
+S
+S1
+S2
+Double slit
+(b) Double slit as a set of coherent sources
+Superpositon region
+Figure 7.11  Interference due to double 
+slit
+XII_Physics_Vol-2_UNIT-7_EM.indd   63
+XII_Physics_Vol-2_UNIT-7_EM.indd   63
+03-03-2022   15:18:45
+03-03-2022   15:18:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 64
+
+PDF_PAGE: 72
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+64
+If the angle θ is small, sin θ ≈ tan θ ≈ θ
+From the right angle triangle ∆OCP, 
+tanq = y
+D
+The path difference, d = d y
+D 
+(7.28)
+Based on the condition of the path 
+difference, the point P may have a bright 
+(or) dark fringe.
+Condition for bright fringe (or) maxima
+The condition for the point P to have a 
+constructive interference (or) be a bright 
+fringe is, 
+Path difference, δ = nλ
+where, n = 0, 1, 2, . . .
+∴
+=
+d y
+D
+nλ
+y
+n D
+d
+y
+n D
+d
+n
+=
+=
+l
+l
+(
+)
+or
+
+(7.29)
+This is the condition for the point P to 
+have a bright fringe. The distance yn is the 
+distance of the nth bright fringe from the 
+point O. 
+Condition for dark fringe (or) minima
+The condition for the point P to have 
+a destructive interference (or) be a dark 
+fringe is, 
+Path difference, d
+l
+=
+−
+(
+)
+2
+1 2
+n
+where, n = 1, 2, 3 . . . 
+∴
+=
+−
+d y
+D
+n
+(
+)
+2
+1 2
+l
+y
+n
+D
+d
+y
+n
+D
+d
+n
+=
+−
+=
+−
+(
+)
+(
+)
+(
+)
+2
+1
+2
+2
+1
+2
+l
+l
+or
+ (7.30)
+Let d be the distance between the double 
+slits S1 and S2 which act as coherent sources 
+of wavelength λ. A screen is placed parallel 
+to the double slit at a distance D from it. 
+The mid-point of S1 and S2 is C and the 
+mid-point of the screen O is equidistant 
+from S1 and S2. P is any point at a distance y 
+from O. The waves from S1 and S2 meet at P 
+either in-phase or out-of-phase depending 
+upon the path difference between the two 
+waves.
+y
+S1
+S2
+M
+D
+O
+P
+θ
+θ
+б
+C
+d
+Figure 7.13  Young’s double slit 
+arrangement to fnd path diference
+The path difference δ between the light 
+waves from S1 and S2 to the point P is, 
+δ = S2P – S1P
+A perpendicular is dropped from the 
+point S1 to the line S2P at M to find the path 
+difference more precisely.
+δ = S2P – MP = S2M
+(7.26)
+The angular position of the point P from 
+C is θ. ∠OCP = θ.
+From the geometry, the angles ∠OCP 
+and ∠S2S1M are equal. 
+∠OCP = ∠S2S1M = θ.
+In right angle triangle ∆S1S2M, the path 
+difference, S2M = d sin θ
+δ = d sin θ
+(7.27)
+XII_Physics_Vol-2_UNIT-7_EM.indd   64
+XII_Physics_Vol-2_UNIT-7_EM.indd   64
+03-03-2022   15:18:47
+03-03-2022   15:18:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 65
+
+PDF_PAGE: 73
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+65
+β for bright,   b
+l
+=
+D
+d 
+(7.31)
+Similarly, the distance between (n+1)th 
+and nth consecutive dark fringes from O is 
+given by,
+b
+l
+l
+=
+−
+=
++
+−
+
+
+
+
+
+−
+−
+
+
+
+
+
+
++
+y
+y
+n
+D
+d
+n
+D
+d
+n
+n
+(
+)
+( (
+)
+)
+(
+)
+1
+2
+1
+1
+2
+2
+1
+2
+β for dark,   b
+l
+=
+D
+d 
+(7.32)
+From Equations (7.31) and (7.32) we 
+understand that the bright and dark fringes 
+are of same width equally spaced on either 
+side of the central bright fringe.
+Conditions for obtaining clear and broad 
+interference fringes:
+(i)	 The distance D between the screen and 
+double slit should be as large as possible.
+(ii)	 The wavelength λ of light used must be 
+as long as possible.
+(iii)	The distance d between the two slits 
+must be as small as possible.
+EXAMPLE 7.6
+In Young’s double slit experiment, the two 
+slits are 0.15 mm apart. The light source 
+has a wavelength of 450 nm. The screen is 
+2 m away from the slits.
+(a) Find the distance of the second bright 
+fringe and also third dark fringe from the 
+central maximum.
+(b) Find the fringe width.
+(c) How will the fringe pattern change if 
+the screen is moved away from the slits? 
+(d) What will happen to the fringe width 
+if the whole setup is immersed in water of 
+refractive index 4/3.
+This is the condition for the point P to 
+have a dark fringe. The distance yn is the 
+distance of the nth dark fringe from the point 
+O.  The formation of bright and dark fringes 
+is shown in Figure 7.14.
+
+
+θ
+θ
+Dark
+(destructive
+interference)
+Bright
+(constructive
+interference)
+Figure 7.14  Formation of bright and 
+dark fringes
+This shows that on the screen, alternate 
+bright and dark fringes are seen on either 
+side of the central bright fringe. The central 
+bright is referred as 0th bright followed by 
+1st dark and 1st bright and then 2nd dark and 
+2nd bright and so on, on either side of O 
+successively as shown in Figure 7.15.
+- 3D/d
+ 3D/d
+- 2D/d
+ 2D/d
+- D/d
+ D/d
+0
+0
+0
+-6
+-4
+-2
+  4
+2
+ 6
+- 3
+- 2
+- 
+  
+2
+  3
+Y
+
+
+I0
+I
+Position
+of fringe
+Phase
+diﬀerence
+Path
+diﬀerence
+Figure 7.15  Interference fringe pattern
+Equation for bandwidth
+The bandwidth β is defined as the 
+distance between any two consecutive 
+bright (or) dark fringes. 
+The distance between (n+1)th and nth 
+consecutive bright fringes from O is given 
+by,
+b
+l
+l
+=
+−
+=
++
+
+
+
+
+
+−
+
+
+
+
+
++
+y
+y
+n
+D
+d
+n D
+d
+n
+n
+(
+)
+(
+)
+1
+1
+XII_Physics_Vol-2_UNIT-7_EM.indd   65
+XII_Physics_Vol-2_UNIT-7_EM.indd   65
+03-03-2022   15:18:49
+03-03-2022   15:18:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 66
+
+PDF_PAGE: 74
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+66
+7.3.5  Interference in white 
+light (polychromatic light)
+When a white light (polychromatic light) 
+is used in interference experiment, coloured 
+fringes of varied thickness will be formed on 
+the screen. This is because, different colours 
+have different wavelengths. However, the 
+central fringe (or) 0th fringe will always be 
+bright and white in colour, because all the 
+colours falling at the point O will have no 
+path difference with each other. Hence, only 
+constructive interference is possible at O for 
+all the colours.
+EXAMPLE 7.7
+Lights of two wavelengths 560 nm and 
+420 nm are used in Young’s double slit 
+experiment. Find the least distance from 
+the central fringe where the bright fringes 
+of the two wavelengths coincide. Given 
+D = 1 m and d = 3 mm.
+Solution
+λ1 = 560 nm = 560 10 9
+×
+−m
+λ2 
+9
+420
+420 10
+=
+=
+×
+−
+nm
+m 
+D
+d
+=
+=
+= ×
+−
+1
+3
+3 10 3
+m
+mm
+m
+;
+Here, n and λ are inversely proportional for 
+a given y.   
+Here, nth order bright fringe of longer 
+wavelength λ1 coincides with (n+1)th order 
+bright fringe of shorter wavelength λ2.
+Equation for nth bright fringe is, y
+n D
+d
+n =
+l
+Here, n
+D
+d
+n
+D
+d
+l
+l
+l
+l
+1
+2
+1
+2
+1
+=
++
+>
+(
+)
+(as
+)
+ 
+n
+n
+n
+n
+l
+l
+l
+l
+l
+l
+1
+2
+1
+2
+1
+2
+1
+1 1
+1
+=
++
+=
++
++
+=
+(
+)
+(
+)
+(n
+);
+or
+n
+9
+1
+1
+560 10
+420
++
+=
+×
+−
+  
+×
++
+=
+−
+10
+1
+1
+4
+3
+9
+(
+)
+or 
+n
+Solution
+d = 0.15 mm = 0.15× 10-3 m; D = 2 m; 
+λ = 450 nm = 450 × 10-9 m; RI = 4/3
+(a) Equation for nth bright fringe, 
+y
+n D
+d
+n =
+l
+Distance of 2nd bright fringe, 
+y2
+9
+3
+2
+450 10
+2
+0 15 10
+= ×
+×
+×
+×
+−
+−
+.
+y2
+3
+12 10
+12
+=
+×
+=
+−m
+ mm
+Equation for nth dark fringe, 
+y
+n
+D
+d
+n =
+−
+(
+)
+2
+1
+2
+l
+Distance of 3rd dark fringe, 
+y3
+9
+3
+5
+2
+450 10
+2
+0 15 10
+=
+×
+×
+×
+×
+−
+−
+.
+y2
+3
+15 10
+15
+=
+×
+=
+−m
+mm
+(b) Equation for fringe width, b
+l
+=
+D
+d
+	
+Substituting, b =
+×
+×
+×
+−
+−
+450 10
+2
+0 15 10
+9
+3
+.
+	
+b = ×
+=
+−
+6 10
+6
+3m
+mm
+(c) The fringe width will increase as D is 
+increased, b
+l
+b
+=
+∝
+D
+d
+D
+(or)
+(d) The fringe width will decrease as the 
+setup is immersed in water of refractive 
+index 4/3
+b
+l
+b
+l
+=
+∝
+D
+d
+(or)
+The wavelength will decrease in a medium. 
+Hence, b
+l
+b
+l
+∝
+′ ∝
+′
+and
+We know that, ′ =
+l
+l
+RI
+′ =
+′ =
+=
+′ =
+= ×
+−
+b
+b
+l
+l
+l
+l
+b
+b
+/
+(
+/
+RI
+RI
+RI
+1
+6 10
+4 3
+3
+or)
+′ =
+×
+=
+−
+b
+4 5 10
+4 5
+3
+.
+.
+m
+mm
+XII_Physics_Vol-2_UNIT-7_EM.indd   66
+XII_Physics_Vol-2_UNIT-7_EM.indd   66
+03-03-2022   15:18:53
+03-03-2022   15:18:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 67
+
+PDF_PAGE: 75
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+67
+enters into the film, again gets divided at 
+the lower surface into two parts; one is 
+transmitted out of the film and the other is 
+reflected back into the film. The reflected 
+as well as refracted parts are further formed 
+as multiple reflections take place inside the 
+film. The interference occurs in both the 
+reflected and transmitted light. 
+i
+r
+d
+A
+F
+E
+D
+C
+B
+Figure 7.16  Interference in thin flms
+For transmitted light
+The light transmitted may interfere to 
+produce a resultant intensity. Let us consider 
+the path difference between the two light 
+waves transmitted from B and D. The two 
+waves moved together and remained in phase 
+1
+1
+3
+3
+n
+n
+=
+=
+(
+)
+or
+Thus, the 3rd bright fringe of λ1 and 4th 
+bright fringe of λ2 coincide at the least 
+distance y.
+The least distance from the central fringe 
+where the bright fringes of the two 
+wavelengths coincides is, y
+n D
+d
+n =
+l
+yn = ×
+×
+×
+×
+=
+×
+−
+−
+−
+3
+560 10
+1
+3 10
+560 10
+9
+3
+6m
+yn =
+×
+=
+−
+0 560 10
+0 560
+3
+.
+.
+m
+mm
+7.3.6  Interference in thin 
+films 
+Let us consider a thin film of transparent 
+material of refractive index µ (here refractive 
+index is not represented as n, not to confuse 
+with order of fringe n) and thickness d. 
+A parallel beam of light is incident on 
+the film at an angle i as shown in Figure 
+7.16. The wave is divided into two parts 
+at the point of incidence, as reflected and 
+refracted lights. The refracted part, which 
+Dazzling colours are exhibited by thin films of oil spread on the surface of 
+water and also by soap bubbles as shown in the figure. These colours are due 
+to interference of white light undergoing multiple reflections from the top and 
+the bottom surfaces of thin films. The colour depends upon the thickness of the 
+film, refractive index of the film and also the angle of incidence of the light.
+ 
+SOAP FLIM
+Air
+All Wave Lengths
+Colour 
+Depends 
+on 
+Interference
+Inner 
+surface
+Outer Surface
+XII_Physics_Vol-2_UNIT-7_EM.indd   67
+XII_Physics_Vol-2_UNIT-7_EM.indd   67
+03-03-2022   15:18:55
+03-03-2022   15:18:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 68
+
+PDF_PAGE: 76
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+68
+The additional path difference λ/2 is due 
+to the phase change of π in rarer to denser 
+reflection taking place at A.
+The condition for destructive interference 
+for reflected ray is, 
+2
+2
+2
+1 2
+2
+m
+l
+l
+m
+l
+d
+n
+d
+n
++
+=
++
+=
+(
+)
+(
+)
+or
+(7.36)
+If the incidence is not 
+nearly normal but at an 
+angle of incidence i which 
+has an angle of refraction r, then the 
+expression 2µd is to be replaced with 
+2µd cos r.
+Note
+EXAMPLE 7.8
+Find the minimum thickness of a film of 
+refractive index 1.25, which will strongly 
+reflect the light of wavelength 589 nm. Also 
+find the minimum thickness of the film to 
+be anti-reflecting.
+Solution
+λ = 589 nm = 589 10 9
+×
+−m 
+For the film to have strong reflection, 
+the reflected waves should interfere 
+constructively. The least optical path 
+difference introduced by the film should 
+be λ/2. The optical path difference between 
+the waves reflected from the two surfaces of 
+the film is 2µd. Thus, for strong reflection, 
+2µd = λ/2 [As given in equation (7.35). 
+with n = 1]
+Rewriting, d = l
+m
+4
+Substituting, d =
+×
+×
+=
+×
+−
+589 10
+4 1 25
+117 8 10
+9
+9
+.
+.
+d =
+×
+=
+−
+117 8 10
+117 8
+9
+.
+. nm
+up to B where the splitting occurred. The 
+extra path travelled by the wave transmitted 
+from D is the path inside the film, BC + CD. 
+If we approximate the incidence to be nearly 
+normal (i = 0) and the flim of small thickness, 
+then the points B and D are very close to each 
+other. The extra distance travelled by the wave 
+is approximately twice thickness of the film, 
+BC + CD = 2d. As this extra path is traversed 
+inside the medium of refractive index µ, the 
+optical path difference is, δ = 2µd. 
+The 
+condition 
+for 
+constructive 
+interference in transmitted ray is, 
+2µd = nλ
+(7.33)
+Similarly, the condition for destructive 
+interference in transmitted ray is, 
+2
+2
+1 2
+m
+l
+d
+n
+=
+−
+(
+) 
+(7.34)
+For reflected light
+It is experimentally and theoretically 
+proved that a wave while travelling in a rarer 
+medium and getting reflected by a denser 
+medium, undergoes a phase change of π. 
+Hence, an additional path difference of λ/2 
+should be considered for reflected light. 
+Let us consider the path difference 
+between the light reflected by the upper 
+surface at A and the other coming out at C 
+after passing through the film. The additional 
+path travelled by the light coming out from C 
+is the path inside the film, AB + BC. For near 
+normal incidence and film of small thickness, 
+this distance could be approximated as, 
+AB + BC = 2d. As this extra path is travelled 
+in the medium of refractive index µ, the 
+optical path difference is, δ = 2µd.
+The 
+condition 
+for 
+constructive 
+interference for reflected ray is, 
+2µd+ l
+2
+= nl (or) 2
+2
+1 2
+m
+l
+d
+n
+=
+−
+(
+)  (7.35)
+XII_Physics_Vol-2_UNIT-7_EM.indd   68
+XII_Physics_Vol-2_UNIT-7_EM.indd   68
+03-03-2022   15:18:56
+03-03-2022   15:18:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 69
+
+PDF_PAGE: 77
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+69
+This is a violation to the rectilinear 
+propagation of light we have studied 
+in ray optics. But, the diffraction is 
+prominent only when the size of the 
+obstacle is comparable to the wavelength 
+of light. This is the reason why sound 
+waves get diffracted prominently by 
+obstacles like doors, windows, buildings 
+etc. The wavelength of sound wave is large 
+and comparable to the geometry of these 
+obstacles. But the diffraction in light is 
+more pronounced when the obstacle size 
+is of the order of wavelength of light. 
+7.4.1  Fresnel and Fraunhofer 
+diffractions
+Based on the type of wavefront 
+which undergoes diffraction, it could 
+be classified as Fresnel and Fraunhofer 
+diffractions. The differences between 
+Fresnel and Fraunhofer diffractions are 
+shown in Table 7.1.
+For the film to be anti-reflecting, 
+the 
+reflected 
+rays 
+should 
+interfere 
+destructively. The least optical path 
+difference introduced by the film should 
+be λ. The optical path difference between 
+the waves reflected from the two surfaces 
+of the film is 2µd. For strong reflection, 
+2µd = λ [As given in equation (7.36). with 
+n = 1].
+Rewriting, d = l
+m
+2
+Substituting, d =
+×
+×
+=
+×
+−
+589 10
+2 1 25
+235 6 10
+9
+9
+.
+.
+d =
+×
+=
+−
+235 6 10
+235 6
+9
+.
+. nm
+DIFFRACTION
+Diffraction is a characteristic of all 
+waves, including sound waves. Diffraction 
+is bending of waves around sharp edges 
+into the geometrically shadowed region. 
+7.4
+Table 7.1  Diference between Fresnel and Fraunhofer difractions
+S.No.
+Fresnel difraction
+Fraunhofer difraction
+1
+Spherical (or) cylindrical wavefront 
+undergoes difraction
+Plane wavefront undergoes 
+difraction
+2
+Light wave is from a source at fnite distance 
+Light wave is from a source at infnity 
+3
+Convex lenses need not be used for 
+laboratory conditions
+Convex lenses are to be used in 
+laboratory conditions
+4
+Difcult to observe and analyse
+Easy to observe and analyse
+5
+S
+P
+Slit
+Screen
+Screen
+P
+S
+Slit
+
+XII_Physics_Vol-2_UNIT-7_EM.indd   69
+XII_Physics_Vol-2_UNIT-7_EM.indd   69
+03-03-2022   15:18:57
+03-03-2022   15:18:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 70
+
+PDF_PAGE: 78
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+70
+As Fraunhofer diffraction is easy to 
+observe and analyse, let us take it up for 
+further discussions.
+7.4.2.  Diffraction in single 
+slit
+Let a parallel beam of light (plane 
+wavefront) fall normally on a single slit 
+AB of width a as shown in Figure 7.17. 
+The diffracted beam falls on a screen kept 
+at a distance D from the slit. The center 
+of the slit is C. A straight line through C 
+perpendicular to the plane of slit meets 
+the center of the screen at O. Consider 
+any point P on the screen. All the light 
+reaching the point P from different 
+points on the slit make an angle θ with 
+the normal CO. 
+All the light waves coming from 
+different points on the slit interfere at point 
+P (and other points) on the screen to give 
+the resultant intensities. The point P is in 
+the geometrically shadowed region, up to 
+which the central maximum is spread due to 
+diffraction as shown Figure 7.17. We need 
+to give the condition for the point P to be of 
+various minima. 
+The basic idea is to divide the slit into 
+even number of smaller parts. Then, add 
+their contributions at P with the proper 
+path difference to show that destructive 
+interference takes place at that point to 
+make it minimum. To explain maximum, 
+the slit is divided into odd number of parts.
+Condition for P to be first minimum
+Let us divide the slit AB into two halves 
+AC and CB. Now the width of each part 
+is a/2. We have different points on the slit 
+which are separated by the same width a/2 
+called as corresponding points. This is shown 
+in Figure 7.18.
+a
+Figure 7.18  Corresponding points
+Figure 7.17  Difraction at single slit
+a
+XII_Physics_Vol-2_UNIT-7_EM.indd   70
+XII_Physics_Vol-2_UNIT-7_EM.indd   70
+03-03-2022   15:18:57
+03-03-2022   15:18:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 71
+
+PDF_PAGE: 79
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+71
+Where, n = 1, 2, 3 ... is the order of 
+diffraction minimum.
+Condition for maxima
+For points of maxima, the slit is to be 
+divided in to odd number of equal parts so 
+that one part remains un-cancelled making 
+the point P appear bright.
+The condition for first maximum is, 
+a
+a
+3
+2
+3
+2
+sin
+(
+) sin
+q
+l
+q
+l
+=
+=
+or
+
+(7.41)
+The condition for second maximum is, 
+a
+a
+5
+2
+5
+2
+sin
+(
+) sin
+q
+l
+q
+l
+=
+=
+or
+	
+ (7.42)
+The condition for third maximum is, 
+a
+a
+7
+2
+7
+2
+sin
+(
+) sin
+q
+l
+q
+l
+=
+=
+or
+
+(7.43)
+In the same way, condition for nth 
+maximum is, 
+a
+n
+sin
+(
+)
+q
+l
+=
++
+2
+1 2 (nth maximum) (7.44)
+Where, n = 0, 1, 2, 3, . . . , is the order of 
+diffraction maximum. 
+The central maximum is called 0th order 
+maximum. The points of the maximum 
+intensity lie nearly midway between the 
+successive minima.
+Here, sin θ gives the 
+angular 
+spread 
+of 
+the 
+diffraction from the central 
+reference line. We can replace sin θ 
+in the above equations with 
+. It is 
+possible because θ is small. Now, we 
+can approximate, 
+Where, y is the position of minimum 
+(or) maximum on the screen from its 
+center and D is the distance between 
+the slit and the screen.
+Note
+ 
+The 
+light 
+waves 
+from 
+different 
+corresponding points meet at point P 
+and interfere destructively to make it a 
+minimum. The path difference δ between 
+the waves from these corresponding points 
+is, d
+q
+= a
+2 sin
+The condition for P to be first minimum 
+is, a
+2
+2
+sinq
+l
+=
+a sin θ = λ
+(7.37)
+Condition for P to be second minimum
+Let us divide the slit AB into four equal 
+parts. Now, the width of each part is a/4. We have 
+several corresponding points on the slit which 
+are separated by the same width a/4.  The path 
+difference δ between the waves from these 
+corresponding points is, d
+q
+= a
+4 sin .
+The condition for P to be second 
+minimum is, a
+4
+2
+sinq
+l
+=
+ 
+a sin θ = 2λ
+(7.38)
+Condition for P to be third minimum
+The same way the slit is divided in to six 
+equal parts to explain the third minimum. 
+The condition for P to be third minimum is, 
+a
+6
+2
+sinq
+l
+=
+a sin θ = 3λ  
+(7.39)
+Condition for P to be nth minimum
+Dividing the slit into 2n number of 
+(even number of) equal parts makes the 
+light produced by one of the corresponding 
+points to be cancelled by its counterpart. 
+Thus, the condition for nth minimum is, 
+a
+n
+2
+2
+sinq
+l
+=
+a sin θ = nλ   
+(7.40)
+XII_Physics_Vol-2_UNIT-7_EM.indd   71
+XII_Physics_Vol-2_UNIT-7_EM.indd   71
+03-03-2022   15:19:00
+03-03-2022   15:19:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 72
+
+PDF_PAGE: 80
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+72
+To find the value of y2 for second minimum 
+with (n = 2), 
+a sin θ = 2λ
+a y
+D
+2
+2
+= l     rewriting, y
+D
+a
+2
+2
+= l
+Substituting,
+y2
+9
+2
+3
+3
+2
+500 10
+60 10
+0 2 10
+3 10
+3
+= ×
+×
+×
+×
+×
+= ×
+=
+−
+−
+−
+−
+.
+ mm 
+The distance between the central maximum 
+and second minimum is, y2 – y1 
+y2 – y1 = 3 mm – 1.5 mm = 1.5 mm 
+Note: The above calculation shows that the 
+diffraction pattern produced by a single slit, 
+has equal widths of maxima. Only the width 
+of central maximum is double as it is spread 
+on both the sides.  But, the intensity falls 
+rapidly for higher order diffraction fringes.
+EXAMPLE 7.10
+A monochromatic light of wavelength 
+5000  Å passes through a single slit 
+producing diffraction pattern for the 
+central maximum as shown in the figure. 
+Determine the width of the slit.
+EXAMPLE 7.9
+Light of wavelength 500 nm passes through 
+a slit of 0.2 mm wide. The diffraction 
+pattern is formed on a screen 60 cm away. 
+Determine the, 
+(a) angular spread of central maximum 
+(b) the distance between the central 
+maximum and the second minimum.
+Solution
+λ = 500 nm = 500×10-9 m
+a = 0.2 mm = 0.2×10-3 m
+D = 60 cm = 60×10-2 m
+(a) Equation for diffraction minimum is, 
+a sin θ = nλ
+The central maximum is spread up to the 
+first minimum. Hence, n = 1
+Rewriting, sin
+(
+)
+sin
+q
+l
+q
+l
+=
+=
+
+
+
+
+
+
+−
+a
+a
+or
+1
+Substituting, 
+q =
+×
+×
+
+
+
+
+
+=
+×
+(
+)
+−
+−
+−
+−
+−
+sin
+.
+sin
+.
+1
+9
+3
+1
+3
+500 10
+0 2 10
+2 5 10
+q = 0 0025
+.
+rad
+(b) To find the value of y1 from the central 
+maximum, which is spread up to first 
+minimum with (n = 1), 
+a sin θ = λ
+As θ is very small, sin
+tan
+q
+q
+≈
+= y
+D
+1
+a y
+D
+1 = l    rewriting, y
+D
+a
+1 = l
+Substituting, 
+y1
+9
+2
+3
+3
+500 10
+60 10
+0 2 10
+1 5 10
+1 5
+=
+×
+×
+×
+×
+=
+×
+=
+−
+−
+−
+−
+.
+.
+.
+mm
+XII_Physics_Vol-2_UNIT-7_EM.indd   72
+XII_Physics_Vol-2_UNIT-7_EM.indd   72
+03-03-2022   15:19:02
+03-03-2022   15:19:02
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 73
+
+PDF_PAGE: 81
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+73
+(iv) If a >> λ, then sin θ << 1 i.e. The first 
+minimum falls within the width space 
+of the slit itself. Hence, the phenomenon 
+of diffraction is not observed at all.
+7.4.4  Fresnel’s distance
+The rectilinear propagation of light 
+is violated as there is bending of light in 
+diffraction. But, this bending is not seen till the 
+diffracted ray crosses the central maximum at 
+a distance z from the slit as shown in Figure 
+7.19. Hence, Fresnel’s distance is the distance 
+upto which the ray optics is obeyed and 
+beyond which the ray optics is not obeyed; 
+but, the wave optics becomes significant. 
+a
+(z)
+Wave optics
+Ray optics
+Fresnel’s distance
+2θ
+θ
+a
+Figure 7.19  Fresnel’s distance
+The diffraction equation for first 
+minimum is, sinq
+l
+= a ; when θ is small, 
+q
+l
+= a
+From the definition of Fresnel’s distance, 
+2q = a
+z (or) q = a
+z
+2
+Equating the above two equation for θ 
+gives , l
+a
+a
+z
+= 2
+After rearranging, we get Fresnel’s 
+distance z as,
+z
+a
+=
+2
+2l 
+(7.45)
+Solution
+λ = 5000 Å = 5000×10-10 m; sin 30o = 0.5; 
+n = 1; a =?
+Equation for diffraction minimum is, 
+asin θ = nλ
+The central maximum is spread up to the 
+first minimum. Hence, n = 1
+Rewriting, a =
+l
+q
+sin 	
+Substituting, a =
+×
+−
+5000 10
+0 5
+10
+.
+a = ×
+=
+×
+=
+−
+−
+1 10
+0 001 10
+0 001
+6
+3
+m
+m
+.
+.
+mm
+7.4.3  Discussion on first 
+minimum 
+The equation for first minimum in 
+single slit diffraction is, a sin θ = λ. The 
+angular spread for its first minimum in 
+the diffraction pattern is, sinq
+l
+= a . The 
+central maximum is found in between these 
+first minima that occur on both the sides. 
+We can discuss the following cases on the 
+central maximum. 
+(i) If a < λ, then sin θ > 1 which is not possible. 
+Hence, diffraction does not take place.
+(ii) If a = λ, then sin θ = 1 i.e. θ = 90o. The 
+first minimum is at 90o. Hence, the 
+central maximum spreads fully into the 
+geometrically shadowed region leading to 
+the bending of the diffracted light by 90o. 
+(iii) If a > λ and also comparable to λ, say 
+a = 2λ, then sinq = 1
+2 (or) θ = 30o. 
+The diffraction is observed with 
+a measurable spread. Hence, it is 
+concluded that for observing the 
+diffraction pattern, essentially the 
+width of the slit a must be just few times 
+greater than the wavelength of light λ.
+XII_Physics_Vol-2_UNIT-7_EM.indd   73
+XII_Physics_Vol-2_UNIT-7_EM.indd   73
+03-03-2022   15:19:04
+03-03-2022   15:19:04
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 74
+
+PDF_PAGE: 82
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+74
+diffraction based on the appearance of 
+their patterns are given in Table 7.2.
+7.4.6  Diffraction in grating
+A grating has multiple slits with 
+equal widths of comparable size to the 
+wavelength of diffracting light. A grating 
+is a plane sheet of transparent material 
+on which opaque rulings are made. A 
+modern commercial grating contains 
+about 6000 lines per centimetre. The 
+transparent space between the rulings 
+act as slit of width a and the rulings act 
+as obstacles having a definite width b. 
+The combined width of a slit and a 
+ruling is called grating element e, 
+(e = a + b). The points on the slit 
+separated by a distance equal to the 
+grating element are called corresponding 
+points. 
+Screen
+O
+(a+b)sin
+
+P
+a
+Grating
+b
+A
+B
+Figure 7.20  Difraction grating 
+experiment
+A 
+plane 
+transmission 
+grating 
+is 
+represented as AB in Figure 7.20. Let, a plane 
+EXAMPLE 7.11
+Calculate the distance upto which ray 
+optics is a good approximation for light 
+of wavelength 500 nm falls on an aperture 
+of width 0.5 mm.
+Solution
+a = 0.5 mm = 0.5 × 10-3 m = 5 × 10–4 m
+500
+500 10 9
+=
+=
+×
+=
+−
+nm
+m;
+?
+l
+z
+Equation for Fresnel’s distance is, z
+a
+=
+2
+2l
+Substituting, 
+z =
+×
+(
+)
+×
+×
+=
+×
+×
+=
+−
+−
+−
+−
+5 10
+2
+500 10
+25 10
+1 10
+0 25
+4 2
+9
+8
+6
+.
+ m
+z = 0.25 m = 25 cm
+7.4.5  Difference between 
+interference and diffraction
+It is difficult to find the difference 
+between interference and diffraction as 
+they both exhibit the wave nature of light. 
+In both the phenomena, interference of 
+light only produces maxima and minima 
+on the screen and the diffraction of light 
+only spreads light in the geometrically 
+shadowed 
+region. 
+Nevertheless, 
+in 
+interference, the superposition is given 
+importance and in diffraction, the 
+bending of light is given importance. 
+The difference between interference and 
+Table 7.2  Diference between interference and difraction
+S.No.
+Interference
+Difraction
+1
+Equally spaced bright and dark fringes
+Central bright is double the size of other fringes
+2
+Equal intensity for all bright fringes
+Intensity falls rapidly for higher order fringes
+3
+Large number of fringes are obtained
+Less number of fringes are obtained
+XII_Physics_Vol-2_UNIT-7_EM.indd   74
+XII_Physics_Vol-2_UNIT-7_EM.indd   74
+03-03-2022   15:19:05
+03-03-2022   15:19:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 75
+
+PDF_PAGE: 83
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+75
+If we take,
+N
+a
+b
+=
++
+1
+
+(7.49)
+Then, N gives the number of grating 
+elements or rulings drawn per unit width 
+of the grating. Normally, this number N 
+is specified on the grating itself. Now, the 
+equation becomes, 
+1
+N
+m
+N m
+sin
+(
+) sin
+q
+l
+q
+l
+=
+=
+or
+ (7.50)
+The 
+students 
+should 
+remember that in a single 
+slit experiment, the formula, 
+a sinθ = nλ is condition for minimum 
+with n as order of minimum. But in 
+the grating experiment, the formula, 
+sinθ = Nmλ is condition for maximum 
+with m as the order of diffraction. 
+Note
+EXAMPLE 7.12
+A diffraction grating consists of 4000 
+slits per centimeter. It is illuminated by a 
+monochromatic light. The second order 
+diffraction maximum is produced at an 
+angle of 30°. What is the wavelength of 
+the light used? 
+Solution
+Number of lines = 4000 cm–1; m = 2; 
+θ = 30°; λ = ?
+Number of lines per unit length, 
+N = ×
+= ×
+−
+4000
+1 10
+4 10
+2
+5 m–1
+Equation for diffraction maximum for 
+grating is, sinθ = Nmλ
+After rewriting, l
+q
+= sin
+Nm
+wavefront of monochromatic light with 
+wavelength λ be incident on the grating. As 
+the width of the slit is comparable to that 
+of wavelength, the incident light undergoes 
+diffraction.
+A diffraction pattern is obtained on 
+the screen when the diffracted waves are 
+focused on a screen using a convex lens. Let 
+us consider a point P at an angle θ with the 
+perpendicular drawn from the center of the 
+grating to the screen. The path difference δ 
+between the diffracted waves from one pair 
+of adjacent corresponding points is,
+δ = (a + b) sinθ
+(7.46)
+This path difference is the same for any 
+pair of adjacent corresponding points. The 
+point P on the screen will be maximum when, 
+δ = m λ where m = 0, 1, 2, 3
+(7.47)
+Combining the above two equations, 
+we get,
+(a + b) sinθ = m λ 
+(7.48)
+Here, m is called order of diffraction 
+maximum. 
+Condition for P to be zeroth maximum, m = 0
+Now, (a+b) sinθ = 0 thus, sinθ = 0, 
+its position, θ = 0.  This is called zeroth 
+diffraction (or) central maximum. It is 
+formed at an angle 0.
+Condition for P to be first maximum, m = 1
+Now, (a+b) sinθ1 = λ. The first maximum 
+is obtained at an angle θ1.
+Condition for P to be second maximum, m = 2
+Now, (a+b) sinθ2 = 2λ. The second 
+maximum is obtained at an angle θ2.
+Condition for P to be mth maximum
+On either side of central maximum, 
+different higher order diffraction maxima 
+are formed at different angular positions.
+XII_Physics_Vol-2_UNIT-7_EM.indd   75
+XII_Physics_Vol-2_UNIT-7_EM.indd   75
+03-03-2022   15:19:06
+03-03-2022   15:19:06
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 76
+
+PDF_PAGE: 84
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+76
+7.4.7  Experiment to 
+determine the wavelength of 
+monochromatic light
+The wavelength of a spectral line 
+can 
+be 
+very 
+accurately 
+determined 
+with the help of a plane transmission 
+grating. For that we need to use an 
+instrument called spectrometer (Refer 
+7.6.6). After preliminary adjustments, 
+the slit of collimator is illuminated by a 
+monochromatic light, whose wavelength 
+is to be determined. The telescope is 
+brought in line with collimator to view the 
+image of the slit. The given grating is then 
+mounted on the prism table with its plane 
+perpendicular to the incident beam of light 
+coming from the collimator. The telescope 
+is turned to one side until the first order 
+diffraction image of the slit is seen. The 
+reading of the position of the telescope is 
+noted. 
+Similarly, the first order diffraction 
+image on the other side is captured and 
+the reading is noted. The difference 
+between two readings gives 2θ. Half of 
+its value gives θ. The angle for first order 
+maximum is shown in Figure 7.21. The 
+wavelength of light is calculated from the 
+equation, 
+Substituting, 
+l = ×
+× =
+×
+×
+= × ×
+× =
+×
+sin
+.
+30
+4 10
+2
+0 5
+4 10
+2
+1
+2
+4 10
+2
+1
+16 10
+5
+5
+5
+5
+
+l =
+×
+=
+−
+6250 10
+6250
+10m
+A
+o
+EXAMPLE 7.13
+A  monochromatic  light of wavelength 
+of 500 nm strikes a grating and produces 
+fourth order maximum at an angle of 30°. 
+Find the number of slits per centimeter.
+Solution
+λ = 500 nm = 500×10-9 m; m = 4; 
+θ = 30°; number of lines per cm = ?
+Equation for diffraction maximum for 
+grating is, sin θ = Nm λ
+Rewriting, N
+m
+= sinq
+l
+Substituting, 
+N = ×
+×
+=
+×
+=
+×
+−
+0 5
+4
+500 10
+2 5 10
+2 5 10
+9
+5
+3
+.
+.
+.
+   
+m
+   
+cm
+-1
+-1
+A compact disc (CD) always appears colourful. On the read/writable 
+side which looks shining, there are many narrow circular tracks with widths 
+comparable to the wavelength of visible light. Hence, the diffraction takes place 
+after the reflection of incident white light to give colourful appearance. The 
+tracks act as reflecting grating.
+d sin 
+d sin 
+α
+α
+β
+β
+d
+XII_Physics_Vol-2_UNIT-7_EM.indd   76
+XII_Physics_Vol-2_UNIT-7_EM.indd   76
+03-03-2022   15:19:07
+03-03-2022   15:19:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 77
+
+PDF_PAGE: 85
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+77
+l
+q
+= sin
+Nm 
+(7.51)
+Here, N is the number of rulings per metre 
+in the grating and m is the order of the 
+diffraction image.
+Sodium
+lamp
+Collimator
+Prism table
+Telescope
+Diﬀraction
+grating
+m = 1
+m = 1
+m = 0
+θ
+θ
+Figure 7.21  Determination of 
+wavelength using grating
+7.4.8  Determination of 
+wavelength of different 
+colours
+The diffraction pattern for white light 
+consists of a white central maximum and 
+continuous coloured diffraction pattern 
+on its both sides. The central maximum 
+is white as all the colours constructively 
+meet at centre  with no path difference. As 
+θ increases, the path difference fullfills the 
+condition for maxima of different orders for 
+all colours from violet to red. It produces a 
+spectrum of diffraction pattern from violet 
+to red on either side of central maximum 
+as shown in Figure 7.22. By measuring the 
+angle at which these colours appear for 
+various orders of diffraction, the wavelength 
+of different colours could be calculated 
+using the formula given by equation (7.51),
+l
+q
+= sin
+Nm
+Here, N is the number of rulings per 
+metre in the grating and m is the order of 
+the diffraction image.
+m = 2
+m = 2
+m = 1
+m = 1
+Red
+Red
+Violet
+Violet
+m = 0 White 
+Diﬀraction
+grating
+Figure 7.22  Difraction with white light
+7.4.9  Resolution
+The effect of diffraction has an adverse 
+effect in the sharpness of the image 
+formed.  There is always a spread of central 
+maximum in the image for every point of 
+the object, for every point of the object 
+acts as a point source. The condition for 
+central maximum (or first minimum) 
+produced by rectangular slit is given by 
+the equation (7.37). 
+a sinθ = λ 
+XII_Physics_Vol-2_UNIT-7_EM.indd   77
+XII_Physics_Vol-2_UNIT-7_EM.indd   77
+03-03-2022   15:19:08
+03-03-2022   15:19:08
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 78
+
+PDF_PAGE: 86
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+78
+For example, let two point-sources of 
+light close to each other form image on 
+a screen. The diffraction pattern of one 
+point-source may overlap with another 
+and produce a blurred image (or) un-
+resolved image as shown in Figure 7.24(a). 
+To obtain a quality image (or) well resolved 
+image, the two point-sources must be kept 
+apart in such a way that their diffraction 
+patterns do not overlap as shown in Figure 
+7.24(c).
+(a) Unresolved
+Rayleigh Criterion
+(b) Just resolved
+(c) Well resolved
+Figure 7.24  Rayleigh’s criterion
+According to Rayleigh’s criterion, the 
+two points on an image are said to be 
+just resolved when the central maximum 
+of one diffraction pattern coincides 
+with the first minimum of the other and 
+vice-versa as shown in Figure 7.24(b). In 
+other words, the distance between the two 
+central maxima must be at least ro. Hence, 
+ro is called spatial resolution given by the 
+equation (7.54) and the corresponding θ is 
+said to be angular resolution given by the 
+equation (7.53) respectively. It shows that 
+for better resolution, the wavelength of light 
+used must be as small as possible and the 
+size of the aperture of the instrument must 
+be as large as possible. 
+The ability of an optical instrument 
+to distinguish the two closely adjacent 
+objects (or) two points on the same 
+object is said to be the resolving power 
+of the instrument. In general, the term 
+resolution is pertaining to the quality of 
+But, a circular slit (aperture) produces 
+diffraction pattern of concentric circles as 
+shown in Figure 7.23. These are known as 
+Airy’s discs. Most of the optical instruments 
+form images of objects only through the 
+circular slits. The condition for central 
+maximum (or) first minimum for circular 
+slit is, 
+a sinθ = 1.22 λ
+(7.52)
+Here, the numerical 
+value 1.22 appears in the 
+expression 
+for 
+central 
+maximum 
+(or) 
+first 
+minimum 
+formed 
+by 
+circular slits. This involves 
+higher level mathematics that is not shown 
+here.
+f
+
+a
+ro
+ro
+Figure 7.23  Airy’s discs
+For small angles, sin θ ≈ θ, the above 
+equation becomes,
+a θ =1.22 λ
+Rewriting further,	
+q
+l
+= 1 22
+.
+a
+ 
+(7.53)
+From the geometry,  q = r
+f
+0
+Substituting for θ in equation (7.53) and 
+rearranging gives
+r
+f
+a
+0
+1 22
+= .
+l
+
+(7.54)
+XII_Physics_Vol-2_UNIT-7_EM.indd   78
+XII_Physics_Vol-2_UNIT-7_EM.indd   78
+03-03-2022   15:19:10
+03-03-2022   15:19:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 79
+
+PDF_PAGE: 87
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+79
+any one direction perpendicular to 
+the direction of propagation of wave is 
+called polarisation of light. In this lesson 
+the electric field is only considered for 
+discussion.
+7.5.1  Plane polarised light
+An unpolarised light is a transverse 
+wave which has vibrations in all directions 
+in a plane perpendicular to the direction 
+of propagation of wave as shown in 
+Figure 7.25(a). All these vibrations could 
+be resolved into  two normal components 
+as shown in Figure 7.25(b), which still 
+represents 
+unpolarised 
+light. 
+If 
+the 
+vibrations of a wave are present in only 
+one direction in a plane perpendicular 
+to the direction of propagation, then the 
+light is said to be polarised (or) plane 
+polarised light as shown in Figure 7.25(c) 
+and 7.25(d).
+E
+E
+E
+E
+(a)
+(b)
+Unpolarised light
+Unpolarised light
+Direction of 
+propagation
+Direction of 
+propagation
+(c)
+(d)
+Polarised light
+Polarised light
+Direction of 
+propagation
+Direction of 
+propagation
+Figure 7.25  Unpolarised and polarised 
+light
+the image and the term resolving power 
+is associated with the ability of the optical 
+instrument. Resolution and resolving 
+power are reciprocal of each other.
+EXAMPLE 7.14
+The optical telescope in the Vainu Bappu 
+observatory at Kavalur has an objective 
+lens of diameter 2.3 m. What is its angular 
+resolution if the wavelength of light used is 
+589 nm?
+Solution
+a = 2.3 m; λ = 589 nm = 589×10-9 m; θ = ?
+The equation for angular resolution is, 
+q
+l
+= 1 22
+.
+a
+Substituting, 
+q =
+×
+×
+=
+×
+−
+−
+1 22
+589 10
+2 3
+3 124 10
+9
+7
+.
+.
+.
+q =
+×
+−
+3 124 10 7
+.
+rad (or) θ = 0.0011'
+Note: The angular resolution of human eye 
+is approximately, 3 10 4
+×
+−rad ≈ 1.03'. 
+POLARISATION
+Both, longitudinal and transverse waves 
+exhibit the phenomena of interference 
+and diffraction. In fact, even sound waves 
+demeonstrate the above two phenomenon. 
+Since light is an electromagnetic wave, it is 
+transverse in nature. The transverse nature 
+of light wave is proved in the phenomenon 
+called polarisation. The phenomenon 
+of restricting the vibrations of light 
+(electric or magnetic field vectors) to 
+7.5
+XII_Physics_Vol-2_UNIT-7_EM.indd   79
+XII_Physics_Vol-2_UNIT-7_EM.indd   79
+03-03-2022   15:19:10
+03-03-2022   15:19:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 80
+
+PDF_PAGE: 88
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+80
+(iii)	polarisation by double refraction
+(iv)	polarisation by scattering.
+7.5.3  Polarisation by 
+selective absorption
+Selective absorption is the property of 
+a material which transmits waves whose 
+electric field vibrations are in a plane 
+parallel to a certain direction of orientation 
+and absorbs all other other vibrations. 
+The polaroids (or) polarisers are thin 
+commercial sheets which make use of 
+the property of selective absorption to 
+produce plane polarised light. Selective 
+absorption is also called as dichroism. 
+In 
+1932, 
+an 
+American 
+scientist 
+Edwin Land developed polarisers in the 
+form of sheets. Tourmaline is a natural 
+polarising material. Polaroids are also 
+made artificially. It was discovered 
+that small needle shaped crystals of 
+quinine iodosulphate have the property 
+of polarising light.  A number of these 
+crystals with their axes parallel to 
+one another packed in between two 
+transparent plastic sheets serve as a 
+good polaroid. Recently, new types of 
+polaroids are prepared in which thin film 
+of polyvinyl alcohol is used. These are 
+colourless crystals which transmit more 
+light, and give better polarisation.
+The plane containing the vibrations of the 
+electric field vector is known as the plane of 
+vibration ABCD as shown in Figure 7.26. The 
+plane perpendicular to the plane of vibration 
+is known as the plane of polarisation EFGH. 
+Both the plane of vibration and the plane 
+of polarisation contain the direction of 
+propagation of light.
+Plane of
+ Polarisation
+Plane of
+ vibration
+A
+B
+C
+E
+F
+G
+H
+D
+Incident
+light
+Figure 7.26  Plane of vibration and plane 
+of polarisation
+The 
+Table 
+7.3 
+consolidates 
+few 
+characteristics of polarised and unpolarised 
+light.
+7.5.2  Polarisation 
+Techniques
+The polarised light can be obtained from 
+unpolarised light by several techniques. 
+Here, we are discussing the four methods. 
+They are, 
+(i)	 polarisation by selective absorption 
+(ii)	 polarisation by reflection
+Table 7.3  Characteristics of polarised light and unpolarised light
+S.No
+Polarised light
+Unpolarised light
+1
+Consists of waves having their electric 
+and magnetic feld vibrations in a single 
+plane normal to the direction of ray.
+Consists of waves having their electric and 
+magnetic feld vibrations in all directions 
+normal to the direction of ray.
+2
+Asymmetrical about the ray direction. Symmetrical about the ray direction.
+3
+It is obtained by converting unpolarised 
+light using polaroids.
+Produced by conventional light sources.
+XII_Physics_Vol-2_UNIT-7_EM.indd   80
+XII_Physics_Vol-2_UNIT-7_EM.indd   80
+03-03-2022   15:19:11
+03-03-2022   15:19:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 81
+
+PDF_PAGE: 89
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+81
+zero for every 90o rotation of the analyser 
+as shown in the graph in Figure 7.28(a). This 
+is because the vibrations are allowed in one 
+direction and completely restricted in the 
+perpendicular direction. On the other hand, 
+if the intensity of light varies between 
+maximum and minimum (not zero) for 
+every 90o rotation of the analyser, the light 
+is said to be partially polarised light as 
+shown in the graph in Figure 7.28(b). This 
+is because the light is not fully restricted in 
+that particular direction which remains as a 
+minimum intensity. 
+
+
+
+
+
+
+Intensity
+Zero
+Max
+(a) Plane polarised light
+
+
+
+
+
+
+Intensity
+Min
+Max
+(b) Partially polarised light
+Figure 7.28  Intensity variation in  
+(a) plane and (b) partially polarised light
+7.5.3.3 Malus’ law
+In 1809, French Physicist E.N Malus 
+discovered that when a beam of plane 
+polarised light of intensity I0 is incident 
+7.5.3.1 Polariser and analyser
+Let us consider an unpolarised beam of 
+light. The vibrations can be in all possible 
+directions perpendicular to the direction 
+of propagation as shown in Figure 7.27. 
+When this light passes through a polaroid 
+P1 the vibrations are restricted to only 
+one plane. The emergent beam can be 
+further passed through another polaroid 
+P2. If the polaroid P2 is rotated by keeping 
+the ray of light as axis, for a particular 
+position of P2 the intensity is maximum. 
+When the polaroid P2 is rotated further, 
+the intensity starts decreasing. There is 
+complete extinction of the light when P2 is 
+rotated through 90o. On further rotating 
+P2, the light reappears and the intensity 
+increases and becomes maximum at 90o. 
+The light coming out from polaroid P1 is 
+said to be plane polarised. The Polaroid 
+(here P1) which polarises the light 
+passing through it is called a polariser. 
+The polaroid (here P2) which is used to 
+examine whether a light is polarised or 
+not is called an analyser.
+If the intensity of the unpolarised light 
+is I then the intensity of polarised light 
+will be I
+2
+
+
+
+
+
+. The other half of intensity is 
+restricted by the polariser.
+P1
+P2
+Source
+Unpolarised
+light
+Polarised
+light
+Polariser
+Analyser
+Figure 7.27  Polariser and analyser
+7.5.3.2  Plane and partially polarised 
+light
+A light is said to be plane polarised if 
+the intensity varies from maximum to 
+XII_Physics_Vol-2_UNIT-7_EM.indd   81
+XII_Physics_Vol-2_UNIT-7_EM.indd   81
+03-03-2022   15:19:11
+03-03-2022   15:19:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 82
+
+PDF_PAGE: 90
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+82
+Where k is constant of proportionality.
+I
+ka
+=
+2
+2
+cos q
+I
+I
+=
+0
+2
+cos q
+Where, I
+ka
+0
+2
+=
+ is the maximum intensity 
+of light transmitted through the analyser.
+a
+a sin 
+a cos 
+Plane of
+analyser 
+Plane of
+polariser
+
+Figure 7.30  Malus’ law
+The following are few special cases.
+Case (i) When θ = 0o, cos 0o= 1, I
+I
+=
+0
+When the transmission axis of polariser 
+is parallel to that of the analyser, the intensity 
+of light transmitted from the analyser is 
+equal to the incident light that falls on it 
+from the polariser.
+Case (ii) When θ = 90o, cos 90o = 0, I = 0 
+When the transmission axes of polariser 
+and analyser are perpendicular to each 
+other, the intensity of light transmitted from 
+the analyser is zero.
+on an analyser, the intensity of light I 
+transmitted from the analyser varies 
+directly as the square of the cosine of 
+the angle θ between the transmission 
+axes of polariser and analyser as shown 
+in Figure 7.29.  This is known as Malus’ 
+law. 
+I = I0 cos2 θ
+(7.55)
+The proof of Malus’ law is as follows. 
+Let us consider that the transmission 
+axes of the polariser and the analyser 
+are inclined by an angle θ is as shown 
+in Figure 7.30. Let I0 be the intensity 
+and a be the amplitude of the electric 
+vector transmitted by the polariser. 
+The amplitude a of the incident light 
+has two rectangular components, acosθ 
+and asinθ which are the parallel and 
+perpendicular components to the axis 
+of transmission of the analyser.
+Only the component acosθ will be 
+transmitted by the analyser. The intensity 
+of light transmitted from the analyser 
+is proportional to the square of the 
+component of the amplitude transmitted 
+by the analyser.
+I
+a
+µ( cos )
+q 2
+I
+k a
+= ( cos )
+q 2
+Ex
+Ey
+E
+
+X
+Y
+θ
+θ
+E
+Unpolarised
+Light
+Polariser
+Analyser
+I = I0
+I0
+ cos2
+Figure 7.29  Malus’ law
+XII_Physics_Vol-2_UNIT-7_EM.indd   82
+XII_Physics_Vol-2_UNIT-7_EM.indd   82
+03-03-2022   15:19:13
+03-03-2022   15:19:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 83
+
+PDF_PAGE: 91
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+83
+a third polaroid is kept in between at 45o 
+inclination to both of them.
+Solution
+(a)	
+As the intensity of the unpolarised 
+light falling on the first polaroid is I, the 
+intensity of polarized light emerging from 
+it will be I0 = I
+2
+
+
+
+
+
+. Let ′I be the intensity of 
+light emerging from the second polaroid.
+Malus’ law, ′ =
+I
+I0
+2
+cos θ
+Here θ is 90o as the transmission axes are 
+perpendicular to each other.
+Substituting, 
+′ =
+
+
+
+=
+∴
+=
+
+
+I
+I
+2
+90
+0
+90
+0
+2
+cos (
+)
+cos(
+)
+
+
+No light comes out from the second 
+polaroid.
+I
+P1
+P3
+P2
+I
+2
+I´
+I´´
+(b)	
+Let the first polaroid be P1 and the 
+second polaroid be P2. They are oriented 
+at 90o. The third polaroid P3 is introduced 
+between them at 45o. Let ′I be the intensity 
+of light emerging from P3.
+Angle between P1 and P3 is 45o. The intensity 
+of light coming out from P3 is, ′ =
+I
+I0
+2
+cos q
+Substituting, 
+′ =
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+′
+′
+I
+I
+I
+I
+I
+2
+45
+2
+1
+2
+4
+2
+2
+cos (
+)
+;
+
+= I
+4
+Finally, the light has to pass through P2. 
+Angle between P3 and P2 is 45o. Let I″ is 
+the intensity of light coming out from P2 
+′′ = ′
+I
+I cos2q
+EXAMPLE 7.15
+Two polaroids are kept with their 
+transmission 
+axes 
+inclined 
+at 
+30o. 
+Unpolarised light of intensity I falls on the 
+first polaroid. Find out the intensity of light 
+emerging from the second polaroid.
+Solution
+As the intensity of the unpolarised light 
+falling on the first polaroid is I, the intensity 
+of polarized light emerging from it will 
+be, I0 = I
+2
+
+
+
+
+
+. Let ′I be the intensity of light 
+emerging from the second polaroid.
+Malus’ law, ′ =
+I
+I0
+2
+cos q 
+Substituting, 
+′ =
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+I
+I
+I
+I
+2
+30
+2
+3
+2
+3
+8
+2
+2
+cos (
+)
+
+′ =
+
+
+
+
+
+I
+I
+3
+8
+I
+I
+2
+3
+8
+I
+θ
+EXAMPLE 7.16
+Two 
+polaroids 
+are 
+kept 
+crossed 
+(transmission axes at 90o) to each other. 
+(a)	
+What will be the intensity of the light 
+coming out from the second polaroid when 
+an unpolarised light of intensity I falls on 
+the first polaroid?
+(b) 	 What will be the intensity of light 
+coming out from the second polaroid if 
+XII_Physics_Vol-2_UNIT-7_EM.indd   83
+XII_Physics_Vol-2_UNIT-7_EM.indd   83
+03-03-2022   15:19:15
+03-03-2022   15:19:15
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 84
+
+PDF_PAGE: 92
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+84
+reflected and the other vibrations are 
+refracted. Few parallel vibrations may also 
+get refracted resulting in partially polarised 
+refracted light. The angle of incidence 
+for which the reflected light is found to 
+be plane polarised is called polarising 
+angle ip. 
+Refracted beam
+ip
+ip
+rp
+Incident beam
+X
+Y
+C
+Reﬂected beam
+Figure 7.31  Polarisation by refection
+7.5.4.1  Brewster’s Law
+The British Physicist, Sir. David 
+Brewster found that at the polarising 
+angle, the reflected and the refracted rays 
+are perpendicular to each other. Suppose 
+ip is the polarising angle and rp is the angle 
+of refraction, from the geometry as shown 
+in Figure 7.31, we can write, 
+r
+i
+p
+p
+=
+−
+900
+
+(7.56)
+From Snell’s law, the refractive index n of 
+the medium with respect to air is,
+sin
+sinr
+i
+n
+p
+p
+= 
+(7.57)
+Substituting equation (7.56) in (7.57), we 
+get,
+sin
+sin
+sin
+cosi
+i
+i
+i
+n
+p
+p
+p
+p
+90−
+(
+)
+=
+=
+tani
+n
+p = 
+(7.58)
+Here, I' is the intensity of polarized light 
+existing between P3 and P2. I' = I
+4 .
+Substituting,  
+′′ =
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+I
+I
+I
+I
+4
+45
+4
+1
+2
+8
+2
+2
+cos (
+)
+
+′′ =
+I
+I
+8
+7.5.3.4. Uses of polaroids
+1.	 Polaroids are used in goggles and 
+cameras to avoid glare of light.
+2.	 Polaroids are used to take 3D pictures 
+i.e., holography.
+3.	 Polaroids are used to improve contrast in 
+old oil paintings.
+4.	 Polaroids are used in optical stress 
+analysis.
+5.	 Polaroids are used as window glasses to 
+control the intensity of incoming light.
+6.	 Polarised laser beam acts as needle to 
+read/write in compact discs (CDs).
+7.	 Polarised light is used in liquid crystal 
+display (LCD).
+7.5.4  Polarisation by 
+reflection
+The simplest method of producing plane 
+polarised light is by reflection. Consider 
+a beam of unpolarised light incident on 
+a polished glass surface XY. This light 
+undergoes reflection as well as refraction. 
+As it is unpolarized, it consists of vibrations 
+which are parallel to the reflecting surface 
+(shown as dots) and also not parallel to it 
+(shown as arrows). It is shown in Figure 
+7.31. For a particular angle of incidence, 
+the reflected light is found to be plane 
+polarised and the refracted light is found 
+to be partially polarised. It is because, 
+the parallel vibrations to the surface are 
+XII_Physics_Vol-2_UNIT-7_EM.indd   84
+XII_Physics_Vol-2_UNIT-7_EM.indd   84
+03-03-2022   15:19:17
+03-03-2022   15:19:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 85
+
+PDF_PAGE: 93
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+85
+several glass plates kept one behind the other 
+at an angle 90° – ip with the horizontal surface 
+as shown in Figure 7.32. This arrangement 
+ensures that the parallel light falls on these 
+plates at ip. When this unpolarised light passes 
+successively through these plates, the few 
+parallel vibrations to the surface which may 
+be present in the refracted light, get a chance 
+for further reflections at the succeeding plates. 
+Thus, both the reflected and the refracted 
+lights are found to be plane polarised 
+EXAMPLE 7.18
+What is the angle at which a glass plate 
+of refractive index 1.65 is to be kept with 
+respect to the horizontal surface so that an 
+unpolarised light travelling horizontal after 
+reflection from the glass plate is found to 
+be plane polarised?
+Solution
+n = 1.65
+Brewster’s law, tani
+n
+p =
+tan
+.
+;
+tan
+.
+;
+.
+i
+i
+i
+p
+p
+p
+=
+=
+=
+−
+1 65
+1 65
+58 8
+1
+0
+The inclination with the horizontal surface 
+is, (
+.
+)
+.
+90
+58 8
+31 2
+0
+0
+0
+−
+=
+7.5.5  Polarisation by double 
+refraction
+Erasmus Bartholinus, a 
+Danish Physicist discovered 
+that 
+when 
+a 
+ray 
+of 
+unpolarised light is incident 
+on a calcite crystal, two 
+refracted rays are produced. 
+Hence, two images of an object are formed. 
+This phenomenon is called double refraction 
+(or) birefringence as shown in Figure 7.33. 
+This equation is known as Brewster’s law. 
+Brewster’s law states that the tangent of the 
+polarising angle for a transparent medium is 
+equal to its refractive index. The polarising 
+angle is known as Brewster’s angle which 
+dependes on the nature of the refracting 
+medium. 
+EXAMPLE 7.17
+Find the polarizing angles for (i) glass 
+of refractive index 1.5 and (ii) water of 
+refractive index 1.33.
+Solution
+Brewster’s law, tani
+n
+p =
+For glass, tan
+. ; i
+tan
+. ;
+.
+i
+i
+p
+p
+p
+=
+=
+=
+−
+1 5
+1 5
+56 3
+1
+
+For water, tan
+.
+;
+tan
+.
+;
+.
+i
+i
+i
+p
+p
+p
+=
+=
+=
+−
+1 33
+1 33
+53 1
+1
+
+7.5.4.2  Pile of plates 
+90° – ip 
+ip
+90° – ip 
+ip
+ip
+Figure 7.32  Pile of plates
+Pile of plates makes use of Brewster’s law 
+to convert the partially polarised refracted 
+light into plane polarised light. It consists of 
+XII_Physics_Vol-2_UNIT-7_EM.indd   85
+XII_Physics_Vol-2_UNIT-7_EM.indd   85
+03-03-2022   15:19:19
+03-03-2022   15:19:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 86
+
+PDF_PAGE: 94
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+86
+7.5.6  Types of optically 
+active crystals
+Crystals like calcite, quartz, tourmaline 
+and ice which have only one optic axis are 
+called uniaxial crystals. 
+Crystals like mica, topaz, selenite and 
+aragonite which have two optic axes are 
+called biaxial crystals.
+7.5.7  Nicol prism
+Nicol prism is an optical device which 
+forms a part of many optical instruments 
+both for producing plane polarised light 
+and also analysing. The construction of a 
+Nicol prism is based on the phenomenon 
+of double refraction. It was designed by 
+William Nicol in 1828. 
+Nicol prism is a calcite crystal which 
+has a length three times its breadth and 
+angles 72o and 108o. It is cut into two 
+halves along the diagonal as shown in 
+Figure 7.34. The two halves are pasted 
+together with a layer of canada balsam, a 
+transparent cement.
+72
+Canada balsam
+Ordinary
+ray
+Extraordinary
+ray
+108
+Figure 7.34  Nicol Prism
+Let us consider a ray of unpolarised 
+light from a monochromatic source is 
+incident on the Nicol prism. The double 
+refraction takes place and the ray is split 
+into ordinary and extraordinary rays. 
+They travel in different directions with 
+different velocities. For monochromatic 
+sodium light the refractive index of the 
+This phenomenon is also exhibited by crystals 
+like quartz, mica etc.
+When a dot of ink on a sheet of paper 
+is viewed through a calcite crystal, two 
+images will be seen. On rotating the crystal, 
+one image remains stationary and the other 
+rotates around it. The stationary image O 
+is produced by ordinary rays which obey 
+the laws of refraction. The rotating  image 
+E is produced by extraordinary rays which 
+do not obey the laws of refraction. The 
+extraordinary ray is found to be plane 
+polarised. Inside a double refracting crystal 
+the ordinary ray travels with same velocity 
+in all directions and the extra ordinary 
+ray travels with different velocities in 
+all directions. A point source inside the 
+crystal produces spherical wavefront for 
+ordinary ray and elliptical wavefront for 
+extraordinary ray. Inside the crystal, there 
+is a particular direction in which both the 
+rays travel with same velocity. This direction 
+is called as optic axis. Along the optic axis, 
+the refractive index is same for both the rays 
+and there is no double refraction along this 
+axis.
+Unpolarised
+light
+Ordinary
+ray
+Extraordinary
+ray
+O
+E
+ 
+E
+O
+Figure 7.33  Double refraction
+XII_Physics_Vol-2_UNIT-7_EM.indd   86
+XII_Physics_Vol-2_UNIT-7_EM.indd   86
+03-03-2022   15:19:20
+03-03-2022   15:19:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 87
+
+PDF_PAGE: 95
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+87
+Unpolarised
+Sunlight
+Partially 
+polarised
+light
+Unpolarised
+light
+Molecule
+Polarised
+light
+Figure 7.35  Polarisation by scattering
+OPTICAL INSTRUMENTS
+There are many optical instruments we 
+used in our daily life. We shall discuss here 
+about microscope, telescope, spectrometer 
+and of course the human eye.
+7.6.1  Simple microscope 
+A simple microscope is a single 
+magnifying (convex) lens of small focal 
+length which must produce an erect, 
+magnified and virtual image of the object. 
+Hence, the object must be placed within the 
+focal length f (between the points F and P) 
+on one side of the lens and viewed through 
+the other side of it. The nearest point where 
+an eye can clearly see is called the near point 
+and the farthest point up to which an eye 
+can clearly see is called the far point. For a 
+healthy eye, the distance of the near point 
+is 25 cm, which is denoted as D and the far 
+point should be at infinity.
+7.6.1.1  Near point focusing
+The eye is least strained when image 
+is formed at near point, i.e. 25 cm. The 
+near point is also called as least distance of 
+7.6
+crystal for the ordinary ray is 1.658 and for 
+extraordinary ray is 1.486. The refractive 
+index of canada balsam is 1.523. 
+The ordinary ray is total internally 
+reflected at the layer of canada balsam 
+and is prevented from emerging along 
+with extraordinary ray. Where as, the 
+extraordinary ray is transmitted through 
+the crystal which is plane polarised.
+Drawbacks of Nicol prism
+(i)	 Its cost is very high due to scarcity of 
+large and flawless calcite crystals. 
+(ii)	 Due to extraordinary ray passing 
+obliquely through it, the emergent ray 
+is always displaced a little to one side.
+(iii)	The effective field of view is quite 
+limited.
+(iv)	The light emerging out of it is not 
+uniformly plane polarised.
+7.5.8  Polarisation by 
+scattering
+When sun light gets scattered by the 
+atmospheric molecules, the electrons of 
+these molecules are influenced by the 
+vibrating components of the electric 
+field present in the sun light. As the 
+sunlight is unpolarised, it produces 
+these vibrations in all directions. These 
+vibrating electrons radiate energy only 
+in the direction perpendicular to their 
+vibrations. When an observer views 
+a beam of sunlight perpendicular to 
+its direction of travel, the radiations 
+produced by the electrons vibrating 
+in the direction perpendicular to the 
+direction of view will only reach the 
+observer. Hence, the light reaching the 
+observer is plane polarised. It is shown 
+in Figure 7.35. 
+XII_Physics_Vol-2_UNIT-7_EM.indd   87
+XII_Physics_Vol-2_UNIT-7_EM.indd   87
+03-03-2022   15:19:20
+03-03-2022   15:19:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 88
+
+PDF_PAGE: 96
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+88
+ratio of the height of image to the height of 
+object m
+h
+h
+=
+′
+
+
+
+, we will not get a meaningful 
+equation, as the image is of infinite size and 
+it is also formed at infinity. Hence, we can 
+practically use the angular magnification. 
+The angular magnification is defined as the 
+ratio of angle θi  subtended by the image 
+with aided eye to the angle θ0 subtended by 
+the object with unaided eye.
+m
+i
+= q
+q0
+
+(7.61)
+(a) with unaided eye
+h
+D
+θº
+Eye focused
+at inﬁnity
+f
+h
+θi
+θi
+(b)with aided eye
+Figure 7.37  Normal focusing
+For unaided eye shown in Figure 7.37(a), 
+tanq
+q
+0
+0
+≈
+= h
+D 
+(7.62)
+For aided eye shown in Figure 7.37(b), 
+tanq
+q
+i
+i
+h
+f
+≈
+=
+
+(7.63)
+The angular magnification is, 
+m
+h
+f
+h D
+i
+=
+=
+q
+q0
+/
+/
+m
+D
+f
+=
+
+(7.64)
+distinct vision. This is shown in Figure 7.36. 
+The object distance u should be less than f. 
+The image distance is the near point D. The 
+magnification m of this lens is given by the 
+equation (6.67), m
+v
+u
+=
+Substituting, v = –D  and u = –u, as both 
+the distances are measured to the left of the 
+lens. Hence, m
+D
+u
+= −
+−
+m
+D
+u
+=
+
+(7.59)
+We can also write the equation for 
+magnification m in terms of focal length f 
+by using lens equation (6.63), 1
+1
+1
+v
+u
+f
+−
+=
+ in 
+equation (6.67) m
+v
+u
+=
+ we get m
+v
+f
+= −
+1
+Substituting v = –D  gives,
+m
+D
+f
+= +
+1
+
+(7.60)
+This is the magnification for near point 
+focusing.
+D
+F
+Eye focussed
+on near point
+u
+f
+Figure 7.36  Near point focusing
+7.6.1.2 Normal focusing
+The eye is most relaxed when the image 
+is formed at infinity. The focusing is called 
+normal focusing when the image is formed 
+at infinity. This is shown in Figure 7.37(b). 
+To find the magnification m, if we take the 
+XII_Physics_Vol-2_UNIT-7_EM.indd   88
+XII_Physics_Vol-2_UNIT-7_EM.indd   88
+03-03-2022   15:19:23
+03-03-2022   15:19:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 89
+
+PDF_PAGE: 97
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+89
+25
+6
+4 167
+u =−
+=−.
+cm
+The closest distance between the lens and 
+the book is, u = –4.167 cm 
+To find farthest object distance, lens 
+equation is, 1
+1
+1
+′ −′ =
+′
+v
+u
+f
+Rewriting for farthest object distance, 
+1
+1
+1
+′ = ′ −
+′
+u
+v
+f
+Substituting, 1
+1
+1
+5
+5
+′ = ∞−
+=−
+u
+u
+;
+ cm
+The farthest distance at which the person 
+can keep the book is, ′ =−
+u
+5 cm
+(b) To find magnification in near point 
+focusing, m
+D
+f
+= +
+= +
+=
+1
+1
+25
+5
+6
+To find magnification in normal focusing, 
+m
+D
+f
+=
+=
+=
+25
+5
+5
+7.6.1.3. Resolving power of microscope
+A microscope is used to see the details 
+of the object under observation. Good 
+microscope should not only magnify the 
+object but also resolve the two points on an 
+object which are separated by the smallest 
+distance dmin. Actually, dmin is the resolution 
+and its reciprocal is the resolving power.
+The spatial resolution (radius of central 
+maximum) is already derived in equation 
+(7.54), r
+f
+a
+0
+1 22
+= .
+l
+.
+Image plane
+Image
+f
+β
+Objective
+Object 
+plane
+Object
+a
+θ
+v
+1.22λv
+a
+ 
+Figure 7.38  Resolving power of 
+microscope
+This is the magnification for normal 
+focusing.
+The magnification for normal focusing 
+is one less than that of near point focusing. 
+But, the viewing is more comfortable in 
+normal focusing than near point focusing. 
+For large values of D/f, the difference 
+between 
+the 
+two 
+magnifications 
+is 
+negligibly small. 
+EXAMPLE 7.19
+A man with a near point of 25 cm reads 
+a book which has small print using a 
+magnifying lens of focal length 5 cm. 
+(a) What are the closest and the 
+farthest distances at which he should 
+keep the lens from the book? (b) What 
+are the maximum and the minimum 
+magnification possible? 
+Solution
+D = 25 cm
+The 
+magnifying 
+lens 
+must 
+be 
+a 
+convex lens of positive focal length 
+f = 5 cm
+For closest object distance u, the image 
+distance v is, –25 cm. (near point, v = –D)
+For farthest object distance 
+′
+u , the 
+corresponding image distance, 
+′v is 
+infinity.
+(a)	
+To find closest distance between 
+lens and book, we can use lens equation, 
+1
+1
+1
+v
+u
+f
+−
+=
+Rewriting for closest object distance, 
+1
+1
+1
+u
+v
+f
+=
+−
+Substituting,  
+1
+1
+25
+1
+5
+1
+25
+1
+5
+1
+5
+25
+6
+25
+u = −
+−
+=
+−
+= −−
+
+
+
+
+
+=−
+XII_Physics_Vol-2_UNIT-7_EM.indd   89
+XII_Physics_Vol-2_UNIT-7_EM.indd   89
+03-03-2022   15:19:25
+03-03-2022   15:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 90
+
+PDF_PAGE: 98
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+90
+7.6.1.4. Resolving power of telescope
+The resolving power of telescope is the 
+reciprocal of the spatial resolution already 
+derived in equation (7.54).
+R
+r
+a
+f
+T =
+=
+1
+1 22
+0
+.
+l
+
+(7.73)
+7.6.2  Compound  
+microscope
+The diagram of a compound microscope 
+is shown in Figure 7.39. The lens near the 
+object is called as objective. It forms a real, 
+inverted and magnified image of the object. 
+This serves as the object for the lens close to 
+the eye called as eyepiece. The eyepiece serves 
+as a simple microscope that produces finally 
+an enlarged and virtual image. The first 
+inverted image formed by the objective is to 
+be adjusted within the focus of the eyepiece 
+so that the final image is formed nearly at 
+infinity (or) at the near point. The final image 
+is inverted with respect to the object. 
+u
+fe
+fo
+A
+B
+h
+L
+B'
+B''
+A''
+A'
+h'
+h''
+E
+β
+β
+O
+Objective
+Eyepiece
+D
+Figure 7.39  Compound microscope
+7.6.2.1. 
+Magnification 
+in 
+compound 
+microscope
+The lateral magnification produced by 
+the objective is given by the equation (6.66), 
+m
+h
+h
+o = ′
+In microscope, the object distance is 
+just more than the focal length f and the 
+image is formed at distance v as shown in 
+the Figure 7.38. Hence, f in equation (7.54) 
+is replaced by v.
+r
+v
+a
+o = 1 22
+.
+l 
+ (7.65)
+If the distance between the two points 
+on the object to be resolved is dmin, then the 
+magnification m is,
+m
+r
+d
+o
+=
+min
+
+(7.66)
+d
+r
+m
+v
+am
+v
+a v u
+u
+a
+m
+v u
+o
+min
+.
+.
+/
+.
+/
+=
+=
+= (
+)
+=
+∴
+=
+[
+]
+1 22
+1 22
+1 22
+l
+l
+l 
+	
+d
+f
+a
+u
+f
+min
+.
+=
+∴
+≈
+[
+]
+1 22l
+
+(7.67)
+On the object side, 
+2
+2
+2
+tan
+sin
+sin
+b
+b
+b
+≈
+=
+∴
+=
+[
+]
+a
+f
+a
+f
+(7.68)
+dmin
+.
+sin
+= 1 22
+2
+l
+b 
+(7.69)
+To further reduce the value of dmin the 
+optical path of the light is increased by 
+immersing the objective of the microscope 
+into a bath containing oil of refractive 
+index n. 
+d
+n
+min
+.
+sin
+= 1 22
+2
+l
+b 
+(7.70)
+Such an objective is called oil immersed 
+objective. The term n sin β is called 
+numerical aperture NA.
+d
+NA
+min
+.
+(
+)
+= 1 22
+2
+l 
+(7.71)
+The resolving power RM of microscope 
+is, 
+R
+d
+NA
+M =
+=
+=
+1
+2
+min
+(
+)
+1 22
+.
+l
+1 22
+.
+l
+nsin
+2
+b
+(7.72)
+XII_Physics_Vol-2_UNIT-7_EM.indd   90
+XII_Physics_Vol-2_UNIT-7_EM.indd   90
+03-03-2022   15:19:29
+03-03-2022   15:19:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 91
+
+PDF_PAGE: 99
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+91
+Solution
+f0
+2
+5
+5 10
+=
+= ×
+−
+cm
+m; fe =
+=
+×
+−
+50
+50 10 2
+cm
+m;
+L =
+=
+×
+−
+30
+30 10 2
+cm
+m; D =
+=
+×
+−
+25
+25 10 2
+cm
+m
+(a) The total magnification m in near point 
+focusing is, m
+m m
+L
+f
+D
+f
+o
+e
+o
+e
+=
+=
+
+
+
+
+
+
++
+
+
+
+
+
+
+1
+ 
+Substituting, 
+m
+m me
+=
+=
+×
+×
+
+
+
+
+
+
++
+×
+×
+
+
+
+
+
+
+−
+−
+−
+−
+
+30 10
+5 10
+1
+25 10
+50 10
+2
+2
+2
+2 
+=
+=
+( )( . )
+6 1 5
+9
+(b)	
+The total magnification m in normal 
+focusing is, m
+m m
+L
+f
+D
+f
+e
+e
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Substituting, 
+m
+m me
+=
+=
+×
+×
+
+
+
+
+
+
+×
+×
+
+
+
+
+
+
+−
+−
+−
+−
+
+30 10
+5 10
+25 10
+50 10
+2
+2
+2
+2
+=
+=
+( )( . )
+6 0 5
+3
+7.6.3  Astronomical  
+telescope
+An astronomical telescope is used to get the 
+magnification of distant astronomical objects 
+like stars, planets, moon etc. The image formed 
+by astronomical telescope will be inverted. It 
+has an objective of long focal length and a much 
+larger aperture than the eyepiece as shown in 
+Figure 7.40. Light from a distant object enters 
+the objective and a real image is formed in the 
+tube at its focal point. The eyepiece magnifies 
+this image producing a final inverted image. 
+fo
+fe
+h
+B'
+A
+E
+β
+O
+Objective
+Eyepiece
+α
+α
+'
+Figure 7.40  Astronomical telescope
+From the Figure 7.39, tan
+,
+b =
+=
+′
+h
+f
+h
+L
+o
+ then 
+′ =
+h
+h
+L
+fo
+
+(7.74)
+m
+L
+f
+o
+o
+=
+
+(7.75)
+Here, the distance L is measured between 
+the focal point of the eyepiece to the focal 
+point of the objective. This is called the 
+tube length of the microscope as fo and fe are 
+comparatively smaller than L.
+If the final image is formed at the near 
+point, the magnification me of the eyepiece 
+is, 
+m
+D
+f
+e
+e
+= +
+1
+
+(7.76)
+The total magnification m for near point 
+focusing is, 
+m
+m m
+L
+f
+D
+f
+o
+e
+o
+e
+=
+=
+
+
+
+
+
++
+
+
+
+
+
+
+1
+
+(7.77)
+If the final image is formed at infinity 
+(normal focusing), the magnification me of 
+the eyepiece is, 
+m
+D
+f
+e
+e
+=
+
+(7.78)
+The total magnification m for normal 
+focusing is, 
+m
+m m
+L
+f
+D
+f
+o
+e
+o
+e
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+(7.79)
+EXAMPLE 7.20
+A microscope has an objective and 
+eyepiece of focal lengths 5 cm and 50 cm 
+respectively with tube length 30 cm. Find 
+the magnification of the microscope 
+in the (a) near point and (b) normal 
+focusing.
+XII_Physics_Vol-2_UNIT-7_EM.indd   91
+XII_Physics_Vol-2_UNIT-7_EM.indd   91
+03-03-2022   15:19:32
+03-03-2022   15:19:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 92
+
+PDF_PAGE: 100
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+92
+(c) Equation for angular magnification, 
+m
+i
+= q
+q0
+Rewriting, q
+q
+i
+m
+=
+×
+0
+Substituting, 
+qi =
+× ′ =
+′ =
+=
+62 5 1
+62 5
+62 5
+60
+1 04
+.
+.
+.
+.
+ = 1°2'30''
+7.6.4  Terrestrial telescope
+A terrestrial telescope is used to see 
+objects at a long distance on the surface of 
+earth. Hence, image should be erect. Hence, 
+it has an additional erecting lens to make the 
+final image erect as shown in Figure 7.41.
+A'
+Eyepiece
+Erecting lens
+Objective
+C'
+B'
+B''
+C''
+A''
+To ∞
+Fo
+Fo
+α
+α
+C
+Figure 7.41  Terrestrial telescope
+7.6.5  Reflecting telescope
+Eyepiece
+Objective mirror (concave)
+Secondary
+mirror
+(convex)
+Figure 7.42  Refecting telescope
+Modern telescopes use concave mirrors 
+instead of lenses for the objectives. It is rather 
+difficult and expensive to make lenses of large 
+size which form images that are free from 
+any optical defect. A telescopes which has a 
+concave mirror objective is called reflecting 
+telescope. It has several advantages. Only 
+7.6.3.1 Magnification in astronomical 
+telescope
+The magnification m is the ratio of 
+the angle β subtended by the image to the 
+angle α subtended by the object with the 
+principal axis. 
+m = b
+a 
+(7.80)
+From the diagram, α
+β
+=
+=
+h
+f
+h
+fe
+0
+and 
+m
+f
+f
+o
+e
+=
+
+(7.81)
+The 
+length 
+of 
+the 
+telescope 
+is 
+approximately, 
+L = fo + fe
+(7.82)
+EXAMPLE 7.21
+A small telescope has an objective lens of 
+focal length 125 cm and an eyepiece of focal 
+length 2 cm. (a) What is the magnification 
+of the telescope? (b) What is the separation 
+between the objective and the eyepiece? 
+(c) What is the angular separation 
+between two stars when viewed through 
+this telescope if they subtend 1 ' for bare 
+eye?
+Solution
+fo = 125 cm; fe = 2 cm; m = ?; L = ?; θi = ?
+(a) Equation for magnification of telescope, 
+m
+f
+f
+o
+e
+=
+Substituting, m =
+=
+125
+2
+62 5.
+(b) Equation for approximate length of 
+telescope, L = fo+ fe
+Substituting, L = 125+2 = 127 cm = 1.27 m
+XII_Physics_Vol-2_UNIT-7_EM.indd   92
+XII_Physics_Vol-2_UNIT-7_EM.indd   92
+03-03-2022   15:19:34
+03-03-2022   15:19:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 93
+
+PDF_PAGE: 101
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+93
+discs provided with three levelling screws. It 
+can be rotated and its position can be read 
+from two verniers V1 and V2 . The prism 
+table can be fixed at any desired height.
+(iii) Telescope
+The telescope is an astronomical type. It 
+consists of an eyepiece provided with cross 
+wires at one end and an objective at its other 
+end. The distance between the objective 
+and the eyepiece can be adjusted so that the 
+telescope forms a clear image at the cross wires. 
+The telescope is attached to a circular 
+scale and both can be rotated together. The 
+telescope and prism table are provided with 
+radial screws for fixing them at a desired 
+position and tangential screws for fine 
+adjustments.
+Preliminary 
+adjustments 
+of 
+the 
+spectrometer
+The following adjustments must be 
+done in a spectrometer before doing the 
+experiment.
+(a)	 Adjustment of the eyepiece: The 
+telescope 
+is 
+turned 
+towards 
+an 
+illuminated surface and the eyepiece is 
+moved to and fro until the cross wires 
+are clearly seen. 
+(b) Adjustment of the telescope: The 
+telescope is adjusted to receive parallel 
+rays by focusing it to a distant object to 
+get a clear image on the cross wire.
+(c) Adjustment of the collimator: The 
+telescope is brought in line with the 
+collimator. The distance between the 
+illuminated slit and the lens of the 
+collimator is adjusted until a clear 
+image of the slit is seen at the cross 
+wire. 
+(d) Levelling of the prism table: The prism 
+table is brought to the horizontal level 
+by adjusting the levelling screws and it 
+is ensured by using sprit level.
+one surface is to be polished and maintained 
+for a mirror where as it to be done for two 
+surfaces for a lens. Support can be given 
+from the entire back of the mirror whereas 
+it is given only at the rim for lens. A mirror 
+weighs much less compared to a lens. But, 
+the one obvious problem with a reflecting 
+telescope is that the objective mirror would 
+focus the light inside the telescope tube. 
+One must have an eye piece inside the tube 
+obstructing some light. This problem could 
+also be overcome by introducing a secondary 
+mirror which would take the light outside the 
+tube for view as shown in the Figure 7.42.
+7.6.6  Spectrometer
+The spectrometer is an optical instrument 
+used to analise the spectra of different sources 
+of light, to measure the wavelength of different 
+colours and to measure the refractive indices of 
+materials of prisms. It is shown in Figure 7.43. 
+It basically consists of three parts namely (i) 
+collimator, (ii) prism table and (iii) telescope. 
+Figure 7.43  Spectrometer
+(i) Collimator
+The collimator is used for producing 
+parallel beam of light. It has a convex lens and 
+a vertical slit of adjustable width which faces 
+the source. The position of slit can be adjusted 
+so that it is kept at the focus of the lens. The 
+collimator is rigidly fixed to the base.
+(ii) Prism table
+The prism table is used for mounting the 
+prism, grating etc. It consists of two circular 
+XII_Physics_Vol-2_UNIT-7_EM.indd   93
+XII_Physics_Vol-2_UNIT-7_EM.indd   93
+03-03-2022   15:19:34
+03-03-2022   15:19:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 94
+
+PDF_PAGE: 102
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+94
+observed through the telescope as shown 
+in Figure 7.45. The prism table alone is 
+now rotated so that the angle of deviation 
+decreases. A stage comes when the image 
+stops and returns on further rotation of 
+the prism table. This is ensured by looking 
+through the telescope simultaneously. 
+The reading in this position gives the 
+minimum deviation position. 
+D
+PRISM BASE
+A
+θ
+Collimator
+PRISM TABLE
+Minimum deviation
+position 
+Direct ray 
+position 
+Figure 7.45  Angle of minimum 
+deviation
+Now, the prism is removed and 
+the telescope is turned to receive the 
+direct ray and the reading is noted. The 
+difference between the two readings 
+gives the angle of minimum deviation 
+D. The refractive index of the material 
+of the prism n is calculated using the 
+using the equation (6.89),
+n
+A
+D
+A
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+sin
+2
+2
+The refractive index of a liquid may 
+be determined in the same way by using a 
+hollow glass prism filled with the liquid. 
+7.6.6.1 Determination of refractive index 
+of material of the prism
+The preliminary adjustments of the 
+spectrometer are done. The refractive 
+index of the prism can be determined by 
+measuring the angle of the prism A and the 
+angle of minimum deviation D.
+(i) Angle of the prism A
+Collimator
+Telescope
+Telescope
+2A
+A
+PRISM TABLE
+A
+B
+C
+T1
+T2
+Figure 7.44  Angle of prism
+The prism is placed on the prism 
+table with its refracting angle A facing 
+the collimator as shown in Figure 7.44. 
+The slit is illuminated by sodium light 
+(monochromotic light). The parallel rays 
+coming from the collimator fall on the two 
+faces AB and AC and get reflected. The 
+telescope is rotated to the position T1 and 
+T2  to capture the reflected rays and the two 
+reading are noted. 
+The difference between these two 
+readings gives the angle rotated by the 
+telescope, which is twice the angle of the 
+prism. Half of this value gives the angle of 
+the prism A.
+(ii) Angle of minimum deviation D
+The prism is placed on the prism table 
+so that the light from the collimator falls on 
+a refracting face and the refracted image is 
+XII_Physics_Vol-2_UNIT-7_EM.indd   94
+XII_Physics_Vol-2_UNIT-7_EM.indd   94
+03-03-2022   15:19:35
+03-03-2022   15:19:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 95
+
+PDF_PAGE: 103
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+95
+1
+1
+1
+f
+v
+u
+=
+−
+When the object is at infinity, u = –∞, 
+and v = 2.5 cm (distance between eye lens 
+and retina), the eye can see the object in 
+relaxed condition with fmax. Substituting 
+these values in the lens equation gives, 
+1
+1
+2 5
+1
+fmax
+.
+=
+−−∞
+cm
+fmax
+.
+= 2 5 cm
+When the object is at near point, u = –25 cm 
+and v = 2.5 cm, the eye can see the object 
+in strained condition with fmin. Substituting 
+these values in the lens equation gives,
+1
+1
+2 5
+1
+25
+fmin
+.
+=
+−−
+cm
+cm
+fmin
+.
+= 2 27 cm
+This implies that by varying the focal 
+length of the eye lens by a small value of 
+fmax – fmin = 0.23 cm, a person can see the 
+objects from infinity to the near point. Now, 
+we can discuss some common defects of 
+vision in the eye.
+7.6.7.1 Nearsightedness (myopia)
+A person suffering from nearsightedness 
+(or) myopia cannot see distant objects clearly. 
+This may be due to the short focal length of 
+the eye lens (or) larger diameter of the eyeball 
+than usual. These people have difficulty in 
+relaxing their eye to the extent of what is 
+needed. Thus, they need correcting lens.
+For them, parallel rays coming from the 
+distant object get focused before reaching 
+the retina as shown in Figure 7.47(a). But, 
+these persons can see objects which are 
+nearer. Let x be the maximum distance up 
+to which a person with nearsightedness 
+7.6.7  The eye
+Eye is a natural optical instrument human 
+beings have. As the eye lens is flexible, its 
+focal length can be changed to some extent. 
+When the eye is fully relaxed, its focal length 
+is maximum and when it is strained its focal 
+length is minimum. The image must be 
+formed on the retina for clear vision. The 
+diameter of eye ball for a normal adult is about 
+2.5 cm. Hence, the distance between eye lens 
+and retina (image distance) is fixed always 
+at 2.5 cm. We can just discuss the optical 
+functioning of eye without giving importance 
+to the refractive indices of the two liquids, 
+aqueous humor and virtuous humor present 
+in the eye. A person with normal vision can 
+see objects kept at infinity in the relaxed 
+condition with a maximum focal length fmax of 
+the eye lens as shown in Figure 7.46(a) and in 
+the strained condition, with a minimum focal 
+length fmin for an object kept at near point D 
+(25 cm) as shown in Figure 7.46(b). 
+(a) Relaxed eye
+from inﬁnity
+fmax
+25 cm
+(b) Strained eye
+fmin
+Figure 7.46  Focusing of normal eye
+Let us find fmax and fmin of human eye 
+from the lens equation (6.63).
+XII_Physics_Vol-2_UNIT-7_EM.indd   95
+XII_Physics_Vol-2_UNIT-7_EM.indd   95
+03-03-2022   15:19:36
+03-03-2022   15:19:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 96
+
+PDF_PAGE: 104
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+96
+of farsightedness arising mainly due to 
+aging is called presbyopia. The aged people 
+cannot strain their eye more to reduce the 
+focal length of the eye lens. 
+The rays coming from the object at near 
+point get focused beyond the retina as shown 
+in Figure 7.48(a). But, these persons can see 
+objects which are at a distance only beyond 
+25 cm from the eye. Let y be the minimum 
+distance from the eye beyond which a person 
+with farsightedness can see as shown in Figure 
+7.48(b). To make this person see on object 
+at 25 cm (near point) a virtual image of the 
+object at 25 cm should be formed at y using a 
+correcting lens as shown in Figure 7.48(c). 
+The focal length of the correcting lens 
+for a hypermetropic eye can be calculated 
+using the lens equation (6.63).
+1
+1
+1
+f
+v
+u
+=
+−
+Here, u = –25 cm, v = –y. Substituting 
+these values in the lens equation gives,
+1
+1
+1
+25
+f
+y
+= −−−
+cm
+Simplifying the above equation for f gives, 
+1
+1
+25
+1
+25
+25
+f
+y
+y
+y
+=
+−
+=
+−
+×
+cm
+cm
+cm
+f
+y
+y
+=
+×
+−
+25
+25
+cm
+cm 
+(7.84)
+The focal length calculated using above 
+formula will be positive as y is always 
+can see as shown in Figure 7.47(b). To 
+overcome this difficulty, the virtual image 
+of the object at infinity should be formed at 
+a distance x from the eye using a correcting 
+lens as shown in Figure 7.47(c). 
+The focal length of the correcting lens 
+for a myopic eye can be calculated using the 
+lens equation (6.63).
+1
+1
+1
+f
+v
+u
+=
+−
+Here, u = –∞, v = –x. Substituting these 
+values in the lens equation gives,
+1
+1
+1
+f
+x
+= −−−∞
+Focal length f of the correcting lens is, 
+f = –x
+(7.83)
+The negative sign in the above result 
+suggests that the correcting lens should 
+be a concave lens. Basically, the concave 
+lens slightly diverges the parallel rays from 
+infinity and makes them fall at the retina. 
+7.6.7.2  Farsightedness (hypermetropia)
+A person suffering from farsightedness 
+(or) hypermetropia (or) hyperopia cannot 
+see closer object clearly. It occurs when the 
+eye lens has long focal length (or) shortening 
+of the eyeball than usual. The closest 
+distance for clear vision for these people is 
+appreciably more than 25 cm. Thus, reading 
+books (or)  viewing smaller things held in 
+the hands is difficult for them. This kind 
+x
+x
+(c)
+(b)
+(a)
+Figure 7.47  Myopic eye and correction
+XII_Physics_Vol-2_UNIT-7_EM.indd   96
+XII_Physics_Vol-2_UNIT-7_EM.indd   96
+03-03-2022   15:19:38
+03-03-2022   15:19:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 97
+
+PDF_PAGE: 105
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+97
+Solution 
+The maximum distance the person could 
+see is, x = 1.8 m. 
+The lens should have a focal length of, 
+f = –x m = –1.8 m.
+It is a concave (or) diverging lens.
+The power of the lens is, 
+P =−
+=−
+1
+1 8
+0 56
+.
+.
+m
+ D.
+EXAMPLE 7.23
+A person has farsightedness with the far 
+distance he could see clearly is 75 cm. 
+Calculate the power of the lens of the 
+spectacles needed to rectify the defect.
+Solution 
+The minimum distance the person could 
+see clearly is, y = 75 cm. 
+The lens should have a focal length of, 
+f
+y
+y
+=
+×
+−
+25
+25
+cm
+cm  
+f =
+×
+−
+=
+75
+25
+75
+25
+37 5
+cm
+cm
+cm
+cm
+cm
+.
+It is a convex (or) converging lens.
+The power of the lens is, 
+P =
+=
+1
+0 375
+2 67
+.
+.
+m
+ D.
+greater than 25 cm. The positive sign of the 
+focal length suggests that the correcting 
+lens should be a convex lens. In principle, 
+the convex lens slightly converges the rays 
+coming from an object beyond y and makes 
+them fall at the retina.
+7.6.6.3 Astigmatism
+Astigmatism is the defect arising due to 
+different curvatures along different planes in 
+the eye lens. Astigmatic person cannot see in 
+all the directions equally well. The defect due 
+to astigmatism is more serious than myopia 
+and hypermetropia. The astigmatism can be 
+corrected using a lens which has  different 
+curvatures in different planes. In general, these 
+specially made glasses with different curvature 
+for different planes are called as cylindrical lenses.
+Due to aging people may develop 
+combination of more than one defect. If it 
+is the combination of nearsightedness and 
+farsightedness then, such persons may need 
+a converging glass for reading purpose and 
+a diverging glass for seeing at a distance. 
+Bifocal lenses and progressive lenses provide 
+solution for these kinds of problems. 
+EXAMPLE 7.22
+Calculate the power of the lens of the 
+spectacles needed to rectify the defect of 
+nearsightedness for a person who could see 
+clearly up to a distance of 1.8 m. 
+y
+y
+(c)
+(b)
+(a)
+25 cm
+25 cm
+Figure 7.48  Hypermetropic eye and correction
+XII_Physics_Vol-2_UNIT-7_EM.indd   97
+XII_Physics_Vol-2_UNIT-7_EM.indd   97
+03-03-2022   15:19:39
+03-03-2022   15:19:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 98
+
+PDF_PAGE: 106
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+98
+	
+
+Light has wave as well as particle nature.
+	
+
+A wavefront is the locus of points which are in the same state or phase of vibration. 
+Huygen’s principle states the method of propagation of wavefront.
+	
+
+Light propagating as a wavefront. Point source produces spherical wavefront and 
+source at infnity produces plane wavefront.
+	
+
+Laws of refection and refraction are proved by Huygens’ principle.
+	
+
+Te phenomenon of addition or superposition of two light waves which produces 
+increase in intensity at some points and decrease in intensity at some other points is 
+called interference of light.
+	
+
+If I1 and I2 are the intensities of interfering light, then 
+	
+I
+I
+I
+I I
+max =
++
++
+1
+2
+1 2
+2
+; I
+I
+I
+I I
+min =
++
+−
+1
+2
+1 2
+2
+	
+
+If interfering lights have equal intensities of I0 with phase diference ϕ, then
+	
+I
+I
+= 4 0
+2
+2
+cos ( / )
+f
+	
+I
+I
+max = 4 0 when, f
+p
+p
+=
+±
+0
+2
+4
+,
+,
+...,
+	
+Imin = 0 when, f
+p
+p
+p
+= ±
+±
+±
+,
+,
+...,
+3
+5
+	
+
+Two light sources are said to be coherent if they produce waves which have same 
+phase or constant phase diference, same frequency or wavelength  monochromatic), 
+same waveform and preferably same amplitude. 
+	
+
+Coherent sources are obtained by wavefront division, intensity division and real and 
+virtual images of light source.
+	
+
+Young’s double slit uses wavefront division to obtain coherent sources.
+	
+
+In Young’s double slit experiment, the position of nth bright fringe is, y
+n D
+d
+n =
+l
+	
+
+In Young’s double slit experiment, the position of nth dark fringe is, y
+n
+D
+d
+n =
+−
+(
+)
+2
+1
+2
+l
+	
+
+In Young’s double slit experiment, the equation for bandwidth is, b
+l
+=
+D
+d
+	
+
+Interference with polychromatic (white) light produces coloured interference fringes.
+	
+
+Tin flms appear coloured due to interference of white light.
+	
+
+In thins flms the equations for constructive and destructive interference for refected 
+rays are, 2
+2
+1 2
+m
+l
+d
+n
+=
+−
+(
+) ; 2µd = nλ respectively.
+	
+
+Transmitted light are, 2µd = nλ; 2
+2
+1 2
+m
+l
+d
+n
+=
+−
+(
+) respectively.
+	
+
+Difraction is bending of waves around sharp edges into the geometrically shadowed 
+region.
+	
+
+A spherical wave front undergoes difraction in Fresnel difraction.
+SUM MA R Y 
+XII_Physics_Vol-2_UNIT-7_EM.indd   98
+XII_Physics_Vol-2_UNIT-7_EM.indd   98
+03-03-2022   15:19:39
+03-03-2022   15:19:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 99
+
+PDF_PAGE: 107
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+99
+	
+
+A plane wavefront undergoes difraction in Fraunhofer difraction.
+	
+
+Te equation for nth minimum in single slit difraction is, a sin θ = nλ   (nth minimum)
+	
+
+Te equation for nth maximum in single slit difraction is, a
+n
+sin
+(
+)
+q
+l
+=
++
+2
+1 2 (nth 
+maximum)
+	
+
+Fresnel’s distance is the distance upto which ray optics is obeyed and beyond which 
+ray optics is not obeyed but, wave optics becomes signifcant. z
+a
+=
+2
+2l
+	
+
+Difraction can also happen in grating which has multiple slits of thickness comparable 
+to wavelength of light used. (a + b) sinθ = m λ; 
+N m
+sinq
+l
+=
+	
+
+Wavelength of monochromatic light and also diferent colours of polychromatic light 
+can be determined. Using difraction grating and spectrometer. 
+	
+
+According to Rayleigh’s criterion, for two point objects to be just resolved, the 
+minimum distance between their difraction images must be in such a way that the 
+central  maximum of one coincides with the frst minimum of the other and vice 
+versa
+	
+
+Angular resolution, q
+l
+= 1 22
+.
+a
+	
+
+Special resolution, r
+f
+a
+0
+1 22
+= .
+l
+	
+
+Resolution is measured by the smallest distance which could be seen clearly without
+	
+
+the blur due to difraction.
+	
+
+Te phenomenon of restricting the vibrations of light (electric or magnetic feld 
+vector) to a particular direction perpendicular to the direction of propagation of 
+wave is called polarization of light.
+	
+
+If the vibrations of a wave are present in only one direction in a plane perpendicular 
+to the direction of propagation of wave is said to be polarised or plane polarised light.
+	
+
+Te plane containing the vibrations of the electric feld vector is known as the plane 
+of vibration.
+	
+
+Te plane perpendicular to the plane of vibration and containing the ray of light is 
+known as the plane of polarisation.
+	
+
+In plane polarised light the intensity varies from maximum to zero for every rotation 
+of 90° of the analyser.
+	
+
+In partially polarised light the intensity varies from maximum to minimum for every 
+rotation of 90° of the analyser.
+	
+
+Te intensity of transmitted light through two cross polaroids is given by Malus’ Law. 
+I = I0 cos2 θ
+	
+
+Nicol prism separates ordinary and extraordinary rays by double refraction.
+	
+
+Light scattered by molecules at perpendicular direction to the incident light is found 
+to be plane polarised.
+XII_Physics_Vol-2_UNIT-7_EM.indd   99
+XII_Physics_Vol-2_UNIT-7_EM.indd   99
+03-03-2022   15:19:39
+03-03-2022   15:19:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 100
+
+PDF_PAGE: 108
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+100
+	
+
+A single convex lens can act as a simple microscope when object is within the focal 
+length.
+	
+
+In near point focusing, the image is formed at D = 25 cm. 
+	
+
+Te magnifcation in near point focusing is, m
+D
+f
+= +
+1
+ 
+	
+
+In normal focusing, the image is formed at infnity,  the magnifcation in normal 
+focusing is, m
+D
+f
+=
+ 
+	
+
+Te resolving power of microscope is,  R
+d
+NA
+M =
+=
+1
+2
+min
+(
+)
+1 22
+.
+l
+	
+
+Te resolving power of telescope is,  R
+r
+a
+f
+T =
+=
+1
+1 22
+0
+.
+l
+	
+
+Magnifcation 
+in 
+near 
+point 
+focusing 
+in 
+compound 
+microscope 
+is, 
+m
+m m
+L
+f
+D
+f
+o
+e
+o
+e
+=
+=
+
+
+
+
+
++
+
+
+
+
+
+
+1
+	
+
+Magnifcation in normal focusing in compound microscope is, m
+m m
+L
+f
+D
+f
+o
+e
+o
+e
+=
+=
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+Magnifcation in astronomical telescope is,  m
+f
+f
+o
+e
+=
+ and the tube length is, L = fo + fe 
+	
+
+Te correction lens for nearsightedness/myopic eye should be a concave lens with 
+focal length,  f = –x. Where x is the maximum distance upto which an object can be 
+seen.
+	
+
+Te correction lens for farsightedness/hypermetropic eye should be a convex lens 
+with focal length,  f
+y
+y
+=
+×
+−
+25
+25
+cm
+cm . Where, the 25 cm is the near distance and y is the 
+minimum distance upto which an object can be seen.
+	
+
+Te farsightedness arising due to aging is called presbyopia.
+	
+
+Astigmatism is the defect arising due to diferent curvatures along diferent planes in 
+the eye lens.
+XII_Physics_Vol-2_UNIT-7_EM.indd   100
+XII_Physics_Vol-2_UNIT-7_EM.indd   100
+08-03-2022   16:29:40
+08-03-2022   16:29:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 101
+
+PDF_PAGE: 109
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+101
+Wave Optics
+Theories on 
+light 
+Huygens’
+Principle
+Concept of 
+wavefront
+Interference  
+Superposition 
+Coherent 
+sources
+Simple 
+microscope
+Compound 
+microscope
+Optical 
+instruments 
+Spectrometer 
+Eye 
+Single slit 
+Diﬀraction 
+Fresnel/ 
+Fraunhofer
+Laws of 
+reflection
+Young’s double 
+slit
+Interference in 
+thin films
+Fresnel 
+distance 
+Grating  
+Reflection/ 
+Brewster’s law 
+Polarisation 
+Selective 
+absorption
+Double 
+refraction
+Scattering   
+Laws of 
+refraction 
+Resolving 
+power
+Astronomical 
+telescope
+Terrestrial 
+telescope
+Myopia, 
+Hypermetropia
+C O N C EP T M AP
+XII_Physics_Vol-2_UNIT-7_EM.indd   101
+XII_Physics_Vol-2_UNIT-7_EM.indd   101
+03-03-2022   15:19:40
+03-03-2022   15:19:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 102
+
+PDF_PAGE: 110
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+102
+(a) 1.22	
+(b) 1.33
+(c) 1.51	
+(d) 1.83.
+6.	 	 First difraction minimum due to a 
+single slit of width 1.0×10–5 cm is at 
+30o. Ten wavelength of light used is,
+(a) 400 Å	
+(b) 500 Å
+(c) 600 Å	
+(d) 700 Å
+7.	 	 A ray of light strikes a glass plate at an 
+angle 60o. If the refected and refracted 
+rays are perpendicular to each other, 
+the refractive index of the glass is, 
+(a) 3	
+(b) 3
+2
+(c) 3
+2 	
+(d) 2
+8.	 	 One of the of Young’s double slits is 
+covered with a glass plate as shown 
+in fgure. Te position of central 
+maximum will, 
+Glass slide
+Screen
+(a) get shifed downwards  
+(b) get shifed upwards
+(c) will remain the same	
+(d) data insufcient to conclude
+9.	 	 Light transmitted by Nicol prism is, 
+(a) partially polarised
+(b) unpolarised
+(c) plane polarised
+(d) elliptically polarised
+Multiple choice questions
+1.	 	 A plane glass is placed over a various 
+coloured letters (violet, green, yellow, 
+red) Te letter which appears to be 
+raised more is, 
+(a) red	
+(b) yellow
+(c) green	
+(d) violet
+2.	 	 Two point white dots are 1 mm apart on 
+a black paper. Tey are viewed by eye 
+of pupil diameter 3 mm approximately. 
+Te maximum distance at which these 
+dots can be resolved by the eye is, [take 
+wavelength of light, λ = 500 nm]
+(a) 1 m	
+(b) 5 m
+(c) 3 m	
+(d) 6m 
+3.	 	 In a Young’s double-slit experiment, the 
+slit separation is doubled. To maintain 
+the same fringe spacing on the screen, 
+the screen-to-slit distance D must be 
+changed to, 
+(a) 2D	
+(b) D
+2
+(c) 2D	
+(d) D
+2
+4.	 	 Two coherent monochromatic light 
+beams of intensities I and 4I are 
+superposed. 
+Te 
+maximum 
+and 
+minimum possible intensities in the 
+resulting beam are [IIT-JEE 1988]
+(a) 5I and I	
+(b) 5I and 3I
+(c) 9I and I	
+(d) 9I and 3I 
+5.	 	 When light is incident on a soap flm of 
+thickness 5×10–5 cm, the wavelength of 
+light refected maximum in the visible 
+region is 5320 Å. Refractive index of 
+the flm will be,
+EVALUATION
+XII_Physics_Vol-2_UNIT-7_EM.indd   102
+XII_Physics_Vol-2_UNIT-7_EM.indd   102
+03-03-2022   15:19:40
+03-03-2022   15:19:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 103
+
+PDF_PAGE: 111
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+103
+15.	 What is bandwidth of interference 
+pattern?
+16.	 What is difraction?
+17.	 Diferentiate between Fresnel and 
+Fraunhofer difraction.
+18.	 Discuss the special cases on frst 
+minimum in Fraunhofer difraction.
+19.	 What is Fresnel’s distance? Obtain the 
+equation for Fresnel’s distance.
+20.	 Mention 
+the 
+diferences 
+between 
+interference and difraction.
+21.	 What is a difraction grating?
+22.	 What is resolution?
+23.	 What is Rayleigh’s criterion?
+24.	 What is the diference between 
+resolution and magnifcation? 
+25.	 What is polarisation?
+26.	 Diferentiate between polarised and 
+unpolarised light
+27.	 Discuss 
+polarisation 
+by 
+selective 
+absorption.
+28.	 What are polariser and analyser?
+29.	 What are plane polarised, unpolarized 
+and partially polarised light?
+30.	 State and obtain Malus’ law.
+31.	 List the uses of polaroids.
+32.	 State Brewster’s law.
+33.	 What is angle of polarisation and obtain 
+the equation for angle of polarisation.
+34.	 Discuss about pile of plates.
+35.	 What is double refraction?
+36.	 Mention the types of optically active 
+crystals with example.
+37.	 Discuss about Nicol prism.
+38.	 How is polarisation of light obtained 
+by scattering of light?
+10.	 Te transverse nature of light is shown 
+in,
+(a) interference
+(b) difraction 
+(c) scattering 
+(d) polarisation
+Answers
+	 1) d	
+2) b	
+3) a	
+4) c	
+5) b
+	 6) b	
+7) a	
+8) b	
+9) c	
+10) d
+Short Answer Questions
+1.	 	 What are the salient features of 
+corpuscular theory of light?
+2.	 	 What are the important points of wave 
+theory of light? 
+3.	 	 What 
+is 
+the 
+signifcance 
+of 
+electromagnetic wave theory of light?
+4.	 	 Write a short note on quantum theory 
+of light.
+5.	 	 Defne wavefront.
+6.	 	 What are the shapes of wavefront for 
+(a) source at infnite, (b) point source 
+and (c) line source?
+7.	 	 State Huygens’ principle.
+8.	 	 What is interference of light?
+9.	 	 What is phase of a wave?
+10.	 Obtain the relation between phase 
+diference and path diference.
+11.	 What are coherent sources?
+12.	 How does wavefront division provide 
+coherent sources?
+13.	 What is intensity (or) amplitude 
+division?
+14.	 How do source and images behave as 
+coherent sources?
+XII_Physics_Vol-2_UNIT-7_EM.indd   103
+XII_Physics_Vol-2_UNIT-7_EM.indd   103
+03-03-2022   15:19:41
+03-03-2022   15:19:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 104
+
+PDF_PAGE: 112
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+104
+8.	 	 Discuss the difraction at a grating 
+and obtain the condition for the mth 
+maximum.
+9.	 	 Discuss the experiment to determine 
+the wavelength of monochromatic 
+light using difraction grating. 
+10.	 Discuss the experiment to determine 
+the wavelength of diferent colours 
+using difraction grating. 
+11.	 Obtain the equation for resolving 
+power of optical instruments. 
+12.	 Discuss about the simple microscope 
+and 
+obtain 
+the 
+equations 
+for 
+magnifcation for near point focusing 
+and normal focusing. 
+13.	 Explain about compound microscope 
+and obtain the equation for the 
+magnifcation. 
+14.	 Obtain the equation for resolving 
+power of microscope. 
+15.	 Discuss about astronomical telescope. 
+16.	 Mention diferent parts of spectrometer 
+and 
+explain 
+the 
+preliminary 
+adjustments. 
+17.	 Explain the experimental determination 
+of refractive index of the material of 
+the prism using spectrometer.
+Exercise problems
+1.	 	 Te ratio of maximum and minimum 
+intensities in an interference pattern is 
+36 : 1. What is the ratio of the amplitudes 
+of the two interfering waves?
+
+[Ans: 7:5]
+2.	 	 In Young’s double slit experiment, 62 
+fringes are seen on a screen for sodium 
+light of wavelength 5893 Å. If violet 
+light of wavelength 4359 Å is used 
+39.	 What are near point and normal 
+focusing?
+40.	 Why 
+is 
+oil 
+immersed 
+objective 
+preferred in a microscope? 
+41.	 What 
+are 
+the 
+advantages 
+and 
+disadvantages of a refecting telescope? 
+42.	 What is the use of an erecting lens in a 
+terrestrial telescope?
+43.	 What is the use of collimator in a 
+spectrmeter?
+44.	 What are the uses of spectrometer?
+45.	 What is myopia? What is its remedy?
+46.	 What is hypermetropia? What is its 
+remedy?
+47.	 What is astigmatism? What is its 
+remedy?
+48.	 What is presbyopia? 
+Long Answer Questions
+1.	 	 Prove law of refection using Huygens’ 
+principle.
+2.	 	 Prove law of refraction using Huygens’ 
+principle.
+3.	 	 Obtain the equation for resultant 
+intensity due to interference of light.
+4.	 	 Explain 
+the 
+Young’s 
+double 
+slit 
+experimental setup and obtain the 
+equation for path diference.
+5.	 	 Obtain the equation for bandwidth in 
+Young’s double slit experiment. 
+6.	 	 Discuss the interference in thin 
+flms 
+and 
+obtain 
+the 
+equations 
+for 
+constructive 
+and 
+destructive 
+interference 
+for 
+transmitted 
+and 
+refected light. 
+7.	 	 Discuss the difraction at single slit and 
+obtain the condition for nth minimum. 
+XII_Physics_Vol-2_UNIT-7_EM.indd   104
+XII_Physics_Vol-2_UNIT-7_EM.indd   104
+03-03-2022   15:19:41
+03-03-2022   15:19:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 105
+
+PDF_PAGE: 113
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+105
+in place of sodium light, how many 
+fringes will be seen?
+
+[Ans: 84]
+3.	 	 Light of wavelength 600 nm that falls 
+on a pair of slits producing interference 
+pattern on a screen in which the bright 
+fringes are separated by 7.2 mm. What 
+must be the wavelength of another 
+light which produces bright fringes 
+separated by 8.1 mm with the same 
+apparatus?
+
+[Ans: 675 nm]
+4.	 	 A beam of light of wavelength 600 
+nm from a distant source falls on a 
+single slit 1 mm wide and the resulting 
+difraction pattern is observed on a 
+screen 2 m away. What is the distance 
+between the frst dark fringes on either 
+side of the central bright fringe?
+
+[Ans: 2.4 mm]
+5.	 	 Light of wavelength of 5000 Å produces 
+difraction pattern of the single slit of 
+width 2.5 μm. What is the maximum 
+order of difraction possible?
+
+[Ans: 5]
+6.	 	 I0 is the intensity of light existing 
+between two cross Polaroids kept 
+with their axes perpendicular to each 
+other. A third polaroid is introduced 
+between them. What must be the 
+angle between the axes of frst and 
+the newly introduced polaroid to get 
+the maximum light from the whole 
+arrangement? 
+
+[Ans: 45°]
+7.	 	 An unpolarised light of intensity 32 
+Wm–2 passes through three Polaroids 
+such that the axes of the frst and the 
+last Polaroids are at 90°. What is the 
+angle between the axes of the frst and 
+middle Polaroids so that the emerging 
+light has an intensity of only 3 Wm–2?
+
+[Ans: 30°]
+8.	 	 Te refected light is found to be plane 
+polarised when an unpolarized light 
+falls on a denser medium at 60° with 
+the normal. Find the angle of refraction 
+and critical angle of incidence for total 
+internal refection in the denser to rarer 
+medium refection.
+
+[Ans: 30°, 35.15°]
+9.	 	 Te near point and the far point 
+for a person are 50 cm and 500 cm, 
+respectively. Calculate the power of the 
+lens the person should wear to read 
+a book held in hand at 25 cm. What 
+maximum distance is clearly visible for 
+the person with this lens on the eye?
+
+[Ans: 2D, 45.45 cm] 
+10.	 A compound microscope has a 
+magnifying power of 100 when 
+the image is formed at infnity. Te 
+objective has a focal length of 0.5 cm 
+and the tube length is 6.5 cm. What is 
+the focal length of the eyepiece.
+
+[Ans: 3.25 cm]
+	 	
+(Note: magnifcation is also called as 
+magnifying power).
+XII_Physics_Vol-2_UNIT-7_EM.indd   105
+XII_Physics_Vol-2_UNIT-7_EM.indd   105
+03-03-2022   15:19:41
+03-03-2022   15:19:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 106
+
+PDF_PAGE: 114
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+106
+BOOKS FOR REFERENCE
+	 1.	 Frances A. Jenkins and Harvey E. White, Fundamentals of Optics, 4th Edition, McGraw 
+Hill Book Company, (2011).
+	 2.	 David Halliday, Robert Resnick and Jearl Walker, Fundamentals of Physics, 6th Edition, 
+John Wiley & Sons Inc., (2004).
+	 3.	 H.C. Verma,Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & 
+Distributers Pvt. Ltd., (2008).
+	 4.	 Roger A. Freedman, Hugh D. Young, Sears and Zemansky’s University Physics, 
+12th Edition, Pearson, (2011).
+XII_Physics_Vol-2_UNIT-7_EM.indd   106
+XII_Physics_Vol-2_UNIT-7_EM.indd   106
+03-03-2022   15:19:41
+03-03-2022   15:19:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 107
+
+PDF_PAGE: 115
+
+------------------------------------------------------------
+
+Unit 7  wave optics
+107
+Wave Optics
+In this activity you will be able to explore 
+the behaviour of a Young’s double slit 
+experiment by adjusting the slit separation, 
+the distance to the screen, and the wave-
+length of the light.
+STEPS:
+• Open the browser and type 
+• ‘tutor-homework.com/Physics_Help/double_slit_experiment.html’ in the address bar.
+• Change the slit separation (distance between two sources) andobservehow the pattern of 
+bright and dark fringes changes. 
+• What happens to the fringe width if distance between the source and screen decreases?
+• Observe how does the fringe width in interference pattern vary with the wavelength of 
+incident light?
+Observe the pattern of bright and dark fringes by clicking the Run button. 
+Note:
+Use flash enabled browser or install flash player in your system. 
+URL:
+http://tutor-homework.com/Physics_Help/double_slit_experiment.html
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: Young’s double slit 
+experiment.
+XII_Physics_Vol-2_UNIT-7_EM.indd   107
+XII_Physics_Vol-2_UNIT-7_EM.indd   107
+03-03-2022   15:19:41
+03-03-2022   15:19:41
+www.freetnbooks.com
+www.FREETNBOOKS.com

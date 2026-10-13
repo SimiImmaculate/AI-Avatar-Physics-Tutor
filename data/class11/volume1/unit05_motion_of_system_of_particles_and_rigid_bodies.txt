@@ -1,0 +1,8005 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit 5 – Motion of System of Particles and Rigid Bodies
+
+TEXTBOOK_PAGE_RANGE:
+208–265
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 208
+
+PDF_PAGE: 216
+
+------------------------------------------------------------
+
+U N I T
+5
+MOTION OF SYSTEM OF 
+PARTICLES AND RIGID BODIES
+LEARNING OBJECTIVES
+5.1
+INTRODUCTION
+Most of the objects that we come across in 
+our day to day life consist of large number of 
+particles. In the previous Units, we studied 
+the motion of bodies without considering 
+their size and shape. So far we have treated 
+even the bulk bodies as only point objects. In 
+this section, we will give importance to the 
+size and shape of the bodies. Th ese bodies 
+are actually made up of a large number of 
+particles. When such a body moves, we 
+consider it as the motion of collection of 
+particles as a whole. We defi ne the concept 
+of center of mass to deal with such a system 
+of particles. 
+Th e forces acting on these bulk bodies 
+are classifi ed into internal and external 
+In this unit, the student is exposed to
+• relevance of the center of mass  in various systems of particles
+• torque and angular momentum in rotational motion
+• types of equilibria with appropriate examples
+• moment of inertia of diff erent rigid bodies
+• dynamics of rotation of rigid bodies
+• distinguishing translational motion from rotational motion
+• rolling motion, slipping and sliding motions.
+forces. Internal forces are the forces acting 
+among the particles within a system that 
+constitute the body. External forces are 
+the forces acting on the particles of a 
+system from outside. In this unit, we deal 
+with such system of particles which make 
+diff erent rigid bodies. A rigid body is the 
+one which maintains its defi nite and fi xed 
+shape even when an external force acts on it. 
+Th is means that, the interatomic distances 
+do not change in a rigid body when an 
+external force is applied. However, in real 
+life situation, we have bodies which are 
+not ideally rigid, because the shape and 
+size of the body change when forces act on 
+them. For the rigid bodies we study here, 
+we assume that such deformations are 
+negligible. Th e deformations produced on 
+non-rigid bodies are studied separately in 
+Unit 7 under elasticity of solids. 
+“In nature, we have to deal not with material points but with material bodies ... – Max Planck
+208
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 209
+
+PDF_PAGE: 217
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+209
+For bodies of regular shape and uniform 
+mass distribution, the center of mass is at the 
+geometric center of the body. As examples, for 
+a circle and sphere, the center of mass is at their 
+centers; for square and rectangle, at the point 
+their diagonals meet; for cube and cuboid, it is 
+at the point where their body diagonals meet. 
+For other bodies, the center of mass has to be 
+determined using some methods. The center 
+of mass could be well within the body and in 
+some cases outside the body as well.
+5.1.3  Center of Mass for 
+Distributed Point 
+Masses
+A point mass is a hypothetical point particle 
+which has nonzero mass and no size or shape. 
+To find the center of mass for a collection of 
+n point masses, say, m1, m2, m3 . . . mn we have 
+to first choose an origin and an appropriate 
+coordinate system as shown in Figure  5.2. 
+Let, x1, x2, x3 . . . xn be the X-coordinates of 
+the positions of these point masses in the X 
+direction from the origin. 
+Figure  5.2 Center of mass for 
+distributed point masses
+5.1.1
+CENTER OF MASS
+When a rigid body moves, all particles  that 
+constitute the body need not take the same 
+path. Depending on the type of motion, 
+different particles of the body may take 
+different paths. For example, when a wheel 
+rolls on a surface, the path of the center point 
+of the wheel and the paths of other points 
+of the wheel are different. In this Unit, we 
+study about the translation, rotation and 
+the combination of these motions of rigid 
+bodies in detail.
+5.1.2  Center of Mass of  
+a Rigid Body
+When a bulk object (say a bat) is thrown at 
+an angle in air as shown in Figure 5.1; do all 
+the points of the body take a parabolic path? 
+Actually, only one point takes the parabolic path 
+and all the other points take different paths.
+Figure  5.1 Center of mass tracing the 
+path of a parabola
+The one point that takes the parabolic 
+path is a very special point called center of 
+mass (CM) of the body. Its motion is like the 
+motion of a single point that is thrown. The 
+center of mass of a body is defined as a point 
+where the entire mass of the body appears to 
+be concentrated. Therefore, this point can 
+represent the entire body. 
+o
+Y
+X
+Z
+(xCM, yCM, zCM)
+m1
+m2
+m3
+m4
+rCM
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 210
+
+PDF_PAGE: 218
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+210
+The equation for the x coordinate of the 
+center of mass is,
+x
+m x
+m
+CM
+i
+i
+i
+= ∑
+∑
+where, 6mi is the total mass M of all the 
+particles, ∑
+=
+(
+)
+m
+M
+i
+. Hence,
+ 
+x
+m x
+M
+CM
+i
+i
+= ∑
+ 
+(5.1)
+Similarly, we can also find y and z 
+coordinates of the center of mass for these 
+distributed point masses as indicated in 
+Figure (5.2).
+ 
+y
+m y
+M
+CM
+i
+i
+= ∑
+ 
+(5.2)
+ 
+z
+m z
+M
+CM
+i
+i
+= ∑
+ 
+(5.3)
+Hence, the position of center of mass of 
+these point masses in a Cartesian coordinate 
+system is (xCM, yCM, zCM). In general, the 
+position of center of mass can be written in 
+a vector form as,
+ 
+
+
+r
+m r
+M
+CM
+i i
+= ∑
+ 
+(5.4)
+where, 
+
+
+
+
+CM
+CM
+CM
+CM
+r
+x
+i
+y
+j
+z
+ˆ
+ˆ
+ˆ
+k 
+is 
+the 
+position vector of the center of mass and
+i
+i
+i
+i
+r
+x i
+y
+ˆk
+ˆ
+ˆj
+z
+
+
+
+
+ is the position vector of 
+the distributed point mass; where, i, j 
+ˆ ˆ and ˆk 
+are the unit vectors along X, Y and Z-axes 
+respectively.
+5.1.4  Center of Mass of Two 
+Point Masses
+With the equations for center of mass, let 
+us find the center of mass of two point 
+masses m1 and m2, which are at positions 
+x1 and x2 respectively on the X-axis. For 
+this case, we can express the position of 
+center of mass in the following three ways 
+based on the choice of the coordinate 
+system.
+(i) When the masses are on positive X-axis:
+The origin is taken arbitrarily so that the 
+masses m1 and m2 are at positions x1 and x2 on 
+the positive X-axis as shown in Figure 5.3(a). 
+The center of mass will also be on the positive 
+X-axis at xCM as given by the equation,
+ 
+x
+m x
+m x
+m
+m
+CM =
++
++
+1
+1
+2
+2
+1
+2
+(ii) When the origin coincides with any one 
+of the masses:
+The calculation could be minimised if the 
+origin of the coordinate system is made to 
+coincide with any one of the masses as shown 
+in Figure 5.3(b). When the origin coincides 
+with the point mass m1, its position x1 is 
+zero, (i.e. x1 = 0). Then,
+ 
+x
+m
+m x
+m
+m
+CM =
+( ) +
++
+1
+2
+2
+1
+2
+0
+The equation further simplifies as,
+ 
+x
+m x
+m
+m
+CM =
++
+2
+2
+1
+2
+(iii) When the origin coincides with the 
+center of mass itself:
+If the origin of the coordinate system is 
+made to coincide with the center of mass, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 211
+
+PDF_PAGE: 219
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+211
+EXAMPLE 5.1
+Two point masses 3 kg and 5 kg are at 
+4 m and 8 m from the origin on X-axis. 
+Locate the position of center of mass of the 
+two point masses (i) from the origin and 
+(ii) from 3 kg mass.
+Solution
+Let us take, m1 = 3 kg and m2= 5 kg
+(i) To find center of mass from the origin:
+The point masses are at positions, x1 = 4 m, 
+x2 = 8 m from the origin along X axis.
+CM
+3 kg
+5 kg
+4 m
+8 m
+xCM
+o
+Y
+X
+The center of mass xCM can be obtained 
+using equation 5.4.
+ 
+x
+m x
+m x
+m
+m
+CM =
++
++
+1
+1
+2
+2
+1
+2
+ 
+xCM =
+×
+(
+) +
+×
+(
+)
++
+3
+4
+5
+8
+3
+5
+ 
+x
+m
+CM =
++
+=
+=
+12
+40
+8
+52
+8
+6 5.
+The center of mass is located 6.5 m from 
+the origin on X-axis.
+(ii) To find the center of mass from 3 kg mass:
+The origin is shifted to 3 kg mass along 
+X-axis. The position of 3 kg point mass is 
+zero (x1 = 0) and the position of 5 kg point 
+mass is 4 m from the shifted origin (x2 = 4 m).
+CM
+3 kg
+5 kg
+4 m
+xCM
+o
+Y
+X
+then, xCM = 0 and the mass m1 is found 
+to be on the negative X-axis as shown in 
+Figure  5.3(c). Hence, its position x1 is 
+negative, (i.e. -x1).
+ 
+ 
+ 
+The equation given above is known as 
+principle of moments. We will learn more 
+about this in Section 5.3.3.
+Figure 5.3. Center of mass of two 
+point masses determined by shifting 
+the origin
+(b) When the origin coincides with any
+one of the masses
+m1
+x2
+xCM
+CM
+o
+Y
+X
+(c) When the origin coincides with the center
+of mass itself
+m1
+m2
+(−x1)
+(+x2)
+CM
+o
+Y
+X
+(a) When the masses are on positive X axis
+m1
+m2
+CM
+x2
+xCM
+o
+Y
+X
+x1
+0
+1
+1
+2
+2
+1
+2
+=
+−
+(
+) +
++
+m
+x
+m x
+m
+m
+0
+1
+1
+2
+2
+=
+−
+(
+) +
+m
+x
+m x
+m x
+m x
+1
+1
+2
+2
+ 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 212
+
+PDF_PAGE: 220
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+212
+R/2
+R
+m
+M-m
+x
+R/2
+Hence, the remaining portion of the 
+disc should have its center of mass to the 
+left of the origin; say, at a distance x. We 
+can write from the principle of moments,
+ 
+M
+m x
+m R
+−
+(
+)
+= ( ) 2
+ 
+x
+m
+M
+m
+R
+=
+−
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟2
+If σ is the surface mass density (i.e. mass 
+per unit surface area), σ = M
+R
+π
+2 ; then, the 
+mass m of small disc is,
+ 
+m
+surface mass density
+surfacearea
+=
+×
+ m
+R
+=
+× ⎛
+⎝⎜
+⎞
+⎠⎟
+σ
+π 2
+2
+  m
+M
+R
+R
+M
+R
+R
+M
+= ⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟=
+=
+π
+π
+π
+π
+2
+2
+2
+2
+2
+4
+4
+substituting m in the expression for x
+  
+x
+M
+M
+M
+R
+M
+M
+R
+x
+R
+=
+−
+⎛
+⎝⎜
+⎞
+⎠⎟
+×
+= ⎛
+⎝⎜
+⎞
+⎠⎟
+×
+=
+4
+4
+2
+4
+3
+4
+2
+6
+ 
+xCM =
+×
+(
+) +
+×
+(
+)
++
+3
+0
+5
+4
+3
+5
+ 
+x
+m
+CM =
++
+=
+=
+0
+20
+8
+20
+8
+2 5.
+The center of mass is located 2.5 m from 
+3 kg point mass, (and 1.5 m from the 
+5 kg point mass) on X-axis. 
+
+
+This result shows that the center of 
+mass is located closer to larger mass. 
+
+
+If the origin is shifted to the center 
+of mass, then the principle of 
+moments holds good. m x
+m x
+1
+1
+2
+2
+ 
+; 
+3 2 5
+5 1 5
+×
+= ×
+.
+. ; 7 5
+7 5
+.
+.
+ 
+When we compare case (i) with case 
+(ii), the x
+m
+CM = 2 5.
+ from 3 kg mass could 
+also be obtained by subtracting 4 m (the 
+position of 3 kg mass) from 6.5 m, where 
+the center of mass was located in case (i)
+EXAMPLE 5.2
+From a uniform disc of radius R, a small 
+disc of radius R
+2 is cut and removed as 
+shown in the diagram. Find the center 
+of mass of the remaining portion of 
+the disc. 
+Solution
+Let us consider the mass of the uncut full 
+disc be M. Its center of mass would be at 
+the geometric center of the disc on which 
+the origin coincides. 
+Let the mass of the small disc cut and 
+removed be m and its center of mass is at 
+a position R
+2 to the right of the origin as 
+shown in the figure. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 213
+
+PDF_PAGE: 221
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+213
+5.1.5  Center of mass for uniform 
+distribution of mass
+If the mass is uniformly distributed in a bulk 
+object, then a small mass (Δm) of the body can 
+be treated as a point mass and the summations 
+can be done to obtain the expressions for the 
+coordinates of center of mass. 
+On the other hand, if the small mass 
+taken is infinitesimally small (dm) then, the 
+summations can be replaced by integrations as 
+given below.
+EXAMPLE 5.4
+Locate the center of mass of a uniform rod 
+of mass M and length A.
+Solution
+Consider a uniform rod of mass M and 
+length A whose one end coincides with the 
+origin as shown in Figure. The rod is kept 
+along the x axis. To find the center of mass 
+The center of mass of the remaining portion 
+is at a distance R
+6 to the left from the center 
+of the disc. 
+
+
+If, the small disc is removed 
+concentrically from the large disc, 
+what will be the position of the 
+center of mass of the remaining 
+portion of disc? 
+EXAMPLE 5.3
+The position vectors of two point masses 
+10 kg and 5 kg are 
+ˆ
+ˆ
+ˆ
+( 3
+2
+4 )
+i
+j
+k
+
+
+
+ m and 
+ˆ
+ˆ
+ˆ
+(3
+6
+5 )
+i
+j
+k
+
+
+ m respectively.  Locate the 
+position of center of mass.
+Solution
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+1
+2
+1 1
+2 2
+1
+2
+10
+5
+ˆ
+ˆ
+ˆ
+( 3
+2
+4 )
+ˆ
+ˆ
+ˆ
+(3
+6
+5 )
+m
+kg
+m
+kg
+r
+i
+j
+k m
+r
+i
+j
+k m
+m r
+m r
+r
+m
+m
+ ∴=
+Gr
+ 
+
+
+
+
+
+
+
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+10( 3
+2
+4 )
+5(3
+6
+5 )
+10
+5
+i
+j
+k
+i
+j
+k
+ 
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+30
+20
+40
+15
+30
+25
+15
+ˆ
+ˆ
+ˆ
+15
+50
+65
+15
+i
+j
+k
+i
+j
+k
+i
+j
+k
+
+
+
+
+
+
+
+
+
+
+
+       Gr = 
+4
+5
+ 
+
+6
+7
+8
+9
+10
+13 ˆ
+ˆ
+ˆ
+3
+3
+i
+j
+k
+m
+The center of mass is located at position Gr.
+y
+m
+y
+m
+CM
+i
+i
+i
+=
+(
+)
+∑
+∑
+Δ
+Δ
+x
+m
+x
+m
+CM
+i
+i
+i
+=
+(
+)
+∑
+∑
+Δ
+Δ
+z
+m z
+m
+CM
+i
+i
+i
+=
+(
+)
+∑
+∑
+Δ
+Δ
+(5.5)
+x
+xdm
+dm
+cm = ∫
+∫
+y
+ydm
+dm
+cm = ∫
+∫
+z
+zdm
+dm
+cm = ∫
+∫
+(5.6)
+∗
+
+Infinitesimal quantity is an extremely small 
+quantity. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 214
+
+PDF_PAGE: 222
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+214
+5.1.6  Motion of Center of 
+Mass 
+When a rigid body moves, its center of 
+mass will also move along with the body. 
+For kinematic quantities like velocity vCM
+(
+) 
+and acceleration aCM
+(
+) of the center of 
+mass, we can differentiate the expression 
+for position of center of mass with respect 
+to time once and twice respectively. 
+For simplicity, let us take the motion 
+along X direction only. 
+In the absence of external force, i.e. 
+G
+Fext 0, 
+the individual rigid bodies of a system 
+can move or shift only due to the internal 
+forces. This will not affect the position of 
+the center of mass. This means that the 
+center of mass will be in a state of rest 
+or uniform motion. Hence, GvCM will be 
+zero when center of mass is at rest and 
+constant when center of mass has uniform 
+motion G
+G
+v
+ or v
+constant
+CM
+CM
+=
+=
+(
+)
+0
+. There 
+will be no acceleration of center of mass, 
+a CM =
+(
+)
+0 .
+of this rod, we choose an infinitesimally 
+small mass dm of elemental length dx at a 
+distance x from the origin. 
+λ is the linear mass density (i.e. mass 
+per unit length) of the rod. λ  M
+A
+The mass of small element (dm) is, 
+dm
+M dx
+ A
+Now, we can write the center of mass 
+equation for this mass distribution as, 
+ 
+x
+xdm
+dm
+CM = ∫
+∫
+ 
+x
+x M dx
+M
+xdx
+CM
+o
+o
+=
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+∫
+∫
+ℓ
+ℓ
+ℓ
+ℓ
+1
+ 
+=
+⎡
+⎣⎢
+⎤
+⎦⎥=
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+0
+2
+A
+A
+A
+x
+l
+ 
+xCM = ℓ
+2
+As the position A
+2 is the geometric center 
+of the rod, it is concluded that the center 
+of mass of the uniform rod is located at its 
+geometric center itself.
+x
+dx
+o
+G
+G
+G
+v
+dx
+dt
+m
+dx
+dt
+m
+CM
+CM
+i
+i
+i
+=
+=
+⎛
+⎝⎜
+⎞
+⎠⎟
+∑
+∑
+G
+G
+G
+G
+a
+d
+dt
+dx
+dt
+dv
+dt
+m
+dv
+dt
+m
+CM
+CM
+CM
+i
+i
+i
+=
+⎛
+⎝⎜
+⎞
+⎠⎟= ⎛
+⎝⎜
+⎞
+⎠⎟=
+⎛
+⎝⎜
+⎞
+⎠⎟
+∑
+∑
+G
+G
+a
+m a
+m
+CM
+i
+i
+i
+= ∑
+∑
+(5.8)
+G
+G
+v
+m v
+m
+CM
+i
+i
+i
+= ∑
+∑
+(5.7)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 215
+
+PDF_PAGE: 223
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+215
+[Given: There is friction between the man 
+and the boat and no friction between the 
+boat and water.]
+Solution
+ 
+Mass of the man (m1) is, m1= 50 kg 
+ 
+Mass of the boat (m2) is, m2 = 300 kg
+With respect to a stationary observer:
+The man moves with a velocity, v1 = 
+2 m s-1 and the boat moves with a velocity 
+v2 (which is to be found)
+(i) To determine the velocity of the boat with 
+respect to a stationary observer on land:
+As there is no external force acting on the 
+system, the man and boat move due to the 
+friction, which is an internal force in the 
+boat-man system. Hence, the velocity of 
+the center of mass is zero (vCM = 0).
+Using equation 5.7,
+ 
+0
+1
+1
+2
+2
+1
+2
+=
+=
++
++
+∑
+∑
+m v
+m
+m v
+m v
+m
+m
+i
+i
+i
+ 
+0
+1
+1
+2
+2
+=
++
+m v
+m v
+ 
+−
+=
+m v
+m v
+2
+2
+1
+1
+ 
+v
+m
+m v
+2
+1
+2
+1
+= −
+ 
+v2
+50
+300
+2
+100
+300
+= −
+×
+= −
+ 
+The negative sign in the answer implies 
+that the boat moves in a direction opposite 
+to that of the walking man on the boat to a 
+stationary observer on land.
+(ii) To determine the velocity of the  
+boat with respect to the walking man:
+We can find the relative velocity as,
+ 
+v
+v
+v
+21
+2
+1
+=
+−
+From equation 5.7 and 5.8,
+ 
+0
+0
+
+
+
+Y
+Y
+Y
+Y
+m v
+m
+constant 
+v
+m v
+m
+a
+i
+i
+i
+CM
+i
+i
+i
+CM
+
+
+
+
+(or)
+,
+;
+Here, the individual particles may still 
+move with their respective velocities and 
+accelerations due to internal forces. 
+In the presence of external force, (i.e. 
+G
+Fext ≠0), the center of mass of the system 
+will accelerate as given by the following 
+equation.
+ 
+
+
+
+
+
+
+F
+m a
+F
+Ma
+a
+F
+M
+;
+ext
+i
+CM
+ext
+CM
+CM
+ext
+=(
+)
+=
+=
+∑
+;
+EXAMPLE 5.5
+A man of mass 50 kg is standing at one end of 
+a boat of mass 300 kg floating on still water. 
+He walks towards the other end of the boat 
+with a constant velocity of 2 m s-1 with respect 
+to a stationary observer on land. What will be 
+the velocity of the boat, (a) with respect to the 
+stationary observer on land? (b) with respect 
+to the man walking in the boat?
+m
+m
+CM
+m
+m
+CM
+v
+ms
+2
+1
+0 33
+= −
+−
+.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 216
+
+PDF_PAGE: 224
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+216
+Solution
+It is an explosion of its own without any 
+external influence. After the explosion, the 
+center of mass of the projectile will continue 
+to complete the parabolic path even though 
+the fragments are not following the same 
+parabolic path. After the fragments have 
+fallen on the ground, the center of mass 
+rests at a distance R (the range) from the 
+point of projection as shown in the diagram.
+2 kg
+3 kg
+CM
+R
+d
+3
+4R
+1
+4R
+R+d
+If the origin is fixed to the final position 
+of the center of mass, the principle of 
+moments holds good.
+ 
+m x
+m x
+1
+1
+2
+2
+ 
+where, m1 = 3 kg, m2 = 2 kg, x1 = 1
+4 R. The 
+value of x2 = d
+ 
+3
+1
+4
+2
+×
+= ×
+R
+d;
+ 
+d
+R
+ 3
+8
+The distance between the point of launching 
+and the position of 2 kg mass is R+d.
+ 
+R
+d
+R
+R
+R
+R
++
+=
++
+=
+=
+3
+8
+11
+8
+1 375
+.
+The other fragment falls at a distance of 
+1.375R from the point of launching. (Here 
+R is the range of the projectile.)
+where, v21 is the relative velocity of the boat 
+with respect to the walking man.
+ 
+v21
+0 33
+2
+= −
+(
+) −( )
+.
+ 
+v
+ms
+21
+1
+2 33
+= −
+−
+.
+The negative sign in the answer implies that 
+the boat appears to move in the opposite 
+direction to the man walking in the 
+boat.
+
+
+The magnitude of the relative 
+velocity of the boat with respect to 
+the walking man is greater than the 
+magnitude of the relative velocity of 
+the boat with respect to the stationary 
+observer. 
+
+
+The negative signs in the two 
+answers 
+indicate 
+the 
+opposite 
+direction of the boat with respect 
+to the stationary observer and the 
+walking man on the boat.
+Center of mass in explosions:
+Many a times rigid bodies are broken in to 
+fragments. If an explosion is caused by the 
+internal forces in a body which is at rest or 
+in motion, the state of the center of mass is 
+not affected. It continues to be in the same 
+state of rest or motion. But, the kinematic 
+quantities of the fragments get affected. If the 
+explosion is caused by an external agency, 
+then the kinematic quantities of the center 
+of mass as well as the fragments get affected.
+EXAMPLE 5.6
+A projectile of mass 5 kg, in its course 
+of motion explodes on its own into two 
+fragments. One fragment of mass 3 kg falls at 
+three fourth of the range R of the projectile. 
+Where will the other fragment fall?
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 217
+
+PDF_PAGE: 225
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+217
+where, Gr is the position vector of the point 
+where the force 
+G
+F is acting on the body as 
+shown in Figure 5.4. 
+Figure 5.4. Torque on a 
+rigid body
+F
+θ
+O
+r
+Here, the product of Gr and 
+G
+F is called the 
+vector product or cross product. Th e vector 
+product of two vectors results in another 
+vector that is perpendicular to both the 
+vectors (refer Section 2.5.2). Hence, torque 
+Gτ( ) is a vector quantity.  
+Tor que has a magnitude rFsinθ
+(
+) and 
+direction perpendicular to Gr and 
+G
+F . Its unit 
+is N m.
+ 
+
+ 
+rFs
+ˆ
+in
+n
+& 
+3
+
+ 
+(5.10)
+Here, θ is the angle between Gr and 
+G
+F, and 
+ˆn is the unit vector in the direction of GW. 
+Torque Gτ( ) is sometimes called as a pseudo 
+vector as it needs the other two vectors Gr and 
+G
+F for its existence.
+Th e direction of torque is found using 
+right hand rule. Th is rule says that if fi ngers 
+of right hand are kept along the position 
+vector with palm facing the direction of the 
+force and when the fi ngers are curled the 
+thumb points to the direction of the torque. 
+Th is is shown in Figure 5.5.
+Th e direction of torque helps us to fi nd 
+the type of rotation caused by the torque. 
+For example, if the direction of torque is out 
+5.2
+TORQUE AND ANGULAR 
+MOMENTUM
+When a net force acts on a body, it produces 
+linear motion in the direction of the applied 
+force. If the body is fi xed to a point or an 
+axis, such a force rotates the body depending 
+on the point of application of the force on 
+the body. Th is ability of the force to produce 
+rotational motion in a body is called torque 
+or moment of force. Examples for such 
+motion are plenty in day to day life. To 
+mention a few; the opening and closing of a 
+door about the hinges and turning of a nut 
+using a wrench.
+Th e extent of the rotation depends on 
+the magnitude of the force, its direction 
+and the distance between the fi xed point 
+and the point of application. When torque 
+produces rotational motion in a body, its 
+angular momentum changes with respect 
+to time. In this Section we will learn 
+about the torque and its eff ect on rigid 
+bodies. 
+5.2.1 'H¿QLWLRQRI7RUTXH
+Torque is defi ned as the moment of the 
+external applied force about a point or axis 
+of rotation. Th e expression for torque is,
+ 
+G
+G
+G
+τ = ×
+r
+F 
+(5.9)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 218
+
+PDF_PAGE: 226
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+218
+separately. For direction, we use the vector 
+rule or right hand rule. For magnitude, we 
+use scalar form as, 
+ 
+τ
+θ
+= r F  sin 
+(5.11)
+The expression for the magnitude of 
+torque can be written in two different ways 
+by associating sin θ either with r or F in the 
+following manner.
+ 
+τ
+θ
+= (
+) = ×
+⊥
+(
+)
+r F
+r
+F
+ sin
+  (5.12)
+ 
+τ
+θ
+= (
+)
+=
+⊥
+(
+)×
+r
+F
+r
+F
+ sin
+ (5.13)
+Here, 
+F sinθ
+(
+) is the component of 
+G
+F 
+perpendicular to Gr. Similarly, r sinθ
+(
+) is the 
+component of Gr perpendicular to 
+G
+F. The 
+two cases are shown in Figure 5.7.
+of the paper, then the rotation produced by 
+the torque is anticlockwise. On the other 
+hand, if the direction of the torque is into 
+the paper, then the rotation is clockwise as 
+shown in Figure 5.6. 
+In many cases, the direction and 
+magnitude of the torque are found 
+Figure 5.6. Direction of torque and the 
+type of rotation
+(a) anticlockwise rotation
+(b) clockwise rotation
+τ
+r
+Page 
+Page 
+θ
+θ
+τ
+r
+F
+F
+Figure 5.5. Direction of torque using 
+right hand rule
+F
+&
+r
+Figure 5.7. Two ways of calculating the 
+torque.
+F
+O
+O
+r
+F cos θ
+θ
+θ
+θ
+F sin θ
+(a) τ = r (F sin θ) = r(F⊥)
+(b) τ =(r sin θ) F = (r⊥)F
+F
+r
+r cos θ
+r sin θ
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 219
+
+PDF_PAGE: 227
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+219
+Solution
+Arm length of the spanner, r = 15 cm 
+= 15×10−2m
+Force, F = 2.5 N
+Angle between r and F, θ = 90o
+  (i) Torque, τ
+θ
+= rF sin
+ 
+τ =
+×
+×
+×
+°
+(
+)
+−
+15
+10
+2 5
+90
+2
+.
+sin
+ 
+ 
+        [here, sin 90° = 1]
+ 
+ (ii)  As per the right hand rule, the 
+direction of torque is out of the page.
+(iii)  The type of rotation caused by the 
+torque is anticlockwise.
+EXAMPLE 5.8
+A force of 
+ 
+ˆ
+ˆ
+ˆ
+4i
+3j
+5k
+
+
+ N is applied at a point 
+whose position vector is 
+ 
+ˆ
+ˆ
+ˆ
+7i
+4j
+2k
+
+
+ m. 
+Find the torque of  force about the origin.
+Solution
+ 
+r
+7i
+4j
+ˆ
+ˆ
+k
+ˆ
+2
+
+
+
+
+ 
+F
+4i
+3j
+ˆ
+ˆ
+k
+ˆ
+5
+
+
+
+
+Torque, G
+G
+G
+τ = ×
+r
+F
+ 
+i
+j
+k
+7
+4
+2
+4
+ˆ
+3
+5
+ˆ
+ˆ
+& 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+i 20
+6
+j 35
+8
+k
+21
+ˆ
+ˆ
+1
+ˆ
+6
+& 
+
+
+
+
+
+
+
+ 
+
+ 
+14i
+4
+ˆ
+ˆ
+ˆ
+3j
+37k
+& 
+
+
+
+ N m
+τ =
+×
+−
+37 5 10 2
+.
+N m
+Based on the angle θ between Gr and 
+G
+F, 
+the torque takes different values.
+The torque is maximum when, Gr and 
+G
+F 
+are perpendicular to each other. That is when 
+θ = 90o and sin 90o = 1, Hence, τmax = rF.
+The torque is zero when Gr and 
+G
+F are 
+parallel or antiparallel. If parallel, then θ = 
+0o and sin 0o = 0. If antiparallel, then θ = 180o 
+and sin 180o = 0. Hence, τ = 0. 
+The torque is zero if the force acts at the 
+reference point. i.e. as Gr 0, τ = 0. The different 
+cases discussed are shown in Table 5.1.
+Table 5.1  The Value of τ for 
+different cases.
+F
+O
+r
+F
+r
+O
+θ = 90ο; τmax = rF
+θ = 0ο; τ = 0
+F
+r
+O
+F
+O
+θ = 180ο; τ = 0
+r = 0; τ = 0
+EXAMPLE 5.7
+If the force applied is perpendicular to 
+the handle of the spanner as shown in the 
+diagram, find the (i) torque exerted by the 
+force about the center of the nut, (ii) direction 
+of torque and (iii) type of rotation caused by 
+the torque about the nut.
+15 cm
+2.5 N
+15 cm
+2.5 N 
+90°
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 220
+
+PDF_PAGE: 228
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+220
+ 
+τ
+θ
+= rF sin
+ 
+τ =
+×
+×
+(
+)
+20 20000
+150
+sin
+D
+ 
+=
+×
++
+(
+)
+400000
+90
+60
+sin
+D
+D
+      [here, sin
+cos
+90o +
+(
+) =
+θ
+θ]
+ 
+=
+×
+(
+)
+400000
+60
+cos
+D
+ 
+=
+×
+400000
+1
+2 
+cos 60
+1
+2
+D =
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 200000Nm
+ 
+τ = ×
+2 105 Nm
+Method – II
+Let us take the force and perpendicular 
+distance from the point where the arm is 
+fi xed to the crane.
+ 
+τ =
+⊥
+(
+)
+r
+F
+ 
+τ
+φ
+= r
+mg
+cos 
+ 
+τ =
+×
+×
+20
+60
+20000
+cos
+D
+ 
+=
+×
+×
+20
+1
+2
+20000
+ 
+ 200000Nm
+ 
+τ = ×
+2 105Nm
+Method – III
+Let us take the distance from the fi xed 
+point and perpendicular force.
+EXAMPLE 5.9
+A crane has an arm length of 20 m inclined 
+at 30o with the vertical. It carries a container 
+of mass of 2 ton suspended from the top end 
+of the arm. Find the torque produced by the 
+gravitational force on the container about 
+the point where the arm is fi xed to the crane. 
+[Given: 1 ton = 1000 kg; neglect the weight of 
+the arm. g = 10 m s-2]
+Solution
+In many problems, the angle 
+θ between Gr and 
+G
+F will not 
+be 
+directly 
+given. 
+Th us, 
+the students must get accustomed to 
+identify and denote always the angle 
+between the Gr and 
+G
+F as θ. Th e other 
+angles in the arrangement may be 
+denoted as α, β, ϕ etc.
+Note
+Th e force F at the point of suspension is 
+due to the weight of the hanging mass. 
+ 
+F = mg = 2 × 1000 × 10 = 20000 N; 
+ 
+Th e arm length, r = 20 m
+We can solve this problem by three diff erent 
+methods.
+Method – I
+Th e angle (θ) between the arm length (r) 
+and the force (F) is, θ = 150o
+Th e torque (τ) about the fi xed point of 
+the arm is, 
+30
+r
+3150
+\60
+mg 
+r
+r
+\60
+mg 
+r sin 60
+r cos 60
+r
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 221
+
+PDF_PAGE: 229
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+221
+5.2.2 7RUTXHDERXWDQ$[LV
+In the earlier sections, we have dealt with 
+the torque about a point. In this section we 
+will deal with the torque about an axis. Let 
+us consider a rigid body capable of rotating 
+about an axis AB as shown in Figure 5.8. Let 
+the force F act at a point P on the rigid body. 
+The force F may not be on the plane ABP. We 
+can take the origin O at any random point 
+on the axis AB. 
+Figure 5.8. Torque about  
+an axis
+F
+r
+O
+P
+A
+B
+ 
+τ =
+⊥
+(
+)
+r F
+ 
+τ
+φ
+= rmg cos
+ 
+τ =
+×
+×
+20 20000
+60
+cos
+D
+ 
+=
+×
+×
+20 20000
+1
+2
+ 
+ 200000 Nm
+ 
+τ = ×
+2 105Nm
+All the three methods, give the same 
+answer. 
+Tamil Nadu is known for creative and innovative 
+tradi tional games played by children. One such 
+very popular game is “silli” (zà) or “sillukodu” 
+(zà³ÔZ>T©). There is a rectangular area which 
+is further partitioned as seen in the Figure. One 
+has to hop through the rectangles. While doing so, 
+children lean on one side. 
+What is the reason?
+Naturally the body takes this position to balance 
+the gravitational force (mg) and Normal force 
+(N) acting on the body and to nullify the torque. 
+Failing which, both these forces act along 
+different lines leading to a net torque which 
+makes one to fall.
+r
+φ=60°
+T=mg 
+mg cos 60
+mg sin 60
+60°
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 222
+
+PDF_PAGE: 230
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+222
+Hereaft er, for the calculation of torques on 
+rigid bodies we will:
+1. Consider only those forces that lie on 
+planes perpendicular to the axis (and do 
+not intersect the axis).
+2. Consider position vectors which are 
+perpendicular to the axis. 
+EXAMPLE 5.10
+Th ree mutually perpendicular beams AB, 
+OC, GH are fi xed to form a structure which 
+is fi xed to the ground fi rmly as shown in 
+the Figure. One string is tied to the point 
+C and its free end D is pulled with a force 
+F. Find the magnitude and direction of the 
+torque produced by the force,
+ (i)  about the 
+points D, C, O 
+and B 
+(ii)  about the axes 
+CD, OC, AB 
+and GH.
+Th e torque of the force 
+G
+F about O is, 
+G
+G
+G
+τ = ×
+r
+F. Th e component of the torque along 
+the axis is the torque of 
+G
+F about 
+the axis. To fi nd it, we should fi rst fi nd the 
+vector G
+G
+G
+τ = ×
+r
+F and then fi nd the angle φ 
+between τ and AB. (Remember here, 
+G
+F is not 
+on the plane ABP). Th e torque about AB is 
+the parallel component of the torque along 
+AB, which is G
+G
+r
+F
+u
+ cos φ. And the torque 
+perpendicular to the axis AB is G
+G
+r
+F
+u
+ sin φ.
+Th e torque about the axis will rotate the 
+object about it and the torque perpendicular 
+to the axis will turn the axis of rotation. 
+When both exist simultaneously on a rigid 
+body, the body will have a precession. One 
+can witness the precessional motion in a 
+spinning top when it is about to come to rest 
+as shown in Figure 5.9.
+Figure 5.9. Precession of a spinning top
+Rotation
+mg
+Pr
+ec
+es
+si
+o
+n
+Study of precession is beyond the scope of 
+the higher secondary physics course. Hence, 
+it is assumed that there are constraints 
+to cancel the eff ect of the perpendicular 
+components of the torques, so that the 
+fi xed position of the axis is maintained. 
+Th erefore, perpendicular components of 
+the torque need not be taken into account. 
+•  Forces parallel to the 
+axis will give torques 
+perpendicular to the axis 
+of rotation and need not 
+be taken into account.
+
+
+•  Forces 
+that 
+intersect 
+(pass 
+through) 
+the 
+axis 
+cannot 
+produce torque as r = 0. 
+
+
+•  Position 
+vectors 
+along 
+the 
+axis will result in torques 
+perpendicular to the axis and 
+need not be taken into account.
+Note
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 223
+
+PDF_PAGE: 231
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+223
+Th e torque of a force about an axis is 
+independent of the choice of the origin as 
+long as it is chosen on that axis itself. Th is 
+can be shown as below. 
+Let O be the origin on the axis AB, which 
+is the rotational axis of a rigid body. F is the 
+force acting at the point P. Now, choose 
+another point O’ anywhere on the axis as 
+shown in Figure 5.10. 
+Figure 5.10. Torque about 
+an axis is independent of origin
+F
+r
+O
+P
+A
+B
+O′
+Solution
+ (i)  Torque about point D is zero. (as F 
+passes through D).
+  Torque about point C is zero. (as F 
+passes through C).
+  Torque about point O is OC
+F
+(
+)×
+
+
+ and 
+direction is along GH.
+  Torque about point B is BD
+F
+
+ 
+
+ and 
+direction is along GH
+  (Th e ⊥ of BD with respect to F
+ is OC
+).
+(ii)  Torque about axis CD is zero (as F  is 
+parallel to CD).
+  Torque about axis OC is zero (as F 
+intersects OC).
+  Torque about axis AB is zero (as F is 
+parallel to AB).
+  Torque about axis GH is OC
+F
+(
+)×
+
+
+ and 
+direction is along GH.
+Identify the direction of torque in country press shown in picture
+(in Tamil, ‘Marasekku’ IKÖY@Ô¤)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 224
+
+PDF_PAGE: 232
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+224
+ 
+τ
+α
+=(
+)
+mr2
+  
+(5.14)
+Hence, the torque of the force acting 
+on the point mass produces an angular 
+acceleration α
+( ) in the point mass about the 
+axis of rotation. 
+In vector notation,
+ 
+G
+G
+τ
+α
+=(
+)
+mr2
+  
+(5.15)
+The directions of τ and α are along 
+the axis of rotation. If the direction of τ is 
+in the direction of α, it produces angular 
+acceleration. On the other hand if, τ is 
+opposite to α, angular deceleration or 
+retardation is produced on the point mass.
+The term mr2 in equations 5.14 and 5.15 
+is called moment of inertia (I) of the point 
+mass. A rigid body is made up of many such 
+point masses. Hence, the moment of inertia 
+of a rigid body is the sum of moments of 
+inertia of all such individual point masses 
+that constitute the body 
+I
+m r
+i i
+=
+(
+)
+∑
+2 .  
+Hence, torque for the rigid body can be 
+written as,
+ 
+G
+G
+τ
+α
+=(
+)
+∑m r
+i i
+2
+  
+(5.16)
+ 
+G
+G
+τ
+α
+= I  
+(5.17)
+We will learn more about the moment of 
+inertia and its significance for bodies with 
+different shapes in section 5.4.
+5.2.4 Angular Momentum
+The angular momentum in rotational 
+motion is equivalent to linear momentum 
+in translational motion. The angular 
+The torque of F about O’ is,  
+′
+′
+′
+×
+=
++
+(
+)×
+=
+×
+(
+) +
+×
+(
+)
+O P
+F
+O O
+OP
+F
+O O F
+OP
+F
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+As ′
+×
+O O F
+
+
+
+
+ is perpendicular to c
+O O
+
+
+
+, this 
+term will not have a component along AB. 
+Thus, the component of  ′ ×
+O P
+F
+ 
+
+
+ is equal to 
+that of OP
+F
+ 
+
+
+u .
+5.2.3 7RUTXHDQG$QJXODU
+Acceleration
+Let us consider a rigid body rotating about 
+a fixed axis. A point mass m in the body will 
+execute a circular motion about a fixed axis 
+as shown in Figure 5.11. A tangential force 
+G
+F acting on the point mass produces the 
+necessary torque for this rotation. This force 
+G
+F is perpendicular to the position vector Gr 
+of the point mass. 
+Figure 5.11. Torque and Angular 
+acceleration
+α
+τ
+F
+r
+m
+The torque produced by the force on 
+the point mass m about the axis can be 
+written as,
+ 
+τ =
+=
+rF
+rF
+sin90
+ 
+' sin90
+1
+=
+[
+]
+ 
+τ = rma 
+' F
+ma
+=
+(
+)
+⎡⎣
+⎤⎦
+ 
+τ
+α
+α
+=
+=
+rmr
+mr2 
+' a
+r
+=
+(
+)
+⎡⎣
+⎤⎦
+α
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 225
+
+PDF_PAGE: 233
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+225
+EXAMPLE 5.11
+A particle of mass (m) is moving with 
+constant velocity (v). Show that its angular 
+momentum about any point remains 
+constant throughout the motion. 
+Solution
+θ
+θ
+d
+O
+p
+r
+Q
+Let the particle of mass m move with 
+constant velocity Gv. As it is moving with 
+constant velocity, its path is a straight line. 
+Its momentum G
+G
+p
+mv
+=
+(
+) is also directed 
+along the same path. Let us fix an origin 
+(O) at a perpendicular distance (d) from 
+the path. At a particular instant, we can 
+connect the particle which is at positon Q 
+with a position vector 
+ 
+
+r
+OQ
+=
+(
+). 
+Take, the angle between the Gr and Gp as θ. 
+The magnitude of angular momentum of 
+that particle at that instant is, 
+L
+OQp
+OQmv
+mv OQ
+=
+=
+=
+(
+)
+sin
+sin
+sin
+θ
+θ
+θ
+The term OQsinθ
+(
+) is the perpendicular 
+distance (d) between the origin and line 
+along which the mass is moving. Hence, 
+the angular momentum of the particle 
+about the origin is, 
+ 
+L
+mvd
+ 
+The 
+above 
+expression 
+for 
+angular 
+momentum L, does not have the angle θ. 
+As the momentum (p = mv) and the 
+momentum of a point mass is defined as 
+the moment of its linear momentum. In 
+other words, the angular momentum L of a 
+point mass having a linear momentum p at 
+a position r with respect to a point or axis is 
+mathematically written as, 
+ 
+G
+G
+G
+L
+r
+p
+= × 
+(5.18)
+The magnitude of angular momentum could 
+be written as, 
+ 
+L
+r p
+=
+sinθ 
+(5.19)
+where, θ is the angle between Gr and Gp. 
+G
+L is 
+perpendicular to the plane containing Gr and 
+Gp. As we have written in the case of torque, 
+here also we can associate sin θ with either 
+Gr or Gp.
+ 
+L
+r p
+r p
+= (
+) =
+⊥
+(
+)
+sinθ
+  (5.20)
+ 
+L
+r
+p
+r
+p
+=(
+)
+=
+⊥
+(
+)
+sinθ
+  (5.21)
+where, pA is the component of linear 
+momentum p perpendicular to r, and rA is the 
+component of position r perpendicular to p. 
+The angular momentum is zero L =
+(
+)
+0 , 
+if the linear momentum is zero (p = 0) or if 
+the particle is at the origin Gr =
+(
+)
+0 or if Gr and 
+Gp are parallel or antiparallel to each other (θ 
+= 00 or 1800).
+There is a misconception that the angular 
+momentum is a quantity that is associated 
+only with rotational motion. It is not true. 
+The angular momentum is also associated 
+with bodies in the linear motion. Let us 
+understand the same with the following 
+example.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 226
+
+PDF_PAGE: 234
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+226
+ 
+L
+rmr
+=
+ω
+ 
+L
+mr
+=(
+)
+2 ω 
+(5.22)
+The directions of L and ω are along the 
+axis of rotation. The above expression can be 
+written in the vector notation as,
+ 
+G
+G
+L
+mr
+=(
+)
+2 ω  
+(5.23)
+As discussed earlier, the term mr2 in 
+equations 5.22 and 5.23 is called moment of 
+inertia (I) of the point mass. A rigid body 
+is made up of many such point masses. 
+Hence, the moment of inertia of a rigid 
+body is the sum of moments of inertia of all 
+such individual point masses that constitute 
+the body I
+m r
+i i
+=
+(
+)
+∑
+2 . Hence, the angular 
+momentum of the rigid body can be 
+written as,
+ 
+G
+G
+L
+m r
+i i
+=(
+)
+∑
+2 ω  
+(5.24)
+ 
+G
+G
+L
+I
+= ω 
+(5.25) 
+The study about moment of inertia (I) is 
+reserved for Section 5.4. 
+5.2.6 7RUTXHDQG$QJXODU
+Momentum
+We have the expression for magnitude of 
+angular momentum of a rigid body as, 
+L
+I
+= ω. The expression for magnitude of 
+torque on a rigid body is, τ
+α
+= I
+We can further write the expression for 
+torque as, 
+  
+τ
+ω
+= I d
+dt ' α
+ω
+=
+⎛
+⎝⎜
+⎞
+⎠⎟
+d
+dt
+ 
+(5.26)
+perpendicular distance (d) are constants, 
+the angular momentum of the particle is also 
+constant. Hence, the angular momentum 
+is associated with bodies with linear motion 
+also. If the straight path of the particle 
+passes through the origin, then the angular 
+momentum is zero, which is also a constant.
+5.2.5  Angular Momentum 
+and Angular Velocity
+Let us consider a rigid body rotating about 
+a fixed axis. A point mass m in the body will 
+execute a circular motion about the fixed 
+axis as shown in Figure 5.12. 
+Figure 5.12. Angular momentum 
+and angular velocity 
+ω
+P
+L
+r
+m
+The point mass m is at a distance r from 
+the axis of rotation. Its linear momentum 
+at any instant is tangential to the circular 
+path. Then the angular momentum 
+G
+L is 
+perpendicular to Gr and Gp. Hence, it is 
+directed along the axis of rotation. The angle 
+θ between Gr and Gp in this case is 90o. The 
+magnitude of the angular momentum L 
+could be written as,
+ 
+L
+rmv
+rmv
+ 
+ 
+sin90D
+where, v is the linear velocity. The relation 
+between linear velocity v and angular velocity 
+ω in a circular motion is, v
+r
+= ω. Hence, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 227
+
+PDF_PAGE: 235
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+227
+there is no net force acting on the body. 
+There is a lot of difference between the 
+terms “no force” and “no net force” acting 
+on a body. The same argument holds good 
+for rotational conditions in terms of torque 
+or moment of force.
+A rigid body is said to be in mechanical 
+equilibrium when both its linear momentum 
+and angular momentum remain constant.
+When the linear momentum remains 
+constant, the net force acting on the body 
+is zero.
+ 
+G
+Fnet 0 
+(5.28)
+In this condition, the body is said to be in 
+translational equilibrium. This implies that 
+the vector sum of different forces 
+  
+…
+F F F
+1
+2
+3
+,
+,
+ 
+acting in different directions on the body is 
+zero.
+ 
+
+
+
+
+
+F
+F
+F
+Fn
+1
+2
+3
+0
++
++
++
++
+=  (5.29)
+If the forces 
+ 
+
+…
+F F F
+1
+2
+3
+,
+,
+ act in different 
+directions on the body, we can resolve them 
+into horizontal and vertical components 
+and then take the resultant in the respective 
+directions. In this case there will be horizontal 
+as well as vertical equilibria possible. 
+Similarly, when the angular momentum 
+remains constant, the net torque acting on 
+the body is zero.
+ 
+Gτnet = 0  
+(5.30)
+Under this condition, the body is said to 
+be in rotational equilibrium. The vector sum 
+of different torques  
+ …
+W W
+W
+1
+2
+3
+,
+,
+ producing 
+different senses of rotation on the body is zero.
+Where, ω is angular velocity and α is 
+angular acceleration. We can also write 
+equation 5.26 as,
+ 
+τ
+ω
+= (
+)
+d I
+dt
+ 
+τ = dL
+dt 
+(5.27)
+The above expression says that an 
+external torque on a rigid body fixed to 
+an axis produces rate of change of angular 
+momentum in the body about that axis. 
+This is the Newton’s second law in rotational 
+motion as it is in the form of F
+dp
+dt
+ 
+ which 
+holds good for translational motion. 
+Conservation of angular momentum:
+From the above expression we could 
+conclude that in the absence of external 
+torque, the angular momentum of the rigid 
+body or system of particles is conserved.
+ 
+If τ = 0 then, dL
+dt
+constant
+=
+=
+0; L
+The above expression is known as law 
+of conservation of angular momentum. 
+We will learn about this law further in 
+section 5.5.
+5.3
+EQUILIBRIUM OF RIGID 
+BODIES
+When a body is at rest without any motion 
+on a table, we say that there is no force 
+acting on the body. Actually it is wrong 
+because, there is gravitational force acting 
+on the body downward and also the normal 
+force exerted by table on the body upward. 
+These two forces cancel each other and thus 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 228
+
+PDF_PAGE: 236
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+228
+ 
+
+
+
+
+
+τ
+τ
+τ
+τ
+1
+2
+3
+0
++
++
++
++
+=
+n
+  (5.31)
+Thus, we can also conclude that a rigid 
+body is in mechanical equilibrium when the 
+net force and net torque acts on the body is 
+zero.
+ 
+G
+Fnet 0 and  Gτnet = 0 
+(5.32)
+As the forces and torques are vector 
+quantities, the directions are to be taken 
+with proper sign conventions.
+5.3.1 7\SHVRI(TXLOLEULXP
+Based on the above discussions, we come to a 
+conclusion that different types of equilibrium 
+are possible based on the different conditions. 
+They are consolidated in Table 5.2.
+Table 5.2 Different types of Equilibrium and their Conditions.
+Type of 
+equilibrium
+Conditions
+Translational 
+equilibrium
+
+
+Linear momentum is constant.
+
+
+Net force is zero.
+Rotational 
+equilibrium
+
+
+Angular momentum is constant.
+
+
+Net torque is zero.
+Static  
+equilibrium
+
+
+Linear momentum and angular momentum are zero.
+
+
+Net force and net torque are zero.
+Dynamic 
+equilibrium
+
+
+Linear momentum and angular momentum are constant.
+
+
+Net force and net torque are zero.
+Stable  
+equilibrium
+
+
+Linear momentum and angular momentum are zero.
+
+
+The body tries to come back to equilibrium if slightly disturbed and 
+released.
+
+
+The center of mass of the body shifts slightly higher if disturbed from 
+equilibrium.
+
+
+Potential energy of the body is minimum and it increases if disturbed.
+Unstable 
+equilibrium
+
+
+Linear momentum and angular momentum are zero.
+
+
+The body cannot come back to equilibrium if slightly disturbed and 
+released.
+
+
+The center of mass of the body shifts slightly lower if disturbed from 
+equilibrium.
+
+
+Potential energy of the body is not minimum and it decreases if disturbed.
+Neutral  
+equilibrium
+
+
+Linear momentum and angular momentum are zero.
+
+
+The body remains at the same equilibrium if slightly disturbed and 
+released.
+
+
+The center of mass of the body does not shift higher or lower if disturbed 
+from equilibrium.
+
+
+Potential energy remains same even if disturbed.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 229
+
+PDF_PAGE: 237
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+229
+For rotational equilibrium:
+The net torque acting on the log 
+must be zero. For ease of calculation, 
+we can take the torque caused by all the 
+forces about the point A on the log. The 
+forces are perpendicular to the distances. 
+Hence, 
+ 
+0
+4
+7
+0
+R
+mg
+R
+A
+B
+(
+) + −
+(
+) +(
+) = .
+Here, the reaction force RA cannot 
+produce any torque as the reaction forces 
+pass through the point of reference A. The 
+torque of force mg produces a clockwise 
+turn about the point A which is taken 
+negative and torque of force RB causes 
+anticlockwise turn about A which is taken 
+positive.
+ 
+7
+4
+R
+mg
+B 
+ 
+R
+mg
+B 4
+7
+ 
+R
+N
+B =
+×
+×
+=
+4
+7
+28 10
+160
+By substituting for RB we get,
+ 
+R
+mg
+R
+A
+B
+=
+−
+ 
+R
+N
+A =
+×
+−
+=
+−
+=
+28 10
+160
+280
+160
+120
+As RB is greater than RA, it is concluded 
+that Babu bears more weight than Arun. 
+The one closer to center of mass of the log 
+bears more weight.
+EXAMPLE 5.12
+Arun and Babu carry a wooden log of mass 
+28 kg and length 10 m which has almost 
+uniform thickness. They hold it at 1 m and 
+2 m from the ends respectively. Who will 
+bear more weight of the log?  [g = 10 ms-2]
+Solution
+Let us consider the log is in mechanical 
+equilibrium. Hence, the net force and net torque 
+on the log must be zero. The gravitational force 
+acts at the center of mass of the log downwards. 
+It is cancelled by the normal reaction forces 
+RA and RB applied upwards by Arun and Babu 
+at points A and B respectively. These reaction 
+forces are the weights borne by them.
+The total weight, W = mg = 28 × 10 = 
+280 N, has to be borne by them together. 
+The reaction forces are the weights borne 
+by each of them separately. Let us show all 
+the forces acting on the log by drawing a 
+free body diagram of the log. 
+For translational equilibrium:
+The net force acting on the log must be 
+zero.
+ 
+R
+mg
+R
+A
+B
++ −
+(
+) +
+= 0
+Here, the forces RA an RB are 
+taken  positive as they act upward. The 
+gravitational force acting downward is 
+taken negative. 
+ 
+R
+R
+mg
+A
+B
++
+=
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 230
+
+PDF_PAGE: 238
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+230
+cause the same sense of rotation in the 
+rod. Th us, the rod undergoes a rotational 
+motion or turning even though the rod is in 
+translational equilibrium.
+A pair of forces which are equal in 
+magnitude but opposite in direction and 
+separated by a perpendicular distance so 
+that their lines of action do not coincide that 
+causes a turning eff ect is called a couple. We 
+come across couple in many of our daily 
+activities as shown in Figure 5.14. 
+ Th ere are cases in which the 
+two forces may not cancel 
+each other. If the two forces 
+are not equal or the direction of the 
+forces is not exactly opposite, then the 
+body will have both translational as 
+well as rotational motion.
+Note
+5.3.3 Principle of Moments
+Consider a light rod of negligible mass 
+which is pivoted at a point along its length. 
+Let two parallel forces F1 and F2 act at the two 
+ends at distances d1 and d2 from the point 
+of pivot and the normal reaction force N at 
+5.3.2 Couple
+Consider a thin uniform rod AB. Its center 
+of mass is at its midpoint C. Let two forces 
+which are equal in magnitude and opposite 
+in direction be applied at the two ends 
+A and B of the rod perpendicular to it. Th e 
+two forces are separated by a distance of 2r 
+as shown in Figure 5.13.
+Figure 5.13. Couple
+A
+B
+C
+r
+r
+As the two equal forces are opposite in 
+direction, they cancel each other and the 
+net force acting on the rod is zero. Now the 
+rod is in translational equilibrium. But, the 
+rod is not in rotational equilibrium. Let us 
+see how it is not in rotational equilibrium. 
+Th e moment of the force applied at the end 
+A taken with respect to the center point 
+C, produces an anticlockwise rotation. 
+Similarly, the moment of the force applied 
+at the end B also produces an anticlockwise 
+rotation. Th e moments of both the forces 
+Figure 5.14. Turning eff ect of Couple
+F
+F
+F
+F
+r
+r
+r
+r
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 231
+
+PDF_PAGE: 239
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+231
+ 
+Mechanical Advantage MA
+d
+d
+ 
+(
+) =
+2
+1
+ (5.35)
+There are many simple machines that 
+work on the above mentioned principle. 
+5.3.4 Center of Gravity
+Each rigid body is made up of several point 
+masses. Such point masses experience 
+gravitational force towards the center of 
+Earth. As the size of Earth is very large 
+compared to any practical rigid body we 
+come across in daily life, these forces appear 
+to be acting parallelly downwards as shown 
+in Figure 5.16.
+W1
+W2
+W3
+W5
+W4
+W
+C
+Figure 5.16. Center of gravity
+The resultant of these parallel forces 
+always acts through a point. This point 
+is called center of gravity of the body 
+(with respect to Earth). The center of 
+gravity of a body is the point at which the 
+entire weight of the body acts irrespective 
+of the position and orientation of the 
+body. The center of gravity and center of 
+mass of a rigid body coincide when the 
+gravitational field is uniform across the 
+body. The concept of gravitational field 
+is dealt in Unit 6. 
+the point of pivot as shown in Figure 5.15. 
+If  the rod has to remain stationary in 
+horizontal position, it should be in 
+translational and rotational equilibrium. 
+Then, both the net force and net torque 
+must be zero. 
+Figure 5.15. Principle of Moments
+F1
+F2
+N
+d2
+d1
+For net force to be zero, −
++
+−
+=
+F
+N
+F
+1
+2
+0
+ 
+N
+F
+F
+=
++
+1
+2
+For net torque to be zero, d F
+d F
+1 1
+2 2
+0
+−
+=
+ 
+d F
+d F
+1 1
+2 2
+ 
+ 
+(5.33)
+The above equation represents the principle of 
+moments. This forms the principle for beam 
+balance used for weighing goods with the 
+condition d1 = d2; F1 = F2. We can rewrite the 
+equation 5.33 as, 
+ 
+F
+F
+d
+d
+1
+2
+2
+1
+ 
+ 
+(5.34)
+If F1 is the load and F2 is our effort, we 
+get advantage when, d1< d2. This implies 
+that F1> F2. Hence, we could lift a large load 
+with small effort. The ratio d
+d
+2
+1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ is called 
+mechanical advantage of the simple lever. 
+The pivoted point is called fulcrum. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 232
+
+PDF_PAGE: 240
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+232
+points like P, Q, R as shown in Figure 5.18, 
+the vertical lines PP', QQ', RR' all pass 
+through the center of gravity. Here, reaction 
+force acting at the point of suspension and 
+the gravitational force acting at the center 
+of gravity cancel each other and the torques 
+caused by them also cancel each other.
+5.3.5  Bending of Cyclist in 
+Curves
+Let us consider a cyclist negotiating a 
+circular level road (not banked) of radius r 
+with a speed v. The cycle and the cyclist are 
+considered as one system with mass m. The 
+center gravity of the system is C and it goes 
+in a circle of radius r with center at O. Let us 
+choose the line OC as X-axis and the 
+vertical line through O as Z-axis as shown 
+in Figure 5.19. 
+We can also determine the center of gravity 
+of a uniform lamina of even an irregular 
+shape by pivoting it at various points by trial 
+and error. The lamina remains horizontal 
+when pivoted at the point where the net 
+gravitational force acts, which is the center of 
+gravity as shown in Figure 5.17. When a body 
+is supported at the center of gravity, the sum 
+of the torques acting on all the point masses 
+of the rigid body becomes zero. Moreover the 
+weight is compensated by the normal reaction 
+force exerted by the pivot. The body is in static 
+equilibrium and hence it remains horizontal. 
+C
+Figure 5.17. Determination of 
+center of gravity of plane lamina by 
+pivoting
+There is also another way to determine 
+the center of gravity of an irregular lamina. 
+If we suspend the lamina from different 
+Figure 5.18. Determination of center of 
+gravity of plane lamina by suspending
+Figure 5.19. Bending of cyclist
+P
+Q
+R
+P
+P:
+Q
+Q:
+R
+R:
+C
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 233
+
+PDF_PAGE: 241
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+233
+The torque due to the gravitational force 
+about point A is mg AB
+(
+) which causes a 
+clockwise turn that is taken as negative. 
+The torque due to the centripetal force is 
+mv
+r
+BC
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ which causes an anticlockwise 
+turn that is taken as positive.
+ 
+−
++
+=
+mg AB
+mv
+r
+BC
+2
+0
+ 
+mg AB
+mv
+r
+BC
+ 
+2
+From Δ ABC,  
+ 
+AB
+AC
+=
+sinθ and  BC
+AC
+=
+cosθ
+ 
+mg AC
+mv
+r
+AC
+sin
+cos
+θ
+θ
+=
+2
+ 
+tanθ = v
+rg
+2
+ 
+θ =
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+−
+tan 1
+2
+v
+rg 
+(5.36)
+While negotiating a circular level road of 
+radius r at velocity v, a cyclist has to bend by 
+an angle θ from vertical given by the above 
+expression to stay in equilibrium (i.e. to 
+avoid a fall). 
+EXAMPLE 5.13
+A cyclist while negotiating a circular path 
+with speed 20 m s-1 is found to bend an 
+angle by 30o with vertical. What is the 
+radius of the circular path? (given, 
+g = 10 m s-2)
+The system as a frame is rotating 
+about Z-axis. The system is at rest in 
+this rotating frame. To solve problems 
+in rotating frame of reference, we have 
+to apply a centrifugal force (pseudo 
+force) on the system which will be mv
+r
+2
+. 
+This force will act through the center of 
+gravity. The forces acting on the system 
+are, (i)  gravitational force (mg), (ii) 
+normal force (N), (iii) frictional force (f) 
+and (iv) centrifugal force mv
+r
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. As the 
+system is in equilibrium in the rotational 
+frame of reference, the net external force 
+and net external torque must be zero. Let 
+us consider all torques about the point A in 
+Figure 5.20. 
+Figure 5.20 Force diagrams for 
+the cyclist in turns
+C
+mg
+θ
+θ
+mv2
+R
+A
+N
+f
+B
+For rotational equilibrium,
+ 
+Gτnet = 0
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 234
+
+PDF_PAGE: 242
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+234
+motion, moment of inertia is a measure 
+of rotational inertia. The unit of moment 
+of inertia is, kg m2. Its dimension is M L2. 
+In general, mass is an invariable quantity 
+of matter (except for motion comparable 
+to that of light). But, the moment of inertia 
+of a body is not an invariable quantity. It 
+depends not only on the mass of the body, 
+but also on the way the mass is distributed 
+around the axis of rotation.
+To find the moment of inertia of a 
+uniformly distributed mass; we have to 
+consider an infinitesimally small mass (dm) 
+as a point mass and take its position (r) with 
+respect to an axis. The moment of inertia of 
+this point mass can now be written as, 
+ 
+dI
+dm r
+= (
+)
+2 
+(5.39)
+We get the moment of inertia of the entire 
+bulk object by integrating the above 
+expression. 
+ 
+I
+dI
+dm r
+=
+= (
+)
+∫
+∫
+2 
+ 
+I
+r dm
+= ∫
+2
+  
+(5.40)
+We can use the above expression for 
+determining the moment of inertia of some 
+of the common bulk objects of interest like 
+rod, ring, disc, sphere etc.
+5.4.1  Moment of Inertia of a 
+Uniform Rod
+Let us consider a uniform rod of mass (M) 
+and length (A) as shown in Figure 5.21. Let 
+us find an expression for moment of inertia 
+of this rod about an axis that passes through 
+the center of mass and perpendicular to 
+Solution
+Speed of the cyclist, v = 20 m s-1
+Angle of bending with vertical, θ = 30o
+Equation for angle of bending, tanθ = v
+rg
+2
+Rewriting the above equation for radius 
+r
+v
+g
+=
+2
+tanθ
+Substituting, 
+ 
+r =
+(
+)
+(
+)×
+=
+×
+(
+)×
+= ⎛
+⎝⎜
+⎞
+⎠⎟×
+20
+30
+10
+20 20
+30
+10
+400
+1
+3
+10
+2
+tan
+tan
+D
+D
+ 
+r =(
+)×
+=
+×
+3
+40
+1 732
+40
+.
+ 
+r
+m
+ 69 28
+.
+5.4
+MOMENT OF INERTIA
+In the expressions for torque and angular 
+momentum for rigid bodies (which are 
+considered as bulk objects), we have come 
+across a term 6m r
+i i
+2. This quantity is called 
+moment of inertia (I) of the bulk object. For 
+point mass mi at a distance ri from the fixed 
+axis, the moment of inertia is given as, m r
+i i
+2.
+Moment of inertia for point mass, 
+ 
+I
+m r
+i i
+ 
+2 
+(5.37)
+Moment of inertia for bulk object,
+ 
+I
+m r
+i i
+=∑
+2 
+(5.38)
+In translational motion, mass is a measure 
+of inertia; in the same way, for rotational 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 235
+
+PDF_PAGE: 243
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+235
+ 
+I
+M
+x dx
+M x
+=
+=
+⎡
+⎣⎢
+⎤
+⎦⎥
+−
+−
+∫
+A
+A
+A
+A
+A
+A
+/
+/
+/
+/
+2
+2
+2
+3
+2
+2
+3
+ 
+I
+M
+M
+=
+−−
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥=
++
+⎡
+⎣⎢
+⎤
+⎦⎥
+A
+A
+A
+A
+A
+A
+3
+3
+3
+3
+24
+24
+24
+24
+ 
+I
+M
+=
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+A
+A
+2 24
+3
+ 
+I
+M
+= 1
+12
+2A 
+(5.41)
+EXAMPLE 5.14
+Find the moment of inertia of a uniform 
+rod about an axis which is perpendicular 
+to the rod and touches any one end of 
+the rod. 
+Solution
+The concepts to form the integrand to find 
+the moment of inertia could be borrowed 
+from the earlier derivation. Now, the origin 
+is fixed to the left end of the rod and the 
+limits are to be taken from 0 to A.
+dx
+dm
+x
+ℓ
+ 
+I
+M x dx
+M x
+M
+=
+=
+⎡
+⎣⎢
+⎤
+⎦⎥=
+⎡
+⎣⎢
+⎤
+⎦⎥
+∫
+A
+A
+A
+A
+A
+A
+0
+2
+3
+0
+3
+3
+3
+ 
+I
+M
+ 1
+3
+2A
+the rod. First an origin is to be fixed for 
+the coordinate system so that it coincides 
+with the center of mass, which is also the 
+geometric center of the rod. The rod is now 
+along the x axis. We take an infinitesimally 
+small mass (dm) at a distance (x) from the 
+origin. The moment of inertia (dI) of this 
+mass (dm) about the axis is, 
+ 
+dI
+dm x
+= (
+)
+2
+As the mass is uniformly distributed, the 
+mass per unit length (λ) of the rod is, λ  M
+A
+The (dm) mass of the infinitesimally 
+small length as, dm = λ dx = M dx
+A
+The moment of inertia (I) of the entire 
+rod can be found by integrating dI, 
+ 
+I
+dI
+dm x
+M dx x
+=
+= (
+)
+= ⎛
+⎝⎜
+⎞
+⎠⎟
+∫
+∫
+∫
+2
+2
+A
+ 
+I
+M x dx
+=
+∫
+A
+2
+As the mass is distributed on either side 
+of the origin, the limits for integration are 
+taken from A / 2 to A / 2.
+Figure 5.21 Moment of inertia of 
+uniform rod
+ℓ/2
+−ℓ/2
+dx
+dm
+x
+O
+O
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 236
+
+PDF_PAGE: 244
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+236
+distributed, the mass per unit length (λ) is, 
+ 
+λ =
+=
+mass
+length
+M
+R
+2π
+Th e mass (dm) of the infi nitesimally 
+small length is, dm = λ dx = M
+R dx
+2π
+Now, the moment of inertia (I) of the 
+entire ring is, 
+ 
+I
+dI
+dm R
+M
+R dx R
+=
+= (
+)
+= ⎛
+⎝⎜
+⎞
+⎠⎟
+∫
+∫
+∫
+2
+2
+2π
+ 
+I
+MR dx
+=
+∫
+2π
+To cover the entire length of the ring, the 
+limits of integration are taken from 0 to 2πR.
+ 
+I
+MR
+dx
+R
+=
+∫
+2
+0
+2
+π
+π
+ 
+I
+MR x
+MR
+R
+R
+=
+[ ]
+=
+−
+[
+]
+2
+2
+2
+0
+0
+2
+π
+π
+π
+π
+ 
+I
+MR
+ 
+2 
+(5.42)
+5.4.3  Moment of Inertia of a 
+Uniform Disc
+Consider a disc of mass M and radius R. Th is 
+disc is made up of many infi nitesimally small 
+rings as shown in Figure 5.23. Consider one 
+such ring of mass (dm) and thickness (dr) 
+and radius (r). Th e moment of inertia (dI) 
+of this small ring is,
+ 
+dI
+dm r
+= (
+)
+2
+As the mass is uniformly distributed, the 
+mass per unit area (σ) is, σ =
+=
+mass
+area
+M
+R
+π
+2
+Th e moment of inertia of 
+the same uniform rod is 
+diff erent about diff erent axes 
+of reference. Th e reference axes could 
+be even outside the object. We have two 
+useful theorems to calculate the moments 
+of inertia about diff erent axes. We shall 
+see these theorems in Section 5.4.5.
+Note
+5.4.2  Moment of Inertia of a 
+Uniform Ring
+Let us consider a uniform ring of mass M 
+and radius R. To fi nd the moment of inertia 
+of the ring about an axis passing through its 
+center and perpendicular to the plane, let us 
+take an infi nitesimally small mass (dm) of 
+length (dx) of the ring. Th is (dm) is located 
+at a distance R, which is the radius of the 
+ring from the axis as shown in Figure 5.22. 
+Figure 5.22 Moment of 
+inertia of a uniform ring
+dm
+dx
+R
+Th e moment of inertia (dI) of this small 
+mass (dm) is, 
+ 
+dI
+dm R
+= (
+)
+2
+Th e length of the ring is its circumference 
+2πR
+(
+). 
+As 
+the 
+mass 
+is 
+uniformly 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 237
+
+PDF_PAGE: 245
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+237
+5.4.4 Radius of Gyration
+For bulk objects of regular shape with 
+uniform mass distribution, the expression 
+for moment of inertia about an axis involves 
+their total mass and geometrical features 
+like radius, length, breadth, which take care 
+of the shape and the size of the objects. But, 
+we need an expression for the moment of 
+inertia which could take care of not only 
+the mass, shape and size of objects, but also 
+its orientation to the axis of rotation. Such 
+an expression should be general so that it is 
+applicable even for objects of irregular shape 
+and non-uniform distribution of mass. The 
+general expression for moment of inertia is 
+given as, 
+ 
+I
+MK
+ 
+2 
+(5.44)
+where, M is the total mass of the object and 
+K is called the radius of gyration. 
+The radius of gyration of an object is 
+the perpendicular distance from the axis of 
+rotation to an equivalent point mass, which 
+would have the same mass as well as the same 
+moment of inertia of the object. 
+As the radius of gyration is distance, its 
+unit is m. Its dimension is L.
+A rotating rigid body with respect to any 
+axis, is considered to be made up of point 
+masses m1, m2, m3, . . .mn at perpendicular 
+distances (or positions) r1, r2, r3 . . . rn 
+respectively as shown in Figure 5.24.
+The moment of inertia of that object can 
+be written as,  
+I
+m r
+m r
+m r
+m r
+m r
+i i
+n n
+=
+=
++
++
++
++
+∑
+2
+1 1
+2
+2 2
+2
+3 3
+2
+2
+"
+If we take all the n number of individual 
+masses to be equal, 
+The mass of the infinitesimally small 
+ring is,
+ 
+dm
+rdr
+M
+R
+rdr
+=
+=
+σ π
+π
+π
+2
+2
+2
+where, the term 2πrdr
+(
+) is the area of this 
+elemental ring (2πr is the length and dr is 
+the thickness). dm
+M
+R rdr
+ 2
+2
+ 
+dI
+M
+R r dr
+ 2
+2
+3
+The moment of inertia (I) of the entire 
+disc is, 
+ 
+I
+dI
+= ∫
+ 
+I
+M
+R
+dr
+M
+R
+dr
+R
+R
+=
+=
+∫
+∫
+2
+2
+2
+3
+2
+3
+0
+0
+r
+r
+ 
+I
+M
+R
+M
+R
+=
+⎡
+⎣⎢
+⎤
+⎦⎥=
+−
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+4
+2
+4
+0
+2
+4
+0
+2
+4
+r
+R
+R
+ 
+I
+MR
+ 1
+2
+2 
+(5.43)
+Figure 5.23 Moment of inertia of a 
+uniform disc
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 238
+
+PDF_PAGE: 246
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+238
+In fact, the moment of inertia of any object 
+could be expressed in the form, I = MK2. 
+For example, let us take the moment 
+of inertia of a uniform rod of mass M and 
+length A. Its moment of inertia with respect 
+to a perpendicular axis passing through the 
+center of mass is, I
+M
+= 1
+12
+2A
+In terms of radius of gyration, I
+MK
+ 
+2
+Hence, MK
+M
+2
+2
+1
+12
+=
+A
+ 
+ K2
+2
+1
+12
+=
+A
+K
+l
+=
+12
+A or K
+l
+=
+2 3
+A or K = (
+)
+0 289
+.
+A
+EXAMPLE 5.15
+Find the radius of gyration of a disc of 
+mass M and radius R rotating about an axis 
+passing through the center of mass and 
+perpendicular to the plane of the disc.
+Solution
+The moment of inertia of a disc about an 
+axis passing through the center of mass 
+and perpendicular to the disc is, I
+MR
+ 1
+2
+2
+ In terms of radius of gyration, I
+MK
+ 
+2
+ Hence, MK
+MR
+2
+2
+1
+2
+ 
+; 
+K
+R
+2
+2
+1
+2
+ 
+  K
+l R
+ 
+2
+ or K
+l
+R
+ 1 414
+.
+ or K
+R
+= (
+)
+0 707
+.
+From the case of a rod and also a disc, we 
+can conclude that the radius of gyration 
+of the rigid body is always a geometrical 
+feature like length, breadth, radius or their 
+combinations with a positive numerical 
+value multiplied to it. 
+Figure 5.24 Radius of gyration
+m1
+r3
+C
+r4
+m3
+m2
+r1
+m4
+r2
+ 
+m
+m
+m
+m
+mn
+=
+=
+=
+=
+=
+1
+2
+3
+. . .
+then, 
+ 
+I
+mr
+mr
+mr
+mrn
+=
++
++
++
++
+1
+2
+2
+2
+3
+2
+2
+"
+ 
+=
++
++
++
++
+(
+)
+m r
+r
+r
+rn
+1
+2
+2
+2
+3
+2
+2
+"
+ 
+=
++
++
++
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+nm r
+r
+r
+r
+n
+n
+1
+2
+2
+2
+3
+2
+2
+"
+ 
+I
+MK
+ 
+2
+where, nm is the total mass M of the body 
+and K is the radius of gyration.
+ 
+K
+r
+r
+r
+r
+n
+n
+=
++
++
++
++
+1
+2
+2
+2
+3
+2
+2
+"
+ (5.45)
+The expression for radius of gyration 
+indicates that it is the root mean square (rms) 
+distance of the particles of the body from the 
+axis of rotation. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 239
+
+PDF_PAGE: 247
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+239
+If IC is the moment of inertia of the body 
+of mass M about an axis passing through the 
+center of mass, then the moment of inertia I 
+about a parallel axis at a distance d from it is 
+given by the relation, 
+ 
+I
+I
+Md
+C
+=
++
+2  
+(5.46)
+Let us consider a rigid body as shown in 
+Figure 5.25. Its moment of inertia about an 
+axis AB passing through the center of mass 
+is IC.  DE is another axis parallel to AB at 
+a perpendicular distance d from AB. Th e 
+moment of inertia of the body about DE is 
+I. We attempt to get an expression for I in 
+terms of IC. For this, let us consider a point 
+mass m on the body at position x from its 
+center of mass.
+Figure 5.25 Parallel axis theorem
+d
+C
+E
+P
+D
+B
+x
+A
+Th e moment of inertia of the point mass 
+about the axis DE is, m x
+d
++
+(
+)
+2. 
+Th e moment of inertia I of the whole 
+body about DE is the summation of the 
+above expression.
+ 
+I
+m x
+d
+=
++
+(
+)
+∑
+2
+5.4.5  Theorems of Moment 
+of Inertia
+As the moment of inertia depends on the 
+axis of rotation and also the orientation 
+of the body about that axis, it is diff erent 
+for the same body with diff erent axes of 
+rotation. We have two important theorems 
+to handle the case of shift ing the axis of 
+rotation.
+(i) Parallel axis theorem:
+Parallel axis theorem states that the moment 
+of inertia of a body about any axis is equal 
+to the sum of its moment of inertia about a 
+parallel axis through its center of mass and 
+the product of the mass of the body and the 
+square of the perpendicular distance between 
+the two axes.
+Obesity, torque and 
+Moment of Inertia!
+Obesity and associated ailments like back 
+pain, joint pain etc. are due to the shift 
+in center of mass of the body. Due to this 
+shift  in center of mass, unbalanced torque 
+acting on the body leads to ailments. As 
+the mass is spread away from center of the 
+body the moment of inertia is more and 
+turning will also be diffi  cult.
+mg
+mg
+N
+N
+r
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 240
+
+PDF_PAGE: 248
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+240
+the body about X and Y-axes are IX and IY 
+respectively and IZ is the moment of inertia 
+about Z-axis, then the perpendicular axis 
+theorem could be expressed as, 
+ 
+I
+I
+I
+Z
+X
+Y
+=
++
+  
+(5.47)
+To prove this theorem, let us consider a plane 
+laminar object of negligible thickness on 
+which lies the origin (O). The X and Y-axes 
+lie on the plane and Z-axis is perpendicular 
+to it as shown in Figure 5.26. The lamina is 
+considered to be made up of a large number 
+of particles of mass m. Let us choose one such 
+particle at a point P which has coordinates 
+(x, y) at a distance r from O. 
+Figure 5.26 Perpendicular axis theorem
+m
+Z
+X
+r
+p
+Y
+O
+y
+x
+The moment of inertia of the particle 
+about Z-axis is, mr2
+The summation of the above expression 
+gives the moment of inertia of the entire 
+lamina about Z-axis as, I
+mr
+Z =∑
+2
+Here, r
+x
+y
+2
+2
+2
+=
++
+Then, I
+m x
+y
+Z =
++
+(
+)
+∑
+2
+2
+ 
+I
+mx
+my
+Z =
++
+∑
+∑
+2
+2
+In the above expression, the term 6mx2 is 
+the moment of inertia of the body about the 
+This equation could further be written as, 
+ 
+I
+m x
+d
+xd
+=
++
++
+(
+)
+∑
+2
+2
+2
+ 
+I
+mx
+md
+dmx
+=
++
++
+(
+)
+∑
+2
+2
+2
+ 
+I
+mx
+md
+d
+mx
+=
++
++
+∑
+∑
+∑
+2
+2
+2
+Here, 
+mx
+∑
+2 is the moment of inertia of 
+the body about the center of mass. Hence, 
+I
+mx
+C =∑
+2
+The term, ∑
+=
+mx
+0 because, x can take 
+positive and negative values with respect to 
+the axis AB. The summation ∑
+(
+)
+mx will be 
+zero. 
+Thus, I
+I
+md
+I
+m d
+C
+C
+=
++
+=
++(
+)
+∑
+∑
+2
+2
+Here, 6m is the entire mass M of the 
+object ∑
+=
+(
+)
+m
+M
+ 
+I
+I
+Md
+C
+=
++
+2
+Hence, the parallel axis theorem is 
+proved. 
+(ii) Perpendicular axis theorem:
+This perpendicular axis theorem holds good 
+only for plane laminar objects. 
+The theorem states that the moment of 
+inertia of a plane laminar body about an 
+axis perpendicular to its plane is equal to 
+the sum of moments of inertia about two 
+perpendicular axes lying in the plane of the 
+body such that all the three axes are mutually 
+perpendicular and have a common point.
+Let the X and Y-axes lie in the plane and 
+Z-axis perpendicular to the plane of the 
+laminar object. If the moments of inertia of 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 241
+
+PDF_PAGE: 249
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+241
+ 
+I
+MR
+ 1
+2
+2
+ 
+I =
+× ×(
+) =
+× ×
+×
+1
+2
+3
+0 5
+0 5 3 0 5 0 5
+2
+.
+.
+.
+.
+ 
+I
+kgm
+ 0 375
+2
+.
+(ii)  The moment of inertia (I) about an axis 
+touching the edge and perpendicular 
+to the plane of the disc by parallel axis 
+theorem is,
+ 
+I
+I
+Md
+C
+=
++
+2
+where, I
+MR
+C 1
+2
+2 and d = R
+ 
+I
+MR
+MR
+MR
+=
++
+=
+1
+2
+3
+2
+2
+2
+2 
+ 
+I =
+× ×(
+) =
+× ×
+×
+3
+2
+3
+0 5
+1 5 3 0 5 0 5
+2
+.
+.
+.
+.
+ 
+I
+kgm
+ 1 125
+2
+.
+Y-axis and similarly the term 6my2 is the 
+moment of inertia about X-axis. Thus, 
+ 
+I
+my
+X =∑
+2 and 
+I
+mx
+Y =∑
+2
+Substituting in the equation for Iz gives,
+ 
+I
+I
+I
+Z
+X
+Y
+=
++
+Thus, the perpendicular axis theorem is 
+proved.
+EXAMPLE 5.16
+Find the moment of inertia of a disc of mass 
+3 kg and radius 50 cm about the following 
+axes.
+  (i)  axis passing through the center 
+and perpendicular to the plane of 
+the disc, 
+ (ii)  axis 
+touching 
+the 
+edge 
+and 
+perpendicular to the plane of the disc 
+and 
+(iii)  axis passing through the center 
+and lying on the plane of the 
+disc.
+Solution
+The mass, M = 3 kg, radius R = 50 cm = 
+50 × 10−2 m = 0.5 m
+(i)  The moment of inertia (I) about an 
+axis passing through the center and 
+perpendicular to the plane of the 
+disc is,
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 242
+
+PDF_PAGE: 250
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+242
+Solution
+The structure is made up of three objects; 
+one thin rod and two solid spheres.
+The mass of the rod, M = 3 kg and the 
+total length of the rod, ℓ = 80 cm = 0.8 m
+The moment of inertia of the rod 
+about its center of mass is, I
+M
+rod 1
+12
+2A 
+Irod =
+× ×(
+) =
+×
+1
+12
+3
+0 8
+1
+4
+0 64
+2
+.
+.
+ 
+I
+kgm
+rod 0 16
+2
+.
+The mass of the sphere, M = 5 kg and the 
+radius of the sphere, R = 10 cm = 0.1 m
+The moment of inertia of the sphere 
+about its center of mass is, I
+MR
+C 2
+5
+2
+The moment of inertia of the sphere 
+about geometric center of the structure is, 
+I
+I
+Md
+sph
+C
+=
++
+2
+Where, d = 40 cm + 10 cm = 50 cm = 0.5 m
+ 
+I
+MR
+Md
+sph =
++
+2
+5
+2
+2
+ 
+Isph =
+× ×(
+) + ×(
+)
+2
+5
+5
+0 1
+5
+0 5
+2
+2
+.
+.
+ 
+Isph =
+×
++
+×
+=
++
+(
+.
+)
+(
+.
+)
+.
+.
+2
+0 01
+5
+0 25
+0 02
+1 25
+ 
+I
+kgm
+sph 1 27
+2
+.
+As there are one rod and two similar solid 
+spheres we can write the total moment of 
+inertia (I) of the given geometric structure 
+as, I
+I
+I
+rod
+sph
+=
++
+×
+(
+)
+2
+ 
+I =
++
+×
+=
++
+( .
+)
+(
+.
+)
+.
+.
+0 16
+2
+1 27
+0 16
+2 54
+ 
+I
+kgm
+ 2 7
+2
+.
+(iii)  The moment of inertia (I) about an 
+axis passing through the center and 
+lying on the plane of the disc is,
+ 
+I
+I
+I
+Z
+X
+Y
+=
++
+where,  I
+I
+I
+X
+Y
+ 
+  and I
+MR
+Z 1
+2
+2
+ 
+I
+I
+Z 2 ; I
+I
+ 1
+2
+Z
+ 
+I
+MR
+MR
+=
+×
+=
+1
+2
+1
+2
+1
+4
+2
+2
+ 
+I =
+× ×(
+) =
+× ×
+×
+1
+4
+3
+0 5
+0 25 3 0 5 0 5
+2
+.
+.
+.
+.
+ 
+I
+kgm
+ 0 1875
+2
+.
+
+
+About which of the above axis it is 
+easier to rotate the disc? 
+
+
+It is easier to rotate the disc about 
+an axis about which the moment of 
+inertia is the least. Hence, it is case (iii).
+EXAMPLE 5.17
+Find the moment of inertia about the 
+geometric center of the given structure made 
+up of one thin rod connecting two similar 
+solid spheres as shown in Figure.
+5.4.6 Moment of Inertia of 
+Different Rigid Bodies
+The moment of inertia of different objects 
+about different axes is given in the Table 5.3.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 243
+
+PDF_PAGE: 251
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+243
+Solution
+m1
+m2
+R
+Let the mass of the disc be m1 and its 
+radius R. The mass of the suspended 
+body is m2. 
+ 
+m1 = 500 g = 500×10−3 kg =0.5 kg
+ 
+m2 = 100 g = 100×10−3 kg = 0.1 kg
+ 
+R = 10 cm = 10×10−2 m = 0.1 m
+As the light inextensible string is wound 
+around the disc several times it makes 
+the disc rotate without slipping over it. 
+The translational acceleration of m2 and 
+tangential acceleration of m1 will be the 
+same. Let us draw the free body diagram 
+(FBD) of m1 and m2 separately. 
+FBD of the disc:
+T
+R
+N
+m1g
+m1
+5.5
+ROTATIONAL DYNAMICS
+The relations among torque, angular 
+acceleration, 
+angular 
+momentum, 
+angular velocity and moment of inertia 
+were seen in Section 5.2. In continuation 
+to that, in this section, we will learn the 
+relations among the other dynamical 
+quantities like work, kinetic energy in 
+rotational motion of rigid bodies. Finally 
+a comparison between the translational 
+and rotational quantities is made with a 
+tabulation.
+5.5.1 (IIHFWRI7RUTXHRQ
+Rigid Bodies
+A rigid body which has non zero external 
+torque τ( ) about the axis of rotation would 
+have an angular acceleration α
+( ) about 
+that axis. The scalar relation between the 
+torque and angular acceleration is, 
+ 
+τ
+α
+= I 
+(5.48)
+where, I is the moment of inertia of the rigid 
+body. The torque in rotational motion is 
+equivalent to the force in linear motion. 
+EXAMPLE 5.18
+A disc of mass 500 g and radius 10 cm 
+can freely rotate about a fixed axis as 
+shown in figure. light and inextensible 
+string is wound several turns around 
+it and 100 g body is suspended at its 
+free end. Find the acceleration of this 
+mass. [Given: The string makes the 
+disc to rotate and does not slip over it. 
+g = 10 m s-2.] 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 244
+
+PDF_PAGE: 252
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+244
+Table 5.3 Moment of Inertia of Different Rigid Bodies
+No.
+Object
+About an axis
+Diagram
+Moment of  
+Inertia (I) kg m2
+Radius of Gyration 
+(K)
+Ratio
+ 
+K
+R
+2
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1.
+Thin Uniform Rod
+Mass = M 
+Length = A
+Passing through the center and perpendicular to the length
+1
+12
+2
+Mℓ
+1
+12
+--
+Touching one end and perpendicular to the length
+1
+3
+2
+Mℓ
+1
+3
+2.
+Thin Uniform  
+Rectangular Sheet
+Mass = M;  Length = A; 
+Breadth = b
+Passing through the center and perpendicular to the plane of the 
+sheet
+1
+12
+ M
+b
+(
+)
+ℓ2
+2
+
+(
+)
+ℓ
+12
+2
+2
+ b
+--
+3.
+Thin Uniform Ring
+Mass = M 
+Radius = R
+Passing through the center and perpendicular to the plane
+MR2
+R
+1
+Touching the edge perpendicular to the plane (perpendicular 
+tangent)
+2
+2
+MR
+2
+(
+)R
+2
+Passing through the center lying on the plane (along diameter)
+1
+2 MR2
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟R
+1
+2
+Touching the edge parallel to the plane (parallel tangent)
+3
+2 MR2
+3
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟R
+3
+2
+4.
+Thin Uniform Disc 
+Mass = M 
+Radius = R
+Passing through the center and perpendicular to the plane
+1
+2 MR 
+1
+√2
+R 
+1
+2 
+Touching the edge perpendicular to the plane (perpendicular 
+tangent to the plane)
+3
+2 MR 
+ R   
+3
+2 
+Passing through the center lying on the plane (along diameter)
+1
+4 MR 
+1
+2 R 
+1
+4 
+Touching the edge parallel to the plane (parallel tangent to the 
+plane)
+5
+4 MR 
+R  
+4
+5
+4 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 245
+
+PDF_PAGE: 253
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+245
+5.
+Thin Uniform Hollow 
+Cylinder 
+Mass = M 
+Length = A; Radius = R
+Passing through the center and along the axis of the cylinder
+MR 
+R
+1
+Passing perpendicular to the length  and passing through the center
+M R
+2 + 12 
+ℓ2
+R
+2 + 12 
+ℓ2
+- -
+6.
+Uniform 
+Solid Cylinder 
+Mass = M 
+Length = A; Radius = R
+Passing through the center and along the axis of the cylinder
+1
+2 MR 
+1
+√2
+ 
+1
+2 
+Passing perpendicular to the length  and passing through the center
+M R
+4 + 12 
+ℓ2
+R
+4 + 12 
+ℓ2
+- -
+7.
+Thin Hollow Sphere
+(Thin Spherical Shell)
+Mass = M 
+Radius = R
+Passing through the center 
+(along diameter) 
+2
+3 MR 
+ 
+R  
+2
+3 
+Touching the edge 
+(tangent)
+5
+3 MR 
+ R  
+3
+5
+5
+3 
+8.
+Uniform 
+Solid Sphere
+Mass = M 
+Radius = R
+Passing through the center 
+(along diameter) 
+2
+5 MR 
+R  
+2
+5 
+Touching the edge 
+(tangent)
+7
+5 MR 
+R  
+7
+5 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 246
+
+PDF_PAGE: 254
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+246
+ 
+  m g
+m K
+a
+R
+m a
+2
+1
+2
+2
+2
+−(
+)
+=
+  
+m g
+m K
+a
+R
+m a
+2
+1
+2
+2
+2
+=(
+)
++
+ 
+m g
+m K
+R
+m
+a
+2
+1
+2
+2
+2
+= ⎛
+⎝
+⎜
+⎞
+⎠
+⎟+
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+a
+m
+m K
+R
+m
+g
+=
+⎛
+⎝⎜
+⎞
+⎠⎟+
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+1
+2
+2
+2
+The expression K
+R
+2
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ for a disc rotating 
+about an axis passing through the center 
+and perpendicular to the plane is, K
+R
+2
+2
+1
+2
+ 
+. 
+(Ref Table 5.3) Now the expression for 
+acceleration further simplifies as, 
+  a
+m
+m
+m
+g
+=
+⎛
+⎝⎜
+⎞
+⎠⎟+
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+1
+2
+2
+ ; a
+m
+m
+m
+g
+=
++
+[
+]
+2
+2
+2
+1
+2
+substituting the values, 
+ 
+a =
+×
++
+[
+]
+×
+2 0 1
+0 5
+0 2
+10
+.
+.
+.
+ = 0 2
+0 7
+10
+.
+. u
+ 
+a
+ms
+=
+−
+2 857
+2
+.
+5.5.2  Conservation of 
+Angular Momentum
+When no external torque acts on the body, 
+the net angular momentum of a rotating 
+rigid body remains constant. This is 
+known as law of conservation of angular 
+momentum.
+Its gravitational force (m1g) acts downward 
+and normal force N exerted by the fixed 
+support at the center acts upward. The 
+tension T acts downward at the edge. The 
+gravitational force (m1g) and the normal 
+force (N) cancel each other. m1g = N
+The tension T produces a torque (R T), 
+which produces a rotational motion in the 
+disc with angular acceleration, α =
+⎛
+⎝⎜
+⎞
+⎠⎟
+a
+R . 
+Here, a is the linear acceleration of a point 
+at the edge of the disc. If the moment of 
+inertia of the disc is I and its radius of 
+gyration is K, then 
+ 
+RT
+I
+= α; 
+RT
+m K
+a
+R
+=(
+)
+1
+2
+ 
+T
+m K
+a
+R
+=(
+)
+1
+2
+2
+FBD of the body:
+Its gravitational force (m2g) acts downward 
+and the tension T acts upward. As 
+(T < m2g), there is a resultant force (m2a) 
+acting on it downward.
+T
+m2g
+m2a
+m2
+ 
+m g
+T
+m a
+2
+2
+−
+=
+Substituting for T from the equation for 
+disc,
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 247
+
+PDF_PAGE: 255
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+247
+thus the angular velocity increases resulting 
+in faster spin.
+A diver while in air as in Figure 5.28 
+curls the body close to decrease the moment 
+of inertia, which in turn helps to increase 
+the number of somersaults in air.
+Figure 5.28 Conservation of angular 
+momentum for a diver
+  τ = dL
+dt
+If τ = 0 then, L
+constant
+ 
+ 
+(5.49)
+As the angular momentum is L
+I
+= ω, the 
+conservation of angular momentum could 
+further be written for initial and fi nal 
+situations as,
+ I
+I
+i
+i
+f
+f
+ω
+ω
+=
+ (or) IZ = constant 
+(5.50)
+Th e above equations say that if I increases 
+ω will decrease and vice-versa to keep the 
+angular momentum constant. 
+Th ere are several situations where 
+the principle of conservation of angular 
+momentum is applicable. One striking 
+example is an ice dancer as shown in 
+Figure 5.27. Th e dancer spins slowly when 
+the hands are stretched out and spins faster 
+when the hands are brought close to the 
+body. Stretching of hands away from body 
+increases moment of inertia, thus the angular 
+velocity decreases resulting in slower spin. 
+When the hands are brought close to the 
+body, the moment of inertia decreases, and 
+Figure 5.27 Conservation of angular momentum for ice dancer
+I - large
+ω - small
+I - small
+ω - large
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 248
+
+PDF_PAGE: 256
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+248
+Figure 5.29 Work done by torque
+ 
+dw
+Fds
+ 
+As the distance ds, the angle of rotation dθ 
+and radius r are related by the expression,
+ 
+ds
+rd
+=
+θ
+The expression for work done now becomes, 
+ 
+dw = F ds; dw = F r dθ
+The term (Fr) is the torque τ produced by 
+the force on the body.
+ 
+dw
+d
+= τ θ  
+(5.51)
+This expression gives the work done by the 
+external torque τ, which acts on the body 
+rotating about a fixed axis through an angle dθ. 
+The corresponding expression for work 
+done in translational motion is,  
+ 
+dw
+Fds
+ 
+EXAMPLE 5.19
+A jester in a circus is standing with his 
+arms extended on a turn table rotating with 
+angular velocity ω. He brings his arms closer 
+to his body so that his moment of inertia is 
+reduced to one third of the original value. 
+Find his new angular velocity. [Given: There 
+is no external torque on the turn table in 
+the given situation.]
+Solution
+Let the moment of inertia of the jester 
+with his arms extended be I. As there is 
+no external torque acting on the jester 
+and the turn table, his total angular 
+momentum is conserved. We can write 
+the equation,
+ 
+I
+I
+i
+i
+f
+f
+ω
+ω
+=
+ 
+I
+I
+ω
+ω
+= 1
+3
+f ' I
+I
+f =
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+3
+ 
+ω
+ω
+f = 3
+The above result tells that the final angular 
+velocity is three times that of initial angular 
+velocity.
+5.5.3 :RUNGRQHE\7RUTXH
+Let us consider a rigid body rotating 
+about a fixed axis. Figure 5.29 shows a 
+point P on the body rotating about an axis 
+perpendicular to the plane of the page. A 
+tangential force F is applied on the body.
+It produces a small displacement ds 
+on the body. The work done (dw) by the 
+force is, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 249
+
+PDF_PAGE: 257
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+249
+where, the term 6m r
+i i
+2 is the moment of 
+inertia I of the whole body. I
+m r
+i i
+=Σ
+2
+Hence, the expression for KE of the rigid 
+body in rotational motion is,
+ 
+KE
+I
+= 1
+2
+2
+ω 
+(5.52)
+This is analogous to the expression for 
+kinetic energy in translational motion. 
+ 
+KE
+Mv
+ 1
+2
+2 
+Relation between rotational kinetic energy 
+and angular momentum
+Let a rigid body of moment of inertia I rotate 
+with angular velocity ω.
+The angular momentum of a rigid body 
+is, L
+I
+= ω
+The rotational kinetic energy of the rigid 
+body is, KE
+I
+= 1
+2
+2
+ω
+By multiplying the numerator and 
+denominator of the above equation with I, 
+we get a relation between L and KE as, 
+ 
+KE
+I
+I
+I
+I
+=
+=
+(
+)
+1
+2
+1
+2
+2
+2
+2
+ω
+ω
+ 
+KE
+L
+I
+ 
+2
+2 
+(5.53)
+EXAMPLE 5.20
+Find the rotational kinetic energy of a ring 
+of mass 9 kg and radius 3 m rotating with 
+240 rpm about an axis passing through its 
+center and perpendicular to its plane. (rpm 
+is a unit of speed of rotation which means 
+revolutions per minute)
+5.5.4  Kinetic Energy in 
+Rotation
+Let us consider a rigid body rotating with 
+angular velocity ω about an axis as shown 
+in Figure 5.30. Every particle of the body 
+will have the same angular velocity ω and 
+different tangential velocities v based on its 
+positions from the axis of rotation.
+Figure 5.30 Kinetic energy in rotation
+ω
+m
+Let us choose a particle of mass mi 
+situated at distance ri from the axis of 
+rotation. It has a tangential velocity vi given 
+by the relation, vi = ri ω. The kinetic energy 
+KEi of the particle is, 
+ 
+KE
+m v
+i
+i
+i
+ 1
+2
+2
+Writing the expression with the angular 
+velocity, 
+ 
+KE
+m r
+m r
+i
+i
+i
+i i
+=
+(
+) = (
+)
+1
+2
+1
+2
+2
+2
+2
+ω
+ω
+For the kinetic energy of the whole body, which 
+is made up of large number of such particles, 
+the equation is written with summation as,
+ 
+KE
+m r
+= (
+)
+∑
+1
+2
+2
+2
+i i ω
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 250
+
+PDF_PAGE: 258
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+250
+work done with respect to time, we get the 
+instantaneous power (P). 
+ 
+ P
+dw
+d
+dw
+d )
+=
+=
+=
+dt
+dt
+τ θ
+τ θ
+'(
+ 
+P = τω 
+(5.54)
+The analogous expression for instantaneous 
+power delivered in translational motion is, 
+ 
+P =
+⋅
+G G
+F v
+5.5.6  Comparison of 
+Translational and 
+Rotational Quantities
+Many quantities in rotational motion 
+have expressions similar to that of 
+translational motion. The rotational 
+terms are compared with the translational 
+equivalents in Table 5.4. 
+Table 5.4 Comparison of  Translational and Rotational Quantities
+S.No
+Translational Motion
+Rotational motion about a fixed axis
+ 1
+Displacement, x
+Angular displacement, θ
+ 2
+Time, t
+Time, t
+ 3
+Velocity, v dx
+dt
+Angular velocity, ω = d
+dt
+θ
+ 4
+Acceleration, a dv
+dt
+Angular acceleration, α = d
+dt
+ω
+ 5
+Mass, m
+Moment of inertia, I
+ 6
+Force, F = ma
+Torque, τ = I α
+ 7
+Linear momentum, p = mv
+Angular momentum, L = Iω
+ 8
+Impulse, F Δt = Δp
+Impulse, τΔt = ΔL
+ 9
+Work done, w = F s
+Work done, w = τ θ
+10
+Kinetic energy, KE
+mv
+ 1
+2
+2
+Kinetic energy, KE
+I
+= 1
+2
+2
+ω
+11
+Power, P = F v
+Power, P = τω
+Solution
+The rotational kinetic energy is, KE
+I
+= 1
+2
+2
+ω
+The moment of inertia of the ring is, 
+I MR2
+ 
+I
+kgm
+= ×
+= ×
+=
+9 3
+9 9
+81
+2
+2
+The angular speed of the ring is, 
+ 
+ω
+π
+=
+=
+×
+−
+240
+240 2
+60
+1
+rpm
+rads
+ KE =
+×
+×
+×
+⎛
+⎝⎜
+⎞
+⎠⎟=
+×
+×(
+)
+1
+2 81
+240 2
+60
+1
+2 81
+8
+2
+2
+π
+π
+ KE =
+×
+×
+×( ) =
+×( )
+1
+2 81 64
+2592
+2
+2
+π
+π
+ 
+KE
+J
+≈25920 ' π( ) ≈
+2
+10
+ 
+KE = 25.920 kJ
+5.5.5  Power Delivered by 
+7RUTXH
+Power delivered is the work done per unit 
+time. If we differentiate the expression for 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 251
+
+PDF_PAGE: 259
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+251
+undergo a path which has a combination 
+of the translational and rotational motion. 
+Especially the point on the edge undergoes 
+a path of a cycloid as shown in the 
+Figure 5.31. 
+As the center of mass takes only a 
+straight line path, its velocity vCM is only 
+translational velocity vTRANS (vCM = vTRANS). 
+All the other points have two velocities. 
+One is the translational velocity vTRANS, 
+(which is also the velocity of center of 
+mass) and the other is the rotational 
+velocity vROT (vROT = rω). Here, r is the 
+distance of the point from the center of 
+mass and ω is the angular velocity. The 
+rotational velocity vROT is perpendicular 
+to the instantaneous position vector 
+from the center of mass as shown in 
+Figure 5.32(a). The resultant of these two 
+velocities is v. This resultant velocity v is 
+perpendicular to the position vector from 
+the point of contact of the rolling object 
+5.6
+ROLLING MOTION
+Th e rolling motion is the most commonly 
+observed motion in daily life. Th e motion 
+of wheel is an example of rolling motion. 
+Round objects like ring, disc, sphere etc. are 
+most suitable for rolling . 
+Let us study the rolling of a disc on a 
+horizontal surface. Consider a point P on 
+the edge of the disc. While rolling, the point 
+undergoes translational motion along with 
+its center of mass and rotational motion 
+with respect to its center of mass. 
+5.6.1  Combination of 
+Translation and 
+Rotation
+We will now see how these translational and 
+rotational motions are related in rolling. If 
+the radius of the rolling object is R, in one 
+full rotation, the center of mass is displaced 
+by 2πR (its circumference). One would 
+agree that not only the center of mass, but 
+all the points on the disc are displaced by the 
+same 2πR aft er one full rotation. Th e only 
+diff erence is that the center of mass takes 
+a straight path; but, all the other points 
+Figure 5.31 Rolling is combination of translation and rotation
+Cycloid path followed
+by the point on the rim
+Object rolls one revolution
+without slipping
+2πR
+R
+R
+vcm
+vcm
+vcm
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 252
+
+PDF_PAGE: 260
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+252
+with the surface on which it is rolling as 
+shown in Figure 5.32(b). 
+We shall now give importance to the 
+point of contact. In pure rolling, the point 
+of the rolling object which comes in contact 
+with the surface is at momentary rest. This 
+is the case with every point that is on the 
+edge of the rolling object. As the rolling 
+proceeds, all the points on the edge, one by 
+one come in contact with the surface; remain 
+at momentary rest at the time of contact and 
+then take the path of the cycloid as already 
+mentioned. 
+Hence, we can consider the pure rolling 
+in two different ways.
+ (i)  The combination of translational 
+motion and rotational motion about 
+the center of mass. 
+(or)
+(ii)  The momentary rotational motion 
+about the point of contact.
+As the point of contact is at momentary 
+rest in pure rolling, its resultant velocity v 
+is zero (v = 0). For example, in Figure 5.33, 
+at the point of contact, vTRANS is forward (to 
+right) and vROT is backwards (to the left). 
+(b) with respect to point of contact
+(a) with respect to center of mass
+Figure 5.32 Resultant velocity at a point
+Figure 5.33 In pure rolling, the point of contact is at rest
+Motion of
+the CM plus...
+...motion of
+the CM equals...
+...motion of individuals
+points on the wheel..
+These two velocity
+vectors sum to give
+zero velocity at bottom.
+The bottom of
+the wheel is at
+rest! But only
+for an instant.
+vCM
+vCM
+−vCM
+2vCM
+vCM
+v = 0
+=
+++
+=
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 253
+
+PDF_PAGE: 261
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+253
+5.6.2 Slipping and Sliding
+When the round object moves, it always 
+tends to roll on any surface which has a 
+coefficient of friction any value greater than 
+zero (μ > 0). The friction that enabling the 
+rolling motion is called rolling friction. In 
+pure rolling, there is no relative motion of 
+the point of contact with the surface. When 
+the rolling object speeds up or slows down, 
+That implies that, vTRANS and vROT are equal 
+in magnitude and opposite in direction 
+(v = vTRANS– vROT = 0). Hence, we conclude 
+that in pure rolling, for all the points on the 
+edge, the magnitudes of vTRANS and vROT are 
+equal (vTRANS= vROT). As vTRANS = vCM and 
+vROT = Rω, in pure rolling we have, 
+ 
+vCM = R ω  
+(5.55)
+We should remember the special feature 
+of the equation 5.55. In rotational motion, 
+as per the relation v = rω, the center point 
+will not have any velocity as r is zero. But 
+in rolling motion, it suggests that the 
+center point has a velocity vCM given by 
+equation 5.55.
+For the topmost point, the two velocities 
+vTRANS and vROT are equal in magnitude 
+and in the same direction (to the right). 
+Thus, the resultant velocity v is the sum 
+of these two velocities, v = vTRANS + vROT. 
+In other form, v = 2 vCM as shown in 
+Figure 5.34.
+Perfect wheels were made with percession using conventional tools 
+when sophisticated instruments were not avaliable
+Figure 5.34 Velocity of different 
+point in pure rolling
+CM
+Q
+2vCM
+vCM
+P
+P′
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 254
+
+PDF_PAGE: 262
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+254
+from rest or the vehicle is stuck in mud. In 
+this case, the point of contact has more of 
+vROT than vTRANS. It has a resultant velocity 
+v in the backward direction as shown in 
+Figure 5.36. The kinetic frictional force (fk) 
+opposes the relative motion. Hence it acts 
+in the opposite direction of the relative 
+velocity. This frictional force reduces 
+the rotational velocity and increases the 
+translational velocity till they become equal 
+and the object sets pure rolling. Slipping 
+is sometimes empahasised as backward 
+slipping. 
+Figure 5.36 Slipping
+vROT
+vTRANS
+fk
+v
+EXAMPLE 5.21
+A rolling wheel has velocity of its center of 
+mass as 5 m s-1. If its radius is 1.5 m and 
+angular velocity is 3 rad s-1, then check 
+whether it is in pure rolling or not. 
+it must accelerate or decelerate respectively. 
+If this suddenly happens it makes the rolling 
+object to slip or slide.  
+Sliding
+Sliding is the case when vCM > Rω 
+(or vTRANS > vROT). The translation is more 
+than the rotation. This kind of motion 
+happens when sudden break is applied in a 
+moving vehicles, or when the vehicle enters 
+into a slippery road. In this case, the point 
+of contact has more of vTRANS than vROT. 
+Hence, it has a resultant velocity v in the 
+forward direction as shown in Figure 5.35. 
+The kinetic frictional force (fk) opposes 
+the relative motion. Hence, it acts in the 
+opposite direction of the relative velocity. 
+This frictional force reduces the translational 
+velocity and increases the rotational velocity 
+till they become equal and the object sets 
+on pure rolling. Sliding is also referred as 
+forward slipping. 
+Figure 5.35 Sliding
+vROT
+vTRANS
+fk
+v
+Slipping
+Slipping is the case when vCM < Rω 
+(or vTRANS < vROT). The rotation is more 
+than the translation. This kind of motion 
+happens when we suddenly start the vehicle 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 255
+
+PDF_PAGE: 263
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+255
+I
+MK
+CM 
+2 and vCM = Rω. Here, K is radius 
+of gyration.
+  KE
+Mv
+MK
+v
+=
++ (
+)
+1
+2
+1
+2
+2
+2
+2
+2
+CM
+CM
+R  
+  KE
+Mv
+Mv
+K
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+2
+2
+2
+CM
+CM
+R
+ 
+(5.58)
+  KE
+Mv
+K
+R
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+2
+CM
+  
+(5.59)
+With point of contact as reference:
+We can also arrive at the same expression by 
+taking the momentary rotation happening 
+with respect to the point of contact (another 
+approach to rolling). If we take the point of 
+contact as O, then,
+ 
+KE
+Io
+= 1
+2
+2
+ω  
+Here, Io is the moment of inertia of the object 
+about the point of contact.  By parallel axis 
+theorem, I
+I
+MR
+CM
+o =
++
+2. Further we can 
+write, I
+MK
+MR
+o =
++
+2
+2. With vCM = Rω or 
+ω
+W
+v
+R
+CM
+=
+ 
+KE
+MK
+MR
+v
+=
++
+(
+)
+1
+2
+2
+2
+2
+2
+CM
+R  
+ 
+KE
+Mv
+K
+R
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+2
+CM
+  (5.60)
+As the two equations 5.59 and 5.60 are the 
+same, it is once again confirmed that the 
+Solution
+Translational velocity (vTRANS) or velocity of 
+center of mass, vCM = 5 m s-1
+The radius is, R = 1.5 m and the angular 
+velocity is, ω = 3 rad s-1
+Rotational velocity, vROT = Rω
+ 
+vROT = 1.5×3 
+ 
+vROT = 4.5 m s-1
+As vCM > Rω (or) vTRANS > Rω, It is not in 
+pure rolling, but sliding. 
+5.6.3  Kinetic Energy in Pure 
+Rolling
+As pure is the combination of translational 
+and rotational motion, we can write the total 
+kinetic energy (KE) as the sum of kinetic 
+energy due to translational motion (KETRANS) 
+and kinetic energy due to rotational motion 
+(KEROT).
+ 
+KE
+KE
+KE
+TRANS
+ROT
+=
++
+  
+(5.56)
+If the mass of the rolling object is M, the 
+velocity of center of mass is vCM, its moment 
+of inertia about center of mass is ICM and 
+angular velocity is ω, then
+ 
+KE
+Mv
+ICM
+=
++
+1
+2
+1
+2
+2
+2
+CM
+ω  (5.57)
+With center of mass as reference:
+The moment of inertia (ICM) of a rolling 
+object about the center of mass is, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 256
+
+PDF_PAGE: 264
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+256
+ KE KE
+KE
+K
+R
+K
+TRANS
+ROT
+:
+:
+::
+: :
+1
+1
+2
+2
+2
+2
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+R
+ Now, KE
+KE
+K
+TRANS
+ROT
+:
+:: :1
+2
+2
+R
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+ For a solid sphere, K2
+2
+2
+5
+R 
+ Then, KE
+KE
+TRANS
+ROT
+:
+:: :1 2
+5 or 
+ 
+ 
+ 
+KE
+KE
+TRANS
+ROT
+:
+:: :
+5 2
+5.6.4  Rolling on Inclined 
+Plane
+Let us assume a round object of mass m and 
+radius R is rolling down an inclined plane 
+without slipping as shown in Figure  5.37. 
+There are two forces acting on the object along 
+the inclined plane. One is the component of 
+gravitational force (mg sinθ) and the other is the 
+static frictional force (f). The other component 
+of gravitation force (mg cosθ) is cancelled by 
+the normal force (N) exerted by the plane. As 
+the motion is happening along the incline, we 
+shall write the equation for motion from the 
+free body diagram (FBD) of the object. 
+Figure 5.37 Rolling on inclined 
+plane
+mg sinθ
+f
+R
+N 
+mg cosθ mg
+θ
+θ
+pure rolling problems could be solved by 
+considering the motion as any one of the 
+following two cases. 
+(i)  The combination of translational motion 
+and rotational motion about the center of 
+mass. (or) 
+(ii)  The momentary rotational motion about 
+the point of contact.
+EXAMPLE 5.22
+A solid sphere is undergoing pure rolling. 
+What is the ratio of its translational kinetic 
+energy to rotational kinetic energy?
+Solution
+The expression for total kinetic energy in 
+pure rolling is,
+ 
+KE
+KE
+KE
+TRANS
+ROT
+=
++
+  
+For any object the total kinetic energy as 
+per equation 5.58 and 5.59 is, 
+ 
+KE
+Mv
+Mv
+K
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+2
+2
+2
+CM
+CM
+R
+  
+ 
+KE
+Mv
+K
+R
+=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+2
+1
+2
+2
+2
+CM
+  
+Then, 
+ 1
+2
+1
+1
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+Mv
+K
+R
+Mv
+Mv
+K
+CM
+CM
+CM
+R
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+The above equation suggests that in pure 
+rolling the ratio of total kinetic energy, 
+translational kinetic energy and rotational 
+kinetic energy is given as, 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 257
+
+PDF_PAGE: 265
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+257
+v
+u
+as
+2
+2
+2
+=
++
+. If the body starts rolling from 
+rest, u 0. When h is the vertical height of 
+the incline, the length of the incline s is, 
+s
+h
+sin
+=
+θ
+ 
+v
+g sin
+K
+R
+h
+sin
+gh
+K
+R
+2
+2
+2
+2
+2
+2
+1
+2
+1
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+θ
+θ
+  
+By taking square root,  
+ 
+v
+gh
+K
+R
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+2
+2
+  
+(5.63)
+The time taken for rolling down the incline 
+could also be written from first equation of 
+motion as, v
+u
+at
+=
++
+. For the object which 
+starts rolling from rest, u 0. Then, 
+ 
+t
+v
+ a
+ 
+t
+gh
+K
+R
+K
+R
+g sin
+2
+1
+1
+2
+2
+2
+2
+ 
+t
+h
+K
+R
+g sin
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+2
+2
+2θ
+ 
+(5.64)
+The equation suggests that for a given 
+incline, the object with the least value of 
+radius of gyration K will reach the bottom 
+of the incline first. 
+For translational motion, mg sinθ  is the 
+supporting force and f is the opposing force,
+ 
+mg sinθ _ f = ma 
+(5.61)
+For rotational motion, let us take the 
+torque with respect to the center of the 
+object. Then mg sinθ cannot cause torque as 
+it passes through it but the frictional force f 
+can set torque of Rf.
+ 
+Rf
+I
+= α 
+By using the relation, a = r D, and moment of 
+inertia I
+mK
+ 
+2, we get, 
+ 
+Rf
+mK a
+R ;
+f
+ma K
+R
+=
+=
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2
+2
+Now equation (5.59) becomes, 
+ 
+mg sinθ
+ma K
+R
+ma
+−
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+2
+2
+  
+ 
+mg sin
+ma
+ma K
+R
+θ =
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+2
+2  
+ 
+a
+K
+R
+g sin
+1
+2
+2
++
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+θ 
+After rewriting it for acceleration, we get, 
+ 
+a
+g sin
+K
+R
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+θ
+1
+2
+2
+ 
+(5.62)
+We can also find the expression for final 
+velocity of the rolling object by using third 
+equation of motion for the inclined plane. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 258
+
+PDF_PAGE: 266
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+258
+ 
+t
+h
+K
+R
+g sin
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+2
+2
+2θ
+Th e one with least value of radius of 
+gyration K will take the shortest time to 
+reach the bottom of the inclined plane. 
+Th e order of objects reaching the bottom 
+is fi rst, solid sphere; second, disc; third, 
+hollow sphere and last, ring. 
+EXAMPLE 5.23
+Four round objects namely a ring, a disc, a 
+hollow sphere and a solid sphere with same 
+radius R start to roll down an incline at 
+the same time. Find out which object will 
+reach the bottom fi rst. 
+Solution
+For all the four objects namely the ring, 
+disc, hollow sphere and solid sphere, the 
+radii of gyration K are R, 
+1
+2R, 
+2
+3R , 
+2
+5R (ref Table (5.3)). With numerical 
+values the radius of gyration K are 1R, 
+0.707R, 0.816R, 0.632R respectively. Th e 
+expression for time taken for rolling has 
+the radius of gyration K in the numerator 
+as per equation 5.63
+
+
+A rigid body is the one in which the distances between diff erent particles remain 
+constant.
+
+
+For regular shaped bodies with uniform mass distribution, center of mass always 
+lies at the geometrical center. 
+
+
+Net torque produces turning motion in rigid object.
+
+
+A rigid body is in translational equilibrium if the total external force on it is zero.  It 
+is in rotational equilibrium if the total external torque on it is zero.
+
+
+Th e center of gravity of an extended body is that point where the total gravitational 
+torque on the body is zero.
+
+
+If the external torque acting on the body is zero, the component of angular 
+momentum along the axis of rotation is constant.
+
+
+Th ere are rotational equivalents for all the translational quantities.
+
+
+Rolling motion is the combination of translational and rotational motions.
+
+
+Rolling can also be treated as the momentary rotation about the point of contact.
+
+
+In pure rolling, the total kinetic energy is the sum of kinetic energies of translational 
+and rotational motions.
+
+
+In sliding the translational motion is more than rotational motion.
+
+
+In slipping the rotational motion is more than translational motion.
+SUMMARY
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 259
+
+PDF_PAGE: 267
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+259
+C O N C E P T M A P
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 260
+
+PDF_PAGE: 268
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+260
+EXERCISE  
+I. Multi Choice Question
+ 1. Th e center of mass of a system of 
+particles does not depend upon, 
+(a) position of particles 
+(b) relative distance between particles 
+(c) masses of particles
+(d) force acting on particle
+[AIPMT 1997, AIEEE 2004] 
+ 2. A couple produces,
+(a) pure rotation
+(b) pure translation
+(c) rotation and translation
+(d) no motion
+[AIPMT 1997]
+ 3. A particle is moving with a constant 
+velocity along a line parallel to positive 
+X-axis. Th e magnitude of its angular 
+momentum with respect to the origin is,
+(a) zero
+(b) increasing with x 
+(c) decreasing with x
+(d) remaining constant 
+[IIT 2002]
+ 4. A rope is wound around a hollow 
+cylinder of mass 3 kg and radius 40 
+cm. What is the angular acceleration of 
+the cylinder if the rope is pulled with a 
+force 30 N?
+(a) 0.25 rad s–2  
+(b) 25 rad s–2
+(c) 5 m s–2 
+(d) 25 m s–2.
+[NEET 2017]
+ 5. A closed cylindrical container is 
+partially fi lled with water. As the 
+container rotates in a horizontal plane 
+about a perpendicular 
+bisector, its moment of inertia, 
+(a) increases 
+(b) decreases 
+(c) remains constant 
+(d) depends on direction of rotation.
+[IIT 1998]
+ 6. A rigid body rotates with an angular 
+momentum L. If its kinetic energy is 
+halved, the angular momentum becomes, 
+(a) L 
+(b) L/2
+(c) 2L 
+(d) L/ 2
+[AFMC 1998, AIPMT 2015]
+ 7. A particle undergoes uniform circular 
+motion. Th e angular momentum of the 
+particle remain conserved about, 
+(a) the center point of the circle. 
+(b)  the point on the circumference of 
+the circle.
+(c) any point inside the circle. 
+(d) any point outside the circle.
+[IIT 2003]
+ 8. When a mass is rotating in a plane about 
+a fi xed point, its angular momentum is 
+directed along,
+(a)  a line perpendicular to the plane of 
+rotation
+(b)  the line making an angle of 45° to 
+the plane of rotation
+(c) the radius
+(d) tangent to the path
+[AIPMT 2012]
+ 9. Two discs of same moment of inertia 
+rotating about their regular axis passing 
+through center and perpendicular to
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 261
+
+PDF_PAGE: 269
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+261
+the plane of disc with angular velocities 
+ω1 and ω2. They are brought in to 
+contact face to face coinciding the axis 
+of rotation. The expression for loss of 
+energy during this process is,
+(a) 1
+4 I(ZZ)2 
+(b) I(ZZ)2
+(c) 1
+8
+I(ZZ)2 
+(d) 1
+2 I(ZZ)2
+[NEET 2017]
+ 10. A disc of moment of inertia Ia is rotating 
+in a horizontal plane about its symmetry 
+axis with a constant angular speed ω. 
+Another discinitially at rest of moment 
+of inertia Ib is dropped coaxially on to 
+the rotating disc. Then, both the discs 
+rotate with same constant angular 
+speed. The loss of kinetic energy due to 
+friction in this process is,
+(a) 1
+2
+2
+2
+I
+I
+I
+b
+a
+b
++
+(
+)
+ω 
+(b) 
+I
+I
+I
+b
+a
+b
+2
+2
++
+(
+)
+ω
+(c) I
+I
+I
+I
+b
+a
+a
+b
+−
+(
+)
++
+(
+)
+2
+2
+ω
+(d) 1
+2
+2
+I I
+I
+I
+b b
+a
+b
++
+(
+)
+ω 
+[AIPMT 2001]
+ 11. The ratio of the acceleration for a solid 
+sphere (mass m and radius R) rolling 
+down an incline of angle θ without 
+slipping and slipping down the incline 
+without rolling is,
+(a) 5:7  (b)2:3  (c) 2:5  (d) 7:5
+[AIPMT 2014]
+ 12. From a disc of radius R a mass M, a 
+circular hole of diameter R, whose rim 
+passes through the center is cut. What is 
+the moment of inertia of the remaining 
+part of the disc about a perpendicular 
+axis passing through it
+(a) 15MR2/32 
+(b) 13MR2/32
+(c) 11MR2/32 
+(d) 9MR2/32
+[NEET 2016]
+ 13. The speed of a solid sphere after rolling 
+down from rest without sliding  on an 
+inclined plane of vertical height h is,  
+(a) 
+4
+3 gh 
+(b) 10
+7 gh
+(c) 2gh 
+(d) 1
+2 gh
+ 14. The speed of the center of a wheel 
+rolling on a horizontal surface is vo. A 
+point on the rim in level with the center 
+will be moving at a speed of speed of,
+(a) zero 
+(b) vo
+(c) 2 vo 
+(d) 2vo
+[PMT 1992, PMT 2003, IIT 2004]
+ 15. A round object of mass M and radius 
+R rolls down without slipping along 
+an inclined plane. The fractional force, 
+(a) dissipates kinetic energy as heat. 
+(b) decreases the rotational motion.
+(c)  decreases 
+the 
+rotational 
+and 
+transnational motion 
+(d)  converts transnational energy into 
+rotational energy
+[PMT 2005]
+Answers:
+ 1) d 
+ 2) a 
+ 3) d 
+ 4) b
+ 5) a 
+ 6) d 
+ 7) a 
+ 8) a
+ 9) a 
+10) d 
+11) a 
+12) b
+13) a 
+14) c 
+15) d
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 262
+
+PDF_PAGE: 270
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+262
+II. Short Answer Questions
+ 1. Define center of mass. 
+ 2. Find out the center of mass for the 
+given geometrical structures.
+a) Equilateral triangle
+b) Cylinder c) Square
+ 3. Define torque and mention its unit.
+ 4. What are the conditions in which force 
+can not produce torque?
+ 5. Give any two examples of torque in 
+day-to-day life.
+ 6. What is the relation between torque 
+and angular momentum?
+ 7. What is equilibrium?
+ 8. How do you distinguish between stable 
+and unstable equilibrium?
+ 9. Define couple.
+ 10. State principle of moments.
+ 11. Define center of gravity.
+ 12. Mention any two physical significance 
+of moment of inertia 
+ 13. What is radius of gyration?
+ 14. State conservation of angular  
+momentum.
+ 15. What are the rotational equivalents for 
+the physical quantities, (i) mass and (ii) 
+force?
+ 16. What is the condition for pure rolling?
+ 17. What is the difference between sliding 
+and slipping?
+III. Long Answer Questions
+ 1. Explain the types of equilibrium with 
+suitable examples.
+ 2. Explain the method to find the center of 
+gravity of a irregularly shaped lamina.
+ 3. Explain why a cyclist bends while 
+negotiating a curve road? Arrive at the 
+expression for angle of bending for a 
+given velocity.
+ 4. Derive the expression for moment of 
+inertia of a rod about its center and 
+perpendicular to the rod.
+ 5. Derive the expression for moment 
+of inertia of a uniform ring about an 
+axis passing through the center and 
+perpendicular to the plane.
+ 6. Derive the expression for moment 
+of inertia of a uniform disc about an 
+axis passing through the center and 
+perpendicular to the plane.
+ 7. Discuss 
+conservation 
+of 
+angular 
+momentum with example.
+ 8. State and prove parallel axis theorem.
+ 9. State and prove perpendicular axis 
+theorem.
+ 10. Discuss rolling on inclined plane 
+and arrive at the expression for the 
+acceleration.
+IV. Conceptual Questions
+ 1. When a tree is cut, the cut is made on 
+the side facing the direction in which 
+the tree is required to fall. Why?
+ 2. Why does a porter bend forward while 
+carrying a sack of rice on his back?
+ 3. Why is it much easier to balance a 
+meter scale on your finger tip than 
+balancing on a match stick?
+ 4. Two identical water bottles one empty 
+and the other filled with water are 
+allowed to roll down an inclined plane. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 263
+
+PDF_PAGE: 271
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+263
+Which one of them reaches the bottom 
+first? Explain your answer. 
+ 5. Write the relation between angular 
+momentum and rotational kinetic 
+energy. Draw a graph for the same. 
+For two objects of same angular 
+momentum, compare the moment of 
+inertia using the graph.
+ 6. A rectangle block rests on a horizontal 
+table. A horizontal force is applied on 
+the block at a height h above the table 
+to move the block. Does the line of 
+action of the normal force N exerted 
+by the table on the block depend 
+on h?
+ 7. Three identical solid spheres move 
+down through three inclined planes 
+A, B and C all same dimensions. A is 
+without friction, B is undergoing pure 
+rolling and C is rolling with slipping. 
+Compare the kinetic energies EA, EB 
+and EC at the bottom.
+ 8. Give an example to show that the 
+following statement is false. ‘any 
+two forces acting on a body can be 
+combined into single force that would 
+have same effect’.
+V. Numerical Problems
+ 1. A uniform disc of mass 100g has a 
+diameter of 10 cm. Calculate the total 
+energy of the disc when rolling along a 
+horizontal table with a velocity of 20 cms-1. 
+(take the surface of table as reference)
+Ans: 0.1028 J
+ 2. A particle of mass 5 units is moving 
+with a uniform speed of v = 3 2 units 
+in the XOY plane along the line y = 
+x + 4. Find the magnitude of angular 
+momentum.
+Ans: 60 units
+ 3. A fly wheel rotates with a uniform 
+angular acceleration. If its angular 
+velocity increases from 20p rad/s to 
+40p rad/s in 10 seconds. Find the 
+number of rotations in that period.
+Ans: 150 rotations
+ 4. A uniform rod of mass m and length A 
+makes a constant angle T with an axis 
+of rotation which passes through one 
+end of the rod. Find the moment of 
+inertia about this axis.
+Ans: 1
+12
+2
+2
+MA sin θ
+ 5. Two particles P and Q of mass 1kg and 
+3 kg respectively start moving towards 
+each other from rest under mutual 
+attraction. What is the velocity of their 
+center of mass?
+Ans: Zero
+ 6. Find the moment of inertia of a 
+hydrogen molecule about an axis 
+passing through its center of mass 
+and perpendicular to the inter-atomic 
+axis. Given: mass of hydrogen atom 
+1.7 × 10−27 kg and inter atomic distance 
+is equal to 4 × 10−10m.
+Ans: 1.36 × 10−46 kg m2
+ 7. On the edge of a wall, we build a brick 
+tower that only holds because of the 
+bricks’ own weight. Our goal is to build 
+a stable tower whose overhang    d is 
+greater than the length  A  of a single 
+brick. What is the minimum number 
+of bricks you need? 
+(Hint: Find the center of mass for each 
+brick and add.)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 264
+
+PDF_PAGE: 272
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+264
+How long a skid mark do the wing 
+wheels leave (assume their mass is 
+100 kg which is distributed uniformly, 
+radius is 0.7 m, and the coeffi  cient of 
+friction with the ground is 0.5)?
+Ans: 2.1 m
+ 8. Th e 747 boing plane is landing at a 
+speed of 70m s–1. Before touching the 
+ground, the wheels are not rotating. 
+BOOKS FOR REFERENCE
+ 
+1.  Michael Nelkon and Philip Parker, Advanced Level Physics, 7th Edition, CBS 
+Publishers & Distributers Pvt. Ltd, (2006).
+ 
+2.  David Halliday, Robert Resnick and Jearl Walker,Fundamentals of Physics, 6th Edition, 
+John Wiley & Sons Inc., (2004).
+ 
+3.  H.C. Verma,Concepts of Physics [Part 1], 1st Edition, BharathiBhawan Publishers & 
+Distributers Pvt. Ltd., (2008).
+ 
+4.  Igor Irodov, Problems in General Physics, 3rd Edition, Mir Publishers, Mascow, 
+(2006).
+ 
+5.  Roger A. Freedman, Hugh D. Young, Sears and Zemansky’s University Physics: 
+Mechanics, 12th Edition, Pearson, (2011).
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 265
+
+PDF_PAGE: 273
+
+------------------------------------------------------------
+
+Unit 5 Motion of System of Particles and Rigid Bodies
+265
+Moment of inertia
+Which is harder to rotate: 
+Circular ring or Circular disc?
+STEPS:
+•  Open the browser and type the given URL to open the PhET simulation on Torque. Click the picture 
+link or the download button. Once downloaded, click ok to open the java applet.
+•  Set platform mass 0.1 kg, Outer radius 4 m. (Keep inner radius = 0). Now it is a circular disc. Click the 
+button ‘go’ to get the value of moment of inertia.
+•  Adjust the values of mass and radius and then observe how moment of inertia changes in the middle 
+graph.
+•  Keep the inner and outer radius same (say R = r = 4 m.) and mass 0.1 kg. Now it becomes circular ring. 
+Click the button ‘go’ to start the calculation.
+•  Observe the moment of inertia from the middle graph. Compare the moment of inertia of a circular disc 
+and circular ring with same mass and radius.
+PhET simulation’s URL:
+https://phet.colorado.edu/en/simulation/torque
+* Pictures are indicative only.
+*If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Hint:,IPRPHQWRILQHUWLDLVUHODWLYHO\ODUJHLWLVYHU\GLI¿FXOWWRDFFHOHUDWHLQDQJXODUGLUHFWLRQ
+www.tntextbooks.in

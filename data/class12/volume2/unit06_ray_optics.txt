@@ -1,0 +1,8110 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 6 – Ray Optics
+
+TEXTBOOK_PAGE_RANGE:
+1–52
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 1
+
+PDF_PAGE: 9
+
+------------------------------------------------------------
+
+1
+U N I T 
+6
+RAY OPTICS
+In this unit, the students are exposed to,
+•	 Te ray aspect of light.
+•	 Te phenomenon of refection and refraction of light.
+•	 Te determination of speed of light.
+•	 Te concepts related to mirrors, lenses, prisms etc.
+•	 Te diferent phenomena like dispersion and scattering of light.
+There are two ways of spreading light: to be the candle or the mirror that reflects it. 
+	
+— Edith Wharton
+Learning Objectives
+INTRODUCTION
+Light is mystical. Yet, its behaviour is so 
+fascinating. It is difficult to comprehend light 
+as a single entity. The ray optics deals with 
+light that is represented as a ray travelling 
+in straight lines. Here, the geometrical 
+constructs get the permanence to understand 
+some of the characteristics of light and the 
+phenomena associated with it. There are 
+several other phenomena which can only be 
+explained using wave optics, which we study 
+in the next Unit. There is also a quantum 
+aspect of light which we can study as quantum 
+optics in graduate level courses.
+6.1.1  Ray optics
+Light travels in a straight line in a medium. 
+Light may deviate in its path only when 
+it encounters the boundary of another 
+6.1
+medium (or) an obstacle. A ray of light gives 
+information only about the direction of light. 
+It does not give information about the other 
+characteristics like intensity and colour of light. 
+However, a ray is a sensible representation 
+of light in ray optics. The path of the light 
+is called a ray of light and a bundle of such 
+rays is called a beam of light. In this chapter, 
+we can explain the phenomena of reflection, 
+refraction, dispersion and scattering of light, 
+using the ray depiction of light. 
+6.1.2  Reflection
+The bouncing back of light into the 
+same medium when it encounters a 
+reflecting surface is called reflection of 
+light. Any polished surface can reflect light. 
+Mirrors which are silver coated at their back 
+can reflect almost 90% of the light falling on 
+them. The angle of incidence i and the angle 
+of reflection r are measured with respect to 
+the normal drawn to the surface at the point 
+XII_Physics_Vol-2_UNIT-6_EM.indd   1
+XII_Physics_Vol-2_UNIT-6_EM.indd   1
+26-12-2022   11:37:18
+26-12-2022   11:37:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 2
+
+PDF_PAGE: 10
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+2
+(b)
+Figure 6.2  (a) Regular and (b) irregular 
+refections
+6.1.3  Angle of deviation due 
+to reflection
+The angle between the direction of 
+incident ray and the reflected ray is called 
+angle of deviation due to reflection. It is 
+calculated by a simple geometry as shown 
+in Figure 6.3(a). The incident light is AO. 
+The reflected light is OB. The un-deviated 
+light is OC which is the continuation of 
+the incident light. The angle between OB 
+and OC is the angle of deviation d. From 
+the geometry, it is written as, d = 180 – 
+(i+r). As, i = r in reflection, we can write 
+angle of deviation in reflection as, 
+d = 180 – 2i
+(6.2)
+The angle of deviation can also 
+be measured in terms of the glancing 
+angle α which is measured between the 
+incident ray AO and the reflecting plane 
+surface XY as shown in Figure 6.3(b). 
+By geometry, the angles ∠AOX = α, 
+∠BOY = α and ∠YOC = α (all are same). 
+The angle of deviation d is the angle 
+∠BOC. Therefore, 
+d = 2α
+(6.3)
+of incidence of light. According to laws of 
+reflection, 
+(i)	 The incident ray, reflected ray and normal 
+to the reflecting surface are all coplanar 
+(ie. lie in the same plane).
+(ii)	The angle of incidence i is equal to the 
+angle of reflection r. 
+i = r
+(6.1)
+The law of reflection is shown in 
+Figure 6.1. 
+Figure 6.1  Refection of light
+A
+N
+B
+i
+r
+X
+Y
+Silvered
+O
+Te laws of refection are valid at each 
+point for any refecting surface whether the 
+surface is fat (or) curved. If the refecting 
+surface is fat, then incident parallel rays 
+afer refection come out as parallel rays 
+as shown in Figure 6.2(a). If the refecting 
+surface is irregular, then the incident 
+parallel rays afer refection come out as 
+irregular rays (not parallel rays). Still the 
+laws of refection are valid at every point of 
+incidence in irregular refection as shown 
+in Figure 6.2(b).
+(a)
+XII_Physics_Vol-2_UNIT-6_EM.indd   2
+XII_Physics_Vol-2_UNIT-6_EM.indd   2
+26-12-2022   11:37:18
+26-12-2022   11:37:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 3
+
+PDF_PAGE: 11
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+3
+∠R1OR2 = ∠N'OR2 – ∠N'OR1 = (i+θ) – (i–θ)
+∠R1OR2 = 2θ.
+i
+i
+i–θ
+i+θ
+i+θ
+θ
+2θ
+θ
+R1
+R2
+N
+A'
+A
+B'
+B
+N'
+I
+O
+6.1.4  Image formation in 
+plane mirror
+Let us consider a point object A placed in 
+front of a plane mirror. The point of incidence is 
+O on the mirror as shown in the Figure. 6.4(a). 
+Figure 6.3  Angle of deviation due to 
+refection
+i
+r
+O
+C
+A
+N
+B
+X
+Y
+(a)
+d=180-2i
+O
+C
+A
+N
+B
+X
+Y
+(b)
+d=2
+
+
+
+EXAMPLE 6.1
+Prove that for the same incident light when 
+a reflecting surface is tilted by an angle θ, the 
+reflected light will be tilted by an angle 2θ. 
+Solution
+AB is the reflecting surface as shown in the 
+Figure. Both the incident ray IO and the 
+reflected ray OR1 subtend angle i with the 
+normal N as the angle of incidence is equal 
+to angle of reflection. When the surface AB is 
+tilted to ¢ ¢
+A B by an angle θ, the normal N is also 
+is tilted to 
+′
+N by the same angle θ. Remember 
+that the position of the incident ray IO remains 
+unaltered. But the reflected ray now is OR2.
+Now, in the tilted system, the angle of 
+incidence, ∠N'OI = i+θ and the angle of 
+reflection, ∠N'OR2 = i+θ are the same. The 
+angle between ON' and OR1 is, ∠N'OR1 = 
+i – θ. The angle tilted on the reflected light 
+is the angle between OR1 and OR2 which is 
+∠R1OR2. From the geometry we can write,
+i
+i
+O
+A
+A
+B
+D
+b
+b
+(a)
+Plane mirror
+N
+Object
+distance
+Image
+distance
+do
+di
+Eye
+Object
+Virtual
+image
+Plane mirror
+(b)
+Figure 6.4  Formation of image in plane 
+mirror for (a) point and (b) extended objects
+XII_Physics_Vol-2_UNIT-6_EM.indd   3
+XII_Physics_Vol-2_UNIT-6_EM.indd   3
+26-12-2022   11:37:19
+26-12-2022   11:37:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 4
+
+PDF_PAGE: 12
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+4
+Table 6.1  Image by inclined mirrors
+360
+θ
+
+
+
+
+
+
+Te position of  
+object placed
+Number of  
+images n
+Even
+Symmetrical
+n =
+−
+
+
+
+
+
+
+360
+1
+q
+Unsymmetrical
+n =
+−
+
+
+
+
+
+
+360
+1
+q
+Odd
+Symmetrical
+n =
+−
+
+
+
+
+
+
+360
+1
+q
+Unsymmetrical
+n =
+
+
+
+
+
+360
+q
+Figure 6.5  Images formed by inclined 
+mirrors
+EXAMPLE 6.2
+What is the height of the mirror needed for 
+a person to see his/her image fully on the 
+mirror?
+Solution
+Let us assume a person of height h is 
+standing in front of a vertical plane mirror. 
+The person could see his/her head when 
+light from the head falls on the mirror and 
+gets reflected to the  eyes. Same way, light 
+from the feet falls on the mirror and gets 
+reflected to the eyes.  
+A light ray AO from the point object is incident 
+on the mirror and it is reflected along OB. The 
+normal is ON. 
+The angle of incidence ∠AON = angle of 
+reflection ∠BON 
+Another ray AD incident normally on the 
+mirror at D is reflected back along DA. When 
+BO and AD are extended backwards, they meet 
+at a point A'. Thus, the rays appear to come from 
+a point A' which is behind the plane mirror. The 
+object and its image are at equal perpendicular 
+distances from the plane mirror which can be 
+shown by the following explanation.
+Angle ∠AON = angle ∠DAO  [Since they 
+are alternate angles]
+Angle ∠BON = angle ∠O ¢
+A D [Since they 
+are corresponding angles]
+Hence, it follows that angle, ∠DAO =  
+∠O ¢
+A D
+The triangles ∆ODA and ∆OD ¢
+A are 
+congruent
+∴ AD = ¢
+A D
+This shows that the image distance di 
+inside the plane mirror is equal to the object 
+distance do in front of the plane mirror. 
+The image formed by the plane mirror for 
+extended object is shown in Figure 6.4(b).
+6.1.5  Characteristics of the 
+image formed by plane mirror
+(i)	 The image formed by a plane mirror 
+is virtual, erect and laterally inverted 
+sidewise (left / right). 
+(ii)	 The size of the image is equal to the size 
+of the object. 
+(iii)	The image distance behind the mirror is 
+equal to the object distance in front of the 
+mirror.
+(iv)	If an object is placed between two plane 
+mirrors inclined at an angle θ, then the 
+number of images n formed is given in 
+Table 6.1 the images formed are shown 
+in Figure 6.5.
+XII_Physics_Vol-2_UNIT-6_EM.indd   4
+XII_Physics_Vol-2_UNIT-6_EM.indd   4
+26-12-2022   11:37:20
+26-12-2022   11:37:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 5
+
+PDF_PAGE: 13
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+5
+Centre of curvature: The centre of 
+the sphere of which the mirror is a part 
+is called the centre of curvature C of the 
+mirror. 
+Radius of curvature: The radius of the 
+sphere of which the spherical mirror is a 
+part is called the radius of curvature R of the 
+mirror. 
+Pole: The middle point on the spherical 
+surface of the mirror (or) the geometrical 
+centre of the mirror is called pole P of the 
+mirror (or) optic centre. 
+Principal axis: The line joining the pole 
+P and the centre of curvature C is called the 
+principal axis of the mirror. The light ray 
+travelling along the principal axis towards 
+the mirror after reflection travels back along 
+the same principal axis. It is also called 
+optical axis
+Object
+Image
+Mirror
+H
+H'
+F'
+(h1+h2)/2
+i1
+i2
+i2
+i1
+h1
+h1/2
+                   
+h1/2
+                   
+h2/2
+                   
+h2/2
+                   
+E
+h2
+F
+If the distance between his head H and eye 
+E is h1 and distance between his feet F and 
+eye E is h2. The person’s total height is, h. 
+Here it is, h = h1 + h2
+By the law of reflection, the angle of 
+incidence and angle of reflection are the 
+same for the two extreme reflections. The 
+normals are now the bisectors of the angles 
+between the incident and the reflected rays 
+at the two points. By geometry, the height 
+of the mirror needed is only half of the 
+height of the person. h
+h
+h
+1
+2
+2
+2
++
+=
+Does the height depend on the distance 
+between the person and the mirror?
+SPHERICAL MIRRORS
+We shall now study about the reflections 
+that take place in spherical surfaces. 
+A spherical surface is a part cut from 
+a hollow sphere. Spherical mirrors are 
+generally constructed using glass. One 
+surface of the glass is silvered. The reflection 
+takes place at the other surface which is 
+polished. If the polished surface of the 
+mirror is convex it is called as convex 
+mirror. These are shown in Figure 6.6. 
+We shall get familiarised with some of 
+the terminologies pertaining to spherical 
+mirrors. 
+6.2
+C
+P
+P
+A
+B
+B
+A
+Hollow sphere
+Reﬂecting
+surface
+Spherical mirrors
+Figure 6.6  Spherical mirrors
+Outer reﬂective
+A convex mirrors
+Inner reﬂective
+A concave mirrors
+XII_Physics_Vol-2_UNIT-6_EM.indd   5
+XII_Physics_Vol-2_UNIT-6_EM.indd   5
+26-12-2022   11:37:21
+26-12-2022   11:37:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 6
+
+PDF_PAGE: 14
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+6
+Focus (or) Focal point: Light rays 
+travelling parallel and close to the principal 
+axis when incident on a spherical mirror, 
+converge at a point for concave mirror (or) 
+appear to diverge from a point for convex 
+mirror on the principal axis. This point is 
+called the focus (or) focal point F of the mirror. 
+Focal length: The distance between the 
+pole P and the focus F is called the focal 
+length f of the mirror. 
+Focal plane: The plane through the focus 
+and perpendicular to the principal axis is 
+called the focal plane of the mirror.
+All the above mentioned terms are 
+shown in Figure 6.7 for both concave and 
+convex mirrors.
+C
+F
+P
+f
+R
+(a)
+P
+F
+f
+C
+R
+(b)
+Figure 6.7  Representation of terminologies 
+for (a) concave and (b) convex mirrors
+6.2.1  Paraxial Rays and 
+Marginal Rays
+The paraxial rays are the rays which 
+travel very close to the principal axis and 
+make small angles with it. They fall on the 
+mirror very close to the pole. On the other 
+hand, the marginal rays are the rays which 
+travel far away from the principal axis 
+and make large angles with it. They fall on 
+the mirror far away from the pole. These 
+two rays behave differently (get focused at 
+different points) as shown in Figure 6.8. In 
+this chapter, we shall restrict our studies 
+only to paraxial rays. As the angles made 
+by the paraxial rays are very small, we can 
+make good approximations.
+C
+F
+Marginal rays
+Paraxial rays
+Principal axis
+P
+Figure 6.8  Paraxial and marginal rays
+6.2.2  Relation between  
+f and R
+Let C be the centre of curvature of the 
+mirror. Consider a ray of light parallel to 
+the principal axis is incident on the mirror 
+at M. It passes through the principal focus 
+F after reflection. The geometry related 
+to this is shown in Figure 6.9(a). The line 
+CM is the normal to the mirror at M. Let 
+i be the angle of incidence and the same 
+will be the angle of reflection. 
+XII_Physics_Vol-2_UNIT-6_EM.indd   6
+XII_Physics_Vol-2_UNIT-6_EM.indd   6
+26-12-2022   11:37:21
+26-12-2022   11:37:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 7
+
+PDF_PAGE: 15
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+7
+PF is focal length f and PC is the radius 
+of curvature R.
+2
+2
+f
+R
+R
+=
+=
+(or)
+f
+
+(6.4)
+Equation (6.4) is the relation between f 
+and R. The construction is shown for convex 
+mirror in figure 6.9(b)
+6.2.3  Image formation in 
+spherical mirrors
+The image formed by spherical mirror 
+can be found by ray construction called 
+image tracing. To locate an image point, 
+a minimum of two rays must meet at that 
+point. We can use at least any two of the 
+following four rays as shown in Figure 6.10.
+A
+B
+C
+F
+P
+(a)
+A
+B
+C
+F
+P
+(c)
+A
+B
+C
+(b)
+F
+P
+A
+B
+C
+F
+P
+(d)
+Figure 6.10  Image tracing
+(i)	 A ray parallel to the principal axis 
+after reflection will pass (or appear 
+to pass) through the principal focus. 
+(Figure 6.10(a))
+(ii)	 A ray passing (or appear passing) 
+through the principal focus, after 
+reflection will travel parallel to the 
+principal axis. (Figure 6.10(b))
+(iii)	A ray passing through the centre 
+of curvature retraces its path after 
+reflection as it is a normal incidence.
+(Figure 6.10(c))
+If MP is the perpendicular from M to the 
+principal axis, then
+The angles ∠MCP = i and ∠MFP = 2i
+From right angle triangles ∆MCP and 
+∆MFP, we can write,	
+tani
+PM
+PC
+=
+ and tan2i
+PM
+PF
+=
+As the angles are small, tani
+i
+≈ and 
+tan 2i ≈ 2i,
+i
+PM
+PC
+=
+ and 2i
+PM
+PF
+=
+Simplifying further, 	
+2
+2
+PM
+PC
+PM
+PF
+PF
+PC
+=
+=
+;
+C
+F
+P
+M
+i
+i
+i
+2i
+(a) Concave mirror
+M
+P
+i
+i
+i
+2i
+F
+C
+(b) Convex Mirror
+Figure 6.9  Relation between f and R
+XII_Physics_Vol-2_UNIT-6_EM.indd   7
+XII_Physics_Vol-2_UNIT-6_EM.indd   7
+26-12-2022   11:37:24
+26-12-2022   11:37:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 8
+
+PDF_PAGE: 16
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+8
+6.2.5  Mirror equation
+The mirror equation establishes a relation 
+among object distance u, image distance v 
+and focal length f for a spherical mirror.
+An object AB is considered on the 
+principal axis of a concave mirror beyond 
+the centre of curvature C. The image 
+formation is shown in the Figure 6.12. Let 
+us consider three paraxial rays from point 
+B on the object. The first paraxial ray BD 
+travells parallel to the principal axis. It is 
+incident on the concave mirror at D, close 
+to the pole P. It is reflected back through 
+the focus F. The second paraxial ray BP is 
+incident at the pole P. It is reflected along 
+PB´. The third paraxial ray BC passing 
+through centre of curvature C, falls normally 
+on the mirror at E. It is reflected back along 
+the same path. The three reflected rays 
+intersect at the point 
+′
+B . A perpendicular 
+drawn as 
+′
+′
+A B to the principal axis gives 
+the real, inverted image.
+A'
+B'
+C
+P
+A
+B
+D
+E
+F
+Figure 6.12  Mirror equation
+As per law of reflection, the angle of 
+incidence ∠BPA is equal to the angle of 
+reflection ∠
+′
+′
+B PA .
+The triangles ∆BPA and ∆
+′
+′
+B PA are 
+similar. Thus, from the rule of similar 
+triangles, 
+′ ′ =
+′
+A B
+AB
+PA
+PA 
+(6.5)
+The other set of similar triangles are, 
+∆DPF and ∆
+′ ′
+B A F. (PD is almost a straight 
+vertical line)
+(iv)	A ray falling on the pole will get 
+reflected as per law of reflection 
+keeping principal axis as the normal. 
+(Figure 6.10(d))
+6.2.4  Cartesian sign 
+convention
+While tracing the image, we would 
+normally come across the object distance 
+u, the image distance v, the object height h, 
+the image height ′h , the focal length f and 
+the radius of curvature R. A system of signs 
+for these quantities must be followed so that 
+the relations connecting them are consistent 
+in all types of physical situations. We shall 
+follow the Cartesian sign convention which 
+is now widely used. It is given below and 
+also shown in Figure 6.11.
+(i)	 The Incident light is taken as if it is 
+travelling from left to right (i.e. object 
+on the left of mirror).
+(ii)	 All the distances are measured from the 
+pole of the mirror (pole is taken as origin). 
+(iii)	The distances measured to the right of 
+pole along the principal axis are taken 
+as positive. 
+(iv)	The distances measured to the left of 
+pole along the principal axis are taken 
+as negative. 
+(v)	 Heights measured upwards perpendicular 
+to the principal axis are taken as positive. 
+(vi)	Heights 
+measured 
+downwards 
+perpendicular to the principal axis, are 
+taken as negative. 
+Pole (P)
+Height upwards 
+(Positive)
+Height downwards
+(Negative)
+Incident light
+Distance to the lef
+(Negative)
+Distance to the right
+(Positive)
+Figure 6.11  Cartesian sign convention
+XII_Physics_Vol-2_UNIT-6_EM.indd   8
+XII_Physics_Vol-2_UNIT-6_EM.indd   8
+26-12-2022   11:37:25
+26-12-2022   11:37:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 9
+
+PDF_PAGE: 17
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+9
+The equation (6.8) is called mirror 
+equation. Although this equation is derived 
+for a special situation shown in Figure 
+(6.12), it is also valid for all other situations 
+with any spherical mirror. This is because 
+proper sign convention is followed for u, v 
+and f in equation (6.7). 
+6.2.6  Lateral magnification 
+in spherical mirrors
+The lateral (or) transverse magnification 
+m is defined as the ratio of the height of 
+the image to the height of the object.The 
+height of the object and image are measured 
+perpendicular to the principal axis.
+magnification
+heightof theimage
+heightof theobject
+( )
+( )
+( )
+m
+h
+h
+=
+′
+m
+h
+h
+=
+′
+(6.9)
+Applying proper sign conventions for 
+equation (6.5),
+′ ′ =
+′
+A B
+AB
+PA
+PA
+′ ′ =−′
+=
+′ =−
+=−
+A B
+h
+PA
+v PA
+u
+,AB
+h,
+,
+−′ = −
+−
+h
+h
+v
+u
+On simplifying we get, 
+m
+h
+h
+v
+u
+=
+′ =−
+(6.10)
+Using mirror equation, we can further 
+write the magnification as, 
+m
+h
+h
+f
+v
+f
+f
+f
+u
+=
+′ =
+−
+=
+−
+(6.11)
+The students are advised 
+to refresh themselves with 
+the image tracing for the 
+concave and convex mirrors for various 
+predetermined positions of the object; 
+the position of image, nature of image 
+etc., from 9th Standard, Science Book .
+Note
+′ ′ =
+′
+A B
+PD
+A F
+PF
+As, PD = AB the above equation becomes, 
+′ ′ =
+′
+A B
+AB
+A F
+PF 
+(6.6)
+From equations (6.5) and (6.6) we can 
+write,
+PA
+PA
+A F
+PF
+′ =
+′
+As, 
+′
+′
+A F=PA - PF  , the above equation 
+becomes,
+PA
+PA
+PA
+PF
+PF
+′ =
+′−
+
+(6.7)
+PA, PA' and PF are mere distances; 
+here we use sign conventions so that the 
+expression that is derived will be a general 
+one. The general expression thus obtained 
+will be valid for the situations other than the 
+one shown in figure.
+∴ substituting PA = –u, PA' = –v and 
+PF = –f in equation (6.7),
+PA
+u
+PA
+v
+PF
+f
+=−
+′ =−
+=−
+,
+,
+All the three distances are negative as per 
+sign convention, because they are measured 
+to the left of the pole. Now, the equation 
+(6.7) becomes,
+−
+−= −−−
+−
+v
+u
+v
+f
+f
+(
+)
+On further simplification,
+v
+u
+v
+f
+f
+v
+u
+v
+f
+=
+−
+=
+−
+;
+1
+Dividing both sides with v,
+1
+1
+1
+u
+f
+v
+=
+−
+After rearranging, 
+1
+1
+1
+v
+u
+f
++
+=
+
+(6.8)
+XII_Physics_Vol-2_UNIT-6_EM.indd   9
+XII_Physics_Vol-2_UNIT-6_EM.indd   9
+26-12-2022   11:37:28
+26-12-2022   11:37:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 10
+
+PDF_PAGE: 18
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+10
+Solution 
+longitudinal
+magniﬁcation
+ml
+lengthof image
+lengthof object
+( ) =
+(l´)
+(l)
+Given: length of object, l = f
+3
+For the given condition, the image 
+formation is shown in the figure.
+A'
+B'
+A
+B
+uA = vA= 2f = R
+f/3
+F
+uB
+vB
+l'
+P
+Rod
+Image 
+l'
+l
+C
+Image
+Let, l' be the length of the image, then
+m
+l
+l
+l
+f
+l
+m f
+l
+l
+= ′ =
+′
+′ =
+/
+(
+3
+3
+ or)
+Image of one end coincides with the 
+respective end of object. Thus, the coinciding 
+end must be at centre of curvature.
+u
+u
+f
+f
+f
+f
+B
+A
+=
+−
+=
+−
+=
+3
+2
+3
+5
+3
+v
+u
+l
+l
+v
+f
+f
+m f
+f
+m
+B
+B
+B
+l
+l
+=
++ +
+=
++
++
+=
++
+’
+(
+)
+5
+3
+3
+3
+6
+3
+Mirror equation,	
+1
+1
+1
+v
+u
+f
++
+=
+1
+6
+3
+1
+5
+3
+1
+−
++
+
+
+
+
+
+
++
+−
+
+
+
+
+
+= −
+f
+m
+f
+f
+l
+(
+)
+After simplifying, 	
+3
+6
+3
+5
+1
+3
+6
+2
+5
+f
+m
+f
+f
+m
+l
+l
+(
+)
+;(
+)
++
++
+=
++
+=
+	
+6
+15
+2
+15
+2
+6
++
+=
+=
+−
+m
+m
+l
+l
+;
+ml =
+=
+3
+2
+1 5.
+EXAMPLE 6.3
+An object is placed at a distance of 20.0 cm 
+from a concave mirror of focal length 15.0 cm. 
+(a) What distance from the mirror a screen 
+should be placed to get a sharp image? 
+(b) What is the nature of the image?
+Solution
+Given, f = –15 cm, u = –20 cm 
+(a)	
+Mirror equation,	
+1
+1
+1
+v
+u
+f
++
+=
+Rewriting to find v, 	
+1
+1
+1
+v
+f
+u
+=
+−
+Substituting for f and u, 1
+1
+15
+1
+20
+v = −
+−−
+1
+20
+15
+300
+5
+300
+1
+60
+v = −
+−−
+= −
+= −
+(
+)
+(
+)
+v
+cm
+=−60 0. 
+The screen is to be placed at distance 60.0 
+cm to the left of the concave mirror.
+(b)	
+Magnification, m
+h
+h
+v
+u
+=
+′ =− 
+m
+h
+h
+=
+′ =−−
+−
+=−
+(
+)
+(
+)
+60
+20
+3
+As the sign of magnification is negative, 
+the image is inverted.
+As the magnitude of magnification is 3, the 
+image is enlarged three times.
+As the image is formed to the left of the 
+concave mirror, the image is real.
+EXAMPLE 6.4
+A thin rod of length f /3 is placed along 
+the optical axis of a concave mirror of 
+focal length f such that one end of image 
+which is real and elongated just touches 
+the respective end of the  rod. Calculate 
+the longitudinal magnification.
+XII_Physics_Vol-2_UNIT-6_EM.indd   10
+XII_Physics_Vol-2_UNIT-6_EM.indd   10
+26-12-2022   11:37:32
+26-12-2022   11:37:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 11
+
+PDF_PAGE: 19
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+11
+in the wheel will get reflected by a mirror 
+M kept at a long distance d, about 8 km 
+from the toothed-wheel. If the toothed-
+wheel was not rotating, the light reflected 
+back from the mirror would again pass 
+through the same cut and reach the eyes 
+of the observer who looks through the 
+partially silvered glass plate.
+Working: The angular speed of rotation 
+of the toothed-wheel was increased from 
+zero to a value ω until the light passing 
+through one cut would completely be 
+blocked by the adjacent tooth. This is 
+ensured by the disappearance of the light 
+while looking through the partially silvered 
+glass plate. 
+Expression for speed of light:  The speed 
+v of light in air is equal to the ratio of the 
+distance 2d (the distance light travelled 
+from the toothed-wheel to the mirror and 
+back), to the time taken t.
+v = 2d
+t 
+(6.12)
+The distance d is a known value from 
+the arrangement. The time t taken for the 
+SPEED OF LIGHT
+Light travels with the highest speed in 
+vacuum. The speed of light in vacuum is 
+denoted as c and its value is, c = 3 × 108 m s-1. 
+The earliest attempt to determine the speed 
+of light was made by a French scientist 
+Hippolyte Fizeau (1819–1896). That paved 
+way for the other scientists too to determine 
+the speed of light. 
+6.3.1  Fizeau’s method to 
+determine speed of light
+Apparatus:  The apparatus used by 
+Fizeau for determining speed of light in 
+air medium is shown in Figure 6.13. The 
+light from the source S was first allowed 
+to fall on a partially silvered glass plate 
+G kept at an angle of 45o to the incident 
+light. The light then was allowed to pass 
+through a rotating toothed-wheel with N 
+teeth and N cuts of equal widths whose 
+speed of rotation could be varied through 
+an external mechanism (not shown in the 
+Figure). The light passing through one cut 
+6.3
+Observer
+G
+Partially
+silvered
+glass plate
+Toothed
+wheel
+S
+Light 
+source
+M
+d
+
+Tooth
+Slot
+45o
+Figure 6.13  Speed of light by Fizeau’s method
+XII_Physics_Vol-2_UNIT-6_EM.indd   11
+XII_Physics_Vol-2_UNIT-6_EM.indd   11
+26-12-2022   11:37:33
+26-12-2022   11:37:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 12
+
+PDF_PAGE: 20
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+12
+After the disappearance 
+of light for the first time 
+while increasing the speed 
+of rotation of the toothed-wheel 
+from zero to ω, on further increasing 
+the speed of rotation to 2ω, the 
+light would appear again due to the 
+passing of reflected light through 
+the next slot. So, for every odd value 
+of ω, light would disappear (stopped 
+by tooth) and for every even value 
+of ω light would appear (allowed by 
+slot).
+Note
+6.3.2  Speed of light through 
+vacuum and different media
+Scientists like Foucault (1819–1868) 
+and Michelson (1852–1931) introduced 
+different transparent media like glass, 
+water etc., in the path of light to find 
+the speed of light in different media. 
+Even evacuated glass tubes were also 
+introduced in the path of light to find the 
+speed of light in vacuum. It was found 
+that light travels with lesser speed in any 
+medium than its speed in vacuum. The 
+speed of light in vacuum was determined 
+as, c = 3 × 108 m s-1. We could notice that 
+the speed of light in vacuum and speed of 
+light in air are almost same. 
+6.3.3  Refractive index
+Refractive index of a transparent 
+medium is defined as the ratio of speed of 
+light in vacuum c to the speed of light in 
+that medium v. 
+refractive 
+index n of a 
+medium
+= speedof lightinvacuum
+speedof lightinmedium
+( )
+( )
+c
+v
+light to travel the distance 2d is calculated 
+from the angular speed ω of the toothed-
+wheel.
+The angular speed ω (with unit rad s–1) 
+of the toothed-wheel  when the light 
+disappeared for the first time is,  
+w
+q
+= t 
+(6.13)
+Here, θ is the angle between one tooth 
+and the next slot which is turned within that 
+time t.
+q = total angle of the circle in radian
+numberof teeth+number of cuts
+q
+p
+p
+= 2
+2N
+N
+=
+Substituting θ in equation (6.13),
+w
+p
+p
+= 
+/ N
+t
+Nt
+=
+	
+Rewriting the above equation for t, 
+t
+N
+= p
+w 
+(6.14)
+Substituting this in equation (6.12),  
+v =
+2d
+N
+p
+w
+/
+After rearranging,
+v = 2dNw
+p
+
+(6.15)
+Fizeau had some difficulty to visually 
+estimate the minimum intensity of the light 
+when it is blocked by the adjacent tooth. The 
+value of speed of light determined by him 
+was very close to the actual value. Later on, 
+with the same idea of Fizeau and with much 
+sophisticated instruments, the speed of light in 
+air was determined as, v = 2.99792 × 108 m s–1.
+XII_Physics_Vol-2_UNIT-6_EM.indd   12
+XII_Physics_Vol-2_UNIT-6_EM.indd   12
+26-12-2022   11:37:34
+26-12-2022   11:37:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 13
+
+PDF_PAGE: 21
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+13
+Ethyl alcohol
+1.36
+Quartz
+1.46
+Vegetable oil
+1.47
+Olive oil
+1.48
+Acrylic
+1.49
+Table salt
+1.51
+Glass
+1.52
+Sapphire
+1.77
+Zircon
+1.92
+Qubic zirconia
+2.16
+Diamond
+2.42
+Gallium phosphide
+3.50
+6.3.4  Optical path
+Optical path of a medium is defined as 
+the distance d' light travels in vacuum in 
+the same time it travels a distance d in the 
+medium.
+Let us consider a medium of refractive 
+index n and thickness d. Light travels with 
+a speed v through the medium in a time t. 
+The speed of light through the medium is 
+written as, 
+v
+v
+=
+=
+d
+t
+t
+t
+d
+;
+,
+rewrittenfor  as
+In the same time t, light can cover a 
+longer distance d' in vacuum as it travels 
+with greater speed c in vacuum. It is shown 
+in Figure 6.14. Now, we can wrtite,
+d
+Medium of refractive index n
+Vacuum of refractive index 1
+d' = n d
+Figure 6.14  Optical path
+n
+c
+= v 
+(6.16)
+Refractive index of a transparent 
+medium gives an idea about the speed of 
+light in that medium.
+EXAMPLE 6.5
+Pure water has refractive index 1.33. What 
+is the speed of light through it?
+Solution
+n
+c
+c
+n
+=
+=
+v
+v
+;
+v = ×
+=
+×
+3 10
+1 33
+2 26 10
+8
+8
+.
+.
+ms -1
+Light travels with a speed of 2.26 × 108 m s-1 
+through pure water. 
+Refractive index does not have a unit. 
+The smallest value of refractive index is for 
+vacuum, which is 1. For any other medium 
+refractive index is greater than 1. Refractive 
+index is also called as optical density of the 
+medium. Higher the refractive index of a 
+medium, lesser is the speed of light through 
+it and vice-versa. [Note: optical density 
+should not be confused with mass density 
+of the material of the medium. They two are 
+different entities]. The Table 6.2 shows the 
+refractive indices of different transparent 
+media.
+Table 6.2  Refractive index of media
+Media
+Refractive index
+Vacuum
+1.00
+Air
+1.0003
+Carbon dioxide gas
+1.0005
+Ice
+1.31
+Pure water
+1.33
+XII_Physics_Vol-2_UNIT-6_EM.indd   13
+XII_Physics_Vol-2_UNIT-6_EM.indd   13
+26-12-2022   11:37:36
+26-12-2022   11:37:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 14
+
+PDF_PAGE: 22
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+14
+(c) optical path, 
+	
+′ =
+=
+×
+=
+=
+d
+nd
+1 5
+0 5
+0 75
+75
+.
+.
+.
+m
+cm
+Light would have travelled an additional 
+25 cm (75 cm – 50 cm) in vacuum at the 
+same time had there been no glass slab in 
+its path.
+REFRACTION
+Refraction is passing of light from 
+one optical medium to another optical 
+medium 
+through 
+a 
+boundary. 
+In 
+refraction, the angle of incidence i in one 
+medium and the angle of refraction r in the 
+other medium are measured with respect 
+to the normal drawn to the surface at the 
+point of incidence of light. According to 
+laws of refraction,
+(i)	 The incident ray, refracted ray and 
+normal to the refracting surface 
+are all coplanar (ie. lie in the same 
+plane).
+(ii)	 The ratio of sine of angle of incident i 
+in the first medium to the sine of angle 
+of refraction r in the second medium 
+is equal to the ratio of refractive 
+index n2 of the second medium to 
+the refractive index n1 of the first 
+medium. 
+sin
+sin
+i
+r
+n
+n
+=
+2
+1
+
+(6.18)
+The above equation is in the ratio 
+form. It can also be written in a product 
+form as, 
+n
+i
+n
+r
+1
+2
+sin
+sin
+=
+
+(6.19)
+6.4
+c
+d
+t
+=
+′ ; rewritten for t as, t
+d
+c
+=
+′
+As the time taken in both the cases is the 
+same, we can equate the time t, 
+′ =
+d
+c
+d
+v
+Rewritten for the optical path d' as, ′ =
+d
+c d
+v
+As, c
+n
+v = ;  the optical path d' is,
+′ =
+d
+nd
+(6.17)
+The value of n is always greater than 1, 
+for a medium. Thus, the optical path d' of a 
+medium is always greater than d. 
+EXAMPLE 6.6
+Light travels from air into a glass slab of 
+thickness 50 cm and refractive index 1.5.
+(a) What is the speed of light in the glass 
+slab?
+(b) What is the time taken by the light to 
+travel through the glass slab? 
+(c) What is the optical path of the glass slab?
+Solution
+Given, thickness of glass slab, d = 50 cm = 
+0.5 m, refractive index, n = 1.5
+refractive index, n
+c
+= v
+(a) speed of light in the glass slab is, 
+	
+v =
+= ×
+= ×
+−
+c
+n
+3 10
+1 5
+2 10
+8
+8
+1
+.
+ms
+(b) time taken by light to travel through 
+the glass slab is, 
+	
+t
+d
+=
+= ×
+=
+×
+−
+v
+0 5
+2 10
+2 5 10
+8
+9
+.
+.
+s
+XII_Physics_Vol-2_UNIT-6_EM.indd   14
+XII_Physics_Vol-2_UNIT-6_EM.indd   14
+26-12-2022   11:37:38
+26-12-2022   11:37:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 15
+
+PDF_PAGE: 23
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+15
+On the other hand, if light travels from 
+denser to rarer medium, it deviates away 
+from normal as shown in Figure 6.17. The 
+angle of deviation in this case is, 
+d = r – i 
+(6.21)
+i
+r
+n1>n2
+n1
+n2
+d=r-i
+Figure 6.17  Angle of deviation due to 
+refraction from denser to rarer medium
+6.4.2  simultaneous 
+reflection (or) refraction 
+In any refracting surface there will also 
+be some reflection taking place. Thus, the 
+intensity of refracted light will be lesser than 
+the incident light. The phenomenon in which 
+a part of light from a source undergoing 
+reflection and the other part of light from 
+the same source undergoing refraction 
+at the same surface is called simultaneous 
+reflection (or) simultaneous refraction. This 
+is shown in Figure 6.18. Such surfaces are 
+available as partially silvered glasses.
+i
+i
+Normal
+Incident ray 
+Reﬂected ray
+Refracted ray
+n2
+r
+Reﬂecting surface
+Refracted ray
+Figure 6.18  Simultaneous refection (or) 
+refraction
+The law of refraction is also known as 
+Snell's law.
+The refraction at a boundary is shown in 
+Figure 6.15.
+n1
+n2
+i
+r
+n2
+Figure 6.15  Refraction of light
+For normal incidence of light 
+on a surface, the angle of 
+incidence is zero. 
+Note
+6.4.1  Angle of deviation due 
+to refraction
+The angle between the direction of 
+incident ray and the refracted ray is called 
+angle of deviation due to refraction. When 
+light travels from rarer to denser medium, it 
+deviates towards normal as shown in Figure 
+6.16. The angle of deviation in this case is, 
+d = i – r
+(6.20)
+i
+r
+d=i-r
+n1<n2
+n1
+n2
+Figure 6.16  Angle of deviation due to 
+refraction from rarer to denser medium
+XII_Physics_Vol-2_UNIT-6_EM.indd   15
+XII_Physics_Vol-2_UNIT-6_EM.indd   15
+26-12-2022   11:37:39
+26-12-2022   11:37:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 16
+
+PDF_PAGE: 24
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+16
+6.4.4  Relative refractive 
+index
+In equation (6.18), the term n
+n
+2
+1
+
+
+
+
+
+ is called 
+relative refractive index of second medium 
+with respect to the first medium which is 
+denoted as n21. 
+n
+n
+n
+21
+2
+1
+=
+
+(6.22)
+The concept of relative refractive index 
+gives rise to other useful relations such as, 
+(i)	 Inverse rule: 
+n
+n
+n
+n
+n
+n
+12
+21
+1
+2
+2
+1
+1
+1
+=
+=
+ (or) 
+/
+
+(6.23)
+(ii)	 Chain rule: 
+n
+n
+n
+n
+n
+n
+n
+n
+n
+32
+31
+12
+3
+2
+3
+1
+1
+2
+=
+×
+=
+×
+ or 
+(
+)
+
+(6.24)
+6.4.3  Principle of 
+reversibility 
+The  principle of reversibility  states 
+that light will follow exactly the same path 
+if its direction of travel is reversed. This 
+is true for both reflection and refraction as 
+shown in Figure 6.19.
+i
+r
+i
+r
+(a)
+Plane Mirror
+i
+r
+Rarer (1)
+Denser (2)
+i
+r
+Rarer (1)
+Denser (2)
+Plane Mirror
+(b)
+Figure 6.19  Principle of reversibility in 
+(a) refection and (b) refraction
+Production 
+of 
+optical 
+surfaces capable of refracting 
+as well as reflecting is possible 
+by properly coating the surfaces with 
+suitable materials. Thus, a glass can be 
+made partially see through and partially 
+reflecting. These glasses are commercially 
+called as two-way mirror, half-silvered 
+mirror, semi-silvered mirror etc. This 
+gives a perception of regular mirror if the 
+other side is made dark. But, still hidden 
+cameras can be kept behind such mirrors. 
+We need to be cautious when we stand in 
+front of mirrors kept in unknown places. There is a 
+method to test the two way mirror. Place the finger 
+nail on the mirror surface. If there is a gap between 
+nail and its image, then it is a regular mirror. If the 
+fingernail directly touches its image, then it is a two 
+way mirror. 
+20%
+80%
+CAN SEE 
+THROUGH
+CAN’T SEE 
+THROUGH
+LIGHT RATIO
+Reﬂective Silver
+20 Grade Flim
+Normal mirror
+Two way mirror
+XII_Physics_Vol-2_UNIT-6_EM.indd   16
+XII_Physics_Vol-2_UNIT-6_EM.indd   16
+26-12-2022   11:37:40
+26-12-2022   11:37:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 17
+
+PDF_PAGE: 25
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+17
+EXAMPLE 6.7
+Light travelling through transparent oil 
+enters in to glass of refractive index 1.5. If the 
+refractive index of glass with respect to the oil 
+is 1.25, what is the refractive index of the oil?
+Solution
+Given, ngo =1.25 and ng =1.5
+Refractive index of glass with respect to oil, 
+n
+n
+n
+go
+g
+o
+=
+Rewriting for refractive index of oil, 
+n
+n
+n
+o
+g
+go
+=
+=
+=
+1 5
+1 25
+1 2
+.
+.
+.
+The refractive index of oil is, no = 1.2
+6.4.5  Apparent depth
+It is a common observation that the 
+bottom of a tank filled with water appears to 
+be raised when seen from air medium above 
+as shown in Figure 6.19(a). An equation 
+could be derived for the apparent depth when 
+viewed in the near normal direction.
+Light from the object O at the bottom 
+of the tank passes from denser medium 
+(water) to rarer medium (air) to reach our 
+eyes for viewing the object as shown in 
+Figure 6.20 (b). It deviates away from the 
+normal in the rarer medium at the point of 
+incidence B as shown in Figure 6.20 (c). The 
+refractive index of the denser medium is n1 
+and that of rarer medium is n2. Here, n1 > n2. 
+The angle of incidence in the denser 
+medium is i and the angle of refraction in 
+the rarer medium is r. The lines NN′ and 
+OD are parallel. Thus, the angle ∠DIB is also 
+r. The angles i and r are very small as the 
+diverging light from O entering the eye is 
+very narrow. The Snell’s law in product form 
+for this refraction from equation (6.19) is,
+(a)
+Air
+Water
+Real
+depth
+I
+A
+D
+B
+O
+P
+Q
+Q'
+P'
+Apparent
+depth
+(b)
+Air
+Water
+I
+D
+B
+O
+d'
+N'
+d
+N
+n1
+n2
+r
+r
+i
+i
+C
+(c)
+Figure 6.20  Apparent depth
+n
+i
+n
+r
+1
+2
+sin
+sin
+=
+As the angles i and r are small, we can 
+approximate, sin i ≈ tan i and sin r ≈ tan r.
+n
+i
+n
+r
+1
+2
+tan
+tan
+=
+In triangles ∆DOB and ∆DIB, 
+tan
+tan
+i
+DB
+DO
+r
+DB
+DI
+=
+=
+ and 
+XII_Physics_Vol-2_UNIT-6_EM.indd   17
+XII_Physics_Vol-2_UNIT-6_EM.indd   17
+26-12-2022   11:37:42
+26-12-2022   11:37:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 18
+
+PDF_PAGE: 26
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+18
+n DB
+DO
+n DB
+DI
+1
+2
+=
+DB is cancelled both sides. Now, DO is 
+the actual depth d and DI is the apparent 
+depth d'.
+n d
+n d
+1
+2
+1
+1
+=
+′     After rearranging,
+′ =
+d
+d
+n
+n
+2
+1
+
+(6.25)
+Rewriting the above equation for the 
+apparent depth d',
+′ =
+d
+n
+n d
+2
+1
+
+(6.26)
+As the rarer medium is air, its refractive 
+index n2 can be taken as 1, (n2=1). And 
+the refractive index n1 of denser medium 
+could then be taken as n itself, (n1=n). 
+Now, the equation for apparent depth 
+becomes, 
+′ =
+d
+d
+n 
+(6.27)
+The bottom appears to be elevated by 
+d-d', 
+d
+d
+d
+d
+n
+−′ =
+− or 
+d
+d
+d
+n
+−′ =
+−
+
+
+
+
+
+
+1
+1 
+(6.28)
+Atmospheric refraction: Due to refraction of light through different 
+layers of atmosphere which vary in refractive index, the path of light deviates 
+continuously when it passes through the atmosphere. For example, the Sun is 
+visible a little before the actual sunrise and also until a little after the actual sunset due to 
+refraction of light through the atmosphere. What we mean by actual sunrise is the actual 
+crossing of the sun at the horizon. Figure shows the actual and apparent positions of the 
+sun with respect to the horizon. The figure is highly exaggerated to show the effect. The 
+apparent shift in the direction of the sun is around half a degree and the corresponding 
+time difference between the actual and apparent positions is about 2 minutes. Sun appears 
+flattened (oval shaped) during sun rise and sunset due to the same phenomenon.
+The same is also applicable for the positions of stars as shown in Figure. Actually, the 
+stars do not twinkle. They appear twinkling because of the movement of the atmospheric layers 
+with varying refractive indices which is clearly seen in the night sky.
+Apparent
+Position of sun
+Actual
+Position of sun
+Horizon
+Atmosphere
+XII_Physics_Vol-2_UNIT-6_EM.indd   18
+XII_Physics_Vol-2_UNIT-6_EM.indd   18
+26-12-2022   11:37:45
+26-12-2022   11:37:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 19
+
+PDF_PAGE: 27
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+19
+the denser medium. As angle of incidence i is 
+gradually increased, r rapidly increases and at 
+a certain stage r becomes 90° and the refracted 
+ray will be gracing the boundary. The angle 
+of incidence in the denser medium for 
+which the angle of refraction is 90° (or) the 
+refracted ray graces the boundary between 
+the two media is called critical angle ic.
+If the angle of incidence in the denser 
+medium is increased beyond the critical angle, 
+there is no refraction possible in to the rarer 
+medium. For any angle of incidence greater 
+than the critical angle, the entire light is 
+reflected back into the denser medium itself. 
+This phenomenon is called total internal 
+reflection. These are shown in Figure 6.21. 
+The two conditions for total internal 
+reflection to take place are, 
+(i)	 light must travel from denser to rarer 
+medium, 
+(ii)	 angle of incidence in the denser medium 
+must be greater than critical angle (i>ic).
+For critical angle of incidence, the Snell’s law 
+in the product form, equation (6.19) becomes, 
+n
+i
+n
+c
+1
+2
+90
+sin
+sin
+=
+
+(6.29)
+n
+i
+n
+c
+1
+2
+90
+1
+sin
+sin
+=
+=
+∵
+
+sini
+n
+n
+c =
+2
+1
+
+(6.30)
+Here, n
+n
+1
+2
+>
+If the rarer medium is air, then its 
+refractive index n2 is 1, (n2=1) and the 
+refractive index of the denser medium n1 is 
+taken as n itself, (n1=n) then,
+sini
+n
+c = 1 (or) i
+n
+c =
+
+
+
+
+
+
+−
+sin 1 1 
+(6.31)
+The critical angle ic depends on the 
+refractive index n of the medium. Table 6.3 
+shows the refractive index and the critical 
+angle for different materials. 
+EXAMPLE 6.8
+A coin is at the bottom of a trough 
+containing three immiscible liquids of 
+refractive indices 1.3, 1.4 and 1.5 poured 
+one above the other of heights 30 cm, 16 
+cm, and 20 cm respectively. What is the 
+apparent depth at which the coin appears 
+to be when seen from air medium outside? 
+In which medium the coin will appear?
+Solution
+When seen from (air medium) on top, the 
+coin will still appear to be at the bottom 
+with each medium appearing to have 
+shrunk with respect to the air medium 
+outside. This situation is illustrated below.
+d= 66 cm
+d'= 47.8 cm
+d1=30 cm
+d1'=23.1 cm
+d2'=11.4 cm
+d3'=13.3 cm
+d2=16cm
+d3=20cm
+n2=1.4
+n1=1.5
+n3=1.3
+n3=1.5
+n2=1.4
+n1=1.3 
+Coin
+Coin
+The equations for apparent depth for each 
+medium is, 
+′ =
+′ =
+′ =
+d
+d
+n
+d
+d
+n
+d
+d
+n
+1
+1
+1
+2
+2
+2
+3
+3
+3
+;
+;
+′ = ′+ ′ + ′ =
++
++
+d
+d
+d
+d
+d
+n
+d
+n
+d
+n
+1
+2
+3
+1
+1
+2
+2
+3
+3
+′ =
++
++
+=
++
++
+d
+30
+1 3
+16
+1 4
+20
+1 5
+23 1
+11 4
+13 3
+.
+.
+.
+.
+.
+.
+′ =
+d
+47 8. cm
+6.4.6  Critical angle and total 
+internal reflection
+When a ray passes from an optically denser 
+medium to an optically rarer medium, it bends 
+away from the normal. Because of this, the angle 
+of refraction r in the rarer medium is greater 
+than the corresponding angle of incidence i in 
+XII_Physics_Vol-2_UNIT-6_EM.indd   19
+XII_Physics_Vol-2_UNIT-6_EM.indd   19
+26-12-2022   11:37:47
+26-12-2022   11:37:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 20
+
+PDF_PAGE: 28
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+20
+Table 6.3  Refractive index and 
+critical angle for diferent media
+Material
+Refractive 
+index
+Critical 
+Angle
+Ice
+1.310
+49.8°
+Water
+1.333
+48.6°
+Fused Quartz
+1.458
+43.3°
+Crown Glass
+1.541
+40.5°
+Flint Glass
+1.890
+31.9°
+Calcite
+1.658
+37.0°
+Strontium Titanate 
+2.394
+24.7°
+Diamond
+2.417
+24.4°
+Rutile
+2.621
+22.4°
+For example the refractive index of 
+glass is about 1.5. The critical angle for 
+glass-air interface is, ic =
+
+
+
+
+
+=
+−
+sin
+.
+. .
+1
+1
+1 5
+41 8 
+The refractive index of water is 1.33. The 
+critical angle for water-air interface is, 
+ic =
+
+
+
+
+
+=
+−
+sin
+.
+. .
+1
+1
+1 3
+48 6 
+6.4.7  Effects due to total 
+internal reflection
+6.4.7.1  Glittering of diamond
+Diamond appears dazzling because of 
+the total internal reflection of light that 
+happens inside the diamond. The refractive 
+index of diamond is about 2.417. It is much 
+greater than the refractive index of ordinary 
+glass which is about only 1.5. The critical 
+angle of diamond is about 24.4°. It is much 
+less than that of ordinary glass. A skilled 
+diamond cutter makes use of this larger 
+range of angle of  incidence (24.4° to 90° 
+inside the diamond), to ensure that light 
+entering the diamond is total internally 
+reflected from the many cut faces before 
+getting out as shown in Figure 6.22. This 
+gives a sparkling effect for diamond.
+Critical angle
+Air Diamond
+Total
+Reﬂection
+Figure 6.22  Total internal refection in 
+diamond
+i
+r
+n2
+n1
+(i>ic)
+(i = ic)
+Air
+Water
+Critical angle
+Refraction
+Total internal
+reﬂection
+r = 90
+i
+i
+r = i
+Figure 6.21  Critical angle and total internal refection
+XII_Physics_Vol-2_UNIT-6_EM.indd   20
+XII_Physics_Vol-2_UNIT-6_EM.indd   20
+26-12-2022   11:37:48
+26-12-2022   11:37:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 21
+
+PDF_PAGE: 29
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+21
+6.4.7.2  Mirage and looming
+The refractive index of air increases 
+with its density. In hot places, air near 
+the ground is hotter than air at a height. 
+Hot air is less dense. Hence, in still air 
+the refractive index of air increases with 
+height. Because of this, the light from tall 
+objects like a tree, try to pass through a 
+medium whose refractive index decreases 
+towards the ground. Hence, the ray of light 
+successively deviates away from the normal 
+at different layers of air and undergoes 
+total internal reflection when the angle 
+of incidence near the ground exceeds the 
+critical angle. This gives an illusion as if 
+the light comes from somewhere below 
+the ground. Because of the shaky nature 
+of the layers of air, the observer feels as if 
+the object is getting reflected by a pool of 
+water (or) wet surface beneath the object as 
+shown in Figure 6.23(a). This phenomenon 
+is called mirage.
+In the cold places the refractive index 
+increases towards the ground because 
+the temperature of air close to the 
+ground is lesser than the temperature 
+at a height above the surface of earth. 
+Thus, the density and refractive index 
+of air close to the ground is greater than 
+for air at a height. In the cold regions 
+like glaciers and frozen lakes, the reverse 
+effect of mirage will happen. Hence, an 
+inverted image is formed little above the 
+surface as shown in Figure 6.23(b). This 
+phenomenon is called looming. It is also 
+called as superior mirage, towering and 
+stooping.
+6.4.7.3  Prisms making using of total 
+internal reflection
+Prisms can be designed to reflect 
+light by 90o (or) by 180o  by making 
+use 
+of 
+total 
+internal 
+reflection 
+as 
+shown in Figure 6.24(a) and 6.24(b). 
+Denser
+Earth
+Rarer
+Sky
+(b)
+Figure 6.23  (a) Mirage and (b) looming
+Denser
+i>ic
+o
+E
+Earth
+Rarer
+(a)
+A
+B
+(a)
+A'
+B'
+45°
+90°
+45°
+45°
+B
+A
+A'
+B'
+(c)
+B
+A
+45°
+45°
+90°
+B'
+A'
+(b)
+Figure 6.24  Prisms making use of total 
+internal refection
+XII_Physics_Vol-2_UNIT-6_EM.indd   21
+XII_Physics_Vol-2_UNIT-6_EM.indd   21
+26-12-2022   11:37:50
+26-12-2022   11:37:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 22
+
+PDF_PAGE: 30
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+22
+(a)
+ic
+ic
+(b)
+Figure 6.26  (a) Snell’s window and  
+(b) angle of view for water animals
+The angle of view for water animals is 
+restricted to twice the critical angle 2ic. The 
+critical angle for water is 48.6o. Thus the angle 
+of view is 97.2o. The radius R of the circular area 
+depends on the depth d from which it is seen 
+and also the refractive index n of the medium. 
+The radius R of Snell’s window can be deduced 
+with the illustration as shown in Figure 6.27.
+d
+C
+R
+r=90°
+ic
+ic
+n1
+n2
+A
+B
+Figure 6.27  Radius of Snell’s window
+In the first two cases, the critical angle ic 
+for the material of the prism must be less 
+than 45o. Prism in Figure 6.24(b) inverts 
+the object on the same side. Prism in 
+Figure 6.24(c) inverts the object on the 
+other side.
+6.4.7.4  Radius of illumination  
+(Snell’s window)
+Figure 6.25  Light source inside water tank
+When a source of light like electric bulb 
+is kept inside a water tank, the light from 
+the source travels in all direction inside the 
+water. The light that is incident on the water 
+surface at an angle less than the critical 
+angle will undergo refraction and emerge 
+out from the water. The light incident at 
+an angle greater than critical angle will 
+undergo total internal reflection.The light 
+falling particularly at critical angle graces 
+the surface. Thus, the entire surface of water 
+appears illuminated when seen from outside 
+as shown in Figure 6.25. 
+On the other hand, when the light 
+entering the water from outside is seen from 
+inside the water, the view is restricted to a 
+particular angle equal to the critical angle 
+ic. The restricted illuminated circular area 
+is called Snell’s window as shown in Figure 
+6.26(a).The Figure 6.26(b) shows the angle 
+of view for water animals.
+XII_Physics_Vol-2_UNIT-6_EM.indd   22
+XII_Physics_Vol-2_UNIT-6_EM.indd   22
+26-12-2022   11:37:51
+26-12-2022   11:37:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 23
+
+PDF_PAGE: 31
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+23
+    R
+d
+n
+R
+d
+n
+=
+−
+
+
+
+
+
+
+=
+−
+1
+1
+1
+2
+2
+(
+)
+or
+ (6.36)
+EXAMPLE 6.9
+What is the radius of the illumination 
+when seen above from inside a swimming 
+pool from a depth of 10 m on a sunny day? 
+What is the total angle of view? [Given, 
+refractive index of water is 4/3]
+Solution
+Given, n = 4/3, d = 10 m.
+Radius of illumination, R
+d
+n
+=
+−
+2
+1
+R =
+−
+=
+×
+−
+10
+4 3
+1
+10
+3
+16
+9
+2
+( / )
+R =
+=
+30
+7
+11 32
+.
+m
+To find the critical angle, 
+i
+n
+c =
+
+
+
+
+
+
+−
+sin 1 1
+ic =
+
+
+
+
+
+=
+
+
+
+
+
+=
+−
+−
+sin
+/
+sin
+.
+1
+1
+1
+4 3
+3
+4
+48 6
+The total angle of view of the cone is, 
+2
+2
+48 6
+97 2
+ic = ×
+=
+.
+.
+
+
+6.4.7.5 Optical fibre
+Transmitting the signals through optical 
+fibres is possible due to the phenomenon 
+of total internal reflection. Optical fibres 
+consist of inner part called core and outer 
+part called cladding (or) sleeving. The 
+refractive index of the core must be higher 
+than that of the cladding for total internal 
+reflection to happen. Signal in the form of 
+light is made to incident inside the core-
+cladding boundary at an angle greater than 
+Light is seen from a point A at a depth 
+d. The Snell’s law in product form, equation 
+(6.19), for the refraction happening at the 
+point B on the boundary between the two 
+media is,
+n
+i
+n
+c
+1
+2
+0
+90
+sin
+sin
+=
+
+(6.32)
+n
+i
+n
+c
+1
+2
+0
+90
+1
+sin
+sin
+=
+=
+
+sini
+n
+n
+c =
+2
+1
+
+(6.33)
+From the right angle triangle ∆ABC, 
+sini
+CB
+AB
+R
+d
+R
+c =
+=
++
+2
+2 
+(6.34)
+Equating the above two equations (6.33) 
+and (6.34), 
+R
+d
+R
+n
+n
+2
+2
+2
+1
++
+=
+Squaring on both sides, 
+R
+R
+d
+n
+n
+2
+2
+2
+2
+1
+2
++
+=
+
+
+
+
+
+
+Taking reciprocal,  R
+d
+R
+n
+n
+2
+2
+2
+1
+2
+2
++
+=
+
+
+
+
+
+
+Further simplifying, 
+1
+1
+2
+2
+1
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+1
++
+=
+
+
+
+
+
+
+=
+
+
+
+
+
+−
+=
+d
+R
+n
+n
+d
+R
+n
+n
+d
+R
+n
+;
+;
+n
+n
+n
+n
+2
+1
+2
+2
+2
+2
+2
+2
+1
+−=
+−
+Again taking reciprocal and rearranging,
+R
+d
+n
+n
+n
+R
+d
+n
+n
+n
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+=
+−
+=
+−
+
+
+
+
+
+
+;
+After taking the squre root, the radius of 
+illumination is, 
+R
+d
+n
+n
+n
+=
+−
+(
+)
+2
+2
+1
+2
+2
+2 
+(6.35)
+If the rarer medium outside is air, then, 
+n2 = 1 and we can take n1=n 
+XII_Physics_Vol-2_UNIT-6_EM.indd   23
+XII_Physics_Vol-2_UNIT-6_EM.indd   23
+26-12-2022   11:37:56
+26-12-2022   11:37:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 24
+
+PDF_PAGE: 32
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+24
+A
+B
+n3
+n2
+n2
+n1
+r=90°
+i2
+ia
+C
+n1
+ra
+ic
+(a)
+Acceptance Cone
+(b)
+Figure 6.29  (a) acceptance angle and  
+(b) acceptance cone 
+The 
+Snell’s 
+law 
+in 
+the 
+product 
+form, equation (6.19), for this refraction 
+at the point A is,
+n
+i
+n
+r
+a
+a
+3
+1
+sin
+sin
+=
+
+(6.37)
+To have the total internal reflection inside 
+the optical fibre, the angle of incidence at the 
+core-cladding interface at B should be atleast 
+critical angle ic. Snell’s law in the product 
+form, equation (6.19), for the refraction at 
+point B is, 
+n
+i
+n
+c
+1
+2
+90
+sin
+sin
+=
+o
+(6.38)
+n
+i
+n
+c
+1
+2
+sin
+=
+   
+sin90
+1
+° =
+∴
+=
+sini
+n
+n
+c
+2
+1
+
+(6.39)
+From the right angle triangle ∆ABC, 
+i
+r
+c
+a
+=
+°−
+90
+Now, equation (6.39) becomes,
+the critical angle. Hence, it advances with 
+repeated total internal reflections inside 
+the optical fibre without undergoing any 
+refraction. The light travels inside the core 
+with no appreciable loss in the intensity of 
+the light as shown in Figure 6.28(a). While 
+bending the optical fibre, it is done in such 
+a way that the condition for total internal 
+reflection is ensured at every reflection 
+inside the fibre as shown in Figure 6.28(b). 
+6.4.7.6 Acceptance angle in optical fibre
+To ensure the critical angle incidence 
+in the core-cladding boundary inside the 
+optical fibre, the light should be incident 
+at a certain angle called acceptance angle at 
+the end of the optical fibre while entering 
+into it. It depends on the refractive indices 
+of the core n1, cladding n2 and the outer 
+medium n3. Assume that the light is incident 
+at an angle called acceptance angle ia at the 
+outer medium-core boundary at A as shown 
+in Figure 6.29(a). 
+(a)
+Total internal reﬂection
+Cladding has lower
+refractive index
+Core has higher
+refractive index
+(b)
+Figure 6.28  Optical fbre
+XII_Physics_Vol-2_UNIT-6_EM.indd   24
+XII_Physics_Vol-2_UNIT-6_EM.indd   24
+26-12-2022   11:37:57
+26-12-2022   11:37:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 25
+
+PDF_PAGE: 33
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+25
+NA
+i
+n
+n
+a
+=
+=
+−
+sin
+1
+2
+2
+2 
+(6.47)
+EXAMPLE 6.10
+A optical fibre is made up of a core 
+material with refractive index 1.68 and 
+a cladding material of refractive index 
+1.44. What is the acceptance angle of the 
+fibre if it is kept in air medium without 
+any cladding?
+Solution
+Given, n1 = 1.68,  n2 = 1.44,  n3 = 1
+Acceptance angle,  i
+n
+n
+a =
+−
+(
+)
+−
+sin 1
+1
+2
+2
+2 
+ia =
+−
+(
+)=
+−
+−
+sin
+( .
+)
+( .
+)
+sin ( .
+)
+1
+2
+2
+1
+1 68
+1 44
+0 865
+ia ≈ 60°
+If there is no cladding then, n2 = 1
+Acceptance angle,  i
+n
+a =
+−
+(
+)
+−
+sin 1
+1
+2
+1
+ia =
+−
+(
+)=
+−
+−
+sin
+( .
+)
+sin ( .
+)
+1
+2
+1
+1 68
+1
+1 35
+sin−(
+)
+1
+1
+more than 
+is not possible. But, this 
+includes the range 0o to 90o. Hence, all the 
+rays entering the core from flat surface will 
+undergo total internal reflection.
+Note: If there is no cladding then there is 
+a condition on the refractive index (n1) of 
+the core. 
+i
+n
+a =
+−
+(
+)
+−
+sin 1
+1
+2
+1
+Here, 
+as 
+per 
+mathematical 
+rule, 
+n
+or
+n
+1
+2
+1
+2
+1
+1
+2
+−
+(
+)≤
+( )≤ 
+	
+or	
+n1
+2
+£
+Hence, in air (no cladding) the refractive 
+index n1 of the core should be, n1
+1 414
+£ .
+sin 90
+2
+1
+−
+(
+)=
+r
+n
+n
+a
+ (or) cosr
+n
+n
+a =
+2
+1
+ (6.40)
+sin
+cos
+r
+r
+a
+a
+=
+−
+1
+2
+Substituting for cos ra 
+sinr
+n
+n
+n
+n
+n
+a =
+−
+
+
+
+
+
+=
+−
+1
+2
+1
+2
+1
+2
+2
+2
+1
+2
+
+(6.41)
+Substituting this in equation (6.37).
+n sin
+3
+1
+1
+2
+2
+2
+1
+2
+1
+2
+2
+2
+i
+n
+n
+n
+n
+n
+n
+a =
+−
+=
+−
+
+(6.42)
+On further simplification, 
+ sin
+(
+) sin
+i
+n
+n
+n
+i
+n
+n
+n
+a
+a
+=
+−
+=
+−
+1
+2
+2
+2
+1
+2
+2
+2
+2
+3
+3
+or
+(6.43)
+i
+n
+n
+n
+a =
+−
+
+
+
+
+
+
+−
+sin 1
+1
+2
+2
+2
+2
+3
+
+(6.44)
+If outer medium is air, then n3 = 1. The 
+acceptance angle ia becomes, 
+i
+n
+n
+a =
+−
+(
+)
+−
+sin 1
+1
+2
+2
+2 
+(6.45)
+Light can have any angle of incidence 
+from 0 to ia with  the normal at the end of the 
+optical fibre forming a conical shape called 
+acceptance cone as shown in Figure 6.29(b). 
+In the equation (6.42), the term (n3 sin ia) is 
+called numerical aperture NA of the optical 
+fibre.
+NA
+n
+i
+n
+n
+a
+=
+=
+−
+3
+1
+2
+2
+2
+sin
+
+(6.46)
+If outer medium is air, then n3 = 1. The 
+numerical aperture NA becomes, 
+XII_Physics_Vol-2_UNIT-6_EM.indd   25
+XII_Physics_Vol-2_UNIT-6_EM.indd   25
+26-12-2022   11:38:03
+26-12-2022   11:38:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 26
+
+PDF_PAGE: 34
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+26
+the light ray emerges in the same direction 
+as that of the incident ray on the glass slab 
+with a lateral displacement (or) shift L. 
+i.e. There is no change in the direction of 
+the ray but, the path of the incident ray 
+and refracted ray are parallel to each other 
+with a shift L, as shown in Figure 6.30.
+N1
+N2
+air
+glass
+E
+L
+F
+B
+t
+C
+i-r
+i
+i
+D
+r
+r
+A
+Figure 6.30  Refraction in glass slab
+Consider a glass slab of thickness t and 
+refractive index n kept in air medium. 
+If the path of the light is ABCD, the 
+refractions occur at two points B and C in 
+the glass slab. The angles of incidence i and 
+refraction r are measured with respect to 
+the normal N1 and N2 at the two points B 
+and C respectively. The lateral displacement 
+L is the perpendicular distance CE drawn 
+between the paths of the deviated light and 
+the undeviated light at point C.
+In the right angle triangle ∆BCE,
+sin
+;
+sin
+i
+r
+L
+BC
+BC
+L
+i
+r
+−
+(
+)=
+=
+−
+(
+) (6.48)
+In the right angle triangle ∆BCF,
+cos
+;
+cos
+r
+t
+BC
+BC
+t
+r
+( )=
+=
+( ) 
+(6.49)
+An endoscope which 
+has a bundle of optical 
+fibres is an instrument 
+used by doctors to see 
+inside of a patient’s body. Endoscopes 
+work on the phenomenon of total 
+internal reflection. The optical 
+fibres are inserted into the body 
+through mouth, nose (or) a special 
+hole made in the body.  Even 
+operations could be carried out 
+with the endoscope cables which 
+have the necessary instruments 
+attached at their ends.
+Endoscope
+6.4.8  Refraction in glass slab
+When a ray of light enters a slab it 
+travels from rarer medium (air) to denser 
+medium (glass). This results in deviation 
+of the ray towards the normal. When the 
+light ray leaves the slab it travels  from 
+denser medium (glass) to rarer medium 
+(air) resulting in deviation of the ray away 
+from the normal. After the two refractions, 
+XII_Physics_Vol-2_UNIT-6_EM.indd   26
+XII_Physics_Vol-2_UNIT-6_EM.indd   26
+26-12-2022   11:38:07
+26-12-2022   11:38:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 27
+
+PDF_PAGE: 35
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+27
+REFRACTION AT SINGLE 
+SPHERICAL SURFACE
+We have so far studied only the 
+refraction at plane surface. The refraction 
+can also take place at spherical surface 
+between two transparent media. The laws of 
+refraction hold good at every point on the 
+spherical surface. The normal at the point 
+of incidence is perpendicular drawn to the 
+tangent plane of the spherical surface at that 
+point. Therefore, the normal always passes 
+through its center of curvature. The study of 
+refraction at single spherical surface paves 
+way to the understanding of thin lenses 
+which consist of two refracting surfaces. 
+The following assumptions are made 
+while considering refraction at spherical 
+surfaces. 
+(i)	 The incident light is assumed to be 
+monochromatic (single colour) 
+(ii)	 The incident light is very close to the 
+principal axis (paraxial rays).
+The sign conventions are similar to that 
+of the spherical mirrors.
+6.5.1  Equation for refraction 
+at single spherical surface 
+Let us consider two transparent media 
+with refractive indices n1 and n2 which are 
+separated by a spherical surface as shown in 
+Figure 6.31. Let C be the centre of curvature 
+of the spherical surface. Let a point object 
+O be in the medium n1. The line OC is the 
+principal axis that cuts the spherical surface 
+at the pole P. As the rays considered are 
+paraxial rays, the perpendicular dropped 
+from the point of incidence to the principal 
+axis is very close to the pole (or) passes 
+through the pole itself. 
+6.5
+Equating equations (6.48) and (6.49),
+L
+i
+r
+t
+r
+sin
+cos
+−
+(
+)
+=
+( )
+After rearranging,
+L
+t
+i
+r
+r
+=
+−
+(
+)
+( )
+
+
+
+
+
+
+sin
+cos
+
+(6.50)
+The 
+lateral 
+displacement 
+depends 
+upon (i) the thickness of the slab, (ii) the 
+angle of incidence and (iii) the refractive 
+index of the slab which decides the angle 
+of refraction. Thicker the slab, larger will 
+be the lateral displacement. Greater the 
+angle of incidence, larger will be the lateral 
+displacement. Higher the refractive index, 
+larger will be the lateral displacement.
+EXAMPLE 6.11
+The thickness of a glass slab is 0.25 m. 
+It has a refractive index of 1.5. A ray of light 
+is incident on the surface of the slab at an 
+angle of 60o. Find the lateral displacement 
+of the light when it emerges from the other 
+side of the glass slab.
+Solution
+Given, thickness of the slab, t = 0.25 m, 
+refractive index, n = 1.5, angle of incidence, 
+i = 60o.
+Using Snell’s law, 1 sin i = n sin r
+sin
+sini
+sin
+.
+.
+r
+n
+=
+=
+° =
+60
+1 5
+0 58
+r
+’ ’’
+=
+=
+=
+°
+−
+sin ( .
+)
+.
+1 0 58
+35 25
+35 15 0
+
+Lateral displacement is, L
+t
+i
+r
+r
+=
+−
+(
+)
+( )
+
+
+
+
+
+
+sin
+cos
+L =
+×
+−
+(
+)
+(
+)
+
+
+
+
+
+=
+( .
+)
+sin
+.
+cos
+.
+.
+0 25
+60
+35 25
+35 25
+0 1281m
+The lateral displacement is, L =12 81
+.
+cm
+XII_Physics_Vol-2_UNIT-6_EM.indd   27
+XII_Physics_Vol-2_UNIT-6_EM.indd   27
+26-12-2022   11:38:09
+26-12-2022   11:38:09
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 28
+
+PDF_PAGE: 36
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+28
+For the triangle, ∆INC, 
+β = r + γ (or) r = β – γ
+(6.54)
+Substituting for i and r from equations 
+(6.53) and (6.54) in the equation (6.51).
+n
+n
+1
+2
+a
+b
+b
+g
++
+(
+)=
+−
+(
+)
+After rearranging, 
+n
+n
+n
+n
+1
+2
+2
+1
+a
+g
+b
++
+=
+−
+(
+)
+Substituting for α, β and γ from equation 
+(6.52),
+n PN
+PO
+n
+PN
+PI
+n
+n
+PN
+PC
+1
+2
+2
+1
+
+
+
+
+
++
+
+
+
+
+
+=
+−
+(
+)
+
+
+
+
+
+  
+Further simplifying by cancelling PN,
+n
+PO
+n
+PI
+n
+n
+PC
+1
+2
+2
+1
++
+=
+−
+
+(6.55)
+PI, PO and PC are mere distances; 
+here we use sign conventions so that the 
+expression that is derived will be a general 
+one. The general expression thus obtained 
+will be valid for the situations other than the 
+one shown in figure.
+∴ substituting PO = –u, PI = +v and 
+PC = +R in equation (6.55),
+n
+u
+n
+v
+n
+n
+R
+1
+2
+2
+1
+−+
+=
+−
+(
+)
+After rearranging, finally we get,
+n
+v
+n
+u
+n
+n
+R
+2
+1
+2
+1
+−
+=
+−
+(
+)
+(6.56)
+Equation (6.56) gives the relation among 
+the object distance u, image distance v, 
+refractive indices of the two media (n1 and n2
+ ) 
+and the radius of curvature R of the spherical 
+surface. It holds good for any spherical 
+surface as sign conventions are applied.
+If the first medium is air, then n1 = 1 
+and for the second medium n2 = n, then the 
+equation is reduced to, 
+n
+v
+u
+n
+R
+−
+=
+−
+(
+)
+1
+1 
+(6.57)
+n1
+O
+R
+P
+u
+i
+N
+
+
+
+r
+I
+v
+n2
+C
+Figure 6.31  Refraction at single spherical 
+surface
+Light from O falls on the refracting 
+surface at N. The normal drawn to the 
+refracting surface at the point of incidence 
+passes through the centre of curvature C. As 
+n2>n1, light in the denser medium deviates 
+towards the normal and meets the principal 
+axis at I where the image is formed.
+Snell’s law in product form for the 
+refraction at the point N can be written from 
+equation (6.19),
+n
+i
+n
+r
+1
+2
+sin
+sin
+=
+As the angles are small, sine of the angle 
+could be approximated to the angle itself.
+n i
+n r
+1
+2
+=
+
+(6.51)
+Let the angles be, 
+∠NOP = α, ∠NCP = β, ∠NIP = γ
+From the right angle triangles ∆NOP, 
+∆NCP and ∆NIP, 
+tan
+;
+tan
+;
+tan
+a
+b
+g
+=
+=
+=
+PN
+PO
+PN
+PC
+PN
+PI
+As these angles are small, tan of the angle 
+could be approximated to the angle itself.
+a
+b
+g
+=
+=
+=
+PN
+PO
+PN
+PC
+PN
+PI
+;
+;
+
+(6.52)
+For the triangle, ∆ONC, 
+i = α + β 
+(6.53)
+XII_Physics_Vol-2_UNIT-6_EM.indd   28
+XII_Physics_Vol-2_UNIT-6_EM.indd   28
+26-12-2022   11:38:12
+26-12-2022   11:38:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 29
+
+PDF_PAGE: 37
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+29
+Case ii) 
+n
+v
+n
+u
+n
+n
+R
+2
+1
+2
+1
+−
+=
+−
+(
+);
+ 
+applying sign convention, 
+u = –30 cm, R = 15 cm
+2
+1
+30
+2
+1
+15
+2
+1
+30
+1
+15
+60
+v
+v
+v
+−−
+(
+)
+=
+−
+(
+)
++
+=
+∴
+=
+;
+cm
+[a real image is formed 60 cm, to the right 
+of the surface]
+60 cm
+15 cm
+30 cm
+C
+I
+P
+O
+n1 = 1
+n2 = 2
+THIN LENS
+A lens is formed by a transparent material 
+bounded between two spherical surfaces (or) 
+one plane and another spherical surface. In a 
+thin lens, the distance between the surfaces is 
+very small. For two spherical surfaces, there 
+will be two centres of curvature C1 and C2 and 
+correspondingly two radii of curvature R1 and 
+R2. For a plane surface, the centre of curvature 
+C is at infinity and its radius of curvature 
+R is infinity (R = ∞). The terminologies of 
+spherical mirrors hold good very much for 
+thin lenses except for the focal length. 
+6.6.1  Primary and secondary 
+focus
+As the thin lens is formed by two 
+surfaces, the lens may separate two different 
+media. i.e. the media to the left and right of 
+6.6
+In the above derivation, we 
+took the case where rays are 
+converged to a point after 
+the refraction. But in general, the rays 
+can either converge or diverge after 
+refraction. This depends upon the 
+value of n2 over n1, radius of curvature 
+R and position of object u. The other 
+possibility is discussed in example 6.12.
+Note
+EXAMPLE 6.12
+Find the position of the image of a point 
+object O in  the two cases given. Take the 
+radius of curvature of the surface R as 
+15 cm, n1 = 1 and n2 = 2. 
+Case i)  O is located 10 cm to the left of the 
+surface. 
+Case ii) O is located 30 cm to the left of the 
+surface.
+Solution
+Case i) 
+n
+v
+n
+u
+n
+n
+R
+2
+1
+2
+1
+−
+=
+−
+(
+);
+ 
+applying sign convention, 
+u = –10 cm, R = 15 cm
+2
+1
+10
+2
+1
+15
+2
+1
+15
+1
+10
+60
+v
+v
+v
+−−
+(
+)
+=
+−
+(
+)
+=
+−
+∴
+=−
+;
+cm
+[a virtual image is formed 60 cm, to the left 
+of the surface]
+60 cm
+10 cm
+15 cm
+C
+I
+P
+O
+n1 = 1
+n2 = 2
+XII_Physics_Vol-2_UNIT-6_EM.indd   29
+XII_Physics_Vol-2_UNIT-6_EM.indd   29
+26-12-2022   11:38:13
+26-12-2022   11:38:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 30
+
+PDF_PAGE: 38
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+30
+the lens may be different. Hence, we have 
+two focal lengths.
+The primary focus F1 is defined as a 
+point where a point source kept produces 
+a parallel emergent rays to the principal 
+axis after passing through lens as shown 
+in Figure 6.32. For a converging lens, such 
+an object is a real object and for a diverging 
+lens, it is a virtual object. The distance PF1 is 
+the primary focal length f1. 
+F1
+P
+P
+F1
+Figure 6.32  Primary focus
+The secondary focus F2 is defined as a 
+point where all the parallel rays travelling 
+close to the principal axis converge to 
+form an image on the principal axis after 
+passing through lens as shown in Figure 
+6.33. For a converging lens, such an image 
+is a real image and for a diverging lens, it 
+is a virtual image. The distance PF2 is the 
+secondary focal length f2.
+F2
+P
+P
+F2
+Figure 6.33  Secondary focus
+If the media on the two sides of a thin 
+lens have same refractive index, then the two 
+focal lengths are equal. We will mostly be 
+using the secondary focus F2 in our further 
+discussions.
+6.6.2  Sign conventions on 
+focal length for lens
+The sign conventions for thin lenses 
+differ only in the signs followed for focal 
+lengths. 
+(i)	 The sign of focal length is not decided 
+on the direction of measurement of the 
+focal length from the pole of the lens as 
+they have two focal lengths, one to the 
+left and another to the right. 
+(ii)	The focal length of the thin lens is taken 
+as positive for a converging lens and 
+negative for a diverging lens. 
+The other sign conventions for object 
+distance, image distance, radius of curvature, 
+object height and image height (except 
+for the focal lengths as mentioned above) 
+remain the same for thin lenses as that of 
+spherical mirrors.
+6.6.3  Lens maker’s formula 
+and lens equation
+Let us consider a thin lens made up 
+of a medium of refractive index n2 placed 
+in a medium of refractive index n1. Let 
+R1 and R2 be the radii of curvature of two 
+spherical surfaces  and  respectively 
+and P be the pole as shown in Figure 
+6.34. Consider a point object O on the 
+principal axis. A paraxial ray from O which 
+falls very close to P, after refraction at 
+the surface  
+forms image at I'. Before it 
+does so, it is again refracted by the surface 
+. Therefore, the final image is formed at I.
+O
+P
+I
+I'
+n1
+n1
+n2
+u
+v
+v
+2
+1
+P
+Figure 6.34  Refraction through thin lens
+XII_Physics_Vol-2_UNIT-6_EM.indd   30
+XII_Physics_Vol-2_UNIT-6_EM.indd   30
+26-12-2022   11:38:13
+26-12-2022   11:38:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 31
+
+PDF_PAGE: 39
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+31
+the lens manufactures what curvature 
+is needed for a material of particular 
+refractive index to make a lens of desired 
+focal length. This formula holds good 
+also for any type of lens. By comparing 
+the equations (6.60) and (6.61) we can write,
+1
+1
+1
+v
+u
+f
+-
+=
+
+(6.63)
+The above equation is known as lens 
+equation which relates the object distance 
+u and image distance v with the focal 
+length f of the lens. This equation holds 
+good for  any type of lens.
+6.6.4  Lateral magnification 
+in thin lens
+Let us consider an object OO' of height 
+h1 placed on the principal axis with its 
+height perpendicular to the principal axis. 
+The inverted real image II′ is formed which 
+has a height h2 as shown in Figure 6.35. 
+F
+O
+O
+P
+h
+h
+I
+I
+u
+v
+Figure 6.35  Lateral magnifcation in thin 
+lens
+The lateral (or) transverse magnification 
+m is defined as the ratio of the height of the 
+image to height of the object.
+m
+II
+OO
+=
+′
+′
+(6.64)
+From the two similar triangles ∆POO′ 
+and ∆PII′ , we can write,
+II
+OO
+PI
+PO
+′
+′ =
+
+(6.65)
+The general equation for the refraction 
+at a single spherical surface is given by the 
+equation (6.56) is, 
+n
+v
+n
+u
+n
+n
+R
+2
+1
+2
+1
+−
+=
+−
+(
+)
+For the refracting surface , the light 
+goes from n1 to n2. 
+n
+v
+n
+u
+n
+n
+R
+2
+1
+2
+1
+1
+′ −
+=
+−
+(
+)
+(6.58)
+For the refracting surface , the light 
+goes from medium n2 to n1.
+n
+v
+n
+v
+n
+n
+R
+1
+2
+1
+2
+2
+−′ =
+−
+(
+)
+(6.59)
+For surface , I' acts as virtual object.
+Adding the above two equations (6.58) 
+and (6.59)
+n
+v
+n
+u
+n
+n
+R
+R
+1
+1
+2
+1
+1
+2
+1
+1
+−
+=
+−
+(
+)
+−
+
+
+
+
+
+
+On further simplifying and rearranging,
+1
+1
+1
+1
+2
+1
+1
+1
+2
+v
+u
+n
+n
+n
+R
+R
+−
+=
+−
+
+
+
+
+
+
+−
+
+
+
+
+
+
+1
+1
+1
+1
+1
+2
+1
+1
+2
+v
+u
+n
+n
+R
+R
+−
+=
+−
+
+
+
+
+
+
+−
+
+
+
+
+
+
+(6.60)
+If the object is at infinity, the image is 
+formed at the focus of the lens. Thus, for 
+u = ∞, v = f. Then the equation becomes.
+1
+1
+1
+1
+1
+2
+1
+1
+2
+f
+n
+n
+R
+R
+−∞=
+−
+
+
+
+
+
+
+−
+
+
+
+
+
+
+1
+1
+1
+1
+2
+1
+1
+2
+f
+n
+n
+R
+R
+=
+−
+
+
+
+
+
+
+−
+
+
+
+
+
+
+(6.61)
+If the lens is kept in air, then we can take 
+n1 = 1 and n2 = n. So the equation (6.61) 
+becomes,
+1
+1
+1
+1
+1
+2
+f
+n
+R
+R
+=
+−
+(
+)
+−
+
+
+
+
+
+
+(6.62)
+The above formula is called as the 
+lens maker’s formula, because it tells 
+XII_Physics_Vol-2_UNIT-6_EM.indd   31
+XII_Physics_Vol-2_UNIT-6_EM.indd   31
+26-12-2022   11:38:17
+26-12-2022   11:38:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 32
+
+PDF_PAGE: 40
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+32
+Given, n = 1.5, R1=20 cm and R2= –15 cm
+(a) Lens maker’s formula, 1
+1
+1
+1
+1
+2
+f
+n
+R
+R
+=
+−
+−
+
+
+
+
+
+
+(
+)
+Substituting the values, 
+1
+1 5
+1
+1
+20
+1
+15
+1 5
+1
+1
+20
+1
+15
+f =
+−
+−−
+
+
+
+
+
+=
+−
++
+
+
+
+
+
+
+( .
+)
+( .
+)
+1
+0 5
+1
+20
+1
+15
+0 5 3
+4
+60
+1
+2
+7
+60
+f =
++
+
+
+
+
+
+=
++
+
+
+
+
+
+=
+×
+
+
+
+( . )
+( . )
+
+
+= 7
+120
+f =
+=
+120
+7
+17 14
+.
+cm
+As the focal length is positive the lens is a 
+converging lens.
+(b) When the lens is flipped by the side, 
+1
+2
+C2
+C1
+R2 = cm
+R1 = 15cm
+Now, n = 1.5, R1= 15 cm and R2= –20 cm 
+Substituting the values in the lens maker's 
+formula, 
+1
+1 5
+1
+1
+15
+1
+20
+f =
+−
+−−
+
+
+
+
+
+
+( .
+)
+1
+1 5
+1
+1
+15
+1
+20
+f =
+−
++
+
+
+
+
+
+
+( .
+)
+This will also result in, f = 17.14 cm
+Thus, it is concluded that the focal length 
+of the lens will not change if it is flipped by 
+the side. This is true for any lens. Students 
+can verify this for any kind of lens.
+EXAMPLE 6.14
+Determine the focal length of the lens 
+made up of a material of refractive index 
+1.52 as shown in the diagram.  (Points C1 
+On applying sign convention, 
+−′ = −
+h
+h
+v
+u
+Substituting this in the equation (6.65) 
+for magnification, 
+m
+h
+h
+v
+u
+= −′ = −; After rearranging,
+m
+h
+h
+v
+u
+=
+′ =
+
+(6.66)
+The magnification is negative for real 
+image and positive for virtual image. In the 
+case of a concave lens, the magnification is 
+always positive and less than one.
+We can also have the other forms of 
+equations for magnification by combining 
+the lens equation as, 
+ m
+h
+h
+f
+f
+u
+=
+′ =
++ (or) m
+h
+h
+f
+v
+f
+=
+′ =
+−(6.67)
+EXAMPLE 6.13
+A biconvex lens has radii of curvature 20 cm 
+and 15 cm for the two curved sufaces. The 
+refractive index of the material of the lens 
+is 1.5. 
+(a) What is its focal length? 
+(b) Will the focal length change if the lens 
+is flipped by the side?
+Solution
+For a biconvex lens, radius of curvature of 
+the first surface is positive and that of the 
+second surface is negative as shown in figure. 
+R2 = cm
+1
+2
+C2
+C1
+R1 = 20cm
+XII_Physics_Vol-2_UNIT-6_EM.indd   32
+XII_Physics_Vol-2_UNIT-6_EM.indd   32
+26-12-2022   11:38:20
+26-12-2022   11:38:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 33
+
+PDF_PAGE: 41
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+33
+Figure 6.36  Power of lens
+F
+F
+1
+F2
+F1
+2
+(a)
+(b)
+In other words, the power of a lens is 
+a measure of the degree of convergence 
+(or) divergence the lens produces on the 
+light falling on it. The power of a lens 
+P is the reciprocal of its focal length in 
+meter. 
+P
+f
+= 1 
+(6.68)
+The unit of power is dioptre (D). 1 D = 1 m–1. 
+Power is positive for converging lens and 
+negative for diverging lens. 
+From the lens maker's formula, equation 
+(6.62), the equation (6.68) can be written for 
+power as ,
+P
+f
+n
+R
+R
+=
+=
+−
+−
+
+
+
+
+
+
+1
+1
+1
+1
+1
+2
+(
+)
+
+(6.69)
+The outcome of this equation for power 
+is that for a given geomentry of the lens, 
+larger the value of refractive index, greater 
+is the power of lens and vice versa. Also for 
+lenses with small radii of curvature (bulky) 
+the power is large and for lenses with large 
+radii of curvature (skinny), the power is 
+small.
+and C2 are the centers of curvature of the 
+first and second surfaces respectively.)
+10 cm
+20 cm
+C1
+C2
+Solution
+This lens is called convexo-concave lens
+Given, n = 1.52, R1= 10 cm and R2= 20 cm
+Both R1 and R2 are positive
+ Lens makers formula, 1
+1
+1
+1
+1
+2
+f
+n
+R
+R
+=
+−
+−
+
+
+
+
+
+
+(
+)
+Substituting the values, 
+1
+1 52
+1
+1
+10
+1
+20
+f =
+−
+−
+
+
+
+
+
+
+( .
+)
+1
+0 52 2
+1
+20
+0 52
+1
+20
+0 52
+20
+f =
+−
+
+
+
+
+
+=
+
+
+
+
+
+=
+( .
+)
+( .
+)
+.
+f =
+=
+20
+0 52
+38 46
+.
+.
+cm
+As the focal length is positive, the lens is a 
+converging lens.
+6.6.5  Power of a lens
+The power of a lens is a measure of  its 
+deviating ability on an incident light. When a 
+ray is incident on a lens then the degree with 
+which the lens deviates the ray is determined 
+by the power of the lens. Power of the lens is 
+inversely proportional to the focal length i.e. 
+greater the power of lens, smaller will be the 
+focal length. In Figure 6.36, the lens (b) has 
+greater deviating ability than lens (a). As (b) 
+has greater deviating ability, its focal length 
+is less and vice versa. 
+XII_Physics_Vol-2_UNIT-6_EM.indd   33
+XII_Physics_Vol-2_UNIT-6_EM.indd   33
+26-12-2022   11:38:21
+26-12-2022   11:38:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 34
+
+PDF_PAGE: 42
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+34
+lens , 
+the object distance PI' is v′ and the 
+image distance PI is v.
+Writing the lens equation (6.63) for 
+lens , 
+1
+1
+1
+1
+′ −
+=
+v
+u
+f 
+(6.70)
+Writing the lens equation (6.63) for lens , 
+1
+1
+1
+2
+v
+v
+f
+−′ =
+
+(6.71)
+Adding the above two equations (6.70) 
+and (6.71) gives,
+1
+1
+1
+1
+1
+2
+v
+u
+f
+f
+−
+=
++
+
+(6.72)
+The combination acts as a single lens 
+of focal length f so that for an object at the 
+position O, it forms the image at I. Then,
+1
+1
+1
+v
+u
+f
+−
+=
+
+(6.73)
+Comparing the equations (6.72) and 
+(6.73) we can write,
+1
+1
+1
+1
+2
+f
+f
+f
+=
++
+
+(6.74)
+The above equation can be extended for 
+any number of lenses in contact as, 
+1
+1
+1
+1
+1
+1
+2
+3
+4
+f
+f
+f
+f
+f
+=
++
++
++
++......... 
+(6.75)
+The above equation can be written in 
+terms of power of the lenses as, 
+P
+P
+P
+P
+P
+=
++
++
++
++
+1
+2
+3
+4
+.........
+(6.76)
+Where, P is the net power of the lenses 
+in contact. One should note that the sum 
+in equation (6.76) is an algebraic sum. The 
+powers of individual lenses may be positive 
+(for convex lenses) and negative (for concave 
+lenses). Combination of lenses helps to 
+obtain converging (or) diverging lenses of 
+desired magnification. Also, combination of 
+lenses enhances the sharpness of the image. 
+As the image formed by the first lens becomes 
+EXAMPLE 6.15
+If the focal length is 150 cm for a lens, what 
+is the power of the lens?
+Solution
+Given, focal length, f = 150 cm = 1.5 m
+Equation for power of lens is, P
+f
+= 1
+Substituting the values, 
+P =
+=
+1
+1 5
+0 67
+.
+.
+m
+D
+As the power is positive, it is a converging 
+lens.
+6.6.6  Focal length of lenses 
+in contact
+Let us consider two lenses  and 
+ of focal lengths f1 and f2 placed 
+coaxially in contact with each other 
+so that they have a common principal 
+axis. For a point object placed at O 
+beyond the focus of the lens  on the 
+principal axis, an image is formed by it 
+at I'. This image I' acts as an object for the 
+lens  and the final image is formed at 
+I as shown in Figure. 6.37. As these two 
+lenses are thin, the measurements are 
+done with respect to the common optic 
+centre P between the two lenses.
+O
+P
+I
+u
+v′
+I′
+v
+1
+2
+Figure. 6.37  Lenses in contact
+For the lens , 
+the object distance PO is 
+u and the image distance PI' is v′. For the 
+XII_Physics_Vol-2_UNIT-6_EM.indd   34
+XII_Physics_Vol-2_UNIT-6_EM.indd   34
+26-12-2022   11:38:23
+26-12-2022   11:38:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 35
+
+PDF_PAGE: 43
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+35
+EXAMPLE 6.17
+15 cm
+5 mm
+40 cm
+1
+2
+An object of 5 mm height is placed at a 
+distance of 15 cm from a convex lens of 
+focal length 10 cm. A second lens of focal 
+length 5 cm is placed 40 cm from the first 
+lens and 55 cm from the object. Find (a) the 
+position of the final image, (b) its nature 
+and (c) its size.
+Solution 
+Given, h = 5 mm = 0.5 cm, u1 = –15 cm, 
+f1 = 10 cm, f2 = 5 cm, d = 40 cm
+For the first lens, the lens equation is, 
+1
+1
+1
+1
+1
+1
+v
+u
+f
+−
+=
+Substituting the values, 
+the object for the second and so on, the total 
+magnification m of the combination is the 
+a product of magnification of individual 
+lenses. We can now write, 
+m = m1 × m2 × m3 . . . . . 
+(6.77)
+Where m1, m2, m3 . . . . . are magnification 
+of individual lenses.
+EXAMPLE 6.16
+What is the focal length of the 
+combination if the lenses of focal lengths 
+–70 cm and 150 cm are in contact? What 
+is the power of the combination?
+Solution
+Given, focal length of first lens, f1 = –70 cm, 
+focal length of second lens, f2 = 150 cm.
+Equation for focal length of lenses in 
+contact, 1
+1
+1
+1
+2
+f
+f
+f
+=
++
+Substituting the values,  
+1
+1
+70
+1
+150
+1
+70
+1
+150
+f = −
++
+=−
++
+1
+150
+70
+70 150
+80
+70 150
+80
+10500
+f = −
++
+×
+=
+−
+×
+=−
+f = −
+=−
+1050
+8
+131 25
+.
+cm
+As the final focal length is negative, the 
+combination of two lenses is a diverging 
+system of lenses. 
+The power of the combination is, 
+P
+f
+=
+= −
+=−
+1
+1
+1 3125
+0 76
+.
+.
+m
+D
+Points to Ponder
+System of combination of lenses is 
+commonly used in designing lenses 
+for cameras, microscopes, telescopes 
+and other optical instruments. They 
+produce better magnification and 
+sharpness of the image.
+XII_Physics_Vol-2_UNIT-6_EM.indd   35
+XII_Physics_Vol-2_UNIT-6_EM.indd   35
+26-12-2022   11:38:25
+26-12-2022   11:38:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 36
+
+PDF_PAGE: 44
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+36
+Substituting the values, ′′
+−= −
+h
+1
+10
+10
+′′ = −× −
+
+
+
+
+
+=
+=
+h
+(
+)1
+10
+10
+1
+10
+cm
+mm
+As the height of the image is positive, the 
+image is erect and real.
+6.6.7  Silvered lenses 
+If one of the surfaces of a lens is silvered 
+from outside, then such a lens is said to be a 
+silvered lens. A silvered lens is a combination 
+of a lens and a mirror. Light can enter 
+through the transparent front surface of the 
+lens and get reflected by the silver coated 
+rear surface. Hence, light travels two times 
+through the lens as shown in Figure 6.38. 
+Figure 6.38  Slivered lens
+The power P of the silvered lens is,
+P = Pl + Pm + Pl
+ 
+P = 2Pl + Pm 
+(6.78)
+Here, Pl is the power of the lens and 
+Pm is the power of the mirror. We know 
+that the power of a lens is the reciprocal 
+of its focal length. But, the power of a 
+mirror is negative of the reciprocal of its 
+focal length. This is because, a concave 
+mirror which has negative focal length is 
+1
+1
+15
+1
+10
+1
+1
+15
+1
+10
+1
+1
+v
+v
+−−
+=
++
+=
+;
+1
+1
+10
+1
+15
+15
+10
+150
+5
+150
+1
+30
+1v =
+−
+=
+−
+=
+=
+v1= 30 cm
+First lens forms image 30 cm to the right of 
+the first lens.
+Let us find the height of this image.
+Equation for magnification is, m
+h
+h
+v
+u
+=
+′ =
+1
+1
+Substituting the values, 
+′ = −
+h
+0 5
+30
+15
+.
+′ =
+×−
+=−
+h
+0 5
+30
+15
+1
+.
+cm
+As the height of the image is negative, the 
+image is inverted and real.
+This image acts as object for second lens. 
+The object distance for second lenses, 
+(40–30=10 cm). Hence, u2 = –10 cm
+For the second lens, the lens equation is,  
+1
+1
+1
+2
+2
+2
+v
+u
+f
+−
+=
+Substituting the values, 
+1
+1
+10
+1
+5
+1
+1
+10
+1
+5
+2
+2
+v
+v
+−−
+=
++
+=
+;
+1
+1
+5
+1
+10
+10
+5
+50
+5
+50
+1
+10
+2v =
+−
+=
+−
+=
+=
+v2
+10
+=
+cm
+The final image is formed 10 cm to the 
+right of the second lens.
+Let us find the height of the final image. 
+Assume, the final height of the image formed 
+by the second lens is h'' and the height of the 
+object for the second lens is h'.
+Equation for magnification is m' for the 
+second lens is, 
+′ =
+′′
+′ =
+m
+h
+h
+v
+u
+2
+2
+XII_Physics_Vol-2_UNIT-6_EM.indd   36
+XII_Physics_Vol-2_UNIT-6_EM.indd   36
+26-12-2022   11:38:27
+26-12-2022   11:38:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 37
+
+PDF_PAGE: 45
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+37
+(a) Let us find fl and fm separately.
+Using lens maker’s formula we can find fl. 
+1
+1
+1
+1
+1
+2
+f
+n
+R
+R
+l
+=
+−
+−
+
+
+
+
+
+
+(
+)
+Substituting the values, 1
+1 5
+1
+1
+30
+1
+30
+fl
+=
+−
+−−
+
+
+
+
+
+
+( .
+)
+ 
+1
+0 5
+1
+30
+1
+30
+1
+2
+2
+30
+1
+30
+fl
+=
++
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+( . )
+cm
+ fl = 30 cm = 0.3 m
+Focal length of mirror is, f
+R
+m =
+2
+2
+Substituting the values, fm = −
+=−
+30
+2
+15cm 
+ fm = 15 cm = –0.15 m
+Now the focal length of the slivered lens is, 
+1
+2
+1
+−
+=
++ −
+f
+f
+f
+l
+m
+ 
+2
+30
+1
+15
+2
+15
+1
+7 5
+=
++
+=
+= .
+f = – 7.5 cm = –0.075 m
+The silvered mirror behaves as a concave 
+mirror with its focal length on left side.
+To find the power of the silvered lens, 
+P = 2Pl + Pm
+P
+f
+f
+D
+l
+m
+=
++ −
+−
+=
++ −
+=
++
+=
+=
+2
+1
+2
+0 3
+1
+0 15
+2
+0 3
+1
+0 15
+4
+0 3
+13 33
+.
+(
+.
+)
+.
+.
+.
+.
+As the power is positive it is a converging 
+system.
+[Note: Here, we come across a silvered lens 
+which has negative focal length and positive 
+power. Which implies that the focal length 
+is to the left and the system is a converging 
+one. Such situations are possible in silvered 
+lenses because a silvered lens is basically a 
+modified mirror.]
+(b) 
+Writing 
+the 
+mirror 
+formula, 
+1
+1
+1
+f
+v
+u
+=
++
+Here, both u and v are same (v = u) as the 
+image coincides with the object.
+a converging mirror with positive power. 
+Also, a silvered lens is basically a modified 
+mirror. Thus,
+P
+f
+P
+f
+P
+f
+l
+l
+m
+m
+= −
+=
+= −
+1
+1
+1
+;
+;
+
+(6.79)
+Now equation (6.78) becomes,
+1
+2
+1
+−
+
+
+
+
+
+=
+
+
+
+
+
++ −
+
+
+
+
+
+
+f
+f
+f
+l
+m
+
+(6.80)
+Proper sign conventions are to be 
+followed for equation (6.80). 
+Suppose the object distance u and image 
+distance v are to be found, we can very well 
+use the mirror equation (6.8), since the 
+silvered lens is a modified mirror.
+ 1
+1
+1
+v
+u
+f
++
+=
+EXAMPLE 6.18
+A thin biconvex lens is made up of a glass of 
+refractive index 1.5. The two surfaces have 
+equal radii of curvature of 30 cm each. One 
+of its surfaces is made reflecting by silvering it 
+from outside. (a) What is the focal length and 
+power of this silvered lens? (b) Where should 
+an object be placed in front of this lens so that 
+the image is formed on the object itself?
+Solution
+The given situation is shown in figure.
+O
+I
+A
+B
+O
+O
+C2
+C1
+P
+R2
+R1
+Given, n = 1.5; R1 = 30 cm; R2 = –30 cm; 
+XII_Physics_Vol-2_UNIT-6_EM.indd   37
+XII_Physics_Vol-2_UNIT-6_EM.indd   37
+26-12-2022   11:38:30
+26-12-2022   11:38:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 38
+
+PDF_PAGE: 46
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+38
+1
+7 5
+1
+1
+2
+−
+=
++
+=
+. cm
+u
+u
+u ; u = –2 × 7.5 cm
+u = –15 cm = –0.15 m
+The object is to be placed 15 cm to the left 
+of the silvered lens.
+PRISM
+A prism is a triangular block of 
+transparent glass. It is bounded by the 
+three plane faces. Its one face is rough 
+which is called base of the prism. The 
+other two faces are polished which are 
+called refracting faces of the prism. The 
+angle between the two refracting faces is 
+called angle of the prism (or) refracting 
+angle (or) apex angle. It is represented as 
+A in Figure 6.39.
+Figure 6.39  Prism
+A
+6.7.1  Angle of deviation 
+produced by prism
+Consider a prism ABC. The faces AB and 
+AC are polished and the face BC is rough. 
+Let light ray PQ is incident on one of the 
+refracting faces of the prism as shown in 
+Figure 6.40. The angles of incidence and 
+refraction at the first face AB are i1 and r1. 
+The path of the light inside the prism is QR. 
+The angles of incidence and refraction at the 
+6.7
+second face AC is r2 and i2 respectively. RS is 
+the ray emerging from the second face. Angle 
+i2 is also called as angle of emergence. The 
+angle between the direction of incident ray 
+and the emergent ray is called the angle of 
+deviation d in a prism. The two normals 
+drawn at the point of incidence Q and at the 
+point of emergence R meet at point N. The 
+extended incident ray and the emergent ray 
+meet at point M.
+R
+i1
+i2
+r1
+d1
+d2r2
+M
+N
+d
+A
+A
+P
+B
+C
+Q
+S
+Figure 6.40  Refraction through prism
+The angle of deviation d1 at surface AB is,
+RQM
+d
+i
+r
+∠
+=
+=
+−
+1
+1
+1 
+(6.81)
+The angle of deviation d2 at surface AC is,
+QRM
+d
+i
+r
+∠
+=
+=
+−
+2
+2
+2
+(6.82)
+Total angle of deviation d produced is,
+d
+d
+d
+=
++
+1
+2
+(6.83)
+Substituting d1 and d2, in equation (6.83)
+d = (i1 – r1) + (i2 – r2)
+After rearranging, 
+d
+i
+i
+r
+r
+=
++
+−
++
+(
+)
+(
+)
+1
+2
+1
+2 
+(6.84)
+In the quadrilateral AQNR, two of the 
+angles (at the vertices Q and R) are right 
+angles. Therefore, the sum of the other 
+angles of the quadrilateral should be 180o. 
+XII_Physics_Vol-2_UNIT-6_EM.indd   38
+XII_Physics_Vol-2_UNIT-6_EM.indd   38
+26-12-2022   11:38:32
+26-12-2022   11:38:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 39
+
+PDF_PAGE: 47
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+39
+EXAMPLE 6.20
+Light ray falls at normal incidence on the 
+first face and emerges gracing the second 
+face for an equilateral prism. 
+(a) What is the angle of deviation produced? 
+(b) What is the refractive index of the 
+material of the prism?
+Solution
+60°
+30°
+ic
+d
+The given situation is shown in the figure. 
+Given,  A =
+°
+60 ;    i1
+0
+= °; 	 i2
+90
+=
+°
+(a) Equation for angle of deviation, 
+d
+i
+i
+A
+=
++
+−
+1
+2
+Substituting the values,  
+d = °+
+°−
+° =
+°
+0
+90
+60
+30
+The angle of deviation produced is, d =
+°
+30
+(b) The light inside the prism must be 
+falling on the second face at critical angle 
+as it graces the boundary. ic = 90° – 30° = 60°
+Equation for critical angle is, sini
+n
+c = 1
+n
+i
+n
+c
+=
+=
+=
+=
+=
+1
+1
+60
+1
+3 2
+2
+3
+1 15
+sin
+;
+sin
+/
+.
+
+The refractive index of the material of the 
+prism is, n = 1.15
+∠A + ∠QNR = 180º
+(6.85)
+In the triangle ∆QNR, 
+r1+ r2+ ∠QNR = 180o
+(6.86)
+Comparing the two equations (6.85) and 
+(6.86) we get,
+r
+r
+A
+1
+2
++
+=
+
+(6.87)
+Substituting this in equation (6.84) for 
+angle of deviation, 
+d
+i
+i
+A
+=
++
+−
+1
+2
+
+(6.88)
+Thus, the angle of deviation depends on 
+the angle of incidence i1, angle of emergence 
+i2 and the angle for the prism A. But, for 
+a given angle of incidence, the angle of 
+emergence is decided by the refractive 
+index of the material of the prism. Hence, 
+the angle of deviation for a monochromatic 
+light depends on these following factors. 
+(i)	 the angle of incidence
+(ii)	 the angle of the prism
+(iii)	the refractive index of the material of 
+the prism (which decides the angle of 
+emergency).
+EXAMPLE 6.19
+A monochromatic light is incident on an 
+equilateral prism at an angle 30o and is 
+emergent at an angle of 75o. What is the 
+angle of deviation produced by the prism?
+Solution
+Since, the prism is equilateral, A =
+°
+60 ;
+Given, i1
+30
+=
+°; i2
+75
+=
+°
+Equation for angle of deviation, d = i1 + i2 – A
+Substituting the values, d = 30°+75°–60°=45°
+The angle of deviation produced, d =
+°
+45
+XII_Physics_Vol-2_UNIT-6_EM.indd   39
+XII_Physics_Vol-2_UNIT-6_EM.indd   39
+26-12-2022   11:38:35
+26-12-2022   11:38:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 40
+
+PDF_PAGE: 48
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+40
+(iii)	the refracted ray inside the prism is 
+parallel to its base of the prism. 
+The case of angle of minimum deviation 
+is shown in Figure 6.42.
+6.7.3  Refractive index of the 
+material of the prism
+At minimum deviation, i1 = i2 = i and 
+r1 = r2 = r
+Now, the equation (6.88) becomes, 
+D
+i
+i
+A
+i
+A
+i
+A
+D
+=
++
+−
+⇒
+−
+=
++
+(
+)
+1
+2
+2
+2
+(or)
+ 
+The equation (6.87) becomes, 
+r
+r
+A
+r
+A
+r
+A
+1
+2
+2
+2
++
+=
+⇒
+=
+=
+(or)
+Substituting i and r in Snell’s law, n
+i
+r
+= sin
+sin
+n
+A
+D
+A
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+sin
+2
+2
+
+(6.89)
+The above equation is used to determine 
+the refractive index of the material of the 
+prism. The angles A and D can be measured 
+experimentally. 
+EXAMPLE 6.21
+The angle of minimum deviation for an 
+equilateral prism is 37o. Find the refractive 
+index of the material of the prism.
+Solution
+Given, A = 60°; D = 37°
+Equation for refractive index is, 
+n
+A
+D
+A
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+sin
+2
+2
+Substituting the values, 
+6.7.2  Angle of minimum 
+deviation
+A graph plotted between the angle of 
+incidence and angle of deviation is shown 
+in Figure 6.41. One could observe that the 
+angle of deviation decreases with increase in 
+angle of incidence and reaches a minimum 
+value D and then continues to increase. 
+Figure 6.41  Graph between i and d
+The minimum value of angle of 
+deviation is called angle of minimum 
+deviation D. At minimum deviation, 
+(i)	 the angle of incidence is equal to the 
+angle of emergence, i1 = i2.
+(ii)	 the angle of refraction at the face one 
+and face two are equal, r1 = r2).
+i
+i
+r
+r
+Figure 6.42  Angle of minimum 
+deviation
+XII_Physics_Vol-2_UNIT-6_EM.indd   40
+XII_Physics_Vol-2_UNIT-6_EM.indd   40
+26-12-2022   11:38:37
+26-12-2022   11:38:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 41
+
+PDF_PAGE: 49
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+41
+colour has the shortest wavelength of 400 
+nm in vacuum. Though all the colours 
+have different wavelengths, they all travel 
+with the same speed in vacuum. The speed 
+of light is independent of wavelength in 
+vacuum. Therefore, vacuum is a non-
+dispersive medium.
+Sir Isaac Newton has demonstrated 
+through a classic experiment to produce 
+white light by recombining all the 
+colours of VIBGYOR. He used a prism 
+to produce dispersion and made all the 
+colours to incident on another inverted 
+prism to combine all the colours to get 
+white light as shown in figure.
+Points to Ponder
+But, when the white light enters a 
+medium the red colour travels with the 
+highest speed and violet colour travels 
+with least speed. Hence, the wavelengths 
+of colours in a medium are no longer the 
+same as they are in vacuum. Actually, the 
+dispersion takes place in a medium because 
+of the difference in speed for different 
+colours in a medium. In other words, 
+the refractive index of the material of the 
+prism is different for different colours. For 
+violet colour, the refractive index is the 
+highest and for red colour the refractive 
+index is the least. The refractive index of 
+two different glasses for different colours is 
+shown in Table 6.4.
+n =
++
+
+
+
+
+
+
+
+
+
+
+
+
+=
+(
+)
+sin
+sin
+sin
+.
+sin
+60
+37
+2
+60
+2
+48 5
+0
+0
+0
+0
+30
+0 75
+0 5
+1 5
+0
+(
+)
+=
+=
+.
+.
+.
+The refractive index of the material of the 
+prism is, n = 1.5
+6.7.4  Dispersion of white 
+light through prism
+The angle of deviation produced 
+by a prism is so far discussed only for 
+monochromatic light (i.e. light of single 
+colour). When white light enter in to a 
+prism, an effect called dispersion takes 
+place. Dispersion is splitting of white 
+light into its constituent colours. This 
+band of  colours of light is called its 
+spectrum. When a narrow beam of parallel 
+rays of white light is  incident on a prism 
+and the refracted beam is received on a 
+white screen. A band of  colours is obtained 
+in the order, recollected by the word: 
+VIBGYOR i.e., Violet, Indigo, Blue,  Green, 
+Yellow, Orange and Red. The violet is the 
+most deviated colour and red is the least 
+deviated colour as shown in Figure 6.43.
+Figure 6.43  Dispersion of white light in 
+to its constituent colours
+The colours obtained in a spectrum 
+depend on the nature of the light source. 
+Each colour in vacuum has a definite 
+wavelength. The red colour has the longest 
+wavelength of 700 nm while the violet 
+XII_Physics_Vol-2_UNIT-6_EM.indd   41
+XII_Physics_Vol-2_UNIT-6_EM.indd   41
+26-12-2022   11:38:37
+26-12-2022   11:38:37
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 42
+
+PDF_PAGE: 50
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+42
+small angle prism. When rays of light 
+pass through such prisms, the angle of 
+minimum deviation also becomes small. 
+Let A be the angle of a small angle prism 
+and δ be its angle of minimum deviation, 
+then equation (6.89) becomes,
+Table 6.4  Refractive indices for 
+diferent wavelengths
+Colour
+Wavelength 
+in vacuum 
+(nm)
+Crown 
+glass
+Flint  
+glass 
+Violet  
+396.9
+1.533
+1.663
+Blue 
+486.1
+1.523
+1.639
+Yellow 
+589.3
+1.517
+1.627
+Red 
+656.3
+1.515
+1.622
+6.7.5  Dispersive Power
+Consider a beam of white light passing 
+through a prism. It gets dispersed into its 
+constituent colours as shown in Figure 6.44. 
+If the angle of prism is small of the 
+order of 10o, the prism is said to be a 
+Rainbow appears in sky during mild shower (or) near the fountains/falls 
+where there are water droplets remain suspended in air. A rainbow is seen 
+when the sun is at the back of the observer. Dispersion occurs when sunlight 
+enters a water droplet and the white light is split into its constituent seven colours. A 
+primary rainbow is formed when the light entering a droplet undergoes one total internal 
+reflection inside it. Sometimes, a secondary rainbow is also formed enveloping the primary 
+rainbow as shown in the figure. The secondary rainbow is formed when light entering a 
+raindrop undergoes two total internal reflections. The order of colour in primary rainbow 
+is from violet to red whereas in secondary rainbow it is from red to violet. The angle 
+of view in primary rainbow from violet to red is from 40o to 42o. The angle of view for 
+secondary rainbow from red to violet is from 52o to 54o. 
+	
+White Light
+White Light
+Primary  rainbow
+42
+54
+52
+40
+Secondary rainbow
+White Light
+White Light
+Water
+drops
+Water
+drops
+v
+R
+Figure 6.44  Angle of deviation for 
+diferent colours
+XII_Physics_Vol-2_UNIT-6_EM.indd   42
+XII_Physics_Vol-2_UNIT-6_EM.indd   42
+26-12-2022   11:38:38
+26-12-2022   11:38:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 43
+
+PDF_PAGE: 51
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+43
+If we take δ as the angle of minimum 
+deviation for any mean colour (green or 
+yellow) and n the corresponding refractive 
+index. Then, 
+δ = (n – 1)A
+(6.95)
+Dispersive power ω is defined as the ratio 
+of the angular dispersion for the extreme 
+colours to the deviation for any middle colour. 
+Dispersive power is the ability of the material 
+of the prism to produce dispersion. 
+ w
+d
+d
+d
+=
+=
+−
+angulardispersion
+middledeviation
+V
+R  (6.96)
+Substituting for d
+d
+V
+R
+−
+(
+) and ( ),
+δ
+w =
+−
+(
+)
+−
+n
+n
+n
+V
+R
+(
+)1
+
+(6.97)
+The dispersive power is a dimensionless 
+and unitless quantity. The dispersive power 
+is always positive. The dispersive power 
+of a prism depends only on the nature of 
+material of the prism and it is independent 
+of the angle of the prism.
+EXAMPLE 6.22
+Find the dispersive power of a prism if 
+the refractive indices of flint glass for red, 
+green and violet colours are 1.613, 1.620 
+and 1.632 respectively.
+Solution
+Given, nV=1.632; nR=1.613; nG=1.620
+Equation for dispersive power is, 
+w =
+−
+(
+)
+−
+n
+n
+n
+V
+R
+G
+(
+)1
+Substituting the values, 
+w =
+−
+−
+=
+=
+1 632
+1 613
+1 620
+1
+0 019
+0 620
+0 0306
+.
+.
+.
+.
+.
+.
+The dispersive power of the prism is, 
+w = 0 0306
+.
+n
+A
+A
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+sin
+δ
+2
+2
+
+(6.90)
+For small angles of A and δ, 
+sin A
+A
++
+
+
+
+
+
+≈
++
+
+
+
+
+
+
+d
+d
+2
+2
+  
+sin A
+A
+2
+2
+
+
+
+
+
+≈
+
+
+
+
+
+∴
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+= +
+n
+A
+A
+A
+A
+A
+d
+d
+d
+2
+2
+1
+On further simplifying, d
+A
+n
+= −1
+d =
+−
+(
+)
+n
+A
+1
+
+(6.91)
+When white light enters the prism, the 
+deviation is different for different colours. 
+Thus, the refractive index is also different 
+for different colours.
+Let δV, δR are the angles of minimum 
+deviation for violet and red colour. Let nV 
+and nR be the refractive indices for the violet 
+and red colour respectively.
+  For Violet colour,  dV
+V
+n
+A
+=
+−
+(
+)
+1
+ (6.92)
+  For Red colour,   dR
+R
+n
+A
+=
+−
+(
+)
+1
+
+(6.93)
+As, angle of minimum deviation for violet 
+colour δV is greater than angle of minimum 
+deviation for red colour δR, the refractive 
+index for violet colour nV is greater than the 
+refractive index for red colour nR.
+Subtracting δR from δV we get,
+δV– δR = (nV–nR)A
+(6.94)
+The angular separation between the 
+two extreme colours (violet and red) in 
+the spectrum (δV–δR) is called the angular 
+dispersion.  
+XII_Physics_Vol-2_UNIT-6_EM.indd   43
+XII_Physics_Vol-2_UNIT-6_EM.indd   43
+26-12-2022   11:38:42
+26-12-2022   11:38:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 44
+
+PDF_PAGE: 52
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+44
+6.7.6  Scattering of sunlight
+When sunlight enters 
+the atmosphere of earth, 
+the particles present in 
+the 
+atmosphere 
+change 
+the direction of the light. 
+This process is known as 
+scattering of light. 
+If the scattering of light is by atoms 
+and molecules which have size a very 
+much less than that of the wave length λ of 
+light, (a<<λ), then the scattering is called 
+Rayleigh’s scattering. The intensity of light 
+scattered in Rayleigh’s scattering is inversely 
+proportional to fourth power of wavelength. 
+I µ 1
+4
+l 
+(6.98)
+According to equation 6.89, during day 
+time, violet colour which has the shortest 
+wavelength gets more scattered then the 
+other colours. The next scattered colour 
+is blue. As our eyes are more sensitive to 
+blue colour than violet colour, the sky 
+appears blue during day time as shown in 
+Figure 6.45(b). But, during sunrise and 
+sunset, the light from sun travels a greater 
+distance through the atmosphere. Hence, 
+the blue light which has shorter wavelength 
+is scattered away and the red light which 
+has longer wavelength and less-scattered 
+manages to reach our eye. This is the 
+reason for the reddish appearance of sky 
+during sunrise and sunset as shown in 
+Figure 6.45(a).
+If light is scattered by large particles like dust 
+and water droplets present in the atmosphere 
+which have size a greater than the wavelength 
+λ of light, (a >> λ), the intensity of scattering is 
+equal for all the colours. This non-Rayleigh’s 
+scattering is independent of wavelength. It 
+happens in clouds which contains large amount 
+of dust and water droplets. Thus, in clouds all 
+the colours get equally scattered. This is the 
+reason for the whitish appearance of cloud as 
+shown in Figure 6.45(c). But, the rain clouds 
+appear dark because of the condensation of 
+water droplets on dust particles that makes the 
+cloud opaque.
+If earth has no atmosphere there would 
+not have been any scattering and the sky 
+would appear dark. That is why sky appears 
+dark for the astronauts who could see the 
+sky from above the atmosphere.
+Earth
+Sun
+S
+(a)
+Day
+Sunrise
+Earth
+Sun
+(b)
+Figure 6.45  Scattering of diferent types
+XII_Physics_Vol-2_UNIT-6_EM.indd   44
+XII_Physics_Vol-2_UNIT-6_EM.indd   44
+26-12-2022   11:38:42
+26-12-2022   11:38:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 45
+
+PDF_PAGE: 53
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+45
+	
+
+A ray of light gives the direction of light.
+	
+
+Law of refection is, i = r
+	
+
+Paraxial rays are the rays travelling close to the principal axis of the mirror and make
+	
+
+small angles with it.
+	
+
+Te relation between focal length and radius of curvature in spherical mirror is, 
+2
+2
+f
+R
+R
+=
+=
+(or)
+f
+  
+	
+
+Cartesian sign conventions are to be followed to trace image formed by spherical mirrors.
+	
+
+Te mirror equation is, 1
+1
+1
+v
+u
+f
++
+=
+	
+
+Te magnifcation in spherical mirror is, m
+h
+h
+v
+u
+=
+′ =−, m
+h
+h
+f
+v
+f
+f
+f
+u
+=
+′ =
+−
+=
+−  
+	
+
+Light travels with lesser velocity in optically denser medium.
+	
+
+Refractive index is the ratio of speed of light in vacuum to speed of light in medium, 
+n
+c
+= v  
+	
+
+Optical path is the equivalent path travelled in vacuum in the same time light travels 
+through a optically denser medium.	
+′ =
+d
+nd 
+	
+
+Law of refraction also called as Snell’s law in ratio form is, sin
+sin
+i
+r
+n
+n
+=
+2
+1
+ .
+	
+
+In product form is, n
+i
+n
+r
+1
+2
+sin
+sin
+=
+ 
+	
+
+Te relative refractive index of second medium with respect to frst medium is, n
+n
+n
+21
+2
+1
+=
+ 
+	
+
+Te apparent depth is always lesser than actual depth. Te equation for apparent depth 
+is, ′ =
+d
+d
+n
+	
+
+Te critical angle of incidence ic for a ray incident from a denser to rarer medium, is that 
+angle for which the angle of refraction is 90°. For i > ic, total internal refection occurs. 
+	
+
+Equations for critical angle incidence is, sini
+n
+c = 1 (or) i
+n
+c =
+
+
+
+
+
+
+−
+sin 1 1 
+	
+
+Snell’s window is the restricted area of circular illumination which appears when seen 
+from water due to critical angle incidence. Te radius of the circular illumination is, 
+R
+d
+n
+R
+d
+n
+=
+−
+
+
+
+
+
+
+=
+−
+1
+1
+1
+2
+2
+(
+)
+or
+ 
+	
+
+Optical fbre makes use of critical angle incidence. Te acceptance angle in optical fbre 
+is,  i
+n
+n
+n
+a =
+−
+
+
+
+
+
+
+−
+sin 1
+1
+2
+2
+2
+2
+3
+. Here, n1, n2, n3 are the refractive indices of core, cladding and 
+surrounding medium respectively.
+	
+
+Glass slabs produce a lateral displacement on the light falling on it. Te equation for 
+lateral shif is, L
+t
+i
+r
+r
+=
+−
+(
+)
+( )
+
+
+
+
+
+
+sin
+cos
+SUM MA R Y 
+XII_Physics_Vol-2_UNIT-6_EM.indd   45
+XII_Physics_Vol-2_UNIT-6_EM.indd   45
+26-12-2022   11:38:43
+26-12-2022   11:38:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 46
+
+PDF_PAGE: 54
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+46
+	
+ Te equation for single spherical surface is, n
+v
+u
+n
+R
+−
+=
+−
+(
+)
+1
+1
+	
+
+Te focal length of the thin lens is positive for a converging lens and negative for a 
+diverging lens. It is not based on the position of the focal point.
+	
+
+Te lens makers formula is, 1
+1
+1
+1
+1
+2
+f
+n
+R
+R
+=
+−
+(
+)
+−
+
+
+
+
+
+
+	
+
+Te lens equation is, 
+1
+1
+1
+v
+u
+f
+-
+=
+	
+
+Te magnifcation produced by the lens is, m
+h
+h
+v
+u
+=
+′ =
+, m
+h
+h
+f
+f
+u
+=
+′ =
++ (or) m
+h
+h
+f
+v
+f
+=
+′ =
+−
+	
+
+Te power of a lens is a measure of the degree of convergence (or) divergence of light 
+falling on it. Power and focal length are inverse to each other. 
+	
+P
+f
+= 1 
+	
+
+Te unit of power is diopter (D) when the focal length is taken in meter.
+	
+
+Te efective focal length of lenses in contact is,  1
+1
+1
+1
+2
+f
+f
+f
+=
++
+	
+
+A prism produces deviation on the incident ray.
+	
+
+Angle of deviation depends on angle of prism, angle of incidence and refractive index of 
+material of prism given by the equation,  d
+i
+i
+A
+=
++
+−
+1
+2
+	
+
+At minimum deviation, i1 = i2, r1 = r2, and the ray inside the prism is parallel to the base 
+of the prism.
+	
+
+Te refractive index of prism depends on angle of prism and angle of minimum deviation 
+given by the equation, 
+n
+A
+D
+A
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+sin
+2
+2
+	
+
+When white light travels through a medium, diferent colours travel with diferent speeds 
+leading to dispersion of light. Red colour travels faster than violet colour in a medium. In 
+vacuum all the colours travel with the same speed.
+	
+
+Te angle of deviation produced by the small angled prism is,  d =
+−
+(
+)
+n
+A
+1
+	
+
+Te angular separation between the two extreme colours (violet and red) in the spectrum 
+is called angular dispersion.  
+	
+δV– δR = (nV–nR)A
+	
+
+Dispersive power is the measure of ability of the medium to disperse white light. 
+	
+w =
+−
+(
+)
+−
+n
+n
+n
+V
+R
+(
+)1
+ 
+	
+
+Rainbow is formed by dispersion of light by droplets of water.
+	
+
+Te scattering of light by particles of size less than wavelength of light is called Rayleigh 
+scattering. Te intensity of light produced by Rayleigh scattering is, I µ 1
+4
+l 
+	
+
+Non-Rayleigh scattering is by suspended dust particles whose size is greater than the 
+wavelength of light. Tis scattering is independent of wavelength of light.
+XII_Physics_Vol-2_UNIT-6_EM.indd   46
+XII_Physics_Vol-2_UNIT-6_EM.indd   46
+26-12-2022   11:38:43
+26-12-2022   11:38:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 47
+
+PDF_PAGE: 55
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+47
+Ray Optics
+Reﬂection 
+Plane mirrors 
+Spherical 
+mirrors 
+Refraction 
+Speed of light
+Refractive index
+Total internal 
+reﬂection
+Spherical 
+surface
+Combination 
+of Lenses 
+Slivered 
+lens
+Scattering
+Deviation in 
+prism 
+Dispersion
+Lens 
+C O N C EP T M AP
+XII_Physics_Vol-2_UNIT-6_EM.indd   47
+XII_Physics_Vol-2_UNIT-6_EM.indd   47
+26-12-2022   11:38:44
+26-12-2022   11:38:44
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 48
+
+PDF_PAGE: 56
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+48
+	 6.	 Stars twinkle due to,
+(a) refection
+(b) total internal refection
+(c) refraction
+(d) polarisation 
+	7.	 When a biconvex lens of glass having 
+refractive index 1.47 is dipped in a 
+liquid, it acts as a plane sheet of glass. 
+Tis implies that the liquid must have 
+refractive index,
+(a) less than one
+(b) less than that of glass
+(c) greater than that of glass
+(d) equal to that of glass
+	 8.	 Te radius of curvature of curved 
+surface at a thin planoconvex lens is 
+10 cm and the refractive index is 1.5. If 
+the plane surface is silvered, then the 
+focal length  will be,
+(a) 5 cm	
+(b) 10 cm
+(c) 15 cm	
+(d) 20 cm
+	 9.	 An air bubble in glass slab of refractive 
+index 1.5 (near normal incidence) is 
+5 cm deep when viewed from one surface 
+and 3 cm deep when viewed from the 
+opposite face. Te thickness of the slab is,
+(a) 8 cm	
+(b) 10 cm
+(c) 12 cm	
+(d) 16 cm
+10.	 A ray of light travelling in a transparent 
+medium of refractive index n falls, on a 
+surface separating the medium from air 
+at an angle of incidents of 45o. Te ray 
+can undergo total internal refection 
+for the following n,
+(a) n = 1.25	
+(b) n = 1.33
+(c) n = 1.4	
+(d) n = 1.5
+Multiple choice questions
+	 1.	 Te speed of light in an isotropic 
+medium depends on,
+(a) its intensity 
+(b)its wavelength 
+(c) the nature of propagation 
+(d) the motion of the source 
+w.r.t medium 
+	 2.	 A rod of length 10 cm lies along the 
+principal axis of a concave mirror of 
+focal length 10 cm in such a way that 
+its end closer to the pole is 20 cm away 
+from the mirror. Te length of the 
+image is, (AIPMT Main 2012)
+(a) 2.5 cm	
+(b) 5cm
+(c) 10 cm 	
+(d) 15cm
+	 3.	 An object is placed in front of a convex 
+mirror of focal length of f and the 
+maximum and minimum distance of 
+an object from the mirror such that the 
+image formed is real and magnifed. 
+
+(JEE Main 2009)]
+(a) 2f and c	
+(b) c and ∞
+(c) f and O	
+(d) None of these 
+	 4.	 For light incident from air on a slab 
+of refractive index 2, the maximum 
+possible angle of refraction is,
+(a) 30o	
+(b) 45o
+(c) 60o	
+(d) 90o
+	 5.	 If the velocity and wavelength of light in 
+air is Va and λa and that in water is Vw and 
+λw, then the refractive index of water is,
+(a)V
+V
+w
+a
+	
+(b) V
+V
+a
+w
+	
+(c) l
+l
+w
+a
+	
+(d) V
+V
+a
+a
+w
+w
+l
+l
+EVALUATION
+XII_Physics_Vol-2_UNIT-6_EM.indd   48
+XII_Physics_Vol-2_UNIT-6_EM.indd   48
+26-12-2022   11:38:45
+26-12-2022   11:38:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 49
+
+PDF_PAGE: 57
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+49
+21.	 Obtain 
+the 
+equation 
+for 
+lateral 
+magnifcation of thin lens.
+22.	 What is power of a lens?
+23.	 Derive the equation for efective focal 
+length for lenses in contact.
+24.	 What is angle of minimum deviation? 
+25.	 What is dispersion?
+26.	 How are rainbows formed?
+27.	 What is Rayleigh’s scattering?
+28.	 Why does sky appear blue?
+29.	 What is the reason for reddish 
+appearance of sky during sunset and 
+sunrise?
+30.	 Why do clouds appear white?
+Long Answer Questions
+	 1.	 Derive the mirror equation and the 
+equation for lateral magnifcation.
+	 2.	 Describe the Fizeau’s method to 
+determine the speed of light.
+	 3.	 Obtain the equation for radius of 
+illumination (or) Snell’s window.
+	 4.	 Derive the equation for acceptance 
+angle and numerical aperture of optical 
+fbre.
+	 5.	 Obtain 
+the 
+equation 
+for 
+lateral 
+displacement of light passing through 
+a glass slab.
+	 6.	 Derive the equation for refraction at 
+single spherical surface.
+	 7.	 Obtain lens maker’s formula and 
+mention its signifcance.
+	 8.	 Derive the equations for thin lens and 
+for magnifcation.
+	 9.	 Derive the equation for angle of 
+deviation produced by a prism and 
+thus obtain the equation for refractive 
+index of material of the prism.
+Answers
+	 1) b	
+2) b	
+3) d	
+4) a	
+5) b
+	 6) c	
+7) d	
+8) b	
+9) c	
+10) d
+Short Answer Questions
+	 1.	 What is angle of deviation due to 
+refection?
+	 2.	 Derive the relation between f and R for 
+a spherical mirror.
+	 3.	 What are the Cartesian sign conventions 
+for spherical mirrors?
+	 4.	 What is optical path? Obtain the 
+equation for optical path.
+	 5.	 State Snell’s law/law of refraction.
+	 6.	 What is angle of deviation due to 
+refraction?
+	 7.	 What is principle of reversibility?
+	 8.	 What is relative refractive index?
+	 9.	 Obtain the equation for apparent 
+depth.
+10.	 Why do stars twinkle?
+11.	 What are critical angle and total 
+internal refection?
+12.	 Obtain the equation for critical angle.
+13.	 Explain the reason for the glittering of 
+diamond.
+14.	 What are mirage and looming?
+15.	 Write a short note on the prisms 
+making use of total internal refections.
+16.	 What is Snell’s window?
+17.	 How does an endoscope work?
+18.	 What are primary focus and secondary 
+focus of a lens?
+19.	 What are the sign conventions followed 
+for lenses?
+20.	 Arrive at lens equation from lens 
+maker’s formula.
+XII_Physics_Vol-2_UNIT-6_EM.indd   49
+XII_Physics_Vol-2_UNIT-6_EM.indd   49
+26-12-2022   11:38:45
+26-12-2022   11:38:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 50
+
+PDF_PAGE: 58
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+50
+	 2.	 An object is placed in front of a concave 
+mirror of focal length 20 cm. Te 
+image formed is three times the size 
+of the object. Calculate two possible 
+distances of the object from the mirror. 
+
+[Ans: with +m, u = –40/3 cm and 
+with –m, u = –80/3 cm]
+	 3.	 A beam of light consisting of red, green 
+and blue is incident on a right-angled 
+prism as shown in fgure. Te refractive 
+index of the material of the prism for 
+the above red, green and blue colours 
+are 1.39, 1.44 and 1.47 respectively. 
+What are the colours sufer total 
+internal refection?
+ 		
+45°
+90°
+45°
+
+[Ans: green and blue sufer 
+total internal refection]
+	 4.	 An object is placed at a certain distance 
+from a convex lens of focal length 20 
+cm. Find the object distance if the 
+image obtained is magnifed 4 times. 
+
+[Ans: u = –15 cm.]
+	 5.	 Obtain the lens maker’s formula for 
+a lens of refractive index n2 which is 
+separating two media of refractive 
+indices n1 and n3 on the lef and right 
+respectively.
+n
+n
+R
+2
+1
+1
+−
++
+(
+)
+
+
+
+1
+f
+1
+n3
+(n3 − n2)
+R2
+=
+ 
+
+
+
+n
+u
+n
+n
+R
+1
+2
+1
+1
+−
+=
+−
++
+(
+)
+n3
+v
+(n3 − n2)
+R2
+Ans 
+10.	 What is dispersion? Obtain the 
+equation for dispersive power of a 
+medium.
+Conceptual Questions
+	 1.	 Why are dish antennas curved?
+	 2.	 What type of lens is formed by a bubble 
+inside water?
+	 3.	 Is it possible for two lenses to produce 
+zero power?
+	 4.	 A biconvex lens has focal length f and 
+intensity of light I passing through 
+it. What will be the focal length and 
+intensity for portions of lenses obtained 
+by cutting it vertically and horizontally 
+as shown in fgure? 
+	
+	
+5.	
+Why is yellow light preferred to during 
+fog?
+Numerical Problems
+	 1.	 An object of 4 cm height is placed at 
+6 cm in front of a concave mirror of 
+radius of curvature 24 cm. Find the 
+position, height, magnifcation and 
+nature of the image. 
+
+[Ans: v = 12 cm, h' = 8 cm, m = 2, image 
+is erect, virtual, twice the height of 
+object formed on right side of mirror.]
+XII_Physics_Vol-2_UNIT-6_EM.indd   50
+XII_Physics_Vol-2_UNIT-6_EM.indd   50
+26-12-2022   11:38:45
+26-12-2022   11:38:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 51
+
+PDF_PAGE: 59
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+51
+	 8.	 Prove that a concave lens can only form 
+a virtual, erect and diminished image.
+	 9.	 A point object is placed at 20 cm from 
+a thin plano-convex lens of focal length 
+15 cm whose plane surface is silvered. 
+Locate the position and nature of the 
+fnal image.
+
+[Ans: v = –12 cm]
+10.	 Find the ratio of the intensities of lights 
+with wavelengths 500 nm and 300 nm 
+which undergo Rayleigh scattering. 
+
+[Ans: 81:625]
+	 6.	 A thin converging lens of refractive 
+index 1.5 has a power of + 5.0 D. When 
+this lens is immersed in a liquid of 
+refractive index n, it acts as a divergent 
+lens of focal length 100 cm. What must 
+be the value of n?	
+
+[Ans: n = 5/3]
+	 7.	 If the distance D between an object and 
+screen is greater than 4 times the focal 
+length f of a convex lens, then there are 
+two positions for which the lens forms 
+an enlarged image and a diminished 
+image respectively. Tis method is 
+called conjugate foci method. If d is the 
+distance between the two positions of 
+the lens, obtain the equation for focal 
+length of the convex lens. 
+
+Ans: f
+D
+d
+D
+=
+−
+
+
+
+
+
+
+2
+2
+4
+BOOKS FOR REFERENCE
+	 1.	 Frances A. Jenkins and Harvey E. White, Fundamentals of Optics, 4th Edition, 
+McGraw Hill Book Company, (2011).
+	 2.	 David Halliday, Robert Resnick and Jearl Walker, Fundamentals of Physics, 6th Edition, 
+John Wiley & Sons Inc., (2004).
+	 3.	 H.C. Verma,Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & 
+Distributers Pvt. Ltd., (2008).
+	 4.	 Roger A. Freedman, Hugh D. Young, Sears and Zemansky’s University Physics, 
+12th Edition, Pearson, (2011).
+XII_Physics_Vol-2_UNIT-6_EM.indd   51
+XII_Physics_Vol-2_UNIT-6_EM.indd   51
+26-12-2022   11:38:46
+26-12-2022   11:38:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 52
+
+PDF_PAGE: 60
+
+------------------------------------------------------------
+
+Unit 6  ray optics
+52
+Ray optics
+In this activity you will be able to fnd out 
+the radius of curvature needed to make a 
+lens of desired focal length
+STEPS:
+• In the browser go to the page  “https://www.geogebra.org/m/wv7eccvc”. 
+• Here n1 = refractive index of air (n1 = 1). n2 is the refractive index of the lens. R1 and R2 are 
+the radius of curvature of the lens.
+• Take n2 = 1.5 , R1 = 3 cm and  R2 = –3 cm. Calculate the focal length of the lens using the 
+formula 1
+1
+1
+1
+2
+1
+2
+f
+n
+R
+R
+=
+−
+−
+
+
+
+
+
+
+(
+)
+. Verify your answer with the value obtained on the screen 
+by adjusting n2, R1 and R2  . 
+• Find out the curvatures R1 and R2  to make a lens of desired focal length 7 cm.
+• When R1 = –1cm and R2 = 1cm, you will get a concave lens of focal length –1 cm. Try to 
+construct concave and convex lenses by adjusting R1 and R2.
+• Adjust the refractive index  n2, and analyse how focal length changes with respect to 
+refractive index.
+• Adjust the refractive index  n1, and analyse how focal length changes with respect to 
+refractive index of the medium surrounded by the lens
+Note:
+Use flash enabled browser or install flash player in your system. 
+URL:
+https://www.geogebra.org/m/wv7ecvc
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step2
+Step1
+Topic: Lens maker’s formula.
+XII_Physics_Vol-2_UNIT-6_EM.indd   52
+XII_Physics_Vol-2_UNIT-6_EM.indd   52
+26-12-2022   11:38:46
+26-12-2022   11:38:46
+www.freetnbooks.com
+www.FREETNBOOKS.com

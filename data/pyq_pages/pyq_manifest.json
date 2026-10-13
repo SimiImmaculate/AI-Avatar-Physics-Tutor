@@ -1,0 +1,106 @@
+[
+  {
+    "source_file": "2020.pdf",
+    "class": "XI",
+    "year": 2020,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "91c6d1f6c71e98f2f15739b736f3d49e6e9ab206b71a29474ec2073a402527c9"
+  },
+  {
+    "source_file": "2021.pdf",
+    "class": "XI",
+    "year": 2021,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "077de43d7de32748726a45e9f71137accecf37e86e2c8e3a5b09b42794de5863"
+  },
+  {
+    "source_file": "2022.pdf",
+    "class": "XI",
+    "year": 2022,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "72391eaeb30a645ee55193c8a087419cccc13c300542a5437362b16b82ecd082"
+  },
+  {
+    "source_file": "2023.pdf",
+    "class": "XI",
+    "year": 2023,
+    "exam_type": "Public Exam",
+    "pages": 8,
+    "sha256": "a4cfc9b747b66681b46ff6ad81fdc58a543844f88efb03b6589c9488c33563e4"
+  },
+  {
+    "source_file": "2024.pdf",
+    "class": "XI",
+    "year": 2024,
+    "exam_type": "Public Exam",
+    "pages": 11,
+    "sha256": "ba08bbf3be4e9260e2bb5578634df9e73a7aa2c0884aad997cf4de5ca95b6486"
+  },
+  {
+    "source_file": "2025.pdf",
+    "class": "XI",
+    "year": 2025,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "06aa72f063305b71a11e3470361a6058f0c89b9b62e23c8108b820c676f50e7d"
+  },
+  {
+    "source_file": "2020.pdf",
+    "class": "XII",
+    "year": 2020,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "2e47fa9f3bdb274f57f9757fc57fe826c7e2c39212e9cb11d9cb3130f11bcbd4"
+  },
+  {
+    "source_file": "2021.pdf",
+    "class": "XII",
+    "year": 2021,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "10935e0ee27d896d082b0d6b7a48ec71f2642e95b66d90da745f8f9a979fed76"
+  },
+  {
+    "source_file": "2022.pdf",
+    "class": "XII",
+    "year": 2022,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "a3a3e06c1824ddd0b31f65ac94d210687e225b5e3124ade5596a3d8aa1fbbcaa"
+  },
+  {
+    "source_file": "2023.pdf",
+    "class": "XII",
+    "year": 2023,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "adaa4d2654346b1136ece7d9ea01ad074be895b81464202cecbcc70ffc900458"
+  },
+  {
+    "source_file": "2024.pdf",
+    "class": "XII",
+    "year": 2024,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "ced5395e7cc7d9f67f071dd4b0357350a9a643201345bacbf51c5a968969e3a2"
+  },
+  {
+    "source_file": "2025.pdf",
+    "class": "XII",
+    "year": 2025,
+    "exam_type": "Public Exam",
+    "pages": 12,
+    "sha256": "67a17ea299a5fc3911f77f42e376a3b69900db7fec77ebb7c6a11b06b024ed6c"
+  },
+  {
+    "source_file": "2026.pdf",
+    "class": "XII",
+    "year": 2026,
+    "exam_type": "Public Exam",
+    "pages": 11,
+    "sha256": "075abc3b021753d7a0d34de8d4c05fb431c811ae31c685403d45a920af19147c"
+  }
+]

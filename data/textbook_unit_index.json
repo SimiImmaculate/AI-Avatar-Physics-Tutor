@@ -1,0 +1,310 @@
+{
+  "XI": {
+    "1": {
+      "unit_number": 1,
+      "unit_title": "Unit 1 – Nature of Physical World and Measurement",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit01_nature_of_physical_world_and_measurement.txt",
+      "filename": "unit01_nature_of_physical_world_and_measurement.txt",
+      "characters": 85618,
+      "pages": 40,
+      "alternates": [
+        {
+          "filename": "unit01_measurement.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit01_measurement.txt",
+          "characters": 82236,
+          "pages": 40
+        }
+      ]
+    },
+    "2": {
+      "unit_number": 2,
+      "unit_title": "Unit 2 – Kinematics",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit02_kinematics.txt",
+      "filename": "unit02_kinematics.txt",
+      "characters": 122900,
+      "pages": 64,
+      "alternates": []
+    },
+    "3": {
+      "unit_number": 3,
+      "unit_title": "Unit 3 – Laws of Motion",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit03_laws_of_motion.txt",
+      "filename": "unit03_laws_of_motion.txt",
+      "characters": 126032,
+      "pages": 62,
+      "alternates": []
+    },
+    "4": {
+      "unit_number": 4,
+      "unit_title": "Unit 4 – Work, Energy and Power",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit04_work_energy_and_power.txt",
+      "filename": "unit04_work_energy_and_power.txt",
+      "characters": 85004,
+      "pages": 41,
+      "alternates": [
+        {
+          "filename": "unit04_work_energy_power.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit04_work_energy_power.txt",
+          "characters": 83341,
+          "pages": 41
+        }
+      ]
+    },
+    "5": {
+      "unit_number": 5,
+      "unit_title": "Unit 5 – Motion of System of Particles and Rigid Bodies",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit05_motion_of_system_of_particles_and_rigid_bodies.txt",
+      "filename": "unit05_motion_of_system_of_particles_and_rigid_bodies.txt",
+      "characters": 115576,
+      "pages": 58,
+      "alternates": [
+        {
+          "filename": "unit05_rigid_bodies.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume1\\unit05_rigid_bodies.txt",
+          "characters": 112985,
+          "pages": 57
+        }
+      ]
+    },
+    "6": {
+      "unit_number": 6,
+      "unit_title": "Unit 6 – Gravitation",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit06_gravitation.txt",
+      "filename": "unit06_gravitation.txt",
+      "characters": 101903,
+      "pages": 48,
+      "alternates": []
+    },
+    "7": {
+      "unit_number": 7,
+      "unit_title": "Unit 7 – Properties of Matter",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit07_properties_of_matter.txt",
+      "filename": "unit07_properties_of_matter.txt",
+      "characters": 117388,
+      "pages": 46,
+      "alternates": []
+    },
+    "8": {
+      "unit_number": 8,
+      "unit_title": "Unit 8 – Heat and Thermodynamics",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit08_heat_and_thermodynamics.txt",
+      "filename": "unit08_heat_and_thermodynamics.txt",
+      "characters": 158523,
+      "pages": 69,
+      "alternates": [
+        {
+          "filename": "unit08_heat_thermodynamics.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit08_heat_thermodynamics.txt",
+          "characters": 157574,
+          "pages": 69
+        }
+      ]
+    },
+    "9": {
+      "unit_number": 9,
+      "unit_title": "Unit IX – Kinetic Theory of Gases",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit09_kinetic_theory.txt",
+      "filename": "unit09_kinetic_theory.txt",
+      "characters": 56754,
+      "pages": 24,
+      "alternates": [
+        {
+          "filename": "unit09_kinetic_theory_of_gases.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit09_kinetic_theory_of_gases.txt",
+          "characters": 53943,
+          "pages": 24
+        }
+      ]
+    },
+    "10": {
+      "unit_number": 10,
+      "unit_title": "Unit 10 – Oscillations",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit10_oscillations.txt",
+      "filename": "unit10_oscillations.txt",
+      "characters": 78203,
+      "pages": 36,
+      "alternates": []
+    },
+    "11": {
+      "unit_number": 11,
+      "unit_title": "Unit 11 – Waves",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class11\\volume2\\unit11_waves.txt",
+      "filename": "unit11_waves.txt",
+      "characters": 133722,
+      "pages": 57,
+      "alternates": []
+    }
+  },
+  "XII": {
+    "1": {
+      "unit_number": 1,
+      "unit_title": "Unit 1 – Electrostatics",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit01_electrostatics.txt",
+      "filename": "unit01_electrostatics.txt",
+      "characters": 187458,
+      "pages": 79,
+      "alternates": []
+    },
+    "2": {
+      "unit_number": 2,
+      "unit_title": "Unit 2 – Current Electricity",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit02_current_electricity.txt",
+      "filename": "unit02_current_electricity.txt",
+      "characters": 98910,
+      "pages": 45,
+      "alternates": []
+    },
+    "3": {
+      "unit_number": 3,
+      "unit_title": "Unit 3 – Magnetism and Magnetic Effects of Electric Current",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit03_magnetism_and_magnetic_effects_of_electric_current.txt",
+      "filename": "unit03_magnetism_and_magnetic_effects_of_electric_current.txt",
+      "characters": 166461,
+      "pages": 70,
+      "alternates": [
+        {
+          "filename": "unit03_magnetism.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit03_magnetism.txt",
+          "characters": 164068,
+          "pages": 70
+        }
+      ]
+    },
+    "4": {
+      "unit_number": 4,
+      "unit_title": "Unit 4 – Electromagnetic Induction and Alternating Current",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit04_electromagnetic_induction_and_alternating_current.txt",
+      "filename": "unit04_electromagnetic_induction_and_alternating_current.txt",
+      "characters": 169125,
+      "pages": 71,
+      "alternates": [
+        {
+          "filename": "unit04_em_induction_ac.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit04_em_induction_ac.txt",
+          "characters": 167474,
+          "pages": 71
+        }
+      ]
+    },
+    "5": {
+      "unit_number": 5,
+      "unit_title": "Unit V – Electromagnetic Waves",
+      "volume": "Volume I",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit05_em_waves.txt",
+      "filename": "unit05_em_waves.txt",
+      "characters": 51983,
+      "pages": 20,
+      "alternates": [
+        {
+          "filename": "unit05_electromagnetic_waves.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume1\\unit05_electromagnetic_waves.txt",
+          "characters": 49910,
+          "pages": 20
+        }
+      ]
+    },
+    "6": {
+      "unit_number": 6,
+      "unit_title": "Unit 6 – Ray Optics",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit06_ray_optics.txt",
+      "filename": "unit06_ray_optics.txt",
+      "characters": 120481,
+      "pages": 52,
+      "alternates": []
+    },
+    "7": {
+      "unit_number": 7,
+      "unit_title": "Unit 7 – Wave Optics",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit07_wave_optics.txt",
+      "filename": "unit07_wave_optics.txt",
+      "characters": 133810,
+      "pages": 55,
+      "alternates": []
+    },
+    "8": {
+      "unit_number": 8,
+      "unit_title": "Unit 8 – Dual Nature of Radiation and Matter",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit08_dual_nature_of_radiation_and_matter.txt",
+      "filename": "unit08_dual_nature_of_radiation_and_matter.txt",
+      "characters": 87005,
+      "pages": 33,
+      "alternates": [
+        {
+          "filename": "unit08_dual_nature.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit08_dual_nature.txt",
+          "characters": 83843,
+          "pages": 33
+        }
+      ]
+    },
+    "9": {
+      "unit_number": 9,
+      "unit_title": "Unit IX – Atomic and Nuclear Physics",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit09_atomic_nuclear.txt",
+      "filename": "unit09_atomic_nuclear.txt",
+      "characters": 142774,
+      "pages": 54,
+      "alternates": [
+        {
+          "filename": "unit09_atomic_and_nuclear_physics.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit09_atomic_and_nuclear_physics.txt",
+          "characters": 142097,
+          "pages": 54
+        }
+      ]
+    },
+    "10": {
+      "unit_number": 10,
+      "unit_title": "Unit X – Electronics and Communication",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit10_electronics_communication.txt",
+      "filename": "unit10_electronics_communication.txt",
+      "characters": 150773,
+      "pages": 58,
+      "alternates": [
+        {
+          "filename": "unit10_electronics_and_communication.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit10_electronics_and_communication.txt",
+          "characters": 147275,
+          "pages": 58
+        }
+      ]
+    },
+    "11": {
+      "unit_number": 11,
+      "unit_title": "Unit 11 – Recent Developments in Physics",
+      "volume": "Volume II",
+      "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit11_recent_developments_in_physics.txt",
+      "filename": "unit11_recent_developments_in_physics.txt",
+      "characters": 47109,
+      "pages": 32,
+      "alternates": [
+        {
+          "filename": "unit11_recent_developments.txt",
+          "file": "C:\\Users\\HP\\OneDrive\\Documents\\AI-Avatar-Physics-Tutor\\data\\class12\\volume2\\unit11_recent_developments.txt",
+          "characters": 45631,
+          "pages": 32
+        }
+      ]
+    }
+  }
+}

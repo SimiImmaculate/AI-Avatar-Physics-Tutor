@@ -1,0 +1,1669 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 11 – Recent Developments in Physics
+
+TEXTBOOK_PAGE_RANGE:
+253–284
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 253
+
+PDF_PAGE: 261
+
+------------------------------------------------------------
+
+253
+U N I T 
+11
+RECENT DEVELOPMENTS 
+IN PHYSICS
+‘There’s Plenty of Room at the Bottom: An  Invitation to Enter a New Field of Physics’
+-Richard Feynman
+253
+XII_Physics_Vol-2_UNIT-11_EM.indd   253
+XII_Physics_Vol-2_UNIT-11_EM.indd   253
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 254
+
+PDF_PAGE: 262
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+254
+XII_Physics_Vol-2_UNIT-11_EM.indd   254
+XII_Physics_Vol-2_UNIT-11_EM.indd   254
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 255
+
+PDF_PAGE: 263
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+255
+XII_Physics_Vol-2_UNIT-11_EM.indd   255
+XII_Physics_Vol-2_UNIT-11_EM.indd   255
+26-12-2022   15:49:12
+26-12-2022   15:49:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 256
+
+PDF_PAGE: 264
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+256
+XII_Physics_Vol-2_UNIT-11_EM.indd   256
+XII_Physics_Vol-2_UNIT-11_EM.indd   256
+26-12-2022   15:49:14
+26-12-2022   15:49:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 257
+
+PDF_PAGE: 265
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+257
+XII_Physics_Vol-2_UNIT-11_EM.indd   257
+XII_Physics_Vol-2_UNIT-11_EM.indd   257
+26-12-2022   15:49:16
+26-12-2022   15:49:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 258
+
+PDF_PAGE: 266
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+258
+XII_Physics_Vol-2_UNIT-11_EM.indd   258
+XII_Physics_Vol-2_UNIT-11_EM.indd   258
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 259
+
+PDF_PAGE: 267
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+259
+XII_Physics_Vol-2_UNIT-11_EM.indd   259
+XII_Physics_Vol-2_UNIT-11_EM.indd   259
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 260
+
+PDF_PAGE: 268
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+260
+Automotive industry
+Lightweight construction
+Painting (ﬁllers, base coat, 
+clear coat)
+Catalysts
+Tires (ﬁllers)
+Sensors
+Coatings for wind-
+screen and car bodies
+Chemical industry
+Fillers for paint systems
+Coating systems based
+on nanocomposites
+Impregnation of papers
+Switchable adhesives
+Magnetic ﬂuids
+Engineering
+Wear protection for
+tools and machines
+(anti blocking coatings,
+scratch resistant
+coatings on plastic 
+parts, etc.)
+Lubricant-free bearings
+Electronic industry
+Data memory 
+Displays
+Laser diodes
+Glass ﬁbres
+Optical switches
+Filters (IR-blocking)
+Conductive, antistatic
+coatings
+Construction
+Construction materials
+Termal insulation
+Flame retardants
+Surface-functionalised
+building materials for 
+wood, ﬂoors, stone,
+facades, tiles, roof tiles, etc.
+Facade coatings
+Groove mortar
+Medicine
+Drug delivery systems
+Active agents
+Contrast medium
+Medical rapid tests
+Prostheses and 
+implants
+Antimicrobial agents
+and coatings
+Agents in cancer therapy
+Electronics
+Metallurgy
+and materials
+Defense and
+security
+Energy
+storage
+Optical
+engineering and
+communication
+Biomedical and
+drug delivery
+Agriculture
+and food
+Cosmetics
+and paints
+Biotechnology
+Textile
+Applications of nanomaterial based products in diﬀerernt areas
+11.2.6 Applications of Nano technology
+Nanotechnology
+Applications
+XII_Physics_Vol-2_UNIT-11_EM.indd   260
+XII_Physics_Vol-2_UNIT-11_EM.indd   260
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 261
+
+PDF_PAGE: 269
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+261
+11.2.7 Possible harmful eﬀects of nanoparticles
+Te research on the harmful impact of application of nanotechnology is also equally 
+important and fast developing. Te major concern here is that the nanoparticles have 
+the dimensions same as that of the biological molecules such as proteins. Tey may 
+easily get absorbed onto the surface of living organisms and they might enter the 
+tissues and ﬂuids of the body. 
+ Te adsorbing nature depends on the surface of the nanoparticle. Indeed, it is possi-
+ble to deliver a drug directly to a speciﬁc cell in the body by designing the surface of a 
+nanoparticle so that it adsorbs speciﬁcally onto the surface of the target cell.
+Te interaction with living systems is also aﬀected by the dimensions of the nanopar-
+ticles. For instance, nanoparticles of a few nanometers size may reach well inside 
+biomolecules, which is not possible for larger nanoparticles. Nanoparticles can also 
+cross cell membranes. It is also possible for the inhaled nanoparticles to reach the 
+blood, to reach other sites such as the liver, heart or blood cells. 
+ Researchers are trying to understand the response of living organisms to the pres-
+ence of nanoparticles of varying size, shape, chemical composition and surface 
+characteristics.
+Textile/fabrics/
+non-wovens
+Surface-processed
+textiles
+Smart clothes
+Food and drinks
+Package materials
+Storage life sensors
+Additives
+Clariﬁcation of fruit
+juices
+Energy
+Fuel cells
+Solar cells
+Batteries
+Capacitors
+Household
+Ceramic coatings for
+irons
+Odors catalyst
+Cleaner for glass,
+ceramic, ﬂoor,
+windows
+Cosmetics
+Sun protection
+Lipsticks
+Skin creams
+Tooth paste
+Sports/ outdoor
+Ski wax
+Antifogging of 
+glasses/goggles
+Antifouling coatings
+for ships/boats
+Reinforced tennis
+rackets and balls
+XII_Physics_Vol-2_UNIT-11_EM.indd   261
+XII_Physics_Vol-2_UNIT-11_EM.indd   261
+26-12-2022   15:49:17
+26-12-2022   15:49:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 262
+
+PDF_PAGE: 270
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+262
+NANOPARTICLES
+INTERNALIZED
+IN CELLS
+Mitochondrion
+Nucleus
+Cytoplasm
+Membrane
+Lipid vesicle
+Nanoparticles
+ingestion
+Gastro-Intestinal
+System
+Crohn’s disease
+Colon cancer
+Orthopedic implant
+wear debris
+Auto-immune diseases
+Dermatitis
+Urticaria
+Vasculitis
+Brain
+Nanoparticle inhalation
+Lungs
+Circulatory
+system
+Asthma
+Bronchitis
+Emphysema
+Cancer
+Heart
+Arrythmia
+Heart disease
+Death
+Other organs
+Diseases of
+unknown
+etiology in
+kidneys, liver
+Lymphatic
+system
+Podoconiosis
+Kaposi’s sarcoma
+Skin
+Auto-immune
+ diseases
+dermatitis
+Neurological diseases:
+Parkinson’s disease
+Alzheimer’s disease
+DISEASES ASSOCIATED TO NANOPARTICLE EXPOSURE
+(Not for examination)
+XII_Physics_Vol-2_UNIT-11_EM.indd   262
+XII_Physics_Vol-2_UNIT-11_EM.indd   262
+26-12-2022   15:49:18
+26-12-2022   15:49:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 263
+
+PDF_PAGE: 271
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+263
+11.3.1 What is robotics?
+Robotics is an integrated study of mechanical engineering, electronic engineering, 
+computer engineering, and science. Robot is a mechanical device designed with 
+electronic circuitry and programmed to perform a speciﬁc task. Tese automated 
+machines are highly signiﬁcant in this robotic era. Tey can take up the role of 
+humans in certain dangerous environments that are hazardous to people like 
+defusing bombs, ﬁnding survivors in unstable ruins, and exploring mines and 
+shipwrecks. 
+11.3 Robotics
+Co-defender
+Co-inhabitant
+Co-explorer
+Co-worker
+Services
+Logistics
+Manufacture 
+& Automation
+ Macro
+Manufacture 
+&
+Automation
+ Micro/Nano
+Medical
+Surgery
+Rehabilitate 
+orthotics
+ prosthetics
+Unmanned
+vehicles
+Intelligent
+ transportation
+Monitoring
+Inspection
+Security
+Human-
+Robot
+Interfaces
+Intelligent
+Co-Robot
+In 1954, George Devol invented the ﬁrst digitally operated programmable robot 
+called Unimate. George Devol and Joseph Engelberger, the father of the modern 
+robotics industry formed the world’s ﬁrst robot company in 1956. In 1961, 
+Unimate, was operated in a General Motors automobile factory for moving car 
+parts around in New Jersey.
+XII_Physics_Vol-2_UNIT-11_EM.indd   263
+XII_Physics_Vol-2_UNIT-11_EM.indd   263
+26-12-2022   15:49:18
+26-12-2022   15:49:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 264
+
+PDF_PAGE: 272
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+264
+Most robots are composed of 
+3 main parts:
+1.  Te Controller ‐ also known as the     
+     "brain"  which is  run by a computer 
+     program. It gives  commands for the 
+     moving parts to perform the job.
+2.  Mechanical parts - motors, pistons, 
+     grippers,  wheels, and gears that make 
+     the robot move, grab, turn, and lif.
+3.  Sensors - to tell the robot about its 
+     surroundings. It helps to determine 
+     the sizes and shapes of the objects 
+     around, distance between the objects, 
+     and directions as well.
+1.   Power conversion unit: Robots are powered by batteries,   solar power, and hydraulics.
+2.   Actuators: Converts energy into movement. Te majority of the actuators produce rotational or 
+       linear motion.
+3.   Electric motors: Tey are used to actuate the parts of the robots like wheels, arms, ﬁngers, legs, 
+      sensors, camera,   weapon systems etc. Diﬀerent types of electric motors are used. Te most ofen 
+      used ones are AC  motor, Brushed DC motor, Brushless DC motor, Geared DC motor, etc.
+4.   Pneumatic Air Muscles: Tey are devices that can  contract and expand when air is pumped inside. 
+      It can replicate  the  function of a human muscle. Tey contract almost 40% when the air is sucked 
+      inside them.
+5.   Muscle wires: Tey are thin strands of wire made of shape memory alloys. Tey can contract by 5% 
+       when electric current is  passed through them.
+6.   Piezo Motors and Ultrasonic Motors: Basically, we use it for industrial robots.
+7.   Sensors: Generally used in task environments as it provides information of real-time knowledge.
+8.   Robot locomotion: Provides the types of movements to a robot. Te diﬀerent types are
+       (a)    Legged   (b)   Wheeled   (c)  Combination of Legged and Wheeled Locomotion    
+       (d)  Tracked slip/skid
+HUMAN ROBOT
+Certain robots are made to resemble humans in 
+appearance and replicate the human activities 
+like walking, lifing, and sensing, etc.
+Key components
+Controller
+Power conversion
+unit
+Actuators
+Sensors
+Manipulator
+linkage base
+User 
+interface
+11.3.3 TYPES OF ROBOTS
+11.3.2 COMPONENTS OF ROBOTICS
+Te robotic system mainly consists of sensors, power supplies, control systems, manipula-
+tors and necessary sofware. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   264
+XII_Physics_Vol-2_UNIT-11_EM.indd   264
+26-12-2022   15:49:19
+26-12-2022   15:49:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 265
+
+PDF_PAGE: 273
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+265
+Cartesian
+* SCARA
+1
+2
+3
+4
+5
+6
+Cylindrical
+Delta
+Polar
+Vertically articulated
+Six main types of industrial robots
+Arc Welding
+Spot Welding
+Material Handling
+Machine Tending
+Other Applications
+Six-axis robots are ideal for
+Artiﬁcial
+Intelligence
+ Te aim of artiﬁcial intelligence is to 
+bring in human like  behaviour in robots. It works on
+1.   Face recognition
+2.   Providing response to player’s actions in computer games
+3.   Taking decisions based on previous actions
+4.   To regulate the traﬃc by analyzing the density of traﬃc on roads.
+5.   Translate words from one language to another
+INDUSTRIAL ROBOTS
+Artiﬁcial Intelligence
+*Selective Compliance Assembly Robot Arm
+XII_Physics_Vol-2_UNIT-11_EM.indd   265
+XII_Physics_Vol-2_UNIT-11_EM.indd   265
+26-12-2022   15:49:19
+26-12-2022   15:49:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 266
+
+PDF_PAGE: 274
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+266
+Outer space:  Exploring stars, planets etc., investigation of the mineralogy 
+of the rocks and soils on Mars, analysis of elements found in rocks and soils.
+Vacuum Cleaners
+Lawn mowing
+Pool cleaning
+Welding
+Cutting
+V
+Assembling
+Litter robot
+Transport
+Surgery
+Weaponry
+Packing
+Underwater
+Hospitals
+Nanorobots
+Agriculture
+Laboratory
+Te size of the nano robots is reduced to microscopic level to 
+perform a task in very small spaces. However, it is only in the 
+developmental stage. Te future prospects of it are much expected 
+in the medical ﬁeld: Nano-robots in blood stream to perform small 
+surgical procedures, to ﬁght against bacteria, repairing individual 
+cell in the body. It can travel into the body and once afer the job is 
+performed it can ﬁnd its way out. Chinese scientists have created 
+the world’s ﬁrst autonomous DNA robots to combat cancer 
+tumours.
+11.3.4 Applications 
+Mars Rovers of NASA
+Twin Mars Rovers 
+Mars Pathﬁnder Mission
+XII_Physics_Vol-2_UNIT-11_EM.indd   266
+XII_Physics_Vol-2_UNIT-11_EM.indd   266
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 267
+
+PDF_PAGE: 275
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+267
+Materials used to make robots
+For robots, aluminum and steel are the most common metals. Aluminum is a sofer 
+metal and is therefore easier to work with, but steel is several times stronger. In any 
+case, because of the inherent strength of metal, robot bodies are made using sheet, bar, 
+rod, channel, and other shapes.
+1.    Te robots are much cheaper than humans.
+2.    Robots never get tired like humans. It can work for 24 x 7. Hence absenteeism 
+       in work place can be reduced.
+3.   Robots are more precise and error free in performing the task.
+4.   Stronger and faster than humans.
+5.   Robots can work in extreme environmental conditions: extreme hot or cold, 
+       space or underwater. In dangerous situations like bomb detection and bomb
+       deactivation.
+6.    In warfare, robots can save human lives.
+7.    Robots are signiﬁcantly used in handling materials in chemical industries 
+       especially in nuclear plants which can lead to health hazards in humans.
+1.    Robots have no sense of emotions or conscience. 
+2.    Tey lack empathy and hence create an emotionless workplace. 
+3.    If ultimately robots would do all the work, and the humans will just sit
+       and monitor them, health hazards will increase rapidly.
+4.    Unemployment problem will increase.
+5.    Robots can perform deﬁned tasks and cannot handle unexpected situations
+6.    Te robots are well programmed to do a job and if a small thing goes 
+       wrong it ends up in a big loss to the company.
+7.    If a robot malfunctions, it takes time to identify the problem, rectify it, 
+       and even reprogram if necessary. Tis process requires signiﬁcant time.
+8.    Humans cannot be replaced by robots in decision making.
+9.    Till the robot reaches the level of human intelligence, the humans in work place will 
+       exit.
+11.3.5 Advantages of Robotics
+11.3.6 Disadvantages of Robotics
+XII_Physics_Vol-2_UNIT-11_EM.indd   267
+XII_Physics_Vol-2_UNIT-11_EM.indd   267
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 268
+
+PDF_PAGE: 276
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+268
+11.4.1 Te development in medical ﬁeld has been proportional to 
+the evolution of physics as indicated below
+(Not for examination)
+Year
+Invention in physics
+(Inventors)
+Technique 
+used in medicine
+Image
+1
+1895
+Radiology-Xray
+imaging
+2
+3
+4
+5
+6
+1896 and 
+1898
+Radioisotope
+imaging
+Nuclear Medicine 
+1934
+Artiﬁcal Radioactivity 
+(Joliot and Irene Curie)
+Scintigraphy
+1950
+Echography  & Sonography
+Ecography
+1979
+Computed
+Tomography (CT)
+1952
+Magnetic Resonance 
+Imaging (MRI)
+X-rays
+(Wilhelm Conrad-Röntgen)
+Teory of Radioactivity
+(Antonie Henri Becquerrel, 
+Pierre Curie and Marie Cuire)
+11. 4  Physics in medical diagnosis and therapy
+11. 4  Physics in medical diagnosis and therapy
+Medical science very much revolves around physics principles. Medical instru-
+mentation has widened the life span due to the technology integrated diagnosis 
+and treatment of most of the diseases. Tis modernisation in all ﬁelds is possible 
+due to eﬃcient application of fundamental physics.
+X-ray computed 
+tomography (Cormack and 
+Hounsﬁeld)
+Nuclear Magnetic 
+Resonance (NMR)  (Felix 
+Bloch and Edward Purcell)
+XII_Physics_Vol-2_UNIT-11_EM.indd   268
+XII_Physics_Vol-2_UNIT-11_EM.indd   268
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 269
+
+PDF_PAGE: 277
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+269
+Year
+Invention in physics
+(Inventors)
+Technique 
+used in medicine
+Image
+7
+1934
+Positron Emission 
+Tomography
+8
+9
+10
+11
+1940’s
+Optical ﬁbre
+Endoscopy,
+Biomedical sensors
+1960
+LASER 
+Surgical instrument
+and diagonsis tool
+1959
+Nanotechnology
+Nanomedicine
+Drug delivary
+2005
+Computed 
+Tomography (CT)
+Artiﬁcal Radioactivity
+(Joliot and Irene Curie)
+Dual Source Computed 
+Tomography (DSCT)
+12
+1998
+Nuclear medicine
+(David Townsend, Ronald Nutt)
+Fusion Imaging 
+Techniques 
+(PET-CT, PET-MR)
+XII_Physics_Vol-2_UNIT-11_EM.indd   269
+XII_Physics_Vol-2_UNIT-11_EM.indd   269
+26-12-2022   15:49:21
+26-12-2022   15:49:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 270
+
+PDF_PAGE: 278
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+270
+01
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+02
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+03
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+04
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+11.4. 2 Te recent advancement in medical technology includes
+01
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+02
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+03
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+04
+STEP
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud exerci tation 
+ullamcorper suscipit lobortis nisl ut aliquip 
+ex ea Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, sed diam 
+nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat 
+volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip ex ea
+Lorem ipsum dolor sit amet, consectetuer 
+READ MORE
+LOREM IPSUM
+Virtual reality
+Precision
+medicine
+1
+2
+3
+4
+5
+7
+8
+6
+Health
+wearables
+Artiﬁcial
+organs
+3D printing
+Wireless
+brain sensors
+Robotic
+ surgery
+Smart
+inhalers
+XII_Physics_Vol-2_UNIT-11_EM.indd   270
+XII_Physics_Vol-2_UNIT-11_EM.indd   270
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 271
+
+PDF_PAGE: 279
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+271
+1. Virtual reality
+1
+Medical virtual reality is eﬀectively used to 
+stop the brain from processing pain and 
+cure soreness in the hospitalized patients. 
+Virtual reality has enhanced surgeries by 
+the use of 3D models by surgeons to plan 
+operations. It helps in the treatment of 
+Autism, Memory loss, and Mental illness.
+Te innovation in medical diagnosis has taken leaps and bounds due to the integration 
+of technology and basic physics. A few of such advancements are discussed.
+2. Precision medicine
+2
+Precision medicine is an emerging approach for disease treatment and 
+prevention that takes into account individual variability in genes, 
+environment, and lifestyle for each person. In this medical model it is possible 
+to customise healthcare, with medical decisions, treatments, practices, or 
+products which are tailored to the individual patient.
+PATIENT A
+MUTATION A
+DRUG A
+PATIENT B
+MUTATION B
+DRUG B
+XII_Physics_Vol-2_UNIT-11_EM.indd   271
+XII_Physics_Vol-2_UNIT-11_EM.indd   271
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 272
+
+PDF_PAGE: 280
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+272
+3. Health wearables
+3
+A health wearable is a device used for tracking a wearer's vital signs or 
+health and ﬁtness related data, location, etc. Medical wearables with 
+artiﬁcial intelligence and big data provide an added value to healthcare with 
+a focus on diagnosis, treatment, patient monitoring and prevention. 
+4. Artiﬁcial organs
+4
+An artiﬁcial organ is an engineered device or tissue that is 
+implanted or integrated into a human. It is possible to interface it 
+with living tissue or to replace a natural organ. It duplicates or 
+augments a speciﬁc function or functions of human organs so that 
+the patient may return to a normal life as soon as possible.
+NOTE
+Big Data: Extremely large 
+data sets that may be analysed 
+computationally to reveal 
+patterns, trends, and 
+associations, especially 
+relating to human behaviour 
+and interactions.
+XII_Physics_Vol-2_UNIT-11_EM.indd   272
+XII_Physics_Vol-2_UNIT-11_EM.indd   272
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 273
+
+PDF_PAGE: 281
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+273
+5.  3D printing
+5
+Advanced 3D printer systems and materials assist physicians in a 
+range of operations in the medical ﬁeld from audiology, dentistry, 
+orthopedics and other applications.
+6. Wireless brain sensors
+6
+Wireless brain sensors monitor intracranial pressure and tempera-
+ture and then are absorbed by the body. Hence there is no need for 
+surgery to remove these devices.
+XII_Physics_Vol-2_UNIT-11_EM.indd   273
+XII_Physics_Vol-2_UNIT-11_EM.indd   273
+26-12-2022   15:49:22
+26-12-2022   15:49:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 274
+
+PDF_PAGE: 282
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+274
+7. Robotic surgery
+7
+Robotic surgery is a type of surgical procedure that is done using robotic 
+systems. Robotically-assisted surgery helps to overcome the limitations of 
+pre-existing minimally-invasive surgical procedures and to enhance the 
+capabilities of surgeons performing open surgery.
+8. Smart inhalers
+8
+Inhalers are the main treatment option for asthma.  Smart inhal-
+ers are designed with health systems and patients in mind so that 
+they can oﬀer maximum beneﬁt.  Smart inhalers use bluetooth 
+technology to detect inhaler use, remind patients when to take 
+their medication and gather data to help guide care. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   274
+XII_Physics_Vol-2_UNIT-11_EM.indd   274
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 275
+
+PDF_PAGE: 283
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+275
+In the 1960s, quarks were discovered and it was understood that proton and neutron are 
+made up of quarks. In the meantime, the particle physics research gained momentum and 
+has grown exponentially both in theoretical and experimental perspective.  Later it was 
+found that the quarks interact through gluons. It is the ﬁeld which received more number 
+of noble prizes. Recently in the year 2013, famous ‘Higgs particles’ also known as “God” 
+particles were discovered and for this, Peter Higgs and Englert received noble prize in 
+physics. It is the ‘Higgs particle’ which gives mass to many particles like protons, neutrons 
+etc.
+O
+H
+Molecule
+Composed of two or
+more atoms
+Atom 
+Electrons revolving
+around the atomic
+nucleus
+Nucleus
+Composed of 
+protons
+and neutrons
+located in the 
+center of an atom
+Nucleon
+Protons and 
+neutrons
+comprising the 
+nucleus of an atom
+(Example)
+Molecule of water
+Oxygen atom
+Hydrogen atoms
+Electron 
+Neutron
+Proton
+Quark
+H
+Nucleus
+Neutron
+Proton
+Quark
+Other recent developments in physics
+Particle Physics
+Particle physics deals with the theory of fundamental particles of nature and it is one of 
+the active research areas in physics. Initially it was thought that atom is the fundamental 
+entity of matter. In 1930s, it was established that atoms are made up of electrons, protons 
+and neutrons. 
+XII_Physics_Vol-2_UNIT-11_EM.indd   275
+XII_Physics_Vol-2_UNIT-11_EM.indd   275
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 276
+
+PDF_PAGE: 284
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+276
+Cosmology
+Cosmology is the branch that involves the origin and evolution of the universe. 
+It deals with formation of stars, galaxy etc. In the year 2015, the existence of 
+“gravitational waves” was discovered and noble prize was awarded for this discovery 
+in the year 2017.
+Gravitational waves are the disturbances in the curvature of space-time and it travels 
+with speed of light. Any accelerated charge emits electromagnetic wave. Similarly any 
+accelerated mass emits gravitational waves but these waves are very weak even for 
+masses like earth. Te strongest source of gravitational waves are black holes. Te 
+discovery of gravitational waves made it possible to study the structure of black holes 
+since it is the strongest source of gravitational waves. In fact, the recent discoveries of 
+gravitational waves are emitted by two black holes when they merge to a single black 
+hole. In fact, Albert Einstein theoretically proposed the existence of ‘gravitational 
+waves’ in the year 1915. Afer 100 years, it is experimentally proved that his predictions 
+are correct.
+ 
+Black holes are end stage of stars which are highly dense massive object. Its mass 
+ranges from 20 times mass of the sun to 1 million times mass of the sun. It has very 
+strong gravitational force such that no particle or even light can escape from it. Te 
+existence of black holes is studied when the stars orbiting the black hole behave 
+diﬀerently from the other stars.  Every galaxy has black hole at its center. Sagittarius A* 
+is the black hole at the center of the Milky Way galaxy.
+Gravitational wave 
+XII_Physics_Vol-2_UNIT-11_EM.indd   276
+XII_Physics_Vol-2_UNIT-11_EM.indd   276
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 277
+
+PDF_PAGE: 285
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+277
+Black hole sagittarus A*
+Te famous physicist Stephen Hawking worked in the ﬁeld of black holes. 
+Actual photograph of a super massive black hole M87* 
+Super computers and eight telescopes stationed on ﬁve continents (EVENT HORIZON 
+TELESCOPE) were used to develope a huge data to accomplish this. It has once again 
+conﬁrmed the Einstein’s theory of general relativity.
+XII_Physics_Vol-2_UNIT-11_EM.indd   277
+XII_Physics_Vol-2_UNIT-11_EM.indd   277
+26-12-2022   15:49:23
+26-12-2022   15:49:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 278
+
+PDF_PAGE: 286
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+278
+(A scene from the play Rossum Universal Robots, showing three robots) 
+          Many striking innovations and discoveries originate from scientiﬁc ﬁctions. 
+          Robots are also no exception to this. Te word robotics was derived from the 
+word robot.  It was introduced in the play ‘Rossum Universal Robots’ by the Zech 
+writer Karel Capek in 1920. Te word robot comes from the Slavic word rabota, 
+which means labour or work. Te play begins in a factory that makes artiﬁcial people 
+called robots. Tey looked like creatures that can be mistaken for humans (picture 
+shown). Tese characters were very similar to the modern ideas of androids.
+Quantum information theory
+(Not for examination)
+It is another fast developing research area which deals with improving the information storage 
+using quantum computers. Te present computers store information in the form of ‘bits’ but 
+quantum computers store information in the form of ‘qubits’. ‘qubit’ refers to quantum bit and it is 
+the basic unit of quantum information. Classical bit implies either 0 or 1. But qubit not only 
+includes 0 or 1 and also linear superposition of 0 and 1. Tis technology reduces the calculating 
+time exponentially. Tis research ﬁeld has very promising application in future.
+Qubit
+Information
+is physical
+Nature
+is quantum
+Quantum
+information
+processing
++
++
+=
+Head ('0')
+Tail ('0')
+or
+α
+β
+XII_Physics_Vol-2_UNIT-11_EM.indd   278
+XII_Physics_Vol-2_UNIT-11_EM.indd   278
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 279
+
+PDF_PAGE: 287
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+279
+	 Salient physics principles (covered in the higher secondary physics) are the foundation 
+for technology break through.
+	 Physics is the basic building block for Science, Engineering, Technology and 
+Medicine. Nano science is the science of objects with typical sizes of 1–100 nm. 
+	 Nano means one-billionth of a metre that is 10–9 m.  
+	 Nanotechnology is a technology involving the design, production, characterization, 
+and applications of nano structural materials.
+	 If the particle of a solid is of size less than 100 nm, it is said to be a ‘nano solid’. 
+	 When the particle size exceeds 100 nm, it forms a ‘bulk solid’.  
+	 Nano form of the material shows strikingly diferent properties when compared to 
+its bulk counterpart.
+	 Quantum confnement efects and surface efects are the two important phenomena 
+that govern nano properties.  
+	 Nanoscience and technology is the interdisciplinary area covering its applications in 
+various felds.  
+	 Nano scale structures existed in nature long before scientists began studying them in 
+laboratories. 
+	 Tere are two ways of preparing the nanomaterials, top down and bottom up 
+approaches. 
+	 Nanotechnology applications cover various felds. 
+	 Te major concern with nano application is that the nanoparticles have the dimensions 
+same as that of the biological molecules such as proteins.
+	 Nano particles can easily get absorbed onto the surface of living organisms and they 
+might enter the tissues and fuids of the body. 
+	 Te adsorbing nature depends on the surface of the nanoparticle.
+	 It is possible to deliver a drug directly to a specifc cell in the body by designing the 
+surface of a nanoparticle.
+	 Nanoparticles of a few nanometers size may reach well inside biomolecules, which is 
+not possible for larger nanoparticles. 
+	 Nanoparticles can also cross cell membranes.
+	 Te inhaled nanoparticles reach the blood and that may also reach other sites such as 
+the liver, heart or blood cells. 
+	 Robotics is an integrated study of mechanical engineering, electronic engineering, 
+computer engineering, and science.
+	 Robot is a mechanical device designed with electronic circuitry and programmed to 
+perform a specifc task.  
+	 Te robotic system mainly consists of sensors, power supplies, control systems, 
+manipulators and necessary sofware. 
+SUM MA R Y 
+XII_Physics_Vol-2_UNIT-11_EM.indd   279
+XII_Physics_Vol-2_UNIT-11_EM.indd   279
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 280
+
+PDF_PAGE: 288
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+280
+	 Te key components of a robot are Power conversion unit, Actuators, Electric motors, 
+Pneumatic Air Muscles, Muscle wires, Piezo Motors and Ultrasonic Motors, Sensors, 
+and Robot locomotion. 
+	 Six main types of industrial robots are Cartesian, SCARA, Cylindrical, Delta, Polar 
+and Vertically articulated robot.
+	 Six-axis robots are ideal for Arc Welding, Spot Welding, Material Handling, Machine 
+Tending.
+	 Five major felds of robotics: Human-robot interface, Mobility, Manipulation, 
+Programming and Sensors. 
+	 Te aim of artifcial intelligence is to bring in human like behavior in robots.
+	 Artifcial intelligence works on face recognition, providing response to players’ 
+actions in computer games, taking decisions based on previous actions, regulating 
+the trafc by analyzing the density of trafc on roads and translate words from one 
+language to another.
+	 Materials used to make robots: aluminum and steel are the most common metals. 
+	 Aluminum is a sofer metal and is therefore easier to work with.
+	 Steel is several times stronger. 
+	 Due to the inherent strength of metal, robot bodies can be made using sheet, bar, 
+rod, channel, and other shapes.
+	 Robots have many advantages in various applications but also have several 
+disadvantages.
+	 In outer space robots are used for exploring stars, planets etc., investigation of the 
+mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils.
+	 Household robots are used as vacuum cleaners, foor cleaners, gutter cleaners, lawn 
+mowing, pool cleaning, and to open and close doors.
+	 Industrial Robots are used for welding, cutting, robotic water jet cutting, robotic laser 
+cutting, lifing, sorting, bending, manufacturing, assembling, packing, transport, 
+handling hazardous materials like nuclear waste, weaponry, laboratory research, 
+mass production of consumer and industrial goods.
+	 Nano-robots are being developed to be in the blood stream to perform small surgical 
+procedures, to fght against bacteria, repairing individual cell in the body.
+	 Te development in medical feld has been proportional to the evolution of physics. 
+	 Te recent medical technology includes virtual reality, precision medicine, health wearables, 
+artifcial organs, 3D printing, wireless brain sensors, robotic surgery, smart inhalers.
+	 Particle physics deals with fundamental particles of nature. Protons and neutrons are 
+made of quarks.
+	 Cosmology is the branch that involves the origin and evolution of the universe.
+	 Accelerated mass emits gravitational waves which are very weak.
+	 Black holes are the strongest source of gravitational waves.
+XII_Physics_Vol-2_UNIT-11_EM.indd   280
+XII_Physics_Vol-2_UNIT-11_EM.indd   280
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 281
+
+PDF_PAGE: 289
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+281
+Recent developments in Physics 
+A few areas as examples
+Technology 
+Robotics
+Science
+Black holes
+Gravitational waves
+Nanoscience
+&
+Nanotechnology
+Medical diagnosis 
+and therapy 
+Particle
+physics
+Cosmology
+Medicine
+Inventions in
+physics &
+Developments in
+Medical science
+Recent medical 
+technology
+Nanoscience, Nanotechnology,
+Nanoparticles
+Interdisciplinary- 
+nanotechnology 
+Nano in nature
+Early beginning & 
+development
+Nano in laboratories 
+Components 
+Types
+Applications
+Materials used to 
+make Robots
+Advantages & Disadvantages
+Applications of 
+nanotechnology
+Harmful eﬀects of 
+nanoparticles
+C O N C EP T M AP
+XII_Physics_Vol-2_UNIT-11_EM.indd   281
+XII_Physics_Vol-2_UNIT-11_EM.indd   281
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 282
+
+PDF_PAGE: 290
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+282
+EVALUATION
+I  Multiple Choice Questions
+	 1.	 Te particle size of ZnO material is 
+30 nm. Based on the dimension it is 
+classifed as
+a) Bulk material
+b) Nanomaterial
+c) Sof material
+d) Magnetic material
+	 2.	 Which one of the following is the 
+natural nanomaterial.
+a) Peacock feather 
+b) Peacock beak
+c) Grain of sand
+d) Skin of the Whale
+	 3.	 Te blue print for making ultra durable 
+synthetic material is mimicked from
+a) Lotus leaf 
+b) Morpho butterfy
+c) Parrot fsh
+d) Peacock feather
+	 4.	 Te method of making nanomaterial 
+by assembling the atoms is called 
+a) Top down approach 
+b) Bottom up approach 
+c) Cross down approach 
+d) Diagonal approach 
+	 5.	 “Ski wax” is an application of nano 
+product in the feld of  
+a) Medicine
+b) Textile 
+c) Sports
+d) Automotive industry 
+	 6.	 Te materials used in Robotics are  
+ a) Aluminium and silver 
+b) Silver and gold
+c) Copper and gold 
+d) Steel and aluminum 
+	 7.	 Te alloys used for muscle wires in 
+Robots are 
+a) Shape memory alloys 
+b) Gold copper alloys 
+c) Gold silver alloys 
+d) Two dimensional alloys 
+	 8.	 Te technology used for stopping the 
+brain from processing pain is 
+a) Precision medicine 
+b) Wireless brain sensor
+c) Virtual reality 
+d) Radiology  
+	 9.	 Te particle which gives mass to 
+protons and neutrons are 
+a) Higgs particle 
+b) Einstein particle 
+c) Nanoparticle  
+d) Bulk particle 
+	10.	 Te gravitational waves were theoretically 
+proposed by 
+a)  Conrad Rontgen 
+b) Marie Curie 
+c) Albert Einstein 
+d) Edward Purcell 
+Answers
+	 1) b	
+2) a	
+3) c	
+4) b	
+5) c
+	 6) d	
+7) a	
+8) c	
+9) a	
+10) c
+XII_Physics_Vol-2_UNIT-11_EM.indd   282
+XII_Physics_Vol-2_UNIT-11_EM.indd   282
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 283
+
+PDF_PAGE: 291
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+283
+III Long Answers
+	 1.	 Discuss 
+the 
+applications 
+of 
+Nanomaterials in various felds.
+	 2.	 What are the possible harmful efects 
+of usage of Nanoparticles? Why?
+	 3.	 Discuss 
+the 
+functions 
+of 
+key 
+components in Robots?
+	 4.	 Elaborate any two types of Robots with 
+relevant examples.
+	 5.	 Comment on the recent advancement 
+in medical diagnosis and therapy.
+II Short answers
+	 1.	 Distinguish between Nanoscience and 
+Nanotechnology.
+	 2.	 What is the diference between Nano 
+materials and Bulk materials?
+	 3.	 Give any two examples for “Nano” in 
+nature.
+	 4.	 Mention any two advantages and 
+disadvantages of Robotics.
+	 5.	 Why steel is preferred in making 
+Robots?
+	 6.	 What are black holes?
+	 7.	 What are sub atomic particles?
+BOOKS FOR REFERENCE
+	 1.	 Pradeep, T. Nano Essential Under­standing Nano Science and Nano­technology, McGraw 
+Hill Education, India 2007.
+	 2.	 Rita John, Solid State Physics, McGraw Hill Education, India 2016
+	 3.	 Asim K Das, Mahua Das, An Introduction to Nano Science and Nano technology, CBS 
+Publishers and Distributors Pvt Ltd, India 2017.
+	 4.	 Jerrold T. Bushberg, J.Anthony Seibert, Te Essential Physics of Medical Imaging, Wolters 
+Kluwer, Lippin Cott Willams & Wilkins 2012
+	 5.	 Brian R Martin, Particle Physics, Kindle edition, 2011
+	 6.	 B S Murty, P Shankar, Baldev Raj, B B Rath, James Murday, Textbook of Nanoscience and 
+Nanotechnology, Springer, Universities Press, 2013
+XII_Physics_Vol-2_UNIT-11_EM.indd   283
+XII_Physics_Vol-2_UNIT-11_EM.indd   283
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 284
+
+PDF_PAGE: 292
+
+------------------------------------------------------------
+
+Unit 11  Recent developments in physics
+284
+Recent developments in physics
+ In this activity you will be able to (i) observe the changes in the 
+nuclear spins of the hydrogen nuclei of your water molecules due 
+to the external magnetic feld (ii)fnd out the resonance frequency 
+that promote a resultant photon.
+STEPS:
+•  Go to ‘https://phet.colorado.edu/en/simulation/legacy/mri’ page and download simplifed MRI java 
+fle. Or go to  Google → Phet → simulation → Physics → simplifed MRI and download the java fle.
+•   Open simplifed MRI java fle. Select simplifed MRI tab. 
+•  Observe the nuclear spins of the hydrogen nuclei present in the water molecules in brain (blue is the 
+hydrogen nuclei). Are they aligned in same direction? What happens when you change the external 
+magnetic feld? Are they aligned in the same direction under external feld? Discuss the reason. 
+•  Now adjust the frequency bar. For a particular frequency, hydrogen nuclei emit radio waves from lef 
+to right and fnd out the frequency when the nuclei start broadcasting radio waves. Tis is resonance 
+frequency. 
+•  Add a tumour.  Adjust the resonance frequency slightly to produce the strongest signal from the 
+tumour.  Record the tumour resonance frequency.  Is there a shif?  
+•  With the help of shif in resonance frequency, tumour inside the brain can be calculated. 
+Note:
+Install Java application if it is not in your browser. 
+URL:
+https://phet.colorado.edu/en/simulation/legacy/mri
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: MRI scan
+XII_Physics_Vol-2_UNIT-11_EM.indd   284
+XII_Physics_Vol-2_UNIT-11_EM.indd   284
+26-12-2022   15:49:24
+26-12-2022   15:49:24
+www.freetnbooks.com
+www.FREETNBOOKS.com

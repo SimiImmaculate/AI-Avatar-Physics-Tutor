@@ -1,0 +1,8627 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit 9 – Atomic and Nuclear Physics
+
+TEXTBOOK_PAGE_RANGE:
+141–194
+
+======================================================================
+
+EXTRACTED TEXTBOOK CONTENT
+
+======================================================================
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 141
+
+PDF_PAGE: 149
+
+------------------------------------------------------------
+
+141
+U N I T 
+9
+ATOMIC AND NUCLEAR PHYSICS
+In this unit, the students are exposed to 
+•	 electric discharge through the gases 
+•	 determination of specifc charge of by an electron J.J. Tomson experiment
+•	 determination of electronic charge by Millikan’s oil drop experiment
+•	 atom models – J.J. Tomson and Rutherford
+•	 Bohr atom model and hydrogen atom
+•	 atomic spectrum and hydrogen spectrum
+•	 structure and properties of nucleus
+•	 various classifcation of nuclei based on atomic number and mass number
+•	 mass defect and binding energy
+•	 relation between stability and binding energy curve
+•	 alpha decay, beta decay and gamma emission
+•	 law of radioactive decay
+•	 nuclear fssion and fusion
+•	 elementary ideas of nuclear reactors
+•	 qualitative idea of elementary particles
+All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial 
+– Ernest Rutherford 
+Learning Objectives
+INTRODUCTION
+Atom
+Apple
+Apple
+Apple
+Earth
+Earth
+Atom
+Atom
+Same size
+Same size
+Figure 9.1  Comparision of size of an atom 
+with that of an apple and comparision of 
+size of an apple with that of the Earth
+9.1
+In earlier classes, we have studied that 
+anything which occupies space is called 
+matter. Matter can be classified into 
+solids, liquids and gases. In our daily 
+life, we use water for drinking, petrol for 
+vehicles, we inhale oxygen, stainless steel 
+vessels for cooking, etc. Experiences tell 
+us that behaviour of one material is not 
+the same as that of another, which means 
+that the physical and chemical properties 
+are different for different materials. In 
+order to understand this, we need to 
+know the fundamental constituents of 
+materials. 
+141
+XII_Physics_Vol-2_UNIT-9_EM.indd   141
+XII_Physics_Vol-2_UNIT-9_EM.indd   141
+19-12-2022   16:04:30
+19-12-2022   16:04:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 142
+
+PDF_PAGE: 150
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+142
+But by special arrangement, one can make a 
+gas to conduct electricity. 
+A simple and convenient device used 
+to study the conduction of electricity 
+through gases is known as gas discharge 
+tube. The arrangement of discharge tube 
+is shown in Figure 9.2. It consists of a long 
+closed glass tube (of length nearly 50 cm 
+and diameter of 4 cm) inside of which 
+a gas in pure form is filled usually. The 
+small opening in the tube is connected to 
+a high vacuum pump and a low-pressure 
+gauge. This tube is fitted with two metallic 
+plates known as electrodes which are 
+connected to secondary of an induction 
+coil. The electrode connected to positive 
+of secondary is known as anode and the 
+electrode to the negative of the secondary 
+is cathode. The potential of secondary is 
+maintained at about 50 kV. 
+High
+potential diﬀerence
+Gas
+C
+A
+—
++
+Figure 9.2  Discharge tube (a) real picture 
+(b) schematic diagram
+When an object is divided repeatedly, 
+the process of division could not be done 
+beyond a certain stage in a similar way and 
+we end up with a small speck. This small 
+speck was defined as  an atom. The word 
+atom in Greek means ‘without division 
+or indivisible’.  The size of an atom is 
+very very small. For an example, the size 
+of hydrogen atom (simplest among other 
+atoms) is around 10–10 m. An American 
+Physicist Richard P. Feynman said that if 
+the size of an atom becomes the size of an 
+apple, then the size of apple becomes the 
+size of the earth as shown in Figure 9.1. 
+Such a small entity is an atom. 
+In this unit, we first discuss the theoretical 
+models of atom to understand its structure. 
+The Bohr atom model is more successful than 
+J. J. Thomson and Rutherford atom models. 
+It explained many unsolved issues in those 
+days and also gave better understanding of 
+chemistry.
+Later, scientists observed that even the atom 
+is not the fundamental entity. It consists of 
+electrons and nucleus. Around 1930, scientists 
+discovered that nucleus is also made of proton 
+and neutron. Further research discovered that 
+even the proton and neutron are made up of 
+fundamental entities known as quarks.  
+In this context, the remaining part of this 
+unit is written to understand the structure 
+and basic properties of nucleus. Further how 
+the nuclear energy is produced and utilized 
+are discussed. 
+ ELECTRIC DISCHARGE 
+THROUGH GASES
+Gases at normal atmospheric pressure are 
+poor conductors of electricity because they 
+do not have free electrons for conduction. 
+9.2
+(a)
+(b)
+XII_Physics_Vol-2_UNIT-9_EM.indd   142
+XII_Physics_Vol-2_UNIT-9_EM.indd   142
+19-12-2022   16:04:30
+19-12-2022   16:04:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 143
+
+PDF_PAGE: 151
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+143
+(5) The speed of cathode rays is up to 
+1
+10
+
+
+
+
+th
+of the speed of light. 
+9.2.1  Determination of specific 
+charge e
+m
+
+
+
+of an electron –
+Thomson’s experiment
+Thomson’s experiment is considered 
+as one among the landmark experiments 
+for the birth of modern physics. In 
+1887, J. J. Thomson made remarkable 
+improvement in the study of gases in 
+discharge tubes. In the presence of 
+electric and magnetic fields, the cathode 
+rays were deflected. By the variation of 
+electric and magnetic fields, the specific 
+charge (charge per unit mass) of the 
+cathode rays is measured. 
+Battery
+High voltage
+battery
+Deﬂecting
+plates
+Magnet
+Fluorescent screen
+P
+O
+P'
+C
+Cathode
+Anode
+A
+N
++
+_
+S
+Figure 9.3  Arrangement of J.J. Tomson 
+experiment to determine the specifc 
+charge of an electron
+The arrangement of J. J. Thomson’s 
+experiment is shown in Figure 9.3. A 
+highly evacuated discharge tube is used and 
+cathode rays (electron beam) produced at 
+cathode are attracted towards anode disc 
+A. Anode disc is provided with pin hole 
+in order to allow only a narrow beam of 
+cathode rays. These cathode rays are now 
+allowed to pass through the parallel metal 
+plates which are maintained at high voltage 
+as shown in Figure 9.3. Further, the gas 
+Suppose the pressure of the gas in 
+discharge tube is reduced to around 
+110 mm of Hg using vacuum pump, 
+it is observed that no discharge takes 
+place. When the pressure is kept near 
+100 mm of Hg, the discharge of electricity 
+through the tube takes place. Consequently, 
+irregular streaks of light appear and also 
+crackling sound is produced. When the 
+pressure is reduced to the order of 10 
+mm of Hg, a luminous column known as 
+positive column is formed from anode to 
+cathode. 
+When 
+the 
+pressure 
+reaches 
+to 
+around 0.01 mm of Hg, positive column 
+disappears. At this time, a dark space 
+is formed between anode and cathode 
+which is often called Crooke’s dark space 
+and the walls of the tube appear with 
+green colour. At this stage, some invisible 
+rays emanate from cathode called cathode 
+rays, which are later found be a beam of 
+electrons. 
+Properties of cathode rays
+(1) Cathode rays possess energy and 
+momentum and travel in a straight line with 
+high speed of the order of 107 ms-1. It can 
+be deflected by application of electric and 
+magnetic fields. The direction of deflection 
+indicates that they contain negatively 
+charged particles.
+(2) When the cathode rays are allowed 
+to fall on matter, heat is produced. Cathode 
+rays affect the photographic plates and also 
+produce fluorescence when they fall on 
+certain crystals and minerals. 
+(3) When the cathode rays fall on a 
+material of high atomic weight, x-rays are 
+produced. 
+(4) Cathode rays ionize the gas through 
+which they pass. 
+XII_Physics_Vol-2_UNIT-9_EM.indd   143
+XII_Physics_Vol-2_UNIT-9_EM.indd   143
+19-12-2022   16:04:31
+19-12-2022   16:04:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 144
+
+PDF_PAGE: 152
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+144
+(ii) Determination of specific charge 
+Since the cathode rays (electron beam) 
+are accelerated from cathode to anode, the 
+potential energy of the electron beam at the 
+cathode is converted into kinetic energy 
+of the electron beam at the anode. Let V 
+be the potential difference between anode 
+and cathode, then the potential energy 
+is eV. Then from law of conservation of 
+energy, 
+eV
+m
+e
+m
+V
+=
+⇒
+=
+1
+2
+2
+2
+2
+υ
+υ
+Substituting the value of velocity from 
+equation (9.1), we get
+e
+m
+V
+E
+B
+= 1
+2
+2
+2 
+(9.2)
+Substituting the values of E, B and V, the 
+specific charge can be determined as
+e
+m =
+×
+−
+1 7 1011
+1
+.
+Ckg
+(iii)  Deflection of charge only due to 
+uniform electric field
+When the magnetic field is turned off, 
+the deflection is only due to electric field. 
+The deflection in vertical direction is due to 
+the electric force. 
+F
+eE
+e =
+
+(9.3)
+Let m be the mass of the electron and by 
+applying Newton’s second law of motion, 
+acceleration of the electron is 
+a
+m F
+e
+e
+= 1
+
+(9.4)
+Substituting equation (9.4) in equation 
+(9.3),
+a
+m eE
+e
+m E
+e =
+=
+1
+discharge tube is kept in between pole 
+pieces of magnet such that both electric and 
+magnetic fields are acting perpendicular to 
+each other. When the cathode rays strike 
+the screen, they produce scintillation and 
+hence bright spot is observed. This is 
+achieved by coating the screen with zinc 
+sulphide. 
+(i)  Determination of velocity of cathode 
+rays
++
+_
+e–
+E
+N
+S
+FE
+FB
+B
+v
+Figure 9.4  Electric force balancing the 
+magnetic force – the path of electron 
+beam is a straight line 
+For a fixed electric field between the 
+plates, the magnetic field is adjusted such 
+that the cathode rays (electron beam) 
+strike at the original position O (Figure 
+9.3). This means that the magnitude of 
+electric force is balanced by the magnitude 
+of force due to magnetic field as shown 
+in Figure 9.4. Let e be the charge of the 
+cathode rays, then
+eE
+eB
+=
+υ
+⇒
+=
+υ
+E
+B 
+(9.1)
+XII_Physics_Vol-2_UNIT-9_EM.indd   144
+XII_Physics_Vol-2_UNIT-9_EM.indd   144
+19-12-2022   16:04:33
+19-12-2022   16:04:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 145
+
+PDF_PAGE: 153
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+145
+y
+C
+e
+m
+l B
+E
+=
+1
+2
+2
+2
+
+ (9.7)
+Rearranging equation (9.7) as 
+e
+m
+yE
+Cl B
+= 2
+2
+2 
+ (9.8)
+Substituting the values on RHS, the 
+value of specific charge is calculated as 
+e
+m =
+×
+−
+1 7
+1011
+1
+.
+Ckg
+.
+The specific charge is 
+independent of 
+(a) gas used 
+(b) nature of the electrodes 
+Note
+9.2.2  Determination of 
+charge of an electron – 
+Millikan’s oil drop experiment
+Millikan’s 
+oil 
+drop 
+experiment 
+is 
+another 
+important experiment in 
+modern physics which is 
+used to determine one of 
+the fundamental constants 
+of nature known as charge of an electron 
+(Figure 9.6 (a)). 
+By adjusting electric field suitably, the 
+motion of oil drop inside the chamber can 
+be controlled – that is, it can be made to 
+move up or down or even kept balanced 
+in the field of view for sufficiently long 
+time. 
+The experimental arrangement is 
+shown in Figure 9.6 (b). The apparatus 
+consists of two horizontal circular metal 
+plates A and B each with diameter 
+around 20 cm and are separated by a 
+small distance 1.5 cm. These two parallel 
+E
+y´
+y
+Screen
++
+_
+e–
+l
+Figure 9.5  Deviation of path by applying 
+uniform electric feld
+Let y be the deviation produced from 
+original position on the screen as shown 
+in Figure 9.5. Let the initial upward 
+velocity of cathode ray be u = 0 before 
+entering the parallel electric plates. Let 
+t be the time taken by the cathode rays 
+to travel in electric field. Let  l  be the 
+length of one of the plates, then the time 
+taken is 
+t
+l
+= υ 
+(9.5)
+Hence, the deflection yʹ of cathode rays 
+is (note: u = 0 and a
+e
+m E
+e =
+)
+′ =
++
+⇒′ =
++
+=
+
+
+
+
+
+
+
+
+y
+ut
+at
+y
+ut
+a t
+e
+m E
+l
+e
+1
+2
+1
+2
+1
+2
+2
+2
+2
+υ
+′ =
+y
+e
+m
+l B
+E
+1
+2
+2
+2
+
+(9.6)
+Therefore, the deflection y on the screen 
+is 
+y
+y
+y
+C y
+∝′ ⇒
+=
+′
+where C is proportionality constant 
+which depends on the geometry of the 
+discharge tube and substituting yʹ value in 
+equation 9.6, we get 
+XII_Physics_Vol-2_UNIT-9_EM.indd   145
+XII_Physics_Vol-2_UNIT-9_EM.indd   145
+19-12-2022   16:04:35
+19-12-2022   16:04:35
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 146
+
+PDF_PAGE: 154
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+146
+plates are enclosed in a chamber with 
+glass walls. Further, plates A and B are 
+maintained at high potential difference 
+around 10 kV such that electric field acts 
+vertically downward. A small hole is made 
+at the centre of the upper plate A and an 
+atomizer is kept exactly above the hole to 
+spray the liquid. When a fine droplet of 
+the highly viscous non volatile liquid (like 
+glycerine) is sprayed using atomizer, they 
+fall freely downward through the hole of 
+the top plate only under the influence of 
+gravity. 
+Few oil drops in the chamber can 
+acquire electric charge (negative charge) 
+because of friction with air or passage 
+of x-rays in between the parallel plates. 
+Further the chamber is illuminated by 
+light which is passed horizontally and oil 
+drops can be seen clearly using microscope 
+placed perpendicular to the light beam. 
+These drops can move either upwards or 
+downward. 
+Let m be the mass of the oil drop and q 
+be its charge. Then the forces acting on the 
+droplet are 
+(a)  gravitational force F
+mg
+g =
+(b)  electric force F
+qE
+e =
+(c)  buoyant force  Fb
+(d)  viscous force Fv
+Fg
+Fb Fv
+Fb Fe
+Fg
+Oil drop
+(a)
+(b)
+Figure 9.7  Free body diagram of the oil 
+drop – (a) without electric feld (b) with 
+electric feld
+(a) Determination of radius of the 
+droplet
+When the electric field is switched off, 
+the oil drop accelerates downwards. Due 
+to the presence of air drag forces, the oil 
+drops easily attain its terminal velocity 
+and moves with constant velocity. This 
+velocity can be carefully measured by 
+noting down the time taken by the oil drop 
+to fall through a predetermined distance. 
+The free body diagram of the oil drop 
+is shown in Figure 9.7 (a), we note that 
+viscous force and buoyant force balance 
+the gravitational force. 
+Let the gravitational force acting on the 
+oil drop (downward) be F
+mg
+g =
+Let us assume that oil drop to be spherical 
+in shape. Let ρ be the density of the oil drop, 
+  
+Atomizer
+Microscope
+Light
+source
+(–)
+(+)
+Microscope
++
+–
+A
+B
+To Atomizer
+Light source
+Figure 9.6  Millikan’s experiment (a) real 
+picture and schematic picture (b) Side 
+view picture
+(a)
+(b)
+XII_Physics_Vol-2_UNIT-9_EM.indd   146
+XII_Physics_Vol-2_UNIT-9_EM.indd   146
+19-12-2022   16:04:36
+19-12-2022   16:04:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 147
+
+PDF_PAGE: 155
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+147
+r
+g
+=
+−
+
+
+
+
+
+
+9
+2
+1
+2
+ηυ
+ρ
+σ
+(
+)
+
+(9.9)
+Thus, equation (9.9) gives the radius of 
+the oil drop. 
+(b) Determination of electric charge
+When the electric field is switched on, 
+charged oil drops experience an upward 
+electric force (qE). Among many drops, 
+one particular drop can be chosen in the 
+field of view of microscope and strength 
+of the electric field is adjusted to make 
+that particular drop to be stationary. 
+Under these circumstances, there will be 
+no viscous force acting on the oil drop. 
+Then, from the free body diagram shown 
+Figure 9.7 (b), the net force acting on the 
+oil droplet is 
+F
+F
+F
+e
+b
+g
++
+=
+⇒
++
+=
+qE
+r
+g
+r
+g
+4
+3
+4
+3
+3
+3
+π σ
+π ρ
+⇒
+=
+−
+qE
+r
+g
+4
+3
+3
+π
+ρ
+σ
+(
+) 
+(9.10)
+⇒
+=
+−
+q
+E r
+g
+4
+3
+3
+π
+ρ
+σ
+(
+) 
+(9.11)
+Substituting equation (9.9) in equation 
+(9.11), we get
+q
+E
+g
+=
+−
+
+
+
+
+
+
+18
+2
+3
+3
+1
+2
+π
+η υ
+ρ
+σ
+(
+)
+
+(9.12)
+Millikan repeated this experiment 
+several times and computed the charges 
+on oil drops. He found that the charge 
+of any oil drop can be written as integral 
+multiple of a basic value, −
+×
+−
+1 6 10 19
+.
+,
+C 
+and r be the radius of the oil drop, then the 
+mass of the oil drop can be expressed in 
+terms of its density as
+ρ = m
+V
+⇒
+= 
+
+
+
+m
+r
+ρ
+π
+4
+3
+3 
+volume of the 
+sphere,V
+r
+=
+
+
+
+
+
+
+4
+3
+3
+π
+The gravitational force can be written in 
+terms of density as
+F
+mg
+F
+r
+g
+g
+g
+=
+⇒
+= 
+
+
+
+ρ
+π
+4
+3
+3
+Let σ be the density of the air, the 
+upthrust force experienced by the oil drop 
+due to displaced air is
+F
+r
+g
+b =
+
+
+
+
+σ
+π
+4
+3
+3
+Once the oil drop attains a terminal 
+velocity υ, the net downward force acting 
+on the oil drop is equal to the viscous 
+force acting opposite to the direction of 
+motion of the oil drop. From Stokes law, 
+the viscous force on the oil drop is
+F
+r
+v = 6π υη
+From the free body diagram as shown 
+in Figure 9.7 (a), the force balancing 
+equation is 
+F
+F
+F
+g
+b
+=
++
+υ
+ρ
+π
+σ
+π
+π υη
+4
+3
+4
+3
+6
+3
+3
+r
+g
+r
+g
+r
+
+
+
+
+=
+
+
+
++
+4
+3
+6
+3
+π
+ρ
+σ
+π υη
+r
+g
+r
+(
+)
+−
+=
+2
+3
+3
+3
+π
+ρ
+σ
+π υη
+r
+g
+r
+(
+)
+−
+=
+XII_Physics_Vol-2_UNIT-9_EM.indd   147
+XII_Physics_Vol-2_UNIT-9_EM.indd   147
+19-12-2022   16:04:41
+19-12-2022   16:04:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 148
+
+PDF_PAGE: 156
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+148
+9.3.1  J. J. Thomson’s Model 
+(Water melon model) 
+In this model, the atoms are visualized 
+as homogeneous spheres which contain 
+uniform distribution of positively charged 
+particles (Figure 9.8 (a)). The negatively 
+charged particles known as electrons are 
+embedded in it like seeds in water melon 
+as shown in Figure 9.8 (b). 
+_
+_
+_
+_
+_
+_
+Positively charged
+material
+10  m
+–10
+Figure 9.8  (a) Atom  (b) Water melon
+The atoms are electrically neutral, this 
+implies that the total positive charge in an 
+atom is equal to the total negative charge. 
+According to this model, all the charges 
+are assumed to be at rest. But from classical 
+electrodynamics, no stable equilibrium 
+points exist in electrostatic configuration 
+(this is known as Earnshaw’s theorem) 
+and hence such an atom cannot be stable. 
+Further, it fails to explain the origin of 
+spectral lines observed in the spectrum of 
+hydrogen atom and other atoms.
+9.3.2  Rutherford’s model
+In 1911, Geiger and Marsden did a 
+remarkable experiment based on the advice 
+of their teacher Rutherford, which is known 
+as scattering of alpha particles by gold foil. 
+The experimental arrangement is shown 
+in Figure 9.9. A source of alpha particles 
+(radioactive material, example polonium) is 
+which is nothing but the charge of an 
+electron. 
+ ATOM MODELS
+Introduction
+Around 400 B.C, Greek philosophers 
+Leucippus and Democretus proposed 
+the concept of atom, ‘Every object on 
+continued subdivision ultimately yields 
+atoms’. 
+Later, 
+many 
+physicists 
+and 
+chemists tried to understand the nature 
+with the idea of atoms. Many theories 
+were proposed to explain the properties 
+(physical and chemical) of bulk materials 
+on the basis of atomic model. 
+For instance, J. J. Thomson proposed 
+a theoretical atom model which is based 
+on static distribution of electric charges. 
+Since this model fails to explain the 
+stability of atom, one of his students E. 
+Rutherford proposed the first dynamic 
+model of an atom. Rutherford gave atom 
+model which is based on results of an 
+experiment done by his students (Geiger 
+and Marsden). But this model also failed 
+to explain the stability of the atom.
+Later, Niels Bohr who is also a student 
+of Rutherford proposed an atomic 
+model for hydrogen atom which is 
+more successful than other two models. 
+Niels Bohr atom model could explain 
+the stability of the atom and also the 
+origin of line spectrum. There are other 
+atom models, such as Sommerfeld’s 
+atom model and atom model from wave 
+mechanics (quantum mechanics). But we 
+will restrict ourselves only to very simple 
+(mathematically simple) atom model in 
+this section.  
+9.3
+XII_Physics_Vol-2_UNIT-9_EM.indd   148
+XII_Physics_Vol-2_UNIT-9_EM.indd   148
+19-12-2022   16:04:41
+19-12-2022   16:04:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 149
+
+PDF_PAGE: 157
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+149
+experiment. In this experiment, alpha 
+particles (positively charged particles) were 
+allowed to fall on the atoms of a metallic 
+gold foil. The results of this experiment are 
+given below and are shown in Figure 9.10, 
+Rutherford expected the atom model to be 
+as seen in Figure 9.10 (a) but the experiment 
+showed the model as in Figure 9.10 (b).
+(a)  Most of the alpha particles were 
+un-deflected through the gold foil and 
+went straight. 
+(b)  Some of the alpha particles were 
+deflected through a small angle. 
+(c)  A few alpha particles (one in thousand) 
+were deflected through the angle more 
+than 90°
+kept inside a thick lead box with a fine hole 
+as seen in Figure 9.9. The alpha particles 
+coming through the fine hole of lead box pass 
+through another fine hole made on the lead 
+screen. These particles are now allowed to fall 
+on a thin gold foil and it is observed that the 
+alpha particles passing through gold foil are 
+scattered through different angles. A movable 
+screen (from 0° to 180°) which is made up of 
+zinc sulphide (ZnS) is kept on the other side 
+of the gold foil to collect the scattered alpha 
+particles. Whenever alpha particles strike the 
+screen, a flash of light is observed which can 
+be seen through a microscope. 
+Rutherford proposed an atom model 
+based on the results of alpha scattering 
++
+Lead Screen
+Lead 
+Block
+Flash of 
+light
+Microscope
+Fluorescent
+Screen
+Scattering
+angle
+Gold
+foil
+Polonium
+sample
+
+
+Figure 9.9  Schematic diagram for scattering of alpha particles experiment by Rutherford
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+Expected
+Observed
+(a)
+(b)
++
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+10
+102
+103
+104
+105
+106
+107
+Number of scattered particles detected
+Scattering angle θ (in degree)
+(c)
+Figure 9.10  In alpha scattering experiment – (a) Rutherford expected (b) experiment 
+result (c) Te variation of alpha particles scattered N(θ) with scattering angle θ
+XII_Physics_Vol-2_UNIT-9_EM.indd   149
+XII_Physics_Vol-2_UNIT-9_EM.indd   149
+19-12-2022   16:04:41
+19-12-2022   16:04:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 150
+
+PDF_PAGE: 158
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+150
+of the nucleus and the alpha particle just 
+before it gets reflected back through 180° is 
+defined as the distance of closest approach 
+r0 (also known as contact distance). At this 
+distance, all the kinetic energy of the alpha 
+particle will be converted into electrostatic 
+potential energy (Refer unit 1, volume 1 of 
++2 physics text book). 
+1
+2
+1
+4
+2
+0
+2
+0
+0
+m
+e Ze
+r
+υ
+πε
+=
+(
+)(
+)
+⇒
+=
+(
+)
+=
+r
+Ze
+m
+Ze
+Ek
+0
+0
+2
+0
+2
+0
+2
+1
+4
+2
+12
+1
+4
+2
+πε
+υ
+πε
+where Ek is the kinetic energy of the 
+alpha particle.This is used to estimate the 
+size of the nucleus but size of the nucleus 
+is always lesser than the distance of closest 
+approach. Further, Rutherford calculated 
+the radius of the nucleus for different 
+nuclei and found that it ranges from 
+10–14 m to 10–15 m. 
+(b) Impact parameter
+θ
+Nucleus
+b
+Alpha particle
++
++
+90°
+Alpha particle at a very
+large distance
+ 
+Figure 9.12  Impact parameter
+The impact parameter (b) (see Figure 9.12) 
+is defined as the perpendicular distance 
+between the centre of the gold nucleus and 
+the direction of velocity vector of alpha 
+particle when it is at a large distance. The 
+(d)  Very few alpha particles returned back 
+(back scattered) –that is, deflected back 
+by 180°
+In Figure 9.10 (c), the dotted points 
+are the alpha scattering experiment data 
+points obtained by Geiger and Marsden 
+and the solid curve is the prediction from 
+Rutherford’s nuclear model. It is observed 
+that the Rutherford’s nuclear model is in 
+good agreement with the experimental data. 
+Conclusion made by Rutherford based on 
+the above observation
+From the experimental observations, 
+Rutherford proposed that an atom has a lot 
+of empty space and contains a tiny matter at 
+its centre known as nucleus whose size is of 
+the order of 10-14m. The nucleus is positively 
+charged and most of the mass of the atom is 
+concentrated in the nucleus. The nucleus is 
+surrounded by negatively charged electrons. 
+Since static charge distribution cannot be in 
+a stable equilibrium, he suggested that the 
+electrons are not at rest and they revolve 
+around the nucleus in circular orbits like 
+planets revolving around the sun. 
+(a) Distance of closest approach
+b Impact parameter
+gold nucleus
+distance of closed approach
+Alpha particles
+r0
+Figure 9.11  Distance of closest approach 
+and impact parameter
+When an alpha particle moves straight 
+towards the nucleus, it reaches a point 
+where it comes to rest momentarily and 
+returns back as shown in Figure 9.11. The 
+minimum distance between the centre 
+XII_Physics_Vol-2_UNIT-9_EM.indd   150
+XII_Physics_Vol-2_UNIT-9_EM.indd   150
+19-12-2022   16:04:42
+19-12-2022   16:04:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 151
+
+PDF_PAGE: 159
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+151
+Hence, Rutherford model could not account 
+for the stability of atoms.   
+(b) According to this model, emission 
+of radiation must be continuous and 
+must give continuous emission spectrum 
+but experimentally we observe only line 
+(discrete) emission spectrum for atoms.
+9.3.3  Bohr atom model
+In order to overcome the limitations of 
+the Rutherford atom model in explaining the 
+stability and also the line spectrum observed 
+for a hydrogen atom (Figure 9.14), Niels Bohr 
+made modifications in Rutherford atom 
+model. He is the first person to give better 
+theoretical model of the structure of an atom 
+to explain the line spectrum of hydrogen 
+atom. The following are the assumptions 
+(postulates) made by Bohr.
+Figure 9.14  Te line spectrum of 
+hydrogen
+Postulates of Bohr atom model:
+(a) The electron in an atom moves 
+around nucleus in circular orbits under the 
+influence of Coulomb electrostatic force 
+of attraction. This Coulomb force gives 
+necessary centripetal force for the electron 
+to undergo circular motion. 
+(b) Electrons in an atom revolve around 
+the nucleus only in certain discrete orbits 
+called stationary orbits and electron in such 
+orbits do not radiate electromagnetic energy. 
+Only those discrete orbits allowed are stable 
+orbits.
+The angular momentum of the electron 
+in these stationary orbits are quantized – that 
+is, it can be written as an integer or integral 
+relation between impact parameter and 
+scattering angle can be shown as
+b
+b
+K
+∝
+
+
+
+⇒=
+
+
+
+
+cot
+cot
+θ
+θ
+2
+2 	
+ (9.13)
+where K = 
+1
+4
+2
+0
+2
+0
+2
+πε
+υ
+Ze
+m
+ and θ is called 
+scattering angle. Equation (9.13) implies 
+that when impact parameter increases, 
+the scattering angle decreases. Smaller 
+the impact parameter, larger will be the 
+deflection of alpha particles. 
+Drawbacks of Rutherford model
+Rutherford atom model helps in the 
+calculation of the diameter of the nucleus 
+and also the size of the atom but has the 
+following limitations:  
+(a) This model fails to explain the 
+distribution of electrons around the nucleus 
+and also the stability of the atom.
+Instability of atom
+e_
+++
+_
+Figure 9.13  Spiral in motion of an 
+electron around the nucleus 
+According to classical electrodynamics, 
+any 
+accelerated 
+charge 
+should 
+emit 
+electromagnetic radiations continuously. 
+Due to emission of radiations, the charge 
+loses its energy. Hence, it can no longer 
+sustain the circular motion. The radius of 
+the orbit, therefore, becomes smaller and 
+smaller (undergoes spiral motion) as shown 
+in Figure 9.13 and finally the electron should 
+fall into the nucleus and the atoms should 
+disintegrate. But this does not happen. 
+XII_Physics_Vol-2_UNIT-9_EM.indd   151
+XII_Physics_Vol-2_UNIT-9_EM.indd   151
+19-12-2022   16:04:43
+19-12-2022   16:04:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 152
+
+PDF_PAGE: 160
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+152
+The circumference of an electron’s orbit 
+of radius r must be an integral multiple of de 
+Broglie wavelength – that is, 
+2π
+λ
+r
+n
+=
+ 
+ 
+ 
+ 
+(9.14) 
+	
+	
+	
+
+where n = 1,2,3,......
+But the de Broglie wavelength (λ) 
+associated with an electron  of mass m moving 
+with velocity υ is λ
+υ
+= h
+m where h is called 
+Planck’s constant. Thus from equation (9.14),
+2π
+υ
+r
+n
+h
+m
+= 
+
+
+
+m r
+n h
+υ
+π
+=
+2
+For any particle of mass m undergoing 
+circular motion with radius r and velocity υ, the 
+magnitude of angular momentum l is given by 
+l
+r m
+= (
+)
+υ
+m r
+l
+n
+υ = = 
+(c) Energy of the electron in orbits is not 
+continuous but only discrete. This is called the 
+quantization of energy. An electron can jump 
+from one orbit to another orbit by absorbing 
+or emitting a photon whose energy is equal 
+to the difference in energy (ΔE) between the 
+two orbital levels (Figure 9.16) 
+∆E
+E
+E
+hv
+h c
+final
+initial
+=
+−
+=
+=
+λ
+where c is the speed of light and λ is the 
+wavelength and v is the frequency of the 
+radiation emitted. Thus, the frequency of the 
+radiation emitted is related only to change in 
+atomic energy levels and it does not depend on 
+frequency of orbital motion of the electron. 
+hv
+hv
+e_
+e_
+e_
+E
+f
+Ei
+E
+f
+Ei
+_
+_
+_
+Figure 9.16  Absorption and emission of 
+radiation 
+multiple of h
+2π called as reduced Planck’s 
+constant – that is,  (read it as h-bar) and 
+the integer n is called as principal quantum 
+number. 
+l
+n
+= 
+where = h
+2π
+This condition is known as angular 
+momentum quantization condition. 
+According 
+to 
+quantum 
+mechanics, 
+particles like electrons have dual nature (Refer 
+unit 8, volume 2 of +2 physics text book). The 
+standing wave pattern of the de Broglie wave 
+associated with orbiting electron in a stable 
+orbit is shown in Figure 9.15. 
+λ
+r
+n = 5
+n = 3.3
+n = 3
+Forbidden
+Figure 9.15  Standing wave pattern for 
+electron in a stable orbit
+XII_Physics_Vol-2_UNIT-9_EM.indd   152
+XII_Physics_Vol-2_UNIT-9_EM.indd   152
+19-12-2022   16:04:45
+19-12-2022   16:04:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 153
+
+PDF_PAGE: 161
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+153
+rn
+υn
+Electron
+m, –e 
+Electrostatic attraction 
+provides centripetal
+acceleration
+F
+_
+Nucleus is assumed to be stationary
+Electron revolves in nth orbit
+of radius rn  with
+speed υn 
+Nucleus
+                  +Ze
++
+Figure 9.17  Electron revolving around 
+the nucleus
+Let Z be the atomic number of the atom, 
+then +Ze is the charge of the nucleus.  Let 
+–e be the charge of the electron. From 
+Coulomb’s law, the force of attraction 
+between the nucleus and the electron is
+F
+Ze
+e
+r
+coloumb
+n
+
+=
++
+−
+1
+4
+0
+2
+πε
+(
+)(
+)r ˆ
+Ze
+rn
+=−
+1
+4
+0
+2
+2
+πε
+r ˆ
+This force provides necessary centripetal 
+force
+F
+m
+r
+centripetal
+n
+n
+
+=
+υ2
+r ˆ
+where m  be the mass of the electron that 
+moves with a velocity υn in a circular orbit. 
+Terefore, 
+F
+F
+coloumb
+centripetal
+
+
+=
+1
+4
+0
+2
+2
+2
+πε
+υ
+Ze
+r
+m
+r
+n
+n
+n
+=
+Multiplied and divided by ‘m’ 
+r
+m
+r
+Zme
+n
+n n
+= 4
+0
+2
+2
+πε
+υ
+(
+) 
+(9.15)
+From Bohr’s assumption, the angular 
+momentum 
+quantization 
+condition, 
+m
+r
+l
+n
+n n
+n
+υ
+=
+= ,
+Radius of the orbit of the electron and 
+velocity of the electron
+Consider an atom which contains the 
+nucleus at rest and an electron revolving 
+around the nucleus in a circular orbit of 
+radius rn as shown in Figure 9.17. Nucleus 
+is made up of protons and neutrons. Since 
+proton is positively charged and neutron is 
+electrically neutral, the charge of a nucleus 
+is entirely due to the charge of protons.
+EXAMPLE 9.1 
+The radius of the  5th orbit of hydrogen atom is 
+13.25 Å. Calculate the de broglie wavelength 
+of the electron orbitting in the 5th orbit.
+Solution:
+2πr = nλ
+2 × 3.14 × 13.25Å = 5 × λ
+∴ λ = 16.64Å
+EXAMPLE 9.2 
+Find 
+the 
+(i) 
+angular 
+momentum 
+(ii) velocity of the electron revolving in the 
+5th orbit of  hydrogen atom.
+(h = 6.6 × 10–34 Js, m = 9.1 × 10–31 kg)
+Solution
+(i) Angular momentum is given by
+l
+n
+nh
+=
+=
+= ×
+×
+×
+=
+×
+−
+−
+−
+
+2
+5
+6 6 10
+2
+3 14
+5 25 10
+34
+34
+2
+1
+π
+.
+.
+.
+kgm s
+(ii) Velocity is given by
+Velocity υ =
+=
+×
+×
+×
+−
+−
+−
+−
+l
+mr
+( .
+kgm s
+)
+( .
+kg)(
+.
+5 25 10
+9 1 10
+13 25 10
+34
+2
+1
+31
+10 m)
+.
+υ=
+×
+−
+4 4 105
+1
+ms
+XII_Physics_Vol-2_UNIT-9_EM.indd   153
+XII_Physics_Vol-2_UNIT-9_EM.indd   153
+19-12-2022   16:04:48
+19-12-2022   16:04:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 154
+
+PDF_PAGE: 162
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+154
+r2= 4r1
+r4= 16r1
+r3= 9r1
+r1
+Figure 9.18  Variation of radius of the 
+orbit with principal quantum number
+υ
+π
+n
+h
+ma
+Z
+n
+= 2
+0
+in atomic physics υn
+n
+µ 1
+Note that the velocity of electron 
+decreases as the principal quantum number 
+(orbit number) increases as shown in Figure 
+9.19. This curve is the rectangular hyperbola. 
+This implies that the velocity of electron in 
+ground state is maximum when compared 
+to that in excited states. 
+Vn
+O
+n
+Figure 9.19  Variation of velocity of 
+the electron in the orbit with principal 
+quantum number
+υn
+n
+µ 1
+∴
+=
+r
+m
+r
+Zme
+n
+n n
+4
+0
+2
+2
+πε
+υ
+(
+)
+r
+n
+Zme
+n
+Zme
+n =
+=
+4
+4
+0
+2
+2
+0
+2
+2
+2
+πε
+πε
+(
+)
+
+
+r
+h
+me
+n
+Z
+n =
+
+
+
+
+
+
+ε
+π
+0
+2
+2
+2
+      (∴= h
+2π ) (9.16)
+where nÎ. Since, ε0, h, e and π are 
+constants. Therefore, the radius of the orbit 
+becomes
+r
+a n
+Z
+n =
+0
+2
+where a
+h
+me
+0
+0
+2
+2
+0 529
+=
+=
+ε
+π
+.
+Å. This is 
+known as Bohr radius which is the smallest 
+radius of the orbit in hydrogen atom.  Bohr 
+radius is also used as unit of length called Bohr. 
+1 Bohr = 0.53 Å. For hydrogen atom (Z = 1), 
+the radius of nth orbit is 
+r
+a n
+n =
+0
+2
+For n = 1 (first orbit or ground state), 
+	
+r1 = a0 = 0.529 Å
+For n = 2 (second orbit or first excited state), 
+	
+r2 = 4a0 = 2.116 Å
+For n = 3 (third orbit or second excited state), 
+	
+r3 = 9a0 = 4.761 Å
+and so on.
+Thus the radius of the orbit from centre 
+increases with n,  that is,  rn∝ n2 as shown in 
+Figure 9.18. 
+Further, Bohr’s angular momentum 
+quantization condition leads to 
+m
+a n
+Z
+n h
+r
+a n
+Z
+n
+n
+υ
+π
+0
+2
+0
+2
+2
+=
+∴
+=
+
+
+
+
+
+
+XII_Physics_Vol-2_UNIT-9_EM.indd   154
+XII_Physics_Vol-2_UNIT-9_EM.indd   154
+19-12-2022   16:04:50
+19-12-2022   16:04:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 155
+
+PDF_PAGE: 163
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+155
+Notice that the energy of the first excited 
+state is greater than that of the ground state, 
+second excited state is greater than that of the 
+first excited state and so on. Thus, the orbit 
+which is closest to the nucleus (r1) has lowest 
+energy (minimum energy what it is compared 
+with other orbits). So, it is often called 
+ground state energy (lowest energy state). 
+The ground state energy of hydrogen (–13.6 
+eV ) is used as a unit of energy called Rydberg 
+(1 Rydberg = –13.6 eV ).
+The negative value of this energy is 
+because of the way the zero of the potential 
+energy is defined. When the electron is 
+taken away to an infinite distance (very far 
+distance) from nucleus, both the potential 
+energy and kinetic energy terms vanish 
+and hence the total energy also vanishes.
+The energy level diagram along with the 
+shape of the orbits for increasing values of n 
+are shown in Figure 9.20. It shows that the 
+energies of the excited states come closer and 
+closer together when the principal quantum 
+number n takes higher values. 
+EXAMPLE 9.3
+(a) Show that the ratio of velocity of an 
+electron in the first Bohr orbit to the speed 
+of light c is a dimensionless number. 
+(b) Compute the velocity of electrons in 
+ground state, first excited state and second 
+excited state in Bohr atom model for 
+hydrogen atom. 
+Solution
+(a) The velocity of an electron in nth orbit is 
+υ
+π
+n
+h
+ma
+Z
+n
+= 2
+0
+where a
+h
+me
+0
+0
+2
+2
+=
+=
+ε
+π
+ Bohr radius. Substituting 
+for a0 in υn,
+The energy of an electron in the nth orbit
+Since the electrostatic force is a conservative 
+force, the potential energy for the nth orbit is
+U
+Ze
+e
+r
+Ze
+r
+Z me
+h n
+r
+h
+me
+n
+n
+n
+n
+=
++
+−
+=−
+=−
+=
+1
+4
+1
+4
+1
+4
+0
+0
+2
+0
+2
+2
+4
+2
+2
+0
+2
+πε
+πε
+ε
+ε
+π
+(
+)(
+)
+
+2
+2
+n
+Z
+
+
+
+
+
+
+The kinetic energy of the electron in nth 
+orbit is
+KE
+m
+me
+h
+Z
+n
+n
+n
+=
+=
+1
+2
+8
+2
+4
+0
+2
+2
+2
+2
+υ
+ε
+This implies that Un = –2 KEn. Total 
+energy of the electron in in the nth orbit is
+E
+KE
+U
+KE
+KE
+KE
+n
+n
+n
+n
+n
+n
+=
++
+=
+−
+= −
+2
+E
+me
+h
+Z
+n
+n =−
+4
+0
+2
+2
+2
+2
+8ε
+For hydrogen atom (Z = 1), 
+E
+me
+h n
+n =−
+4
+0
+2
+2
+2
+8
+1
+ε
+joule 
+(9.17)
+where n stands for principal quantum 
+number. The negative sign in equation 
+(9.17) indicates that the electron is bound 
+to the nucleus. 
+Substituting 
+the 
+values 
+of 
+mass 
+and charge of an electron (m and e), 
+permittivity of free space ε0 and Planck’s 
+constant h and expressing energy in terms 
+of electron(+(eV)), we get
+E
+n eV
+n =−13 6 1
+2
+.
+For the first orbit (ground state), the total 
+energy of electron is E1= – 13.6 eV.
+For the second orbit (first excited state), 
+the total energy of electron is E2= –3.4 eV.
+For the third orbit (second excited state), 
+the total energy of electron is E3= –1.51 eV
+and so on.
+XII_Physics_Vol-2_UNIT-9_EM.indd   155
+XII_Physics_Vol-2_UNIT-9_EM.indd   155
+19-12-2022   16:04:53
+19-12-2022   16:04:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 156
+
+PDF_PAGE: 164
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+156
+υ
+α
+ε
+1
+2
+0
+2
+c
+e
+hc
+=
+=
+α =
+×
+×
+×
+×
+×
+×
+−
+−
+−
+−
+−
+( .
+)
+( .
+)
+( .
+)
+1 6 10
+2
+8 854 10
+1
+6 6 10
+19
+2
+12
+2
+1
+2
+34
+C
+   
+C N m
+Nms
+(
+)
+3 108
+1
+×
+−
+ms
+≈
+=
+1
+136 9
+1
+137
+.
+ which is a dimensionless 
+number
+υ
+ε
+ε
+α
+n
+e
+h
+Z
+n
+c
+e
+hc
+Z
+n
+cZ
+n
+=
+= 
+
+
+
+
+
+=
+2
+0
+2
+0
+2
+2
+where c is the speed of light in free space or 
+vacuum and its value is c = 3 × 108 m s–1and 
+α is called fine structure constant.
+For a hydrogen atom, Z = 1  and for the first 
+orbit, n = 1, the ratio of velocity of electron 
+in first orbit to the speed of light in vacuum 
+or free space is 
+n = 1
+n = 2
+n = 3
+n = 4
+n = 5
+n = ∞
+Energy, J
+Energy, eV
+0
+0
+—0.87×10−19 
+—1.36×10−19 
+—2.42×10−19 
+—5.43×10−19 
+—21.76×10−19 
+—3.40
+—13.6
+—1.51
+—0.54
+—0.85
+Free electron
+Excited states
+Ground state
+Figure 9.20  Energy levels of a hydrogen atom
+XII_Physics_Vol-2_UNIT-9_EM.indd   156
+XII_Physics_Vol-2_UNIT-9_EM.indd   156
+19-12-2022   16:04:54
+19-12-2022   16:04:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 157
+
+PDF_PAGE: 165
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+157
+M
+m
+r1
+r2
+COM
+Let V be the velocity of the nuclear motion 
+and  υ  be the velocity of electron motion. 
+Since the total linear momentum of the 
+system is zero, 
+−
++
+=
+m
+M
+υ
+υ
+0 or
+MV
+m
+p
+=
+=
+υ
+p
+p
+e
+n
+
+
+
++
+= 0 or
+p
+p
+p
+e
+n
+
+
+=
+=
+Hence, the kinetic energy of the system is 
+KE
+p
+M
+p
+m
+p
+M
+m
+n
+e
+=
++
+=
++
+
+
+
+
+2
+2
+2
+2
+2
+2
+1
+1
+Let  1
+1
+1
+M
+m
+m
++
+= µ
+. Here the reduced mass 
+is, µm
+mM
+M
+m
+=
++
+Therefore, the kinetic energy of the system 
+now is KE
+p
+m
+=
+2
+2µ
+Since the potential energy of the system is 
+same, the total energy of the hydrogen can 
+be expressed by replacing mass by reduced 
+mass, which is 
+E
+e
+h n
+n
+m
+=−µ
+ε
+4
+0
+2
+2
+2
+8
+1
+Since the nucleus is very heavy compared 
+to the electron, the reduced mass is closer 
+to the mass of the electron. 
+⇒
+=
+α
+1
+137
+(b) Using fine structure constant, the 
+velocity of electron can be written as 
+υ
+α
+n
+cZ
+n
+=
+For hydrogen atom (Z = 1)  the velocity of 
+electron in nth orbit is
+υn
+c
+n
+n
+=
+=
+×
+−
+137
+1
+2 19 10
+1
+6
+1
+( .
+)
+ms
+For the first orbit (ground state), the 
+velocity of electron is 
+υ1
+6
+1
+2 19 10
+=
+×
+−
+.
+ms
+For the second orbit (first excited state), 
+the velocity of electron is
+υ2
+6
+1
+1 095 10
+=
+×
+−
+.
+ms
+For the third orbit (second excited state), 
+the velocity of electron is 
+υ3
+6
+1
+0 73 10
+=
+×
+−
+.
+ms
+Here, υ1 > υ2 > υ3
+EXAMPLE 9.4 
+The Bohr atom model is derived with the 
+assumption that the nucleus of the atom 
+is stationary and only electrons revolve 
+around the nucleus. Suppose the nucleus is 
+also in motion, then calculate the energy of 
+this new system.
+Solution
+Let the mass of the electron be m and 
+mass of the nucleus be M.  Since there is 
+no external force acting on the system, the 
+centre of mass of hydrogen atom remains 
+at rest. Hence, both nucleus and electron 
+move about the centre of mass as shown in 
+figure.
+XII_Physics_Vol-2_UNIT-9_EM.indd   157
+XII_Physics_Vol-2_UNIT-9_EM.indd   157
+19-12-2022   16:04:57
+19-12-2022   16:04:57
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 158
+
+PDF_PAGE: 166
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+158
+In 1931, H.C. Urey and co-
+workers noticed that in the 
+shorter wavelength region 
+of the hydrogen spectrum lines, faint 
+companion lines are observed. From 
+the isotope displacement effect (isotope 
+shift), the isotope of the same element can 
+produce slightly different spectral lines. 
+The presence of these faint lines confirmed 
+the existence of isotopes of hydrogen atom 
+(which is named as Deuterium). 
+On calculating wavelength or wave 
+number difference between the faint 
+and bright spectral lines, atomic mass 
+of deuterium is measured to be twice 
+that of atomic mass of hydrogen atom. 
+Bohr atom model could not explain this 
+isotopic shift. Thus by considering nuclear 
+motion (although the movement of the 
+nucleus is much smaller) into account in 
+the Bohr atom model, the wave number 
+or wavelength difference between the 
+lines produces by the hydrogen atom 
+and deuterium is theoretically calculated 
+which 
+perfectly 
+agreed 
+with 
+the 
+spectroscopic measured values. 
+The difference between hydrogen 
+atom and deuterium is in the number 
+of neutron. Hydrogen atom contains 
+an electron and a proton, whereas 
+deuterium has an electron, a proton 
+and a neutron. 
+Note
+Excitation energy and excitation potential
+The energy required to excite an 
+electron from lower energy state to any 
+higher energy state is known as excitation 
+energy.
+The excitation energy for an electron 
+from ground state (n = 1) to first excited 
+state (n = 2) is called first excitation energy.
+For hydrogen atom, it is
+EI = E2 – E1 = –3.4 eV – (–13.6 eV) = 10.2 eV
+Similarly, the excitation energy for 
+an electron from ground state (n = 1) to 
+second excited state (n = 3) is called second 
+excitation energy, which is 
+EII = E3 – E1 = –1.51 eV – (–13.6 eV) = 12.1 eV
+and so on. 
+Excitation potential is defined as 
+excitation energy per unit charge.
+For hydrogen atom, the first excitation 
+state energy is 
+EI = eVI 
+First excitation potential for hydrogen 
+atom is, 
+=
+=
+V
+e E
+I
+I
+1
+10 2. volt
+Similarly, second excitation potential is,
+=
+=
+V
+e E
+II
+II
+1
+12 1. volt and so on.
+Ionization energy and ionization potential
+An atom is said to be ionized when an 
+electron is completely removed from the atom 
+– that is, it reaches the state with energy En→∞. 
+The minimum energy required to remove an 
+electron from an atom in the ground state is 
+known as binding energy or ionization energy. 
+For hydrogen atom, the ground state 
+ionization energy is,
+E
+E
+E
+e
+e
+ionizaation
+V
+V
+=
+−
+= −−
+=
+∞
+1
+0
+13 6
+13 6
+(
+.
+)
+.
+When an electron is in nth state of an atom, 
+the energy required to remove an electron 
+from that state – that is, the corresponding 
+ionization energy is
+E
+E
+E
+n
+Z e
+n
+Z e
+n
+ionization
+V
+V
+=
+−
+= −−
+
+
+
+
+=
+∞
+0
+13 6
+13 6
+2
+2
+2
+2
+.
+.
+At normal room temperature, the electron 
+in a hydrogen atom (Z=1) spends most of 
+its time in the ground state. The amount of 
+XII_Physics_Vol-2_UNIT-9_EM.indd   158
+XII_Physics_Vol-2_UNIT-9_EM.indd   158
+19-12-2022   16:04:58
+19-12-2022   16:04:58
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 159
+
+PDF_PAGE: 167
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+159
+(c) When a photon with energy  42 eV 
+and another photon with energy 51 eV are 
+made to collide with this atom, does this 
+atom absorb these photons? 
+(d) Determine the radius of its first Bohr 
+orbit.
+(e) Calculate the kinetic and potential 
+energies of electron in the ground state. 
+Solutions
+(a) Given that 
+E
+n
+e
+n =−54 4
+2
+.
+V
+For n = 1, the ground state energy 
+E1 = –54.4 eV and for n = 2, E2 = –13.6 eV. 
+Similarly, E3 = –6.04 eV, E4 = –3.4 eV and so 
+on.
+For large value of principal quantum 
+number – that is, n = ∞, we get E∞ = 0 eV. 
+n = 1
+n = 2
+n = 3
+n = 4
+n = ∞
+0
+—13.6
+—6.04
+—54.4(eV)
+—3.4
+(b) For a hydrogen-like atom, ground state 
+energy is 
+E
+n
+Z e
+1
+2
+2
+13 6
+=−
+.
+V
+where Z is the atomic number. Hence, 
+comparing this energy with given energy, we 
+get, – 13.6 Z2 = – 54.4 ⇒ Z = ±2. Since, atomic 
+number cannot be negative number, Z = 2.
+energy required to remove an electron from 
+the ground state of an atom to the outer 
+most orbit (E = 0 for n→∞)  is known as 
+first ionization energy (13.6 eV). Then, the 
+hydrogen atom is said to be in ionized state or 
+simply called as hydrogen ion, denoted by H+. 
+If we supply more energy than the ionization 
+energy, the excess energy appear as the kinetic 
+energy of the free electron.
+Ionization potential is defined as 
+ionization energy per unit charge.
+V
+e E
+n
+Z V
+ionization
+ionization
+=
+=
+1
+13 6
+2
+2
+.
+Thus, for a hydrogen atom (Z =1), the 
+ionization potential is 
+V
+n
+= 13 6
+2
+.
+volt
+The radius, velocity and total energy in 
+ground state, first excited state and second 
+excited state are given in Table 9.1.  
+EXAMPLE 9.5 
+Suppose the energy of an electron 
+in hydrogen–like atom is given as 
+E
+n
+e
+n =−54 4
+2
+.
+V where nÎ. Calculate 
+the following:
+(a)  Sketch the energy levels for this atom 
+and compute its atomic number. 
+(b) If the atom is in ground state, compute 
+its first excitation potential and also its 
+ionization potential. 
+Table 9.1
+Physical quantity
+Ground state
+First excited state
+Second excited state
+Radius (rn  ∝ n2)
+0.529 Å
+2.116 Å
+4.761 Å
+Velocity (vn  ∝ n-1)
+2.19 × 106 m s-1
+1.095 × 106 m s-1
+0.73 × 106 m s-1
+Total Energy (En  ∝ n-2)
+–13.6 eV
+–3.4 eV
+–1.51 eV
+XII_Physics_Vol-2_UNIT-9_EM.indd   159
+XII_Physics_Vol-2_UNIT-9_EM.indd   159
+19-12-2022   16:05:00
+19-12-2022   16:05:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 160
+
+PDF_PAGE: 168
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+160
+The first excitation energy is 
+E
+E
+E
+e
+e
+e
+I
+V
+V
+V
+=
+−
+=−
+−−
+=
+2
+1
+13 6
+54 4
+40 8
+.
+(
+.
+)
+.
+Hence, the first excitation potential is 
+V
+e E
+e
+e
+I
+I
+V
+volt
+=
+=
+=
+1
+40 8
+40 8
+(
+.
+)
+.
+The first ionization energy is 
+E
+E
+E
+e
+e
+ionization
+V
+V
+=
+−
+= −−
+=
+∞
+1
+0
+54 4
+54 4
+(
+.
+)
+.
+Hence, the first ionization potential is 
+V
+e E
+e
+e
+ionization
+ionization
+V
+volt
+=
+=
+=
+1
+54 4
+54 4
+(
+.
+)
+.
+(c) Consider two photons to be A and B. 
+Given that photon A with energy 42 eV 
+and photon B with energy 51 eV
+From Bohr assumption, difference in 
+energy levels is equal to the energy photon 
+absored, then atom will absorb energy, 
+otherwise, not. 
+E
+E
+e
+e
+e
+e
+2
+1
+13 6
+54 4
+40 8
+41
+−
+=−
+−−
+=
+≈
+.
+(
+.
+)
+.
+V
+V
+V
+V
+Similarly,
+E
+E
+e
+e
+e
+3
+1
+6 04
+54 4
+48 36
+−
+=−
+−−
+=
+.
+(
+.
+)
+.
+V
+V
+V
+E
+E
+e
+e
+e
+4
+1
+3 4
+54 4
+51
+−
+=−
+−−
+=
+.
+(
+.
+)
+V
+V
+V
+E
+E
+e
+e
+e
+3
+2
+6 04
+13 6
+7 56
+−
+=−
+−−
+=
+.
+(
+.
+)
+.
+V
+V
+V
+and so on. 
+But note that E2 – E1 ≠ 42 eV, E3 – E1 ≠ 42 eV, 
+E4 – E1 ≠ 42 eV  and E3 – E2  ≠ 42 eV.
+For all possibilities, no difference in energy is 
+an integer multiple of photon energy. Hence, 
+photon A is not absorbed by this atom. But 
+for Photon B, E4 – E1 = 51 eV, which means, 
+Photon B can be absorbed by this atom. 
+(d) The radius of Bohr orbit is   r
+a
+n
+z
+n =
+×
+0
+2
+       For n = 1, z = 2
+	
+r
+a
+1
+0
+2
+0 529
+2
+=
+= .
+	
+     = 0.265 Å
+(e) Since, total energy is equal to negative of 
+kinetic energy in Bohr atom model, we get 
+KE
+E
+n
+e
+n
+e
+n
+n
+=−
+=−−
+
+
+
+
+=
+54 4
+54 4
+2
+2
+.
+.
+V
+V
+Since, Potential energy is negative of twice 
+the kinetic energy, 
+U
+KE
+n
+e
+n
+e
+n
+n
+=−
+=−
+
+
+
+=−
+2
+2 54 4
+108 8
+2
+2
+.
+.
+V
+V
+For a ground state, put n =1
+Kinetic energy is KE1 = 54.4 eV and 
+Potential energy is U1 = –108.8 eV
+9.3.4  Atomic spectra
+Materials in the solid, liquid and gaseous 
+states emit electromagnetic radiations when 
+they are heated up and these emitted radiations 
+usually exhibit continuous spectrum. For 
+example, when white light is examined 
+through a spectrometer, electromagnetic 
+radiations of all wavelengths are observed 
+which is a continuous spectrum. 
+In early twentieth century, many scientists 
+spent considerable time in understanding the 
+characteristic radiations emitted by the atoms 
+of individual elements exposed to a flame or 
+XII_Physics_Vol-2_UNIT-9_EM.indd   160
+XII_Physics_Vol-2_UNIT-9_EM.indd   160
+19-12-2022   16:05:03
+19-12-2022   16:05:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 161
+
+PDF_PAGE: 169
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+161
+electrical discharge. When they were viewed 
+or photographed, instead of a continuous 
+spectrum, the radiation contains of a set 
+of discrete lines, each with characteristic 
+wavelength. In other words, the wavelengths 
+of the radiation obtained are well defined and 
+their positions and intensities are characteristic 
+of the element as shown in Figure 9.21. 
+This implies that these spectra are unique 
+to each element and can be used to identify 
+the element of the gas (like finger print used 
+to identify a person) – that is, it varies from 
+one gas to another gas. This uniqueness of 
+line spectra of elements made the scientists to 
+determine the composition of stars, sun and 
+also used to identify the unknown compounds.
+Hydrogen spectrum
+When the hydrogen gas enclosed in a 
+tube is heated up, it emits electromagnetic 
+radiations 
+of 
+certain 
+sharply-defned 
+characteristic wavelength (line spectrum), 
+called hydrogen emission spectrum (Refer 
+unit 5, volume 1 of +2 physics text book). 
+Te emission spectrum of hydrogen is 
+shown in Figure 9.22(a). 
+When any gas is heated up, the thermal 
+energy is supplied to excite the electrons. 
+Similarly by all occurring light on the 
+atoms, electrons can be excited. Once the 
+electrons get sufficient energy as given 
+by Bohr’s postulate (c), it absorbs energy 
+with particular wavelength (or frequency) 
+and jumps from one stationary state 
+(original state) to another state with those 
+wavelengths (or frequencies) for the colours 
+that are not observed are seen as dark lines 
+in the absorption spectrum as shown in 
+Figure 9.22 (b). 
+n = 3
+n = 4
+n = 5
+λ(nm)
+400
+500
+600
+700
+(a) Emission spectrum of hydrogen
+(in wavelength)
+n = 3
+n = 4
+n = 5
+λ(nm)
+400
+500
+600
+700
+(b) Absorption spectrum of hydrogen
+(in wavelength)
+Figure 9.22  Hydrogen spectrum 
+(a) emission (b) absorption
+V
+High voltage
+diﬀerence
+Diﬀraction
+grating
+Low-pressure gas
+Line spectrum
+Figure 9.21  Spectrum of an atom
+XII_Physics_Vol-2_UNIT-9_EM.indd   161
+XII_Physics_Vol-2_UNIT-9_EM.indd   161
+19-12-2022   16:05:04
+19-12-2022   16:05:04
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 162
+
+PDF_PAGE: 170
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+162
+series approach a limiting value known as the 
+series limit. These series are named as Lyman 
+series, Balmer series, Paschen series, Brackett 
+series, Pfund series, etc. The wavelengths of 
+these spectral lines perfectly agree with the 
+wavelengths calculate using equation derived 
+from Bohr atom model. 
+1
+1
+1
+2
+2
+λ =
+−
+
+
+
+=
+R n
+m
+v 
+              (9.18)
+where v is known as wave number which 
+is inverse of wavelength, R  is known as 
+Rydberg constant whose value is  1.09737 × 
+107 m-1 and m and n  are positive integers such 
+that m > n. The various spectral series are 
+discussed below:
+(a) Lyman series 
+For n = 1 and m = 2,3,4....... in equation 
+(9.18), the wave numbers or wavelength of 
+spectral lines of Lyman series which lies in 
+ultra-violet region, 
+v
+R
+m
+=
+=
+−
+
+
+
+
+1
+1
+1
+1
+2
+2
+λ
+(b) Balmer series 
+For n = 2 and m = 3,4,5....... in equation 
+(9.18), the wave numbers or wavelength of 
+spectral lines of Balmer series which lies in 
+visible region,
+v
+R
+m
+=
+=
+−
+
+
+
+
+1
+1
+2
+1
+2
+2
+λ
+(c) Paschen series
+Put n = 3 and m = 4,5,6....... in equation 
+(9.18). The wave number or wavelength of 
+spectral lines of Paschen series which lies in 
+infra-red region (near IR) is
+v
+R
+m
+=
+=
+−
+
+
+
+
+1
+1
+3
+1
+2
+2
+λ
+(d) Brackett series
+For n = 4 and m = 5,6,7........  in equation 
+(9.18), the wave numbers or wavelength of 
+Since electrons in excited states have very 
+small life time, these electrons jump back to 
+ground state through spontaneous emission 
+in a short duration of time (approximately 
+10–8 s) by emitting the radiation with same 
+wavelength (or frequency) corresponding 
+to the colours it absorbed (Figure 9.22 (a)). 
+This is called emission spectroscopy.
+The wavelengths of these lines can be 
+calculated with great precision. Further, 
+the emitted radiation contains wavelengths 
+both lesser and greater than wavelengths of 
+lines in the visible spectrum. 
+—1.5
+—3.4
+—0.85
+E=0
+—5
+—15
+—13.6
+—10
+Energy (eV)
+Lyman 
+series
+n=1
+n=2
+n=3
+λ=   
+hc
+E2
+E1
+—
+c =
+Ground state 
+(to calculate wavelengths
+and frequencies)
+Te lowest energy level is
+called the ground state and
+all other states are called as 
+excited states
+Balmer
+series
+Excited 
+states
+Paschen series
+n=4 n=5
+Ionised atom
+(Continuous energy levels)
+v
+UV
+Visible light
+IR
+Paschen series
+Balmer series
+Lyman
+series
+Wavelength, λ
+91 nm
+122 nm
+365 nm
+656 nm
+820 nm
+1875 nm
+Figure 9.23  Spectral series – Lyman, 
+Balmer, Paschen series
+Notice that the spectral lines of hydrogen as 
+shown in Figure 9.23 are grouped in separate 
+series. In each series, the distance of separation 
+between 
+the 
+consecutive 
+wavelengths 
+decreases from higher wavelength to the 
+lower wavelength, and also wavelength in each 
+XII_Physics_Vol-2_UNIT-9_EM.indd   162
+XII_Physics_Vol-2_UNIT-9_EM.indd   162
+19-12-2022   16:05:05
+19-12-2022   16:05:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 163
+
+PDF_PAGE: 171
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+163
+NUCLEI
+Introduction
+In the previous section, we have 
+discussed 
+about 
+various 
+preliminary 
+atom models, Rutherford’s alpha particle 
+scattering experiment and Bohr atom model. 
+These played a vital role to understand the 
+structure of the atom and the nucleus. In this 
+section, the structure of the nuclei and their 
+properties, classifications are discussed.
+9.4.1  Composition of nucleus
+Atoms have a nucleus surrounded by 
+electrons. The nucleus contains protons 
+and neutrons. The neutrons are electrically 
+neutral (q = 0) and the protons have positive 
+charge (q = + e) equal in magnitude to the 
+charge of the electron (q = –e). The number 
+of protons in the nucleus is called the 
+atomic number and it is denoted by Z. The 
+number of neutrons in the nucleus is called 
+neutron number (N). The total number 
+of neutrons and protons in the nucleus is 
+called the mass number and it is denoted 
+by A. Hence, A = Z+N.
+The two constituents of nucleus namely 
+neutrons and protons, are collectively 
+called as nucleons. The mass of a proton 
+is 1 6726 10 27
+.
+×
+−kg which is roughly 1836 
+times the mass of the electron. The mass of 
+a neutron is slightly greater than the mass of 
+the proton and it is equal to 1 6749 10 27
+.
+×
+−kg.
+To specify the nucleus of any element, we 
+use the following general notation
+Z
+AX
+where X is the chemical symbol of 
+the element, A is the mass number and 
+Z is the atomic number. For example, the 
+9.4
+spectral lines of Brackett series which lies in 
+infra-red region (middle IR),
+v
+R
+m
+=
+=
+−
+
+
+
+
+1
+1
+4
+1
+2
+2
+λ
+(e) Pfund series 
+For n = 5 and m = 6,7,8........  in equation 
+(9.18), the wave numbers or wavelength of 
+spectral lines of Pfund series which lies in 
+infra-red region (far IR),
+v
+R
+m
+=
+=
+−
+
+
+
+
+1
+1
+5
+1
+2
+2
+λ
+Different spectral series are listed in 
+Table 9.2. 
+Table 9.2
+n
+m
+Series Name
+Region
+1
+2,3,4.....
+Lyman
+Ultraviolet
+2
+3,4,5.....
+Balmer
+Visible
+3
+4,5,6.....
+Paschen
+Infrared
+4
+5,6,7......
+Brackett
+Infrared
+5
+6,7,8.....
+Pfund
+Infrared
+Limitations of Bohr atom model
+The following are the drawbacks of Bohr 
+atom model
+(a)	 Bohr atom model is valid only for 
+hydrogen atom or hydrogen like-atoms 
+but not for complex atoms. 
+(b)	 When the spectral lines are closely 
+examined, individual lines of hydrogen 
+spectrum are accompanied by a 
+number of faint lines. This is called fine 
+structure. This cannot be explained by 
+Bohr atom model. 
+(c)	 Bohr atom model fails to explain the 
+intensity variations in the spectral lines. 
+(d)	 The distribution of electrons in various 
+levels cannot be completely explained 
+by Bohr atom model.
+XII_Physics_Vol-2_UNIT-9_EM.indd   163
+XII_Physics_Vol-2_UNIT-9_EM.indd   163
+19-12-2022   16:05:07
+19-12-2022   16:05:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 164
+
+PDF_PAGE: 172
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+164
+and it can be produced only in nuclear 
+reactions in the laboratory or by cosmic rays.
+Since the chemical properties of any 
+atom are determined only by electrons, the 
+isotopes of any element have same electronic 
+structure and same chemical properties.  So 
+the isotopes of the same element are placed 
+in the same location in the periodic table.
+Isobars:
+Isobars are the atoms of different 
+elements having the same mass number 
+A, but different atomic number Z. In other 
+words, isobars are the atoms of different 
+chemical elements which have same number 
+of nucleons. For example  16
+40S , 17
+40Cl , 18
+40Ar , 
+19
+40K and 20
+40Ca are isobars having same mass 
+number 40 but different atomic numbers. 
+Unlike isotopes, isobars are chemically 
+different elements. They have different 
+physical and chemical properties.
+Isotones:
+Isotones are the atoms of different 
+elements having same number of neutrons. 
+5
+12B and 6
+13C are examples of isotones with 
+7 neutrons each.
+9.4.3  Atomic and nuclear 
+masses
+The mass of nuclei is very small (about 
+10-25 kg or less). Therefore, it is more 
+convenient to express it in terms of another 
+unit namely, the atomic mass unit (u). One 
+atomic mass unit (u) is defined as the (1/12)th 
+of the mass of the isotope of carbon
+6
+12C which is more abundant in naturally 
+occurring isotope of carbon.
+In other words
+1
+12
+1 9926 10
+12
+1 660 10
+6
+12
+26
+27
+ 
+mass of
+ atom
+kg
+u
+C
+=
+=
+×
+=
+×
+−
+−
+.
+.
+nitrogen nucleus is represented by 
+7
+15N
+. It implies that nitrogen nucleus contains 
+15 nucleons of which 7 are protons 
+(Z = 7) and 8 are neutrons (N = A – Z = 8). 
+Note that once the element is specified, 
+the value of Z is known and subscript Z is 
+sometimes omitted. For example, nitrogen 
+nucleus is simply denoted as 15N and we call 
+it as ‘nitrogen fifteen’.
+Since the nucleus is made up of positively 
+charged protons and electrically neutral 
+neutrons, the overall charge of the nucleus 
+is positive and it has the value +Ze. But the 
+atom is electrically neutral which implies that 
+the number of electrons in the atom is equal 
+to the number of protons in the nucleus. 
+9.4.2  Isotopes, isobars, and 
+isotones
+Isotopes:
+In nature, there are atoms of a particular 
+element whose nuclei have same number of 
+protons but different number of neutrons. 
+These kinds of atoms are called isotopes. 
+In other words, isotopes are atoms of 
+the same element having same atomic 
+number Z, but different mass number A. 
+For example, hydrogen has three isotopes 
+and they are represented as 1
+1H (hydrogen),
+1
+2H (deuterium),and 1
+3H (tritium). Note that 
+all the three nuclei have one proton and, 
+hydrogen has no neutron, deuterium has 1 
+neutron and tritium has 2 neutrons.
+The number of isotopes for the particular 
+element and their relative abundances 
+(percentage) vary with each element. For 
+example, carbon has four main isotopes: 6
+11C ,
+6
+12C , 6
+13C and 6
+14C . But in nature, the percentage 
+of 6
+12C is approximately 98.9%, that of 6
+13C is 
+1.1% and that of 6
+14C is 0.0001%. The other 
+carbon isotope 6
+11C , does not occur naturally 
+XII_Physics_Vol-2_UNIT-9_EM.indd   164
+XII_Physics_Vol-2_UNIT-9_EM.indd   164
+19-12-2022   16:05:18
+19-12-2022   16:05:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 165
+
+PDF_PAGE: 173
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+165
+different methods have been carried out 
+on the nuclei of various atoms. The nuclei 
+of atoms are found to be approximately 
+spherical in shape. It is experimentally found 
+that radius of nuclei for Z > 10, satisfies the 
+following empirical formula
+R
+R A
+=
+0
+1
+3 
+ (9.19)
+Here A is the mass number of the nucleus 
+and the constant R0 = 1.2 F,  where 1 F = 
+1 × 10–15 m.The unit fermi (F) is named after 
+Enrico Fermi. 
+EXAMPLE 9.7
+Calculate the radius of 79
+197Au nucleus.
+Solution
+According to the equation (9.19),
+R
+m
+=
+×
+×
+=
+×
+−
+−
+1 2
+10
+197
+6 97
+10
+15
+1
+3
+15
+.
+(
+)
+.
+Or	
+R = 6.97 F
+EXAMPLE 9.8
+Calculate the density of the nucleus with 
+mass number A.
+Solution 
+From equation (9.19), the radius of the 
+nuclecus, R = R A
+0
+1
+3 . Then the volume of 
+the nucleus 	
+V
+R
+R A
+=
+=
+4
+3
+4
+3
+3
+0
+3
+π
+π
+By ignoring the mass difference between 
+the proton and neutron, the total mass of 
+the nucleus having mass number A is equal 
+to A.m  where m  is mass of the proton and 
+is equal to 1.6726 x 10-27 kg.
+In terms of this atomic mass unit, the 
+mass of the neutron = 1.008665 u, the 
+mass of the proton =1.007276 u, the mass 
+of the hydrogen atom = 1.007825 u and the 
+mass of 
+6
+12
+12
+C
+u
+=
+. Note that usually mass 
+specified is the mass of the atom, not mass 
+of the nucleus. To get the nuclear mass of 
+particular nucleus, the mass of electrons has 
+to be subtracted from the corresponding 
+atomic mass. Experimentally the atomic 
+mass is determined by the instrument 
+called Bainbridge mass spectrometer. If we 
+determine the atomic mass of the element 
+without considering the effect of its isotopes, 
+we get the mass averaged over different 
+isotopes weighted by their abundances. 
+EXAMPLE 9.6
+Calculate the average atomic mass of 
+chlorine if no distinction is made between 
+its different isotopes?
+Solution 
+The element chlorine is a mixture of 
+75.77%  of 17
+35Cl and 24.23% of 17
+37Cl . So the 
+average atomic mass will be
+75 77
+100
+34 96885
+24 23
+100
+36 96593
+35 453
+.
+.
+.
+.
+.
+×
++
+×
+=
+u
+u
+u
+In fact, the chemist uses the average atomic 
+mass or simply called chemical atomic 
+weight (35.453 u for chlorine) of an element. 
+So it must be remembered that the atomic 
+mass which is mentioned in the periodic 
+table is basically averaged atomic mass.
+9.4.4  Size and density of the 
+nucleus
+The alpha particle scattering experiment 
+and many other measurements using 
+XII_Physics_Vol-2_UNIT-9_EM.indd   165
+XII_Physics_Vol-2_UNIT-9_EM.indd   165
+19-12-2022   16:05:20
+19-12-2022   16:05:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 166
+
+PDF_PAGE: 174
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+166
+Mass of 6 electrons =6
+0 00055
+0 0033
+×
+=
+.
+.
+u
+u
+The expected mass of carbon-12 nucleus 
+=6 05196
+6 04362
+12 09558
+.
+.
+.
+u
+u
+u
++
+=
+But using mass spectroscopy, the atomic 
+mass of carbon-12 atom is found to be 12 
+u. So if we subtract the mass of 6 electrons 
+(0.0033  u) from 12 u, we get the nuclear 
+mass of carbon-12 atom which is equal 
+to 11.9967 u. Hence the experimental 
+mass of carbon-12 nucleus is less than the 
+total mass of its individual constituents by 
+∆m
+u
+= 0 09888
+.
+. This difference in mass ∆m 
+is called mass defect. In general, if M, mp, 
+and mn are mass of the nucleus ( Z
+AX ), the 
+mass of a proton and the mass of a neutron 
+respectively, then the mass defect is given by
+∆m
+Zm
+Nm
+M
+p
+n
+=
++
+(
+) −
+
+(9.20)
+Where has this mass disappeared? The 
+answer was provided by Albert Einstein 
+with the help of famous mass-energy 
+relation(
+)
+E
+mc
+=
+2 . 
+According 
+to 
+this 
+relation, the mass can be converted into 
+energy and energy can be converted into 
+mass. In the case of the carbon-12 nucleus, 
+when 6 protons and 6 neutrons combine to 
+form carbon-12 nucleus, mass equal to mass 
+defect disappears and an energy equivalent 
+to missing mass. This energy is called the 
+binding energy of the nucleus (BE) and 
+is equal to 
+∆m c
+(
+)
+2 . In fact, to separate 
+the carbon-12 nucleus into individual 
+constituents, we must supply the energy 
+equal to binding energy of the nucleus.
+ We can write the equation (9.20) in 
+terms of binding energy 
+BE
+Zm
+Nm
+M c
+p
+n
+=
++
+−
+(
+)
+2 
+(9.21)
+It is always convenient to work with the 
+mass of the atom rather than with the mass of 
+n
++
++
++
+n
+n
+n
+Neutron
+Proton
++
++
+n
+n
+n
++
+n
++
++
++
+Nuclear density 
+ρ
+π
+π
+=
+=
+=
+mass of the nuclei
+Volume ofthe nuclei
+A m
+R A
+m
+R
+.
+4
+3
+4
+3
+0
+3
+0
+3
+The above expression shows that the 
+nuclear density is independent of the mass 
+number A. In other words, all the nuclei (Z > 
+10) have the same density and it is an important 
+characteristic property of all nuclei.
+We 
+can 
+calculate 
+the 
+numerical 
+value of this density by substituting the 
+corresponding values.
+ρ
+π
+=
+×
+×
+×
+=
+×
+−
+−
+1 67 10
+4
+3
+1 2 10
+2 3 10
+27
+15 3
+17
+.
+( .
+)
+.
+kg m-3.
+It implies that nucleons are extremely 
+tightly packed or compressed state in the 
+nucleus and compare this density with the 
+density of water which is 103 kg m-3.
+A single teaspoon of nuclear 
+matter would weigh about 
+trillion tons.
+9.4.5  Mass defect and 
+binding energy
+It is experimentally found out that the mass 
+of any nucleus is always less than the sum of the 
+masses of its individual constituent particles. 
+For example, consider the carbon-12 nucleus 
+which is made up of 6 protons and 6 neutrons. 
+Mass of 6 neutrons = 6 1 00866
+6 05196
+×
+=
+.
+.
+u
+u
+Mass of 6 protons =6 1 00727
+6 04362
+×
+=
+.
+.
+u
+u
+XII_Physics_Vol-2_UNIT-9_EM.indd   166
+XII_Physics_Vol-2_UNIT-9_EM.indd   166
+19-12-2022   16:05:25
+19-12-2022   16:05:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 167
+
+PDF_PAGE: 175
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+167
+The binding energy of the 2
+4Henucleus is 
+28.33 MeV.
+9.4.6  Binding energy curve
+In the previous section, the origin of the 
+binding energy is discussed. Now we can 
+find the average binding energy per nucleon 
+BE . It is given by 
+BE
+Zm
+Nm
+M
+c
+A
+H
+n
+A
+=
++
+−
+[
+]
+2
+	
+(9.25)
+The average binding energy per nucleon is 
+the average energy required to separate single 
+nucleon from the particular nucleus. When 
+BE is plotted against A of all known nuclei. We 
+get BE aveage curve as shown in Figure 9.24.
+0
+21H
+32He
+42He
+168 O
+56
+26Fe
+120
+50 Sn
+238
+92 U
+0
+2
+4
+6
+8
+10
+50
+100
+Number of nucleons, A (mass number)
+avg. binding energy per nucleon (MeV)
+150
+200
+250
+Figure 9.24  Avg. binding energy of the 
+nucleons 
+Important inferences from of the average 
+binding energy curve:
+(1)	The value of BE rises as the mass number 
+increases until it reaches a maximum 
+value of 8.8 MeV for A = 56 (iron) and 
+then it slowly decreases.
+(2)	The average binding energy per nucleon 
+is about 8.5 MeV for nuclei having mass 
+number lying between A = 40 and 120. 
+These elements are comparatively more 
+stable and not radioactive.
+the nucleus. Hence by adding and subtracting 
+the mass of the Z electrons, we get
+BE
+Zm
+Zm
+Nm
+M
+Zm c
+p
+e
+n
+e
+=
++
++
+−
+−
+(
+)
+2 (9.22)
+BE
+Z m
+m
+Nm
+M
+Zm
+c
+p
+e
+n
+e
+=
++
+(
+)+
+−
+−
+
+
+2
+where m
+m
+m
+p
+e
+H
++
+=
+ (mass of hydrogen 
+atom)
+BE
+Zm
+Nm
+M
+Zm
+c
+H
+n
+e
+=
++
+−
++
+[
+]
+(
+)
+2  (9.23)
+Here M
+Zm
+M
+e
+A
++
+=
+ where M A is the 
+mass of the atom of an element Z
+AX . 
+Finally, the binding energy in terms of 
+the atomic masses is given by
+BE
+Zm
+Nm
+M
+c
+H
+n
+A
+=
++
+−
+[
+]
+2 
+(9.24)
+Using 
+Einstein’s 
+mass-
+energy 
+equivalence, 
+the 
+energy 
+equivalent 
+of 
+one 
+atomic 
+mass 
+unit 
+1
+1 66 10
+3 10
+27
+8
+2
+u =
+×
+×
+×
+−
+.
+(
+)
+=
+×
+≈
+−
+14 94 10
+931
+11
+.
+J
+MeV
+Note
+EXAMPLE 9.9
+Compute the binding energy of 
+2
+4He
+nucleus using the following data: Atomic 
+mass of Helium atom, M
+He
+u
+A (
+) = 4 00260
+.
+and that of hydrogen atom, m
+u
+H = 1 00785
+.
+.
+Solution:
+Binding energy BE
+Zm
+Nm
+M
+c
+H
+n
+A
+=
++
+−
+[
+]
+2
+For helium nucleus, Z = 2, N = A–Z = 4–2 = 2
+Mass defect 
+∆m
+u
+u
+=
+×
+(
+)+
+×
+(
+)
+2 1 00785
+2 1 008665
+.
+.
+   
+u
+−
+
+4 00260
+.
+∆m
+u
+= 0 03043
+.
+B E
+u
+c
+.
+.
+=
+×
+0 03043
+2
+B E
+MeV
+MeV
+.
+.
+.
+=
+×
+=
+0 03043
+931
+28 33
+1
+931
+2
+uc
+MeV
+=
+
+
+XII_Physics_Vol-2_UNIT-9_EM.indd   167
+XII_Physics_Vol-2_UNIT-9_EM.indd   167
+19-12-2022   16:05:38
+19-12-2022   16:05:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 168
+
+PDF_PAGE: 176
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+168
+For example, the electrostatic repulsive force 
+between two protons separated by a distance 
+10 15
+−m
+F
+k
+q
+r
+N
+=
+×
+=
+×
+×
+×
+(
+)
+(
+)
+≈
+−
+−
+2
+2
+9
+19
+2
+15 2
+9 10
+1 6 10
+10
+230
+.
+The acceleration experienced by a proton 
+due to the force of 230 N is    
+a
+F
+m
+N
+kg
+m s
+=
+=
+×
+≈
+×
+−
+−
+230
+1 67 10
+1 4 10
+27
+29
+2
+.
+.
+. 
+This is nearly 1028 times greater than the 
+acceleration due to gravity. So if the protons in 
+the nucleus experience only the electrostatic 
+force, then the nucleus would fly apart in 
+an instant. Then how the protons are held 
+together in the nucleus? 
+From this observation, it was concluded 
+that there must be a strong attractive force 
+between protons to overcome the repulsive 
+Coulombic force. This attractive force which 
+holds the nucleons together is called strong 
+nuclear force. The properties of the nuclear 
+force were understood through various 
+experiments carried out between 1930s and 
+1950s. A few properties of the nuclear force are
+(i)	 The nuclear force is of very short range, 
+acting only up to a distance of a few fermi. 
+But inside the nucleus, the repulsive 
+Coulomb force or attractive gravitational 
+forces between two protons are much 
+weaker than the nuclear force between 
+two protons. Similarly, the gravitational 
+force between two neutrons is also much 
+weaker than nuclear force between the 
+neutrons. So nuclear force is the strongest 
+force in nature.
+(ii)	 The nuclear force is attractive and acts 
+with an equal strength between proton-
+proton, proton-neutron, and neutron – 
+neutron.
+(3)	For higher mass numbers, the curve drops 
+slowly and BE for uranium is about 7.6 
+MeV. Such nuclei are unstable and exhibit 
+radioactive.
+	
+From Figure 9.24, if two light nuclei with 
+A<28 combine with a nucleus with A<56, 
+the binding energy per nucleon is more for 
+final nucleus than initial nuclei. Thus, if 
+the lighter elements combine to produce a 
+nucleus of medium value A, a large amount 
+of energy will be released. This is the basis 
+of nuclear fusion and is the principle of the 
+hydrogen bomb. 
+(4)	If a nucleus of heavy element is split 
+(fission) into two or more nuclei of 
+medium value A, the energy released 
+would again be large. The atom bomb is 
+based on this principle and huge energy of 
+atom bombs comes from this fission when 
+it is uncontrolled. Fission is explained in 
+the section 9.7
+EXAMPLE 9.10
+Compute the binding energy per nucleon 
+of 2
+4Henucleus.
+Solution
+From Example 9.9, we found that the BE of 
+2
+4He=28.33 Mev
+Binding energy per nucleon = B E
+. = 
+28.33 MeV/4  _ ~ 7 MeV.
+NUCLEAR FORCE
+Nucleus of the atoms contains protons and 
+neutrons. From electrostatics, we learnt that 
+like charges repel each other. In the nucleus, 
+since the protons are separated by a distance 
+of about a few fermi (10 15
+−m ), they must exert 
+on each other a very strong repulsive force. 
+9.5
+XII_Physics_Vol-2_UNIT-9_EM.indd   168
+XII_Physics_Vol-2_UNIT-9_EM.indd   168
+19-12-2022   16:05:43
+19-12-2022   16:05:43
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 169
+
+PDF_PAGE: 177
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+169
+The phenomenon of radioactivity was 
+first discovered by Henri Becquerel in 
+1896. Later, Marie Curie and her husband 
+Pierre Curie did a series of experiments 
+in detail to understand the phenomenon 
+of radioactivity. In India, Saha Institute 
+of Nuclear Physics (SINP), Kolkata is the 
+premier institute pursuing active research 
+in nuclear physics.
+During 
+early 
+days 
+of 
+nuclear physics research, 
+the term ‘radiation’ was 
+used to denote the emanations from 
+radioactive nuclei. Now we know that 
+α rays are in fact 2
+4Henuclei and β rays 
+are electrons or positrons. Certainly, 
+they are not electromagnetic radiation. 
+The γ ray alone is electromagnetic 
+radiation.
+Note
+9.6.1  Alpha decay
+When an unstable nucleus decay by 
+emitting an α-particle ( 2
+4He nucleus), it 
+loses two protons and two neutrons. As a 
+result, its atomic number Z decreases by 2 
+and the mass number decreases by 4. We 
+write the alpha decay process symbolically 
+in the following way
+Z
+A
+Z
+A
+X
+Y
+He
+→
++
+−
+−
+2
+4
+2
+4
+
+(9.26)
+Here X is called the parent nucleus and 
+Y is called the daughter nucleus. 
+Example: Decay of Uranium 
+92
+238U to 
+thorium 
+90
+234Th with the emission of 2
+4He 
+nucleus (α-particle)
+92
+238
+90
+234
+2
+4
+U
+Th
+He
+→
++
+As already mentioned, the total mass of the 
+daughter nucleus and 2
+4He nucleus is always 
+(iii)	Nuclear force does not act on the 
+electrons. So it does not alter the chemical 
+properties of the atom.
+RADIOACTIVITY
+In the binding energy curve, the 
+stability of the nucleus that has Z > 82 
+starts to decrease and these nuclei are fairly 
+unstable nuclei. Some of the unstable decay 
+naturally by emitting certain particles to 
+form a stable nucleus. The elements with 
+atomic number Z > 82 and isotopes of 
+lighter nuclei belong to the category of 
+naturally-occurring radioactive nuclei. 
+Each of these radioactive nuclei decays to 
+another nucleus by the emission of 2
+4He 
+nucleus (α-decay) or electron or positron 
+(β-decay) or gamma rays ( γ -decay). 
+The phenomenon of spontaneous 
+emission of highly penetrating radiations 
+such as α, β and γ rays by an element is 
+called radioactivity and the substances 
+which emit these radiations are called 
+radioactive elements. These radioactive 
+elements can be heavy elements (Z > 82), 
+isotopes of lighter and heavy elements and 
+these isotopes are called radioisotopes. For 
+example, carbon isotope 
+6
+14C is radioactive 
+but  6
+12C is not. 
+Radioisotopes 
+have 
+a 
+variety 
+of 
+applications such as carbon dating, cancer 
+treatment, etc. When a radioactive nucleus 
+undergoes decay, the mass of the system 
+decreases – that is, the mass of the initial 
+nucleus before decay is always greater than 
+the sum of the masses of the final nucleus 
+and the emitted particle. This difference in 
+mass ∆m, it appears as the energy according 
+to Einstein’s relation E
+m c
+= ∆
+2 .
+9.6
+XII_Physics_Vol-2_UNIT-9_EM.indd   169
+XII_Physics_Vol-2_UNIT-9_EM.indd   169
+19-12-2022   16:05:50
+19-12-2022   16:05:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 170
+
+PDF_PAGE: 178
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+170
+EXAMPLE 9.11
+(a)	
+Calculate the disintegration energy 
+when stationary 
+92
+232U nucleus decays 
+to thorium 
+90
+228Th with the emission of 
+α particle. The atomic masses are of 
+92
+232
+232 037156
+U
+u
+=
+.
+, 
+90
+228
+228 028741
+Th
+u
+=
+.
+ 
+and 2
+4
+4 002603
+He
+u
+= .
+(b)	
+Calculate kinetic energies of 
+90
+228Th 
+and α-particle and their ratio.
+Solution
+The difference in masses 	
+∆m
+m
+m
+m
+U
+Th
+=
+−
+−
+(
+)
+α
+= (232.037156–228.028741 – 4.002603)u
+The mass lost in this decay = 0.005812 u
+Since 1u = 931MeV, the energy Q released 
+is
+Q
+u
+MeV u
+MeV
+=
+×
+=
+( .
+)
+(
+/ )
+.
+0 005812
+931
+5 41
+This disintegration energy Q appears as 
+the kinetic energy of α particle and the 
+daughter nucleus.
+In any decay, the total linear momentum 
+must be conserved.
+Total linear momentum of the parent 
+nucleus = total linear momentum of the 
+daughter nucleus and α particle
+Since before decay, the uranium nucleus is 
+at rest, its momentum is zero.
+By applying conservation of momentum, 
+we get
+0 =
++
+m
+m
+Th
+Th
+
+
+v
+v
+α
+α
+m
+mTh
+Th
+α
+α
+
+
+v
+v
+=−
+It implies that the alpha particle and 
+daughter nucleus move in opposite 
+directions.
+less than that of the parent nucleus. The 
+difference in mass ( ∆m
+m
+m
+m
+X
+Y
+=
+−
+−
+α ) 
+is released as energy called disintegration 
+energy Q and is given by
+Q
+m
+m
+m
+c
+X
+Y
+=
+−
+−
+(
+)
+α
+2 
+(9.27)
+Note that for spontaneous decay 
+(natural radioactivity) Q >0. In alpha 
+decay process, the disintegration energy 
+is certainly positive (Q > 0). In fact, the 
+disintegration energy Q is also the net 
+kinetic energy gained in the decay process 
+or if the parent nucleus is at rest, Q is the 
+total kinetic energy of daughter nucleus and 
+the 2
+4He nucleus. Suppose Q < 0, then the 
+decay process cannot occur spontaneously 
+and energy must be supplied to induce the 
+decay.
+In alpha decay, why does 
+the 
+unstable 
+nucleus 
+emit 
+2
+4He nucleus? Why 
+it does not emit four separate 
+nucleons? After all 2
+4He consists of 
+two protons and two neutrons. For 
+example, if 
+92
+238U nucleus decays 
+into 
+90
+234Th by emitting four separate 
+nucleons (two protons and two 
+neutrons), then the disintegration 
+energy Q for this process turns out 
+to be negative. It implies that the 
+total mass of products is greater 
+than that of parent( 92
+238U ) nucleus. 
+This kind of process cannot occur 
+in nature because it would violate 
+conservation of energy. In any decay 
+process, the conservation of energy, 
+laws of linear momentum and laws 
+of angular momentum must be 
+obeyed.
+Note
+XII_Physics_Vol-2_UNIT-9_EM.indd   170
+XII_Physics_Vol-2_UNIT-9_EM.indd   170
+19-12-2022   16:05:59
+19-12-2022   16:05:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 171
+
+PDF_PAGE: 179
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+171
+β− decay:
+In β- decay, the atomic number of 
+the nucleus increases by one but its mass 
+number remains the same. This decay is 
+represented by
+Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
++
+−
+1
+ν
+(9.28)
+It implies that the element X becomes Y
+by giving out an electron and an antineutrino 
+( ν). In otherwords, in each β- decay, one 
+neutron in the nucleus of X is converted 
+into a proton by with the emission of an 
+electron (e–) and an antineutrino. Thus,
+n
+p
+e
+→
++
++
+−
+ν
+Where p -proton, ν -antineutrino. 
+Example: Carbon ( 6
+14C ) is converted 
+into nitrogen ( 7
+14 N ) through β- decay.
+6
+14
+7
+14
+C
+N
+e
+→
++
++
+−
+ν
+β+
+ decay:
+In β+ decay, the atomic number is 
+decreased by one and again its mass number 
+remains the same. This decay is represented by
+Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
+−
++
+1
+ν
+(9.29)
+It implies that the element X becomes Y 
+by giving out an positron and neutrino ( ν ). 
+In otherwords, for each β+ decay, a proton 
+in the nucleus X is converted into a neutron 
+a positron (e+) and a neutrino. Thus,
+p
+n
+e
+→
++
++
++
+ν
+Example: Sodium ( 11
+22 Na) is converted 
+into neon ( 10
+22 Ne) throughβ+decay.
+11
+22
+10
+22
+Na
+Ne
+e
+→
++
++
++
+ν
+However a single proton (not inside 
+any nucleus) cannot exhibit β+ decay due 
+to energy conservation, because neutron 
+mass is larger than proton mass. But a single 
+In magnitude m
+mTh
+Th
+α
+α
+υ
+υ
+=
+The velocity of α particle υ
+υ
+α
+α
+= m
+m
+Th
+Th
+Since m
+m
+Th
+Th
+>
+>
+α
+α
+, v
+v
+. The ratio of the 
+kinetic energy of α particle to that of the 
+daughter nucleus
+K E
+K E
+m
+m
+Th
+Th
+Th
+.
+.
+α
+α
+α
+υ
+υ
+=
+12
+2
+12
+2
+By substituting, the value of υα into the 
+above equation, we get
+K E
+K E
+m
+m
+T
+T
+.
+.
+.
+α
+α
+4 002603
+57
+.
+=
+=
+=
+228 028741
+The kinetic energy of α particle is 57 times 
+greater than the kinetic energy of the 
+daughter nucleus (
+90
+228Th ).
+The disintegration energy Q = total kinetic 
+energy of products
+K E
+K E
+MeV
+Th
+.
+.
+.
+α +
+= 5 41
+57
+5 41
+K E
+K E
+MeV
+Th
+Th
+.
+.
+.
++
+=
+K E
+MeV
+MeV
+Th
+.
+.
+.
+=
+=
+5 41
+58
+0 093
+K E
+K E
+MeV
+Th
+.
+.
+.
+.
+α =
+=
+×
+=
+57
+57
+0 093
+5 301
+In fact, 98% of total kinetic energy is taken 
+by the α particle.
+9.6.2  Beta decay
+In beta decay, a radioactive nucleus emits 
+either electron or positron. If electron (e–) is 
+emitted, it is called β- decay and if positron 
+(e+) is emitted, it is called β+decay. The 
+positron is an anti-particle of an electron 
+whose mass is same as that of electron and 
+charge is opposite to that of electron – that is, 
++e. Both positron and electron are referred 
+to as beta particles.
+XII_Physics_Vol-2_UNIT-9_EM.indd   171
+XII_Physics_Vol-2_UNIT-9_EM.indd   171
+19-12-2022   16:06:08
+19-12-2022   16:06:08
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 172
+
+PDF_PAGE: 180
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+172
+decay, it was found that the beta particle 
+(i.e, electron) has a continuous range of 
+energies. But the conservation of energy 
+and momentum gives specific single values 
+for energy of electron and the recoiling 
+nucleus Y. It seems that the conservation 
+of energy, momentum are violated and 
+could not be explained why energy of beta 
+particle having continuous range of values. 
+So beta decay remained as a puzzle for 
+several years.
+After 
+a 
+detailed 
+theoretical 
+and 
+experimental study in 1931, W.Pauli 
+proposed a third particle which must be 
+emitted in the beta decay process carrying 
+away missing energy and momentum. 
+Fermi later named this particle as neutrino 
+(little neutral one) since it mass is small 
+and is neutral carrying no charge. For many 
+years, the neutrino (symbol ν , Greek nu) 
+was hypothetical and could not be verified 
+experimentally. Finally, the neutrino was 
+neutron (not inside any nucleus) can exhibit 
+β- decay.
+It is important to note that the electron 
+or positron which comes out from nuclei 
+during beta decay are not present inside 
+the nuclei but they are produced only 
+during the conversion of neutron into 
+proton or proton into neutron inside the 
+nucleus.
+Neutrino:
+Initially, it was thought that  during 
+beta decay, a neutron in the parent nucleus 
+is converted into the daughter nuclei by 
+emitting only electron as given by
+Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
+−
+1
+
+(9.30)
+But the kinetic energy of electron 
+coming out of the nucleus did not match 
+with the experimental results. In alpha 
+decay, the alpha particle takes only certain 
+allowed discrete energies whereas in beta 
+A very interesting application of alpha decay  is in smoke detectors which 
+prevent us from any hazardous fire.
+ 
+Battery holder
+Buzzer
+Radioactive source
+housing
+ 
+–
++
+–
++
+Alarm
+Radioactive
+source
+Ions
+Current
+detector
+Fire smoke
+The smoke detector uses around 0.2 mg of man-made weak radioactive isotope called 
+americium ( 95
+241Am). This radioactive source is placed between two oppositely charged 
+metal plates and α radiations from 
+95
+241Am continuously ionize the nitrogen, oxygen 
+molecules in the air space between the plates. As a result, there will be a continuous flow 
+of small steady current in the circuit. If smoke enters, the radiation is being absorbed by 
+the smoke particles rather than air molecules. As a result, the ionization and along with 
+it the current is reduced. This drop in current is detected by the circuit and alarm starts. 
+The radiation dosage emitted by americium is very much less than safe level, so it can 
+be considered harmless.
+XII_Physics_Vol-2_UNIT-9_EM.indd   172
+XII_Physics_Vol-2_UNIT-9_EM.indd   172
+19-12-2022   16:06:10
+19-12-2022   16:06:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 173
+
+PDF_PAGE: 181
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+173
+an electron of maximum of energy 
+13.4 MeV. 
+(2)	it undergoes beta ray emission to 
+an excited state of carbon ( 6
+12C*) by 
+emitting an electron of maximum 
+energy 9.0 MeV followed by gamma 
+decay to ground state by emitting a 
+photon of energy 4.4 MeV. 
+	
+It is represented by
+	
+5
+12
+6
+12
+B
+C
+e
+→
++
++
+−
+ν
+	
+6
+12
+6
+12
+C
+C
+* →
++ γ
+12
+5 B 
+12
+6 C 
+e– 
+ENERGY
+e– 
+12
+6 C∗
+γ
+In this decay process, the
+daughter nucleus is in an
+excited state, denoted by
+12
+6 C∗, and the beta emissionis
+followed by a gamma emission.
+In this decay process, the
+daughter nucleus 12
+6 C is lef
+in the ground state.
+13.4 MeV
+4.4 MeV
+Figure 9.25  Gamma emission
+9.6.4  Law of radioactive 
+decay
+In the previous section, the decay 
+process of a single radioactive nucleus was 
+discussed. In practice, we have bulk material 
+of radioactive sample which contains a 
+vast number of the radioactive nuclei and 
+not all the radioactive nucleus in a sample 
+detected experimentally in 1956 by Fredrick 
+Reines and Clyde Cowan. Later Reines 
+received Nobel prize in physics in the year 
+1995 for his discovery.
+The neutrino has the following properties
+·	 It has zero charge
+·	 It has an antiparticle called anti-neutrino.
+·	 Recent experiments showed that the 
+neutrino has very small mass.
+·	 It interacts very weakly with the matter. 
+Terefore, it is very difcult to detect it. In 
+fact, in every second, trillions of neutrinos 
+coming from the sun are passing through 
+our body without causing interaction. 
+9.6.3  Gamma emission
+In α and β decay, the daughter 
+nucleus is in the excited state most 
+of the time. The typical life time of 
+excited state is approximately 10-11s. 
+So this excited state nucleus immediately 
+returns to the ground state or lower energy 
+state by emitting highly energetic photons 
+called γ rays. In fact, when the atom is in 
+the excited state, it returns to the ground 
+state by emitting photons of energy in the 
+order of few eV. But when the excited state 
+nucleus returns to its ground state, it emits 
+a highly energetic photon (γ rays) of energy 
+in the order of MeV. The gamma emission 
+is given by
+Z
+A
+Z
+A
+X
+X
+*
+gamma
+rays
+→
++
+( )
+γ
+
+(9.31)
+Here the asterisk(*) indicates the excited 
+state nucleus. In gamma emission, there is 
+no change in the mass number or atomic 
+number of the nucleus.
+Boron ( 5
+12B) has two beta decay modes as 
+shown in Figure 9.25:  
+(1)	it undergoes beta decay directly into 
+ground state carbon ( 6
+12C ) by emitting 
+XII_Physics_Vol-2_UNIT-9_EM.indd   173
+XII_Physics_Vol-2_UNIT-9_EM.indd   173
+19-12-2022   16:06:12
+19-12-2022   16:06:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 174
+
+PDF_PAGE: 182
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+174
+lnN
+t
+N
+N
+
+
+=−
+0
+λ
+ln N
+N
+t
+0
+
+
+
+
+
+=−λ
+Taking exponentials on both sides, we get
+N
+N e
+t
+=
+−
+0
+λ 
+(9.35)
+[Note: e
+e
+x
+e
+x
+y
+y
+ln =
+⇒
+=
+]
+Equation (9.35) is called the law of 
+radioactive decay. Here N denotes the number 
+of undecayed nuclei present at any time t and 
+N0 denotes the number of nuclei present 
+initially time t=0. Note that the number of atoms 
+is decreasing exponentially over the length of 
+time. This implies that the time taken for all 
+the radioactive nuclei to decay will be infinite. 
+Equation (9.35) is plotted in Figure 9.26.
+Time t
+Number of undecayed nuclei
+T1/2
+N0/2
+N = N0e–λt
+N0
+N0/4
+N0/8
+N0/16
+2T1/2 3T1/2 4T1/2
+Figure 9.26  Law of radioactive decay
+We can also define another useful 
+quantity called activity (R) or decay rate 
+which is the number of nuclei decayed per 
+second and it is denoted as R
+dN
+dt
+=
+. Note 
+that activity R is a positive quantity.
+From equation (9.35), we get
+R
+dN
+dt
+N e
+t
+=
+=
+−
+λ
+λ
+0
+
+(9.36)
+R
+R e
+t
+=
+−
+0
+λ 
+(9.37)
+decay at the same time. It decays over a 
+period of time and this decay is basically a 
+random process. It implies that we cannot 
+predict which nucleus is going to decay or 
+rather we can determine like probabilistic 
+basis (like tossing a coin). We can calculate 
+approximately how many nuclei in a sample 
+are decayed over a period of time. 
+At any instant t, the number of decays 
+per unit time, called rate of decay dN
+dt
+
+
+
+ is 
+proportional to the number of nuclei ( N ) at 
+the same instant. 
+−
+∝
+dN
+dt
+N
+The negative sign in the equation implies 
+that N is decreasing with time.
+By 
+introducing 
+a 
+proportionality 
+constant, the relation can be written as
+dN
+dt
+N
+=−λ
+
+(9.32)
+Here proportionality constant λ is 
+called decay constant which is different for 
+different radioactive sample.
+By rewriting the equation (9.32), we get 
+dN
+Ndt
+=−λ
+
+(9.33)
+Here dN represents the number of nuclei 
+decaying in the time interval dt.	
+Let us assume that at time t = 0 s, the 
+number of nuclei present in the radioactive 
+sample be N0 . By integrating the equation 
+(9.33), we can calculate the number of 
+undecayed nuclei N present at any time t.
+From equation (9.33), we get
+dN
+N
+dt
+=−λ
+
+(9.34)
+dN
+N
+dt
+N
+N
+t
+0
+0
+∫
+∫
+=−
+λ
+	
+XII_Physics_Vol-2_UNIT-9_EM.indd   174
+XII_Physics_Vol-2_UNIT-9_EM.indd   174
+19-12-2022   16:06:16
+19-12-2022   16:06:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 175
+
+PDF_PAGE: 183
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+175
+initially present to reduce to one half of 
+the initial amount.
+The 
+half-life 
+is 
+the 
+important 
+characteristic of every radioactive sample. 
+Some radioactive nuclei are known to have 
+half-life as long as 1014 years and some nuclei 
+have very shorter half-life time (10-14s). 
+We can express half-life in terms of the 
+decay constant. At t
+T
+=
+1 2
+/ , the number of 
+undecayed nuclei N
+N
+=
+0
+2 .
+By substituting this value in to the 
+equation (9.35), we get
+N
+N e
+T
+0
+0
+2
+1 2
+=
+−λ
+/
+1
+2
+1 2
+=
+−
+e
+T
+λ
+/ or e
+T
+λ 1 2
+2
+/ =
+Taking logarithm on both sides and 
+rearranging the terms,
+T1 2
+2
+0 6931
+/
+ln
+.
+=
+=
+λ
+λ
+
+(9.39)
+One should not think that 
+shorter half-life material 
+is safer than longer half-
+life material because it will not last 
+long. The shorter half-life sample will 
+have higher activity and it is more 
+‘radioactive’ which is more harmful.
+Note
+If the number of atoms present at t=0 
+is N0 , then N0
+2 atoms remain undecayed 
+in first half-life and N0
+4 atoms remain 
+undecayed after second half life and so on. 
+In general, afer n half-lives, the number of 
+nuclei remaining undecayed is given by
+N
+N
+n
+= 
+
+
+
+1
+2
+0 
+(9.40)
+where n can be integer or non-integer. 
+Since the activity of radioactive sample also 
+where R
+N
+0
+0
+= λ
+The equation (9.37) is also equivalent 
+to radioactive law of decay. Here R0 is 
+the activity of the sample at t=0 and R 
+is the activity of the sample at any time t. 
+From equation (9.37), activity also shows 
+exponential decay behavior.  The activity R 
+also can be expressed in terms of number of 
+undecayed atoms present at any time t. 
+From equation (9.37), since N
+N e
+t
+=
+−
+0
+λ , 
+we write
+R
+N
+= λ
+
+(9.38)
+Equation (9.38) implies that the activity 
+at any time t is equal to the product of decay 
+constant and number of undecayed nuclei 
+present at that time t. Since N decreases with 
+time, R also decreases.
+The SI unit of activity R is Becquerel and 
+one Becquerel (Bq) is equal to one decay per 
+second. There is also  another standard unit 
+for the activity called Curie(Ci).  
+1 Curie =1 Ci =3 7 1010
+. ×
+decays per second
+1 Ci  = 3 7 1010
+. ×
+ Bq
+Initially one curie was 
+defined as number of 
+decays per second in 1 g 
+of radium and it is equal to 3 7 1010
+. ×
+ 
+decays/s.
+Note
+9.6.5  Half-life
+It is difficult to calculate the time taken 
+by a given a sample of N atoms to decay 
+completely. However, we can calculate the 
+time taken by the given sample of atoms to 
+reduce some fraction of the initial amount.
+We can define the half-life T1 2
+/ as the 
+time required for the number of atoms 
+XII_Physics_Vol-2_UNIT-9_EM.indd   175
+XII_Physics_Vol-2_UNIT-9_EM.indd   175
+19-12-2022   16:06:22
+19-12-2022   16:06:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 176
+
+PDF_PAGE: 184
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+176
+Using mean life, the half-life can be 
+rewritten as
+T1 2
+2
+0 6931
+/
+ln
+.
+=
+=
+τ
+τ 
+(9.44)
+Mean life :  Not for examination
+The integration in the equation (9.42) 
+can be performed using integration by 
+parts.
+τ
+λ
+λ
+λ
+λ
+=
+=
+−
+∞
+−
+∞
+∫
+∫
+N t e
+dt
+N
+N
+t e
+dt
+N
+t
+t
+0
+0
+0
+0
+0
+0
+τ
+λ
+λ
+=
+−
+∞
+∫t e
+dt
+t
+0
+	
+u
+t
+= 	
+dv
+e
+dt
+t
+=
+−λ
+τ
+λ
+λ
+λ
+λ
+λ
+λ
+λ
+λ
+=
+=
+−
+
+
+
+
+
+
+−
+−
+
+
+
+
+
+
+−
+∞
+−
+∞
+−
+∞
+∫
+∫
+t e
+dt
+t e
+e
+dt
+t
+t
+t
+0
+0
+0
+By substituting the limits, the first 
+term in the above equation becomes zero.
+τ
+λ
+λ
+λ
+λ
+=
+=−
+
+
+=
+−
+−
+∞
+∞
+∫e
+dt
+e
+t
+t
+1
+1
+0
+0
+EXAMPLE 9.12 
+Calculate the number of nuclei of carbon-14 
+undecayed after 22,920 years if the initial 
+number of carbon-14 atoms is 10,000. The 
+half-life of carbon-14 is 5730 years.
+Solution
+To get the time interval in terms of half-
+life, 
+n
+t
+T
+yr
+yr
+=
+=
+=
+1 2
+22 920
+5730
+4
+/
+,
+The number of nuclei remaining undecayed 
+after 22,920 years, 	
+obeys the exponential decay law, we can also 
+write an equation for an activity similar to 
+equation (9.36). 
+After n  half-lives, the activity or decay 
+rate of any radioactive sample is
+R
+R
+n
+= 
+
+
+
+1
+2
+0 
+(9.41)
+Mean life (τ):
+When the radioactive nucleus decays, 
+the nucleus which disintegrates first has zero 
+life time and the nucleus which decays last 
+has an infinite lifetime. The actual life time 
+for each nucleus varies from zero to infinity. 
+Therefore, it is meaningful to define average 
+life or mean life time t, that  the nucleus 
+survives before it decays. 
+The mean life time of the nucleus is the 
+ratio of sum or integration of life times 
+of all nuclei to the total number nuclei 
+present initially.
+The total number of nuclei decaying in 
+the time interval from t to t
+t
++ ∆ is equal 
+to R t
+N e
+t
+t
+∆
+∆
+=
+−
+λ
+λ
+0
+. It implies that until the 
+time t, this R t
+∆ number of nuclei lived. So 
+the life time of these R t
+∆ nuclei is equal to 
+tR t
+∆. In the limit ∆t ® 0, the total life time 
+of all the nuclei would be the integration of 
+tRdt from the limit t
+t
+=
+= ∞
+0 to 
+. 
+Mean life 
+t = 
+[
+]
+0
+0
+0
+0
+0
+t
+t Rdt
+t
+N e
+dt
+N
+N
+λ
+λ
+∞
+∞
+−
+
+
+
+
+=
+∫
+∫
+
+(9.42)
+After a few integration (refer box item), 
+the expression for mean life time,
+1
+τ
+λ
+=
+
+(9.43)
+Note that mean life and decay constant 
+are inversely proportional to each other.
+XII_Physics_Vol-2_UNIT-9_EM.indd   176
+XII_Physics_Vol-2_UNIT-9_EM.indd   176
+19-12-2022   16:06:26
+19-12-2022   16:06:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 177
+
+PDF_PAGE: 185
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+177
+(c)	
+Activity after 2 hours can be 
+calculated in two different ways:
+Method 1: 	 R = R0 e–λt
+At t = 2 hr = 7200 s
+         R = 3.75 × 103 × e–7200 ×1.155 ×10–3
+         R = 3.75 × 103 × 2.4 ×10–4 = 0.9 Ci
+Method 2:	
+R
+n
+=
+
+
+
+1
+2 R0
+Here n
+R
+=
+=
+=
+
+
+×
+×
+≈
+120
+10
+12
+1
+2
+3 75 10
+0 9
+12
+3
+min
+min
+.
+. Ci
+(d) mean life τ =
+=
+×
+=
+T
+s
+1 2
+0 6931
+10
+60
+0 6931
+865 67
+/
+.
+.
+.
+ 
+ 
+9.6.6  Carbon dating
+The interesting application of beta decay 
+is radioactive dating or carbon dating. Using 
+this technique, the age of an ancient object 
+can be calculated. All living organisms 
+absorb carbon dioxide (CO2) from air 
+to synthesize organic molecules. In this 
+absorbed CO2, the major part contains 6
+12C 
+and very small fraction (1 3 10 12
+. ×
+−) contains 
+radioactive 6
+14C whose half-life is 5730 years. 
+Carbon-14 in the atmosphere is always 
+decaying but at the same time, cosmic 
+rays from outer space are continuously 
+bombarding the atoms in the atmosphere 
+which produces 
+6
+14C . So the continuous 
+production and decay of 
+6
+14C in the 
+atmosphere keep the ratio of 
+6
+14C to 
+6
+12C
+always constant. Since our human body, 
+tree or any living organism continuously 
+absorb CO2 from the atmosphere, the ratio 
+of 6
+14C to 6
+12C in the living organism is also 
+nearly constant. But when the organism 
+N
+N
+n
+= 
+
+
+
+= 
+
+
+×
+1
+2
+1
+2
+10 000
+0
+4
+,
+N = 625
+EXAMPLE 9.13
+A radioactive sample has 2 6. µg of pure 
+7
+13N which has a half-life of 10 minutes. 
+(a) How many nuclei are present initially? 
+(b) What is the activity initially? (c) What 
+is the activity after 2 hours? (d) Calculate 
+mean life of this sample.
+Solution
+(a)	
+To find N0, we have to find the 
+number of 
+7
+13N atoms in 2 6. µg . The 
+atomic mass of nitrogen is 13. Therefore, 
+13 g of 
+7
+13N contains Avogadro number 
+(6 02 1023
+.
+×
+) of atoms. 
+In 1 g, the number of  7
+13N atoms present is 
+equal to 6 02 10
+13
+23
+.
+´
+. So the number of 7
+13N 
+atoms present in 2 6. µg is 	
+N0
+23
+6
+16
+6 02 10
+13
+2 6 10
+12 04 10
+=
+×
+×
+×
+=
+×
+−
+.
+.
+.
+(b)	
+To find the initial activity R0 , we 
+have to evaluate decay constant λ
+λ =
+=
+×
+=
+×
+−
+−
+0 6931
+0 6931
+10
+60
+1 155 10
+1 2
+3
+1
+.
+.
+.
+/
+T
+s
+Therefore
+R
+N
+0
+16
+13
+12 04 10
+13 90 10
+=
+=
+×
+×
+×
+=
+×
+=
+×
+λ
+0
+3
+13
+1.155 10
+decays/s
+13.90 10
+-
+.
+.
+Bq
+In terms of a curie, 
+R0
+13
+10
+3
+13 90 10
+3 7 10
+3 75 10
+=
+⋅
+⋅
+=
+⋅
+=
+⋅
+.
+.
+.
+Ci
+since 1Ci 
+3.7 10 Bq
+10
+XII_Physics_Vol-2_UNIT-9_EM.indd   177
+XII_Physics_Vol-2_UNIT-9_EM.indd   177
+19-12-2022   16:06:36
+19-12-2022   16:06:36
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 178
+
+PDF_PAGE: 186
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+178
+Solution
+To calculate the age, we need to know the 
+initial activity (R0) of the characol (when 
+the sample was alive).  
+The activity R of the sample 
+R
+R e
+t
+=
+−
+0
+λ 
+(1) 
+To find the time t, rewriting the above 
+equation (1),	
+e
+R
+R
+t
+λ =
+0
+By taking the logarithm on both sides, we 
+get t
+R
+R
+=
+
+
+
+
+
+
+1
+0
+λ ln
+
+(2)
+Here R = 38 decays/s=38 Bq.
+To find decay constant, we use the equation 
+λ =
+=
+×
+×
+0 6931
+0 6931
+5730
+3 156 10
+1 2
+7
+.
+.
+.
+/
+/
+T
+yr
+s yr
+[∴  1yr = 365.25 × 24 × 60 × 60 s = 3.156 × 107 s]
+λ =
+×
+−
+−
+3 83 10 12
+1
+.
+s
+ 
+To find the initial activity R0 , we use 
+the equation R
+N
+0
+0
+= λ
+. Here N0 is the 
+number of carbon-14 atoms present in the 
+sample when it was alive. The mass of the 
+characol is 200 g. In 12 g of carbon, there 
+are 6 02 1023
+.
+×
+ carbon atoms. So 200g 
+contains
+	6 02 10
+12
+200
+1 10
+23
+25
+.
+/
+/
+×
+×
+≈×
+atoms
+atoms
+mol
+g mol
+When the tree(sample) was alive, the ratio 
+of 
+6
+14C to 
+6
+12C is 1 3 10 12
+. ×
+−. So the total 
+number of carbon-14 atoms is given by
+N0
+25
+12
+13
+1 10
+1 3 10
+1 3 10
+= ×
+×
+×
+=
+×
+−
+.
+.
+atoms
+The initial activity 
+R
+s
+Bq
+0
+12
+13
+3 83 10
+1 3 10
+50
+50
+=
+×
+×
+×
+≈
+=
+−
+.
+.
+/
+decays
+By substituting the value of R0 and λ in the 
+equation (2), we get
+dies, it stops absorbing CO2. Since 6
+14C starts 
+to decay, the ratio of 6
+14C to 6
+12C in a dead 
+organism or specimen decreases over the 
+years. Suppose the ratio of 6
+14C to 6
+12C in the 
+ancient tree pieces excavated is known, then 
+the age of the tree pieces can be calculated. 
+EXAMPLE 9.14
+Keezhadi (கீழடி), a small hamlet, has 
+become one of the very important 
+archeological places of Tamilandu. It is 
+located in Sivagangai district. A lot of 
+artefacts (gold coins, pottery, beads, iron 
+tools, jewellery and charcoal, etc.) have 
+been unearthed in Keezhadi which have 
+given substantial evidence that an ancient 
+urban civilization had thrived on the banks 
+of river Vaigai. To determine the age of 
+those materials, the charcoal of 200 g sent 
+for carbon dating is given in the following 
+figure (b). The activity of 6
+14C is found to be 
+37 decays/s.  Calculate the age of charcoal.
+Figure (a)  Keezhadi – excavation site
+Figure (b) – Characol which was sent for 
+carbon dating
+XII_Physics_Vol-2_UNIT-9_EM.indd   178
+XII_Physics_Vol-2_UNIT-9_EM.indd   178
+19-12-2022   16:06:44
+19-12-2022   16:06:44
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 179
+
+PDF_PAGE: 187
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+179
+with emission of proton, electron, and 
+antineutrino with the half life of 13 minutes. 
+Neutrons are classified according to their 
+kinetic energy as (i) slow neutrons (0 to 1000 eV) 
+(ii) fast neutrons (0.5 MeV to 10 MeV). 
+The neutrons with average energy of about 
+0.025 eV in thermal equilibrium are called 
+thermal neutron, because at 298K, the 
+thermal energy kT
+eV
+0 025
+.
+. Slow and fast 
+neutrons play a vital role in nuclear reactors.
+NUCLEAR FISSION
+In 1939, German scientists Otto Hahn 
+and F. Strassman discovered that when 
+uranium nucleus is bombarded with a slow 
+neutron, it breaks up into two smaller nuclei 
+of comparable masses with the release of 
+energy. The process of breaking up of the 
+nucleus of a heavier atom into two smaller 
+nuclei with the release of a large amount of 
+energy is called nuclear fission. The fission 
+is accompanied by the release of neutrons. 
+The energy that is released in the nuclear 
+fission is of many orders of magnitude 
+greater than the energy released in chemical 
+reactions.
+Uranium undergoes fission reaction in 
+90 different ways. The most common fission 
+reactions of 92
+235U nuclei are shown here.
+ 
+92
+235
+0
+1
+92
+236
+56
+141
+36
+92
+0
+1
+3
+U
+n
+U
+Ba
+Kr
+n
+Q
++
+→
+→
++
++
++
+*
+ 
+
+(9.45)
+ 92
+235
+0
+1
+92
+236
+54
+140
+38
+94
+0
+1
+2
+U
+n
+U
+Xe
+Sr
+n
+Q
++
+→
+→
++
++
++
+*
+	 
+
+(9.46)
+Here Q is energy released during the 
+fission of each uranium nucleus. When a 
+slow neutron is absorbed by the uranium 
+nucleus, the mass number increases by 
+one and goes to an excited state 92
+236U * . But 
+9.7
+t =
+×
+×
+
+
+
+
+−
+1
+3 83 10
+50
+37
+12
+.
+ln
+t =
+×
+0 301
+3 83
+1012
+.
+.
+ ≈7.86 × 1010 sec
+In years
+t
+s
+s yr
+=
+×
+×
+≈
+7 86 10
+3 156 10
+2500
+10
+7
+.
+.
+/
+years
+In fact, the excavated materials were to USA 
+sent for carbon dating by Archeological 
+Department of Tamilnadu and the report 
+confirmed that the age of Keezhadi 
+artefacts lies between 2200 years to 2500 
+years (Sangam era- 400 BC to 200 BC). 
+The Keezhadi excavations experimentally 
+proved that urban civilization existed in 
+Tamil Nadu even 2000 years ago! 
+9.6.7  Discovery of Neutrons 
+In 1930, two German physicists Bothe 
+and Becker found that when beryllium 
+was bombarded with α particles, highly 
+penetrating radiation was emitted. This 
+radiation was capable of penetrating the 
+thick layer of lead and was unaffected by 
+the electric and magnetic fields. Initially, 
+it was thought as γ radiation. But in the 
+year 1932, James Chadwick discovered that 
+those radiations are not EM waves but they 
+contain uncharged particles of mass little 
+greater than the mass of the proton. He 
+called them as neutrons. The above reaction 
+can be written as
+4
+9
+2
+4
+6
+12
+0
+1
+Be
+He
+C
+n
++
+→
++
+where 0
+1n denotes neutron.
+Neutrons are fairly stable inside the 
+nucleus. But outside the nucleus they 
+are unstable. If the neutron comes out 
+of the nucleus (free neutron), it decays 
+XII_Physics_Vol-2_UNIT-9_EM.indd   179
+XII_Physics_Vol-2_UNIT-9_EM.indd   179
+19-12-2022   16:06:49
+19-12-2022   16:06:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 180
+
+PDF_PAGE: 188
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+180
+Mass defect ∆m = 236.054398 u – 235.829095 u 
+= 0.225303 u
+So the energy released in each fission =
+0 225303
+931
+200
+.
+×
+≈
+MeV
+MeV
+This energy first appears as kinetic 
+energy of daughter nuclei and neutrons. But 
+later, this kinetic energy appears in the form 
+of heat given to the surrounding.
+Chain reaction:
+When 
+one 
+92
+235U nucleus 
+undergoes 
+fission, the energy released might be 
+small. But from each fission reaction, three 
+neutrons are released. These three neutrons 
+can cause further fission in three other 92
+235U 
+nuclei which in turn produce nine neutrons. 
+These nine neutrons initiate fission in 
+another nine 92
+235U nuclei which produces 27 
+neutrons and so on. This process is called a 
+chain reaction and the number of neutrons 
+goes on increasing almost in geometric 
+progression. It is shown in Figure 9.28.
+There are two kinds of chain reactions: 
+(i) uncontrolled chain reaction (ii) controlled 
+chain reaction. In an uncontrolled chain 
+reaction, the number of neutrons multiply 
+indefinitely and the entire amount of energy 
+is released in a fraction of second.
+The atom bomb is an example of nuclear 
+fission reaction in which uncontrolled chain 
+reaction occurs. Atom bombs produce 
+massive destruction on mankind. During 
+World War II, on August 6 and 9 in the year 
+1945, USA dropped two atom bombs in two 
+places of Japan, Hiroshima and Nagasaki. 
+As a result, lakhs of people were killed and 
+the two cities were completely destroyed. 
+Even now the people who are living in 
+those places have side effects caused by the 
+explosion of atom bombs.
+It is possible to calculate the typical energy 
+released in a chain reaction. In the first step, 
+this excited state does not last longer than 
+10-12s and decay into two daughter nuclei 
+along with the release of 2 or 3 neutrons. 
+In 
+each 
+reaction, 
+on 
+an 
+average, 
+2.5 neutrons are emitted. It is shown in 
+Figure 9.27
+n
+n
+n
+n
+Neutron
+capture
+Excited
+nucleus
+Fission
+Daughter
+nuclei
+Neutrons
+Figure 9.27  Nuclear fssion
+Energy released in fission:
+We can calculate the energy (Q) released 
+in each uranium fission reaction. We choose 
+the most observed fission reaction which is 
+given in the equation (9.45).
+92
+235
+0
+1
+92
+236
+56
+141
+36
+92
+0
+1
+3
+U
+n
+U
+Ba
+Kr
+n
+Q
++
+→
+→
++
++
++
+*
+Mass of 92
+235U 	
+= 235.045733 u
+Mass of 0
+1n 	
+= 1.008665 u
+Total mass of reactants 	
+= 236.054398 u
+Mass of 56
+141Ba	
+= 140.9177 u
+Mass of 36
+92Kr 	
+= 91.8854 u
+Mass of 3 neutrons	
+= 3.025995 u
+The total mass of products	 = 235.829095 u
+XII_Physics_Vol-2_UNIT-9_EM.indd   180
+XII_Physics_Vol-2_UNIT-9_EM.indd   180
+19-12-2022   16:06:54
+19-12-2022   16:06:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 181
+
+PDF_PAGE: 189
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+181
+EXAMPLE 9.15
+Calculate the amount of energy released 
+when 1 kg of 
+92
+235U undergoes fission 
+reaction.
+Solution
+235 g of 
+92
+235U has 6 02 1023
+.
+×
+atoms. In one 
+gram of  92
+235U , the number of atoms is equal 
+to 6 02 10
+235
+2 56 10
+23
+21
+.
+.
+×
+=
+×
+.  
+So the number of atoms present in 1 kg of 
+92
+235U = 2 56 10
+1000
+2 56 10
+21
+24
+.
+.
+×
+×
+=
+×
+Each 
+92
+235U nucleus releases 200 MeV of 
+energy during the fission. The total energy 
+released by 1kg of 92
+235U is 
+Q
+MeV
+MeV
+=
+×
+×
+=
+×
+2 56 10
+200
+5 12 10
+24
+26
+.
+.
+In terms of joules,
+Q
+J
+J
+=
+×
+×
+×
+=
+×
+−
+5 12 10
+1 6 10
+8 192 10
+26
+13
+13
+.
+.
+.
+. 
+In terms of kilowatt hour,
+Q
+kWh
+=
+×
+×
+=
+×
+8 192 10
+3 6 10
+2 27 10
+13
+6
+7
+.
+.
+.
+one neutron initiates the fission process in 
+one nucleus by producing three neutrons 
+and energy of about 200 MeV. In the second 
+step, further three nuclei undergo fission, 
+in third step nine nuclei undergo fission, in 
+fourth step 27 nucleus undergo fission and 
+so on. In the 100th step, the number of nuclei 
+which undergo fission is around 2 5 1040
+. ×
+. The total energy released after 100th step 
+is 2 5 10
+200
+8 10
+40
+29
+. ×
+×
+=
+×
+MeV
+J . It is really 
+an enormous amount of energy which is 
+equivalent to electrical energy required in 
+Tamilnadu for several years.
+If the chain reaction is controllable, then 
+we can harvest an the enormous amount 
+of energy for our needs. It is achieved in a 
+controlled chain reaction. In the controlled 
+chain reaction, the average number of 
+neutrons released in each stage is kept 
+as one such that it is possible to store the 
+released energy. In nuclear reactors, the 
+controlled chain reaction is carried out 
+and the produced energy is used for power 
+generation or for research purpose.
+One incoming neutron
+causes a ﬁssion event in
+a 235U nucleus.
+Te number of neutrons
+and the number of ﬁssion
+events grow rapidly.
+Several neutrons
+from the initial
+ﬁssion event cause
+ﬁssion in additional
+235U nuclei.
+235
+92 U 
+138
+54 Xe
+138
+53 I
+135
+51 Sb
+235
+92 U 
+141
+56 Ba
+95
+38 Sr 
+92
+36Kr 
+95
+39Y
+98
+41Nb
+Figure 9.28  Nuclear chain reaction
+XII_Physics_Vol-2_UNIT-9_EM.indd   181
+XII_Physics_Vol-2_UNIT-9_EM.indd   181
+19-12-2022   16:07:01
+19-12-2022   16:07:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 182
+
+PDF_PAGE: 190
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+182
+with plutonium or polonium is used as the 
+neutron source. During fission of 92
+235U , only 
+fast neutrons are emitted but the probability of 
+initiating fission by it in another nucleus is very 
+low. Therefore, slow neutrons are preferred for 
+sustained nuclear reactions. 
+Moderators: The moderator is a 
+material used to convert fast neutrons into 
+slow neutrons. Usually the moderators are 
+chosen in such a way that they must be very 
+light nuclei having mass comparable to 
+that of neutrons. Hence, these light nuclei 
+undergo collision with fast neutrons and 
+the speed of the neutron is reduced (Note 
+that a billiard ball striking a stationary 
+billiard ball of equal mass would itself be 
+stopped but the same billiard ball bounces 
+off almost with same speed when it strikes 
+a heavier mass. This is the reason for 
+using lighter nuclei as moderators). Most 
+of the reactors use heavy water (D2O) and 
+graphite as moderators. The blocks of 
+uranium stacked together with blocks of 
+graphite (the moderator) to form a large 
+pile is shown in the Figure 9.29 (a) & (b).
+This is enormously large amount of energy 
+which is enough to keep 100 W bulb operating 
+for 30,000 years. To produce this much energy 
+by chemical reaction, around 20,000 tons of 
+TNT(tri nitro toluene) has to be exploded. 
+Nuclear reactor:
+Nuclear reactor is a device in which the 
+nuclear fission takes place in a self-sustained 
+controlled manner and the energy produced is 
+used either for research purpose or for power 
+generation. The first nuclear reactor was built 
+in the year 1942 at Chicago, USA by physicist 
+Enrico Fermi. The main parts of a nuclear 
+reactor are fuel, moderator and control rods. 
+In addition to this, there is a cooling system 
+which is connected with power generation set 
+up.
+Fuel: The fuel is fissionable material, 
+usually uranium or plutonium. Naturally 
+occurring uranium contains only 0.7% of 92
+235U 
+and 99.3% are only 92
+238U . So the 
+92
+238U must 
+be enriched such that it contains at least 2% 
+to 4% of 92
+235U . In addition to this, a neutron 
+source is required to initiate the chain reaction 
+for the first time. A mixture of beryllium 
+Electric
+generator
+Turbine
+Pump
+Pump
+Water
+Steam
+Heat exchanger
+Control rods
+Hot liquid
+Cold liquid
+Uranium containers
+Shielding
+Figure 9.29  (a) Block diagram of Nuclear reactor
+XII_Physics_Vol-2_UNIT-9_EM.indd   182
+XII_Physics_Vol-2_UNIT-9_EM.indd   182
+19-12-2022   16:07:03
+19-12-2022   16:07:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 183
+
+PDF_PAGE: 191
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+183
+surrounded by a concrete wall of thickness of 
+about 2 to 2.5 m.
+Cooling system:The cooling system 
+removes the heat generated in the reactor 
+core. Ordinary water, heavy water and liquid 
+sodium are used as coolant since they have 
+very high specific heat capacity and have large 
+boiling point under high pressure. This coolant 
+passes through the fuel block and carries away 
+the heat to the steam generator through heat 
+exchanger as shown in Figure 9.29(a) and (b). 
+The steam runs the turbines which produces 
+electricity in power reactors.
+ India has 22 nuclear reactors 
+in 
+operation. 
+Nuclear 
+reactors  are constructed in 
+two places in Tamilnadu, Kalpakkam 
+and 
+Kudankulam. 
+Even 
+though 
+nuclear reactors are aimed to cater to 
+our energy need, in practice nuclear 
+reactors now are able to provide only 
+2% of energy requirement of India.
+Note
+Control rods: The control rods are used to 
+adjust the reaction rate.  During each fission, 
+on an average 2.5 neutrons are emitted and in 
+order to have the controlled chain reactions, 
+only one neutron is allowed to cause another 
+fission and the remaining neutrons are 
+absorbed by the control rods. 
+Usually cadmium or boron acts as control 
+rod material and these rods are inserted into 
+the uranium blocks as shown in the Figure 9.29 
+(a) and (b). Depending on the insertion depth 
+of control rod into the uranium assembly, 
+the average number of neutrons produced 
+per fission is set to be equal to one or greater 
+than one. If the average number of neutrons 
+produced per fission is equal to one, then 
+reactor is said to be in critical state. In fact, all 
+the nuclear reactors are maintained in critical 
+state by suitable adjustment of control rods. If 
+it is greater than one, then reactor is said to be 
+in super-critical and it may explode sooner or 
+may cause massive destruction.
+Shielding:  For a protection against 
+harmful radiations, the nuclear reactor is 
+Figure 9.29  (b) Schematic diagram of nuclear reactor
+Core
+(fuel and moderator)
+Shielding
+Pump
+Pump
+Cooling water
+Condenser
+Steam turbine
+Heat
+exchanger
+Hot water
+(or liquid
+sodium)
+Steam
+Water
+Control
+rods
+Containment
+vessel (shielding)
+Electric
+generator
+XII_Physics_Vol-2_UNIT-9_EM.indd   183
+XII_Physics_Vol-2_UNIT-9_EM.indd   183
+19-12-2022   16:07:04
+19-12-2022   16:07:04
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 184
+
+PDF_PAGE: 192
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+184
+into heat. When the temperature is high 
+enough to initiate the thermonuclear fusion, 
+they start to release enormous energy which 
+tends to stabilize the star and prevents it 
+from further collapse. 
+The sun’s interior temperature is around 
+1 5 107
+. ×
+K . In sun, 6 1011
+×
+kg of hydrogen 
+is converted into helium every second and 
+sun has enough hydrogen such that these 
+fusion reactions last for another 5 billion 
+years. When the hydrogen is burnt out, the 
+sun will enter into new phase called red giant 
+where helium will fuse to become carbon. 
+During this stage, sun will expand greatly in 
+size and all its planets will be engulfed in it.
+According to Hans Bethe, the sun is 
+powered by proton-proton cycle of fusion 
+reaction. This cycle consists of three steps 
+and the first two steps are as follows:
+1
+1
+1
+1
+1
+2
+H
+H
+H
+e
++
+→
++
++
++
+ν
+(9.44)
+1
+1
+1
+2
+2
+3
+H
+H
+He
++
+→
++ γ 
+(9.45)
+A number of reactions are possible in the 
+third step. But the most dominant one is 
+2
+3
+2
+3
+2
+4
+1
+1
+1
+1
+He
+He
+He
+H
+H
++
+→
++
++
+ (9.46)
+The overall energy produced in the above 
+reactions is about 27 MeV. The radiation 
+energy we receive from the sun is due to 
+these fusion reactions.
+Elementary particles:
+An atom has a nucleus surrounded by 
+electrons and the nucleus is made up of 
+protons and neutrons. Till 1960s, it was 
+thought that protons, neutrons and electrons 
+are fundamental building blocks of matter. 
+In 1964, physicists Murray Gellman and 
+NUCLEAR FUSION
+When two or more light nuclei (A<20) 
+combine to form a heavier nucleus, then 
+it is called nuclear fusion. In the nuclear 
+fusion, the mass of the resultant nucleus is 
+less than the sum of the masses of original 
+light nuclei. The mass difference appears as 
+energy. The nuclear fusion never occurs at 
+room temperature unlike nuclear fission. It 
+is because when two light nuclei come closer 
+to combine, they is strongly repelled by the 
+coulomb repulsive force.
+To overcome this repulsion, the two light 
+nuclei must have enough kinetic energy 
+to move closer to each other such that the 
+nuclear force becomes effective. This can 
+be achieved if the temperature is very much 
+greater than 107 K. When the surrounding 
+temperature reaches around 107K, lighter 
+nuclei start fusing to form heavier nuclei 
+and this resulting reaction is called 
+thermonuclear fusion reaction. 
+Energy generation in stars:
+The natural place where nuclear fusion 
+occurs is the core of the stars, since their 
+temperature is of the order of 107K. In fact, 
+the energy generation in every star is only 
+through thermonuclear fusion. In most of 
+the stars including our Sun hydrogen atoms 
+fuse into helium and in some stars helium 
+atoms fuse into heavier elements. 
+The early stage of a star is in the form 
+of cloud and dust. Due to their own 
+gravitational pull, these clouds fall inward. 
+As a result, its gravitational potential energy 
+is converted to kinetic energy and finally 
+9.8
+XII_Physics_Vol-2_UNIT-9_EM.indd   184
+XII_Physics_Vol-2_UNIT-9_EM.indd   184
+19-12-2022   16:07:06
+19-12-2022   16:07:06
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 185
+
+PDF_PAGE: 193
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+185
+in nature. Our planets are bound to the sun 
+through gravitational force of the sun. In +2 
+volume 1, we have learnt that between two 
+charges there exists electromagnetic force 
+and it plays major role in most of our day-to-
+day events. In this unit, we have learnt that 
+between two nucleons, there exists a strong 
+nuclear force and this force is responsible 
+for stability of the nucleus. In addition 
+to these three forces, there exists another 
+fundamental force of nature called the weak 
+force. This weak force is even shorter in 
+range than nuclear force. This force plays 
+an important role in beta decay and energy 
+production of stars. During the fusion of 
+hydrogen into helium in sun, neutrinos and 
+enormous radiations are produced through 
+weak force. The detailed mechanism of 
+weak force is beyond the scope of this book 
+and for further reading, appropriate books 
+can be referred. 
+Gravitational, electromagnetic, strong 
+and weak forces are called fundamental 
+forces of nature. It is very interesting to 
+realize that, even for our day-to-day life, 
+we require these four fundamental forces. 
+To put it in simple words: We live on Earth 
+because of Earth’s gravitational attraction 
+on our body. We are standing on the surface 
+of the Earth because of the electromagnetic 
+force between atoms of the surface of the 
+Earth and atoms in our foot. The atoms 
+in our body are stable because of strong 
+nuclear force. Finally, the lives of species on 
+earth depend on the solar energy from the 
+sun and it is due to weak force which plays 
+vital role during nuclear fusion reactions 
+going on in the core of the sun.
+George Zweig theoretically proposed that 
+protons and neutrons are not fundamental 
+particles; in fact they are made up of quarks. 
+These quarks are now considered elementary 
+particles of nature. Electrons are fundamental 
+or elementary particles because they are 
+not made up of anything. In the year 1968, 
+the quarks were discovered experimentally 
+by Stanford Linear Accelerator Centre 
+(SLAC), USA. There are six quarks namely, 
+up, down, charm, strange, top and bottom 
+and their antiparticles. All these quarks have 
+fractional charges. For example, charge of 
+up quark is + 2
+3 e and that of down quark is 
+−1
+3 e.  
+According to quark model, proton is 
+made up of two up quarks and one down 
+quark and neutron is made up of one up 
+quark and two down quarks as shown in the 
+Figure 9.30.
+Neutron
+u
+2
+3
++
+e
+d
+1
+3
+–
+e
+d
+1
+3
+–
+e
+Proton
+u
+2
+3
++
+e
+u
+2
+3
++
+e
+d
+1
+3
+–
+e
+Figure 9.30  Constituents of nucleons
+The study of elementary particles is 
+called particle physics and it is an active area 
+of research even now. Till date, more than 
+20 Nobel prizes have been awarded in the 
+field of particle physics.
+Fundamental forces of nature:
+It is known that there exists gravitational 
+force between two masses and it is universal 
+XII_Physics_Vol-2_UNIT-9_EM.indd   185
+XII_Physics_Vol-2_UNIT-9_EM.indd   185
+19-12-2022   16:07:07
+19-12-2022   16:07:07
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 186
+
+PDF_PAGE: 194
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+186
+ 
+
+A device used to study the conduction of electricity through partical gases at low 
+pressure is known as gas discharge tube
+ 
+
+Charge per unit mass is known as specifc charge or normalized charge, and it is 
+independent of gas used and also nature of electrodes used in the experiment.
+ 
+
+Te minimum distance between alpha particle and centre of the nucleus just before 
+it gets refected back by 180° is defned as distance of closest approach r0.
+ 
+
+Te impact parameter (b) (see Figure 9.12) is defned as the perpendicular distance 
+between the centre of the gold nucleus and the direction of velocity vector of alpha 
+particle when it is at a large distance. 
+ 
+
+According to Bohr atom model, angular momentum is quantized.
+ 
+
+Te radius of the orbit in Bohr atom model is r
+a n
+Z
+n =
+0
+2
+ 
+
+Te radius of frst orbit hydrogen atom is a
+h
+me
+0
+0
+2
+2
+0 529
+=
+=
+ε
+π
+.
+Å and it is also known 
+as Bohr radius
+ 
+
+Te velocity of electron in nth orbit is υ
+π
+n
+h
+ma
+Z
+n
+= 2
+0
+ ms–1.
+ 
+
+Te fne structure constant is α = 1
+137 which is a dimensionless constant
+ 
+
+Te total energy of electron in the nth orbit is E
+me
+h
+Z
+n
+Z
+n eV
+n =−
+=−
+4
+0
+2
+2
+2
+2
+2
+2
+8
+13 6
+ε
+.
+.
+ 
+
+Te energy required to excite an electron from the lower energy state to any higher 
+energy state is known as excitation energy and corresponding potential supplied is 
+known as excitation potential.
+ 
+
+Te minimum energy required to remove an electron from an atom in the ground 
+state is known as binding energy or ionization energy. 
+ 
+
+Te potential diference through which an electron should be accelerated to get 
+ionization energy is known as ionization potential. 
+ 
+
+Te wavelength of spectral lines of Lyman series lies in ultra-violet region
+ 
+
+Te wavelength of spectral lines of Balmer series lies in visible region while those of 
+Paschen and Brackett series lie in infra-red region
+ 
+
+Te nucleus of element X having atomic number Z and mass number A is represented 
+by Z
+AX .
+ 
+
+Te emprical relation connecting radius of nucleus (Z > 10) R and mass number A is 
+given by R
+R A
+=
+0
+1 3
+/ where R
+F
+0
+1 2
+= .
+ 
+
+Te density of nucleus ρ=
+×
+−
+2 3 1017
+3
+.
+kg m
+, and the nuclear matter in a highly 
+compressed state.
+ 
+
+If M, mp and mn are masses of a nucleus ( Z
+AX ), proton and neutron respectively , then 
+the mass defect is ∆m
+Zm
+Nm
+M
+p
+n
+=
++
+(
+) −
+S U M M A R Y 
+XII_Physics_Vol-2_UNIT-9_EM.indd   186
+XII_Physics_Vol-2_UNIT-9_EM.indd   186
+19-12-2022   16:07:11
+19-12-2022   16:07:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 187
+
+PDF_PAGE: 195
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+187
+ 
+
+Te binding energy of nucleus B E
+Zm
+Nm
+M c
+p
+n
+.
+=
++
+−
+(
+)
+2
+ 
+
+Te average binding energy per nucleon is maximum for iron which is 8.8 MeV.
+ 
+
+Alpha decay: Z
+A
+Z
+A
+X
+Y
+He
+→
++
+−
+−
+2
+4
+2
+4
+ 
+
+β-decay:        Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
++
+−
+1
+ν
+ 
+
+β+decay:         Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
+−
++
+1
+ν
+ 
+
+Gamma emission: Z
+A
+Z
+A
+X
+X
+* →
++ γ
+ 
+
+Law of radioactive decay: N
+N e
+t
+=
+−
+0
+λ
+ 
+
+In general, afer n half lives, the number of nuclei lef undecayed is N
+N
+n
+= 
+
+
+
+1
+2
+0
+ 
+
+Te relation between half-life and decay constant is T1 2
+2
+0 6931
+/
+ln
+.
+=
+=
+λ
+λ
+.
+ 
+
+Mean lite τ
+λ
+= 1 ; T1 2
+0 6931
+0 6931
+/
+.
+.
+=
+=
+λ
+τ .
+ 
+
+If a heavier nucleus decays into lighter nuclei, it is called nuclear fssion
+ 
+
+If two lighter nuclei fuse to form heavier nucleus, it is called nuclear fusion
+ 
+
+In nuclear reactors, the nuclear chain reaction is controlled. In stars, the energy 
+generation is through nuclear fusion.
+XII_Physics_Vol-2_UNIT-9_EM.indd   187
+XII_Physics_Vol-2_UNIT-9_EM.indd   187
+19-12-2022   16:07:14
+19-12-2022   16:07:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 188
+
+PDF_PAGE: 196
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+188
+Atomic and Nuclear Physics
+Atom models
+α - scattering
+experiment
+J.J. Tomson
+Rutherford
+Bohr atom
+model
+Nucleus
+Hydrogen
+spectrum
+Properties
+Binding
+energy
+Radioactive
+decays
+Nuclear
+fusion & ﬁssion
+Elementary
+particles
+C O N C E P T M A P
+XII_Physics_Vol-2_UNIT-9_EM.indd   188
+XII_Physics_Vol-2_UNIT-9_EM.indd   188
+19-12-2022   16:07:14
+19-12-2022   16:07:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 189
+
+PDF_PAGE: 197
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+189
+(a)
+V
+V
+w
+a 	
+(b) V
+V
+a
+w
+	
+(c) λ
+λ
+w
+a
+	
+(d) V
+V
+a
+a
+w
+w
+λ
+λ
+	 6.	 Stars twinkle due to,
+(a) refection
+(b) total internal refection
+(c) refraction
+(d) polarisation 
+	 7.	 When a biconvex lens of glass having 
+refractive index 1.47 is dipped in a 
+liquid, it acts as a plane sheet of glass. 
+Tis implies that the liquid must have 
+refractive index,
+(a) less than one
+(b) less than that of glass
+(c) greater than that of glass
+(d) equal to that of glass
+	 8.	 Te radius of curvature of curved 
+surface at a thin planoconvex lens is 10 
+cm and the refractive index is 1.5. If the 
+plane surface is silvered, then the focal 
+length  will be,
+(a) 5 cm	
+(b) 10 cm
+(c) 15 cm	
+(d) 20 cm
+	 9.	 An air bubble in glass slab of refractive 
+index 1.5 (near normal incidence) is 5 
+cm deep when viewed from one surface 
+and 3 cm deep when viewed from the 
+opposite face. Te thickness of the slab 
+is,
+(a) 8 cm	
+(b) 10 cm
+(c) 12 cm	
+(d) 16 cm
+10.	 A ray of light travelling in a transparent 
+medium of refractive index n falls, on a 
+Multiple choice questions
+	 1.	 Te speed of light in an isotropic 
+medium depends on,
+(a) its intensity 
+(b)its wavelength 
+(c) the nature of propagation 
+(d) the motion of the source w.r.to 
+medium 
+	 2.	 A rod of length 10 cm lies along the 
+principal axis of a concave mirror of 
+focal length 10 cm in such a way that 
+its end closer to the pole is 20 cm away 
+from the mirror. Te length of the 
+image is, (AIPMT Main 2012)
+(a) 2.5 cm	
+(b) 5cm
+(c) 10 cm 	
+(d) 15cm
+	 3.	 An object is placed in front of a convex 
+mirror of focal length of f and the 
+maximum and minimum distance of 
+an object from the mirror such that the 
+image formed is real and magnifed. 
+(IEE Main 2009)]
+(a) 2f and c	
+(b) c and ∞
+(c) f and O	
+(d) None of 
+these 
+	 4.	 For light incident from air onto a slab of 
+refractive index 2. Maximum possible 
+angle of refraction is,
+(a) 30o	
+(b) 45o
+(c) 60o	
+(d) 90o
+	 5.	 If the velocity and wavelength of light 
+in air is Va and λ a and that in water is 
+Vw and λ w, then the refractive index of 
+water is,
+EVALUATION
+I Multiple Choice Questions
+	 1.	 Suppose an alpha particle accelerated 
+by a potential of V volt is allowed 
+to collide with a nucleus of atomic 
+number Z, then the distance of closest 
+approach of alpha particle to the 
+nucleus is 
+(a) 14 4. Z
+V Å	
+(b) 14 4. V
+Z Å 
+(c) 1 44
+.
+Z
+V Å	
+(d) 1 44
+.
+V
+Z Å
+	 2.	 In a hydrogen atom, the electron 
+revolving in the fourth orbit, has 
+angular momentum equal to
+(a) h	
+(b) h
+π
+(c) 4h
+π 	
+(d) 2h
+π
+	 3.	 Atomic number of H-like atom with 
+ionization potential 122.4 V for n = 1 is 
+(a) 1    (b) 2    (c) 3    (d) 4
+	 4.	 Te ratio between the radius of frst 
+three orbits of hydrogen atom is 
+(a) 1:2:3	
+(b) 2:4:6
+(c) 1:4:9  	
+(d) 1:3:5
+	 5.	 Te charge of cathode rays particle is
+(a) positive	
+(b) negative  
+(c) neutral	
+(d) not defned 
+	 6.	 In J.J. Thomson e/m experiment, 
+electrons are accelerated through 
+2.6  kV enter the region of crossed 
+electric field and magnetic field of 
+strength 3.0 × 104  Vm–1 and 1.0 × 10–3  T, 
+respectively, and pass through it and 
+undeflected, then the specific charge is
+(a) 1.6 × 1010  C kg–1
+(b) 1.7 × 1011  C kg–1
+(c) 1.5 × 1011  C kg–1
+(d) 1.8 × 1011  C kg–1
+	 7.	 Te ratio of the wavelengths radiation 
+emitted for the transition from n =2 to 
+n = 1 in Li++, He+ and H is 
+(a)1: 2: 3	
+(b) 1: 4: 9 
+(c) 3:2:1	
+(d) 4: 9: 36
+	 8.	 Te electric potential of an electron is 
+given by V
+V
+r
+r
+=
+
+
+
+
+0
+0
+ln
+, where r0 is a 
+constant. If Bohr atom model is valid, 
+then variation of radius of nth orbit rn 
+with the principal quantum number n 
+is 
+(a) r
+n
+n ∝1 	
+(b)r
+n
+n ∝
+(c) r
+n
+n ∝1
+2 	
+(d) r
+n
+n ∝
+2
+	 9.	 If the nuclear radius of 
+27Al is 
+3.6 fermi, the approximate nuclear 
+radius of 64Cu in fermi is 
+(a) 2.4	
+(b) 1.2
+(c) 4.8	
+(d)3.6 
+	10.	 Te nucleus is approximately spherical 
+in shape. Ten the surface area of 
+nucleus having mass number A varies 
+as
+(a) A2 3
+/ 	
+(b) A4 3
+/
+(c) A1 3
+/ 	
+(d) A5 3
+/
+	11.	 Te mass of a 3
+7Li nucleus is 0.042 u 
+less than the sum of the masses of all its 
+nucleons. Te average binding energy 
+per nucleon of 3
+7Li nucleus is nearly
+(a) 46 MeV	
+(b) 5.6 MeV
+(c) 3.9MeV	
+(d)23 MeV
+XII_Physics_Vol-2_UNIT-9_EM.indd   189
+XII_Physics_Vol-2_UNIT-9_EM.indd   189
+19-12-2022   16:07:22
+19-12-2022   16:07:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 190
+
+PDF_PAGE: 198
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+190
+Answers
+	 1) b	
+2) d	
+3) c	
+4) c	
+5) b
+	 6) b	
+7) d	
+8) b	
+9) c	
+10) A
+	11) b	
+12) c	
+13) b	
+14) c	
+15) b
+II Short answer questions
+	 1.	 What are cathode rays?.
+	 2.	 Write the properties of cathode rays.
+	 3.	 Give the results of Rutherford alpha 
+scattering experiment.
+	 4.	 Write down the postulates of Bohr 
+atom model. 
+	 5.	 What is meant by excitation energy.
+	 6.	 Defne the ionization energy and 
+ionization potential.
+	 7.	 Write down the draw backs of Bohr 
+atom model. 
+	 8.	 What is distance of closest approach? 
+	 9.	 Defne impact parameter.
+	10.	 Write a general notation of nucleus 
+of element X. What does each term 
+denote?
+	11.	 What is isotope? Give an example.
+	12.	 What is isotone? Give an example.
+	13.	 What is isobar? Give an example.
+	14.	 Defne atomic mass unit u.
+	15.	 Show that nuclear density is almost 
+constant for nuclei with Z > 10.
+	16.	 What is mass defect?
+	17.	 What is binding energy of a nucleus? 
+Give its expression.
+	18.	 Calculate the energy equivalent of 
+1 atomic mass unit.
+	19.	 Give the physical meaning of binding 
+energy per nucleon.
+	20.	 What is meant by radioactivity?
+	12.	 M p denotes the mass of the proton 
+and M n denotes mass of a neutron. 
+A given nucleus of binding energy B, 
+contains Z protons and N neutrons. 
+Te mass M(N,Z) of the nucleus is 
+given by(where c is the speed of light)
+(a) M N Z
+NM
+ZM
+Bc
+n
+p
+,
+(
+) =
++
+−
+2
+(b) M N Z
+NM
+ZM
+Bc
+n
+p
+,
+(
+) =
++
++
+2
+(c) M N Z
+NM
+ZM
+B c
+n
+p
+,
+/
+(
+) =
++
+−
+2
+(d) M N Z
+NM
+ZM
+B c
+n
+p
+,
+/
+(
+) =
++
++
+2
+	13.	 A radioactive nucleus (initial mass 
+number A and atomic number Z) 
+emits two α-particles and 2 positrons. 
+Te ratio of number of neutrons to that 
+of proton in the fnal nucleus will be
+(a) A
+Z
+Z
+−
+−
+−
+4
+2
+	
+(b) A
+Z
+Z
+−
+−
+−
+2
+6
+(c) A
+Z
+Z
+−
+−
+−
+4
+6
+	
+(d) A
+Z
+Z
+−
+−
+−
+12
+4
+	14.	 Te half-life period of a radioactive 
+element A is same as the mean life 
+time of another radioactive element B. 
+Initially both have the same number of 
+atoms. Ten
+(a) A and B have the same decay rate 
+initially
+(b) A and B decay at the same rate always
+(c) B will decay at faster rate than A
+(d) A will decay at faster rate than B. 
+	15.	 A radiative element has N0 number 
+of nuclei at t=0. Te number of nuclei 
+remaining afer half of a half-life (that 
+is, at time t
+T
+= 1
+2
+1
+2
+)
+(a) N0
+2 	
+(b) N0
+2
+(c) N0
+4 	
+(d) N0
+8
+XII_Physics_Vol-2_UNIT-9_EM.indd   190
+XII_Physics_Vol-2_UNIT-9_EM.indd   190
+19-12-2022   16:07:30
+19-12-2022   16:07:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 191
+
+PDF_PAGE: 199
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+191
+	 9.	 Discuss the gamma emission process 
+with example.
+	10.	 Obtain the law of radioactivity.
+	11.	 Discuss the properties of neutrino and 
+its role in beta decay.
+	12.	 Explain the idea of carbon dating.
+	13.	 Discuss the process of nuclear fssion 
+and its properties.
+	14.	 Discuss the process of nuclear fusion 
+and how energy is generated in stars?
+	15.	 Describe the working of nuclear reactor 
+with a block diagram.
+	16.	 Explain in detail the four fundamental 
+forces in nature.
+	17.	 Briefy explain the elementary particles 
+present in nature.
+Exercises
+	 1.	 Consider two hydrogen atoms HA 
+and HB in ground state. Assume that 
+hydrogen atom HA is at rest and 
+hydrogen atom HB is moving with a 
+speed and make head-on collision 
+with the stationary hydrogen atom HA. 
+Afer the collision, both of them move 
+together. What is minimum value 
+of the kinetic energy of the moving 
+hydrogen atom HB, such that any one 
+of the hydrogen atoms reaches frst 
+excitation state.   	
+
+[Ans: 20.4 eV]
+	 2.	 In the Bohr atom model, the frequency 
+of transitions is given by the following 
+expression
+	
+	 v
+Rc n
+m
+=
+−
+
+
+
+
+1
+1
+2
+2
+, where n < m,
+	21.	 Give the symbolic representation of 
+alpha decay, beta decay and gamma 
+emission.
+	22.	 In alpha decay, why the unstable 
+nucleus emits  2
+4He nucleus? Why it 
+does not emit four separate nucleons?
+	23.	 What is mean life of a radia active 
+nucleus? Give the expression.
+	24.	 What is half-life of a radia active 
+nucleus? Give the expression.
+	25.	 What is meant by activity or decay 
+rate? Give its unit. 
+	26.	 Defne curie.
+	27.	 What are the constituent particles of 
+neutron and proton?
+III Long answer questions
+	 1.	 Explain the J.J. Tomson experiment 
+to determine the specifc charge of 
+electron. 
+	 2.	 Discuss 
+the 
+Millikan’s 
+oil 
+drop 
+experiment to determine the charge of 
+an electron. 
+	 3.	 Derive the energy expression for an 
+eletron is the hydrogen atom using 
+Bohr atom model. 
+	 4.	 Discuss the spectral series of hydrogen 
+atom. 
+	 5.	 Explain the variation of average binding 
+energy with the mass number using 
+graph and discuss about its features.
+	 6.	 Explain in detail the nuclear force.
+	 7.	 Discuss the alpha decay process with 
+example.
+	 8.	 Discuss the beta decay process with 
+examples.
+XII_Physics_Vol-2_UNIT-9_EM.indd   191
+XII_Physics_Vol-2_UNIT-9_EM.indd   191
+19-12-2022   16:07:31
+19-12-2022   16:07:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 192
+
+PDF_PAGE: 200
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+192
+	
+	 Consider the following transitions: 
+Transitions
+m
+n
+→
+1
+3
+2
+→
+2
+2
+1
+→
+3
+3
+1
+→
+	
+	 Show that the frequency of these 
+transitions obey sum rule (which is 
+known as Ritz combination principle) 
+
+[Ans: v
+v
+v
+3
+2
+2
+1
+3
+1
+→
+→
+→
++
+=
+]
+	 3.	 (a) A hydrogen atom is excited by 
+radiation of wavelength 97.5 nm. Find 
+the principal quantum number of the 
+excited state. 
+	
+	 (b) Show that the total number of lines 
+in emission spectrum is 
+n n
+(
+)
+-1
+2
+. 
+Compute the total number of possible 
+lines in emission spectrum as given in(a). 
+
+[Ans: (a) n =4 (b) 6 possible transitions]
+	 4.	 Calculate the radius of the earth if 
+the density of the earth is equal to the 
+density of the nucleus.[mass of earth 
+5 97 1024
+.
+×
+kg ].
+
+[Ans:180m]
+	 5.	 Calculate the mass defect and the 
+binding energy per nucleon of the 
+47
+108Ag nucleus. [atomic mass of Ag = 
+107.905949]
+
+Ans: 
+∆m
+u
+B E
+MeV
+=
+=
+
+
+
+
+
+
+0 990391
+8 5
+.
+.
+.
+ and
+	 6.	 Half lives of two radioactive elements 
+A and B are 20 minutes and 40 minutes 
+respectively. Initially, the samples have 
+equal number of nuclei. Calculate the 
+ratio of decayed numbers of A and B 
+nuclei afer 80 minutes.
+	
+
+[Ans: 5:4]
+	 7.	 On your birthday, you measure the 
+activity of the sample 210Bi which has a 
+half-life of 5.01 days. Te initial activity 
+that you measure is 1µCi . (a) What is 
+the approximate activity of the sample 
+on your next birthday? Calculate (b) 
+the decay constant (c) the mean life (d) 
+initial number of atoms.
+	
+[Ans: (a) 10 22
+- µCi (b) 1 6 10 6
+1
+. ×
+−
+−s 
+(c) 7.23days (d) 2 31 1010
+.
+×
+]
+	 8.	 Calculate the time required for 60% 
+of a sample of radon undergo decay. 
+Given T1 2
+/ of radon =3.8 days
+
+[Ans: 5.022 days]
+	 9.	 Assuming that energy released by 
+the fssion of a single 
+92
+235U nucleus 
+is 200MeV, calculate the number of 
+fssions per second required to produce 
+1 watt power.
+
+[Ans: 3 125 1010
+.
+×
+]
+	10.	 Show that the mass of radium ( 88
+226Ra ) 
+with an activity of 1 curie is almost a 
+gram. Given T1 2
+/ =1600 years.
+	11.	 Characol pieces of tree is found from 
+an archeological site. Te carbon-14 
+content of this characol is only 17.5% 
+that of equivalent sample of carbon 
+from a living tree. What is the age of 
+tree?
+	
+
+[Ans: 1.44 × 104 yr]
+XII_Physics_Vol-2_UNIT-9_EM.indd   192
+XII_Physics_Vol-2_UNIT-9_EM.indd   192
+19-12-2022   16:07:39
+19-12-2022   16:07:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 193
+
+PDF_PAGE: 201
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+193
+BOOKS FOR REFERENCE
+	 1.	 Introduction to Modern Physics,  H.S. Mani and G.K. Mehta, East-West Press, New Delhi
+	 2.	 Concepts of Modern Physics, Arthur Beiser, McGraw Hill, 6th edition
+	 3.	 Concepts of Physics – H. C. Verma,  Volume 2, Bharati Bhawan Publisher 
+	 4.	 Fundamentals of Physics, Halliday, Resnick and Walker, Wiley Publishers, 10th  edition 
+	 5.	 Physics for scientist and engineers with modern physics, Serway and Jewett, Brook/Coole 
+publishers, 8th edition
+	 6.	 Physics for scientist and engineers with modern physics, Paul Tipler and Gene Mosca, 
+Sixth edition, W.H.Freeman and Company
+ 
+XII_Physics_Vol-2_UNIT-9_EM.indd   193
+XII_Physics_Vol-2_UNIT-9_EM.indd   193
+19-12-2022   16:07:39
+19-12-2022   16:07:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+
+SOURCE_PAGE: 194
+
+PDF_PAGE: 202
+
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+194
+Atomic and Nuclear physics
+In this activity you will be able to(i) experimentally demon-
+strate the concept of Millikan’s oil drop experiment (ii) fnd the 
+terminal velocity of the drop and (iii) fnd the charge on a drop. 
+STEPS:
+•  Open the browser and type“vlab.amrita.edu” in the address bar. 
+•  Click ‘Physical Sciences’tab. Tenclick ‘Modern Physics Virtual Lab’ and then click ‘Millikan's oil drop 
+experiment’. Go to “simulator” tab to do the experiment. 
+•  Click on ‘START’ button. Click on Combo box to choose the oil.
+•  Click ‘START’ button of stop watch and notice the time taken t1 by a drop, to travel distance l1 between 
+any two points. Calculate the terminal velocity υ1
+1
+1
+= l
+t
+•  Click ‘Voltage On’ to suspend the same oil drop in air, which is the balancing voltage V.
+•  Click the ‘X Ray ON’ button and notice the time taken t2 by same drop to travel distance l2 between any 
+two points. Calculate the terminal velocity υ2
+2
+2
+=
+l
+t
+•  Charge of drop is calculated using the equation q = 6
+1
+2
+πη υ
+υ
+r
+d
+V
+(
+)
++
+. r-radius of oil drop (can be 
+measure using Microscope), η-viscosity of air (1.81 × 10-5 kgm-1s-1), d is the distance between the plates.
+Note:
+1. One time sign up is needed to do simulation. Then login using that username and 
+password. 
+2. Install flash player in your browserif it is not there.
+URL:
+http://vlab.amrita.edu/index.php?sub=1&brch=195&sim=357&cnt=4
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: Millikan's oil 
+drop experiment
+XII_Physics_Vol-2_UNIT-9_EM.indd   194
+XII_Physics_Vol-2_UNIT-9_EM.indd   194
+19-12-2022   16:07:41
+19-12-2022   16:07:41
+www.freetnbooks.com
+www.FREETNBOOKS.com

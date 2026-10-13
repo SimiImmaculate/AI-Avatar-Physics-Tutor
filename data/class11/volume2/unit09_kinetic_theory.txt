@@ -1,0 +1,3250 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit IX – Kinetic Theory of Gases
+
+TEXTBOOK_PAGE_RANGE:
+164–187
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 164
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+156
+I.  Multiple choice questions:
+	 1.	 In hot summer after a bath, the body’s 
+a) internal energy decreases
+b) internal energy  increases 
+c) heat decreases 
+d) no change in internal energy and 
+heat
+	 2.	 The graph between volume and 
+temperature in Charles’ law is
+a) an ellipse	
+b) a circle
+c) a straight line	
+d) a parabola
+	 3.	 When a cycle tyre suddenly bursts, the 
+air inside the tyre expands. This process 
+is
+a) isothermal	
+b) adiabatic
+c) isobaric	
+d) isochoric
+	 4.	 An ideal gas passes from one 
+equilibrium state (P1, V1, T1, N) to 
+another equilibrium state (2P1, 3V1, T2, 
+N). Then
+a) T1 = T2	
+b) T1 = T2
+6
+c) T1 = 6T2	
+d) T1 = 3T2
+	 5.	 When a uniform rod is heated, which 
+of the following quantity of the rod will 
+increase
+a) mass
+b) weight
+c) center of mass
+d) moment of inertia
+	 6.	 When food is cooked in a vessel 
+by keeping the lid closed, after 
+some time the steam pushes the lid 
+outward. By considering the steam as 
+a thermodynamic system, then in the 
+cooking process
+a) Q > 0, W > 0,
+b) Q < 0, W > 0,
+c) Q > 0, W < 0,
+d) Q < 0, W < 0,
+	 7.	 When you exercise in the morning, 
+by 
+considering 
+your 
+body 
+as 
+thermodynamic system, which of the 
+following is true?
+a) ΔU > 0, W > 0,
+b) ΔU < 0, W > 0,
+c) ΔU < 0, W < 0,
+d) ΔU = 0, W > 0,
+	 8.	 A hot cup of coffee is kept on the table. 
+After some time it attains a thermal 
+equilibrium with the surroundings. 
+By considering the air molecules in 
+the room as a thermodynamic system, 
+which of the following is true
+a) ΔU  > 0, Q = 0
+b) ΔU  > 0, W < 0
+c) ΔU  > 0, Q > 0
+d) ΔU = 0, Q > 0
+	 9.	 An ideal gas is taken from (Pi,Vi) to 
+(Pf,Vf) in three different ways. Identify 
+the process in which the work done on 
+the gas the most.
+Pf
+P
+Vf
+Vi
+Pi
+V
+f
+i
+Process A
+P
+Vf
+Vi
+V
+f
+i
+Process B   
+Pf
+Pi
+P
+Vf
+Vi
+V
+f
+i
+Process C   
+Pf
+Pi
+EVALUATION
+UNIT-8(XI-Physics_Vol-2).indd   156
+UNIT-8(XI-Physics_Vol-2).indd   156
+02-01-2023   15:26:24
+02-01-2023   15:26:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 157
+PDF_PAGE: 165
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+157
+a) Process A
+b) Process B
+c) Process C
+d) Equal work is done in Process 
+A,B &C
+10.	 The V-T diagram of an ideal gas 
+which goes through a reversible 
+cycle A→B→C→D is shown below. 
+(Processes D→A and B→C are 
+adiabatic)
+V
+C
+B
+A
+D
+T
+	
+	 The corresponding PV diagram for the 
+process is (all figures are schematic) 
+a) 
+P
+C
+B
+A
+D
+V
+b) 
+P
+C
+B
+A
+D
+V
+c) 
+P
+C
+B
+A
+D
+V
+d) 
+P
+C
+B
+A
+D
+V
+11.	 A distant star emits radiation with 
+maximum intensity at 350 nm. The 
+temperature of the star is 
+a) 8280 K	
+b) 5000K
+c) 7260 K	
+d) 9044 K
+12.	 Identify the state variables given here?
+a) Q, T, W	
+b) P, T, U
+c) Q, W	
+d) P, T, Q
+13.	 In an isochoric process, we have
+a) W = 0	
+b) Q = 0
+c) ∆U = 0	
+d) ∆T = 0
+14.	 The efficiency of a heat engine working 
+between the freezing point and boiling 
+point of water is
+	
+	 
+(NEET 2018)
+	
+a) 6.25%	
+b) 20%
+	
+c) 26.8%	
+d) 12.5%
+15.	 An ideal refrigerator has a freezer at 
+temperature −12°C. The coefficient of 
+performance of the engine is 5. The 
+temperature of the air (to which the 
+heat ejected) is
+a) 50°C	
+b) 45.2°C
+c) 40.2°C	
+d) 37.5°C
+Answers:
+  1) a	
+  2) c	
+  3) b	
+  4) b
+  5) d	
+  6) a	
+  7) b	
+  8) c
+  9) b	
+10) a	
+11) a	
+12) b
+13) a	
+14) c	
+15) c
+UNIT-8(XI-Physics_Vol-2).indd   157
+UNIT-8(XI-Physics_Vol-2).indd   157
+02-01-2023   15:26:24
+02-01-2023   15:26:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 158
+PDF_PAGE: 166
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+158
+23.	 Did joule converted mechanical energy 
+to heat energy? Explain.
+24.	 State the first law of thermodynamics.
+25.	 Can we measure the temperature of the 
+object by touching it? 
+26.	 Give the sign convention for Q and W.
+27.	 Define the quasi-static process.
+28.	 Give the expression for work done by 
+the gas. 
+29.	 What is PV diagram?
+30.	 Explain why the specific heat capacity 
+at constant pressure is greater than 
+the specific heat capacity at constant 
+volume.
+31.	 Give the equation of state for an 
+isothermal process.
+32.	 Give an expression for work done in an 
+isothermal process.
+33.	 Express the change in internal energy 
+in terms of molar specific heat capacity.
+34.	 Apply first law for (a) an isothermal (b) 
+adiabatic (c) isobaric processes.
+35.	 Give the equation of state for an 
+adiabatic process.
+36.	 Give an equation state for an isochoric 
+process.
+37.	 If the piston of a container is pushed 
+fast inward. Will the ideal gas equation 
+be valid in the intermediate stage? If 
+not, why?
+38.	 Draw the PV diagram for 
+a. Isothermal process
+b. Adiabatic process
+c. Isobaric process 
+d. Isochoric process
+39.	 What is a cyclic process? 
+II.  Short answer questions:
+	 1.	 ‘An object contains more heat’- is it a 
+right statement? If not why?
+	 2.	 Obtain an ideal gas law from Boyle’s 
+and Charles’ law.
+	 3.	 Define one mole.
+	 4.	 Define specific heat capacity and give 
+its unit.
+	 5.	 Define molar specific heat capacity.
+	 6.	 What is a thermal expansion?
+	 7.	 Give the expressions for linear, area 
+and volume thermal expansions.
+	 8.	 Define latent heat capacity. Give its 
+unit.
+	 9.	 State Stefan-Boltzmann law.
+10.	 What is Wien’s law?
+11.	 Define thermal conductivity. Give its 
+unit.
+12.	 What is a black body?
+13.	 What is a thermodynamic system? 
+Give examples.
+14.	 What are the different types of 
+thermodynamic systems?
+15.	 What is meant by ‘thermal equilibrium’?
+	16.	 What is mean by state variable? Give 
+example.
+	17.	 What are intensive and extensive 
+variables? Give examples.
+	18.	 What is an equation of state? Give an 
+example.
+	19.	 State Zeroth law of thermodynamics.
+	20.	 Define the internal energy of the 
+system.
+21.	 Are internal energy and heat energy 
+the same? Explain.
+22.	 Define one calorie.
+UNIT-8(XI-Physics_Vol-2).indd   158
+UNIT-8(XI-Physics_Vol-2).indd   158
+02-01-2023   15:26:24
+02-01-2023   15:26:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 159
+PDF_PAGE: 167
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+159
+40.	 What is meant by a reversible and 
+irreversible processes?
+41.	 State Clausius form of the second law 
+of thermodynamics
+42.	 State 
+Kelvin-Planck 
+statement 
+of 
+second law of thermodynamics.
+43.	 Define heat engine.
+44.	 What are processes involves in a Carnot 
+engine?
+45.	 Can the given heat energy be completely 
+converted to work in a cyclic process? If 
+not, when can the heat can completely 
+converted to work?
+46.	 State the second law of thermodynamics 
+in terms of entropy.
+47.	 Why does heat flow from a hot object 
+to a cold object?
+48.	 Define the coefficient of performance.
+III.  Long answer Questions:
+	 1.	 Explain the meaning of heat and work 
+with suitable examples.
+	 2.	 Discuss the ideal gas laws.
+	 3.	 Explain in detail the thermal expansion.
+	 4.	 Describe the anomalous expansion of 
+water. How is it helpful in our lives?
+	 5.	 Explain Calorimetry and derive an 
+expression for final temperature when 
+two thermodynamic systems are mixed.
+	 6.	 Discuss various modes  of heat transfer.
+	 7.	 Explain in detail Newton’s law of 
+cooling.
+	 8.	 Explain Wien’s law and why our eyes 
+are sensitive only to visible rays?
+	 9.	 Discuss the 
+a. thermal equilibrium 
+b. mechanical equilibrium 
+c. Chemical equilibrium 
+d. thermodynamic equilibrium.
+10.	 Explain Joule’s Experiment of the 
+mechanical equivalent of heat.
+11.	 Derive the expression for the work 
+done in a volume change in a 
+thermodynamic system.
+12.	 Derive Mayer’s relation for an ideal gas.
+13.	 Explain in detail the isothermal 
+process.
+14.	 Derive the work done in an isothermal 
+process 
+15.	 Explain in detail an adiabatic process.
+16.	 Derive the work done in an adiabatic 
+process
+17.	 Explain the isobaric process and derive 
+the work done in this process
+18.	 Explain in detail the isochoric process.
+19.	 What are the limitations of the first law 
+of thermodynamics?
+20.	 Explain the heat engine and obtain its 
+efficiency.
+21.	 Explain in detail Carnot heat engine.
+22.	 Derive the expression for Carnot 
+engine efficiency.
+23.	 Explain 
+the 
+second 
+law 
+of 
+thermodynamics in terms of entropy.
+24.	 Explain in detail the working of a 
+refrigerator.
+UNIT-8(XI-Physics_Vol-2).indd   159
+UNIT-8(XI-Physics_Vol-2).indd   159
+02-01-2023   15:26:25
+02-01-2023   15:26:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 168
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+160
+
+Answer: T
+TT PV
+PV
+PVT
+PV T
+=
++
++
+1 2
+1
+1
+2
+2
+1
+1 2
+2
+2 1
+(
+)
+	 4.	 The temperature of a uniform rod 
+of length L having a coefficient of 
+linear expansion αL is changed by ∆T. 
+Calculate the new moment of inertia 
+of the uniform rod about axis passing 
+through its center and perpendicular 
+to an axis of the rod.
+
+Answer: I' = I (1 + αL ∆T)2
+	 5.	 Draw the TP diagram (P-x axis, T-y 
+axis), VT(T-x axis, V-y axis) diagram 
+for 
+a. Isochoric process
+b. Isothermal process
+c. isobaric process
+	 6.	 A man starts bicycling in the morning 
+at a temperature around 25°C, he 
+checked the pressure of tire which is 
+equal to be 500 kPa. Afternoon he found 
+that the absolute pressure in the tyre is 
+increased to 520 kPa. By assuming the 
+expansion of tyre is negligible, what is 
+the temperature of tyre at afternoon?
+
+Answer: T= 36.9°C
+	 7.	 Normal human body of the temperature 
+is 98.6°F. During high fever if the 
+temperature increases to 104°F, what 
+is the change in peak wavelength that 
+emitted by our body? (Assume human 
+body is a black body) 
+Answer: (a) λmax ≈ 9348 nm at 98.6°F
+
+(b) λmax ≈ 9258 nm at 104°F
+	 8.	 In an adiabatic expansion of the air, 
+the volume is increased by 4%, what is 
+percentage change in pressure?
+
+(For air γ = 1.4)
+
+Answer: 5.6%
+IV.  Exercises
+	 1.	 Calculate the number of moles of 
+air is in the inflated balloon at room 
+temperature as shown in the figure.
+	
+	 The radius of the balloon is 10 cm, and 
+pressure inside the balloon is 180 kPa.
+
+Answer: μ ≅ 0.3 mol
+	 2.	 In the planet Mars, the average 
+temperature is around -53°C and 
+atmospheric pressure is 0.9 kPa. 
+Calculate the number of moles of the 
+molecules in unit volume in the planet 
+Mars?  Is this greater than that in earth?
+
+Answer: μMars = 0.49 mol
+
+μEarth ≅ 40 mol
+	 3.	 An insulated container of gas has two 
+chambers separated by an insulating 
+partition. One of the chambers has 
+volume V1 and contains ideal gas at 
+pressure P1 and temperature T1. The 
+other chamber has volume V2 and 
+contains ideal gas at pressure P2 and 
+temperature T2. If the partition is 
+removed without doing any work on 
+the gases, calculate the final equilibrium 
+temperature of the container. 
+UNIT-8(XI-Physics_Vol-2).indd   160
+UNIT-8(XI-Physics_Vol-2).indd   160
+02-01-2023   15:26:32
+02-01-2023   15:26:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 169
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+161
+11.	 An ideal gas is taken in a cyclic process 
+as shown in the figure. Calculate 
+(a) work done by the gas.
+(b) work done on the gas
+(c) Net work done in the process 
+	
+	
+P (Pa)
+V (m)
+600
+400
+0
+3
+6
+A
+B
+C
+
+ Answer: (a) W = +1.5kJ
+
+(b) W = −1.2kJ
+
+(c) W = +300J.
+12.	 For a given ideal gas 6 × 105J heat 
+energy is supplied and the volume of 
+gas is increased from 4 m3 to 6 m3 at 
+atmospheric pressure. Calculate (a) 
+the work done by the gas (b) change in 
+internal energy of the gas (c) graph this 
+process in PV and TV diagram.
+
+ Answer: (a) W = +202.6 kJ 
+
+(b) dU = 397.4 kJ 
+
+(c) 
+P
+V (m)
+1 atm
+4
+6
+T
+V (m)
+4
+6
+P=1atm
+13.	 Suppose a person wants to increase the 
+efficiency of the reversible heat engine 
+that is operating between 100°C and 
+300°C. He had two ways to increase 
+the efficiency. (a) By decreasing the 
+cold reservoir temperature from 100°C 
+to 50°C and keeping the hot reservoir 
+temperature constant (b) by increasing 
+	 9.	 In a petrol engine, (internal combustion 
+engine) air at atmospheric pressure and 
+temperature of 20°C is adiabatically 
+compressed in the cylinder by the piston 
+to 1/8 of its original volume. Calculate 
+the temperature of the compressed air. 
+
+(For air γ = 1.4) 
+
+Answer: T ≅ 400°C
+10.	 Consider the following cyclic process 
+consist of isotherm, isochoric and 
+isobar which is given in the figure.
+	
+	
+P
+V
+1
+2
+3
+ 
+	
+	 Draw 
+the 
+same 
+cyclic 
+process 
+qualitatively in the V-T diagram where 
+T is taken along x direction and V is 
+taken along y-direction. Analyze the 
+nature of heat exchange in each process.
+
+Answer: 
+	
+	
+V
+T
+1
+2
+3
+	
+	 Process 1 to 2 = increase in volume. So 
+heat must be added. 
+	
+	 Process 2 to 3 = Volume remains 
+constant. Increase in temperature. 
+The given heat is used to increase the 
+internal energy.
+	
+	 Process 3 to 1 : Pressure remains 
+constant. Volume and Temperature are 
+reduced. Heat flows out of the system. 
+It is an isobaric compression where the 
+work is done on the system.
+UNIT-8(XI-Physics_Vol-2).indd   161
+UNIT-8(XI-Physics_Vol-2).indd   161
+02-01-2023   15:26:32
+02-01-2023   15:26:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 162
+PDF_PAGE: 170
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+162
+engine of efficiency 60% what must be 
+the intake temperature for the same 
+exhaust (sink) temperature?
+
+Answer: 552°C
+15.	 An ideal refrigerator keeps its content 
+at 0°C while the room temperature 
+is 27°C. Calculate its coefficient of 
+performance.
+
+Answer: β=10.11
+the temperature of the hot reservoir 
+from 300°C to 350°C by keeping the 
+cold reservoir temperature constant. 
+Which is the suitable method?
+
+Answer: Initial efficiency = 34.9%
+
+Efficiency in method (a) =43.6%
+
+Efficiency in method (b) =40.1%
+
+Method (a) is more efficient. 
+14.	 A Carnot engine whose efficiency is 45% 
+takes heat from a source maintained 
+at a temperature of 327°C. To have an 
+BOOKS FOR REFERENCE
+1.	 Serway and Jewett, Physics for scientist and Engineers with modern physics, Brook/Coole 
+publishers, Eighth edition
+2.	 Paul Tipler and Gene Mosca, Physics for scientist and engineers with modern physics, 
+Sixth edition, W.H.Freeman and Company
+3.	 James Walker, Physics, Addison-Wesley publishers, 4th Edition
+4.	 Douglas C Giancoli, Physics for scientist & Engineers with modern physics, Pearson 
+Prentice Hall, 4th edition.
+5.	 H.C.Verma, Concepts of physics volume 1 and Volume 2, Bharati Bhawan Publishers
+6.	 Tarasov and Tarasova, Question and problems in school physics, Mir Publishers
+UNIT-8(XI-Physics_Vol-2).indd   162
+UNIT-8(XI-Physics_Vol-2).indd   162
+02-01-2023   15:26:32
+02-01-2023   15:26:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 163
+PDF_PAGE: 171
+------------------------------------------------------------
+
+Unit 8  Heat and thermodynamics
+163
+Heat and Thermodynamics
+Through this activity you will be able 
+to learn the PV diagrams for various 
+thermodynamic process.
+STEPS:
+• Use the URL or scan the QR code to open  interactive simulation on ‘Pressure and Volume 
+Diagram ”. 
+• At selected temperature, change the “Volume” given below the graph and click play button.
+• Now select a different temperature, change the ‘Volume’ again and find the change in the 
+pressure both in the left image and graph.
+• Repeat the same with different values and try drawing the graph accordingly. This also 
+helps to understand isothermal process.
+URL:
+http://physics.bu.edu/~duffy/HTML5/PV_diagram.html
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+UNIT-8(XI-Physics_Vol-2).indd   163
+UNIT-8(XI-Physics_Vol-2).indd   163
+02-01-2023   15:26:33
+02-01-2023   15:26:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 9
+PDF_PAGE: 172
+------------------------------------------------------------
+
+164
+9.1 
+Learning Objectives
+In this unit, the student is exposed to
+•	 necessity of kinetic theory of gases 
+•	 the microscopic origin of pressure and temperature
+•	 correlate the internal energy of the gas and translational kinetic energy of gas molecules
+•	 meaning of degrees of freedom
+•	 calculate the total degrees of freedom for mono atomic, diatomic and triatomic molecules
+•	 law of equipartition of energy
+•	 calculation of the ratio of CP and CV
+•	 mean free path and its dependence with pressure, temperature and number density
+•	 Brownian motion and its microscopic origin
+KINETIC THEORY
+9.1.1  Introduction
+Thermodynamics is basically a macroscopic 
+science. 
+We 
+discussed 
+macroscopic 
+parameters like pressure, temperature and 
+volume of thermodynamical systems in unit 
+8. In this unit we discuss the microscopic 
+origin of pressure and temperature by 
+considering a thermodynamic system as 
+collection of particles or molecules. Kinetic 
+theory relates pressure and temperature to 
+molecular motion of sample of a gas and it 
+is a bridge between Newtonian mechanics 
+and thermodynamics. The present chapter 
+introduces the kinetic nature of gas 
+molecules.
+U N I T
+9
+KINETIC THEORY OF GASES
+“With thermodynamics one can calculate almost everything crudely; with kinetic theory, one can 
+calculate fewer things, but more accurately.” - Eugene Wigner
+9.1.2  Postulates of kinetic 
+theory of gases
+Kinetic 
+theory 
+is 
+based 
+on 
+certain 
+assumptions which makes the mathematical 
+treatment simple. None of these assumptions 
+are strictly true yet the model based on these 
+assumptions can be applied to all gases.
+1.	 All the molecules of a gas are identical, 
+elastic spheres.
+2.	 The molecules of different gases are 
+different.
+3.	 The number of molecules in a gas is 
+very large and the average separation 
+between them is larger than size of the 
+gas molecules.
+4.	 The molecules of a gas are in a state of 
+continuous random motion.
+5.	 The molecules collide with one another 
+and also with the walls of the container.
+UNIT-9(XI-Physics_Vol-2).indd   164
+UNIT-9(XI-Physics_Vol-2).indd   164
+26-03-2022   17:46:41
+26-03-2022   17:46:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 165
+PDF_PAGE: 173
+------------------------------------------------------------
+
+165
+Unit 9  Kinetic theory of gases
+9.2
+The molecules of the gas are in random 
+motion. They collide with each other and 
+also with the walls of the container. As 
+the collisions are elastic in nature, there is 
+no loss of kinetic energy, but a change in 
+momentum occurs.
+The molecules of the gas exert pressure 
+on the walls of the container due to collision 
+on it. During each collision, the molecules 
+impart certain momentum to the wall. 
+Due to transfer of momentum, the walls 
+experience a continuous force. The force 
+experienced per unit area of the walls of the 
+container determines the pressure exerted by 
+the gas. It is essential to determine the total 
+momentum transferred by the molecules in 
+a short interval of time.
+A molecule of mass m moving with 
+a velocity v having components (vx, vy, 
+vz) hits the right side wall. Since we have 
+assumed that the collision is elastic, the 
+particle rebounds with same speed and its 
+x-component is reversed. This is shown 
+in the Figure 9.1 (b). The components of 
+velocity of the molecule after collision are 
+(—vx, vy, vz).
+The x-component of momentum of the 
+molecule before collision = mvx
+6.	 These collisions are perfectly elastic so 
+that there is no loss of kinetic energy 
+during collisions.
+7.	 Between two successive collisions, a 
+molecule moves with uniform velocity.
+8.	 The molecules do not exert any force 
+of attraction or repulsion on each other 
+except during collision. The molecules 
+do not possess any potential energy and 
+the energy is wholly kinetic.
+9.	 The collisions are instantaneous. The 
+time spent by a molecule in each 
+collision is very small compared to the 
+time elapsed between two consecutive 
+collisions.
+10.	These molecules obey Newton’s laws 
+of motion even though they move 
+randomly.
+PRESSURE EXERTED BY  
+A GAS
+9.2.1  Expression for 
+pressure exerted by a gas
+Consider a monoatomic gas of N molecules 
+each having a mass m inside a cubical 
+container of side l as shown in the Figure 9.1 
+(a).
+Gas molecule Container
+Figure 9.1  (a) Container of gas molecules
+Figure 9.1  (b) Collision of a molecule 
+with the wall
+vx  
+vx  
+vx  
+vy 
+vy 
+-
+v
+v
+v
+d
+d
+d
+x
+y
+z
+vx
+v
+m
+A molecule is moving
+with velocity    
+towards the wall.
+v
+Te molecule’s x 
+component of 
+velocity is reversed,
+whereas its y component 
+remains unchanged.
+UNIT-9(XI-Physics_Vol-2).indd   165
+UNIT-9(XI-Physics_Vol-2).indd   165
+26-03-2022   17:46:42
+26-03-2022   17:46:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 166
+PDF_PAGE: 174
+------------------------------------------------------------
+
+166
+Unit 9  Kinetic theory of gases
+Not all the n molecules will move to the 
+right, therefore on an average only half of 
+the n molecules move to the right and the 
+other half moves towards left side.
+The number of molecules that hit the right 
+side wall in a time interval ∆t
+= n
+2 Avx ∆t
+(9.1)
+In the same interval of time ∆t, the total 
+momentum transferred by the molecules 
+∆p = n
+2 Avx ∆t × 2mvx = Av2
+x  mn∆t
+(9.2)
+From Newton’s second law, the change in 
+momentum in a small interval of time gives 
+rise to force. 
+The force exerted by the molecules on the 
+wall (in magnitude) 
+F = ∆
+∆
+p
+t = nmAv2
+x  
+(9.3)
+Pressure, P = force divided by the area of the 
+wall 
+P = F
+A = nmv2
+x  
+(9.4)
+Since all the molecules are moving 
+completely in random manner, they do not 
+have same speed. So we can replace the term 
+vx
+2 by the average vx
+2 in equation (9.4) 
+The x-component of momentum of the 
+molecule after collision = −mvx
+The change in momentum of the molecule 
+in x direction
+=Final momentum – initial momentum = 
+−mvx −mvx = −2mvx
+According to law of conservation of linear 
+momentum, the change in momentum of 
+the wall = 2mvx
+In x direction, the total 
+momentum of the system 
+before collision is equal to 
+momentum of the molecule 
+(mvx) since the momentum of the 
+wall is zero. According to the law 
+of conservation of momentum the 
+total momentum of system after 
+the collision must be equal to total 
+momentum of system before collision. 
+The momentum of the molecule 
+(in x direction) after the collision is 
+−mvx and the momentum of the wall 
+after the collision is 2mvx. So total 
+momentum of the system after the 
+collision is (2mvx−mvx) = mvx which 
+is same as the total momentum of the 
+system before collision.
+Note
+The number of molecules hitting the right 
+side wall in a small interval of time ∆t is 
+calculated as follows.
+The molecules within the distance of vx∆t 
+from the right side wall and moving towards 
+the right will hit the wall in the time interval ∆t. 
+This is shown in the Figure 9.2. The number 
+of molecules that will hit the right side wall 
+in a time interval ∆t is equal to the product 
+of volume (Avx∆t) and number density of the 
+molecules (n). Here A is area of the wall and n 
+is number of molecules per unit volume 
+N
+V
+
+
+
+. 
+We have assumed that the number density is 
+the same throughout the cube.
+Figure 9.2  Number of molecules hitting 
+the wall 
+UNIT-9(XI-Physics_Vol-2).indd   166
+UNIT-9(XI-Physics_Vol-2).indd   166
+26-03-2022   17:46:45
+26-03-2022   17:46:45
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 175
+------------------------------------------------------------
+
+167
+Unit 9  Kinetic theory of gases
+molecules on the wall is independent of 
+area of the wall (A).
+9.2.2  Kinetic interpretation 
+of temperature
+To understand the microscopic origin of 
+temperature in the same way,
+Rewrite the equation (9.6)
+	
+P
+N
+V mv
+= 1
+3
+2
+	
+PV
+Nmv
+= 1
+3
+2
+
+(9.7)
+Comparing the equation (9.7) with ideal gas 
+equation PV=NkT, 
+	
+NkT= 1
+3 Nmv2
+	
+kT= 1
+3 mv2 
+(9.8)
+Multiply the above equation by 3/2 on both 
+sides, 
+3
+2
+1
+2
+2
+kT
+mv
+=
+
+(9.9)
+R.H.S of the equation (9.9) is called average 
+kinetic energy of a single molecule (KE).
+The average kinetic energy per molecule
+KE = ∈ = 3
+2 kT
+(9.10)
+Equation (9.9 ) implies  that the temperature 
+of a gas is a measure of the average 
+translational kinetic energy per molecule of 
+the gas.
+Compare this with the 
+definition of temperature 
+studied in lower classes: 
+Temperature is the degree of hotness 
+or coldness!
+Note
+Equation 9.10 is a very important result 
+from kinetic theory of gas. We can infer the 
+following from this equation. 
+P = nmvx
+2 
+(9.5)
+Since the gas is assumed to move in random 
+direction, it has no preferred direction 
+of motion (the effect of gravity on the 
+molecules is neglected). It implies that the 
+molecule has same average speed in all the 
+three direction. So, vx
+2 = v
+v
+y
+z
+2
+2
+=
+. The mean 
+square speed is written as 
+	
+v
+v
+v
+v
+v
+x
+y
+z
+x
+2
+2
+2
+2
+2
+3
+=
++
++
+=
+	
+v
+v
+x
+2
+2
+1
+3
+=
+Using this in equation (9.5), we get
+P
+nmv
+= 1
+3
+2 or P
+N
+V mv
+= 1
+3
+2 
+(9.6)
+as n
+N
+V
+=
+
+
+
+
+The following inference can be made 
+from the above equation. The pressure 
+exerted by the molecules depends on
+(i)	 	 Number density n
+N
+V
+=
+. It implies that 
+if the number density increases then 
+pressure will increase. For example 
+when we pump air inside the cycle 
+tyre or car tyre essentially the number 
+density increases and as a result the 
+pressure increases.
+(ii)	 	 Mass of the molecule Since the pressure 
+arises due to momentum transfer to 
+the wall, larger mass will have larger 
+momentum for a fixed speed. As a 
+result the pressure will increase.
+(iii)	 Mean square speed  For a fixed mass 
+if we increase the speed, the average 
+speed will also increase. As a result the 
+pressure will increase.
+For simplicity the cubical container is taken 
+into consideration. The above result is true 
+for any shape of the container as the area 
+A does not appear in the final expression 
+(9.6). Hence the pressure exerted by gas 
+UNIT-9(XI-Physics_Vol-2).indd   167
+UNIT-9(XI-Physics_Vol-2).indd   167
+26-03-2022   17:46:52
+26-03-2022   17:46:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 176
+------------------------------------------------------------
+
+168
+Unit 9  Kinetic theory of gases
+U
+RT
+= 3
+2 µ
+Since Nk = μR. Here μ is number of moles.
+Gas constant R = 8.31 
+J
+molk
+Temperature T =273+27=300K
+U = 3
+2 × 0.5 × 8.31 × 300 = 1869.75J
+This is approximately equivalent to the 
+kinetic energy of a man of 57 kg running 
+with a speed of 8 m s-1.
+9.2.3  Relation between 
+pressure and mean kinetic 
+energy 
+From earlier section, the internal energy of 
+the gas is given by
+U
+NkT
+= 3
+2
+The above equation can also be written as  
+U = 3
+2 PV 
+since PV = NkT
+P = 2
+3
+2
+3
+U
+V
+u
+=
+
+(9.12)
+From the equation (9.12), we can state 
+that the pressure of the gas is equal to two 
+thirds of internal energy per unit volume or 
+internal energy density (u = U
+V ).
+Writing pressure in terms of mean kinetic 
+energy density using equation (9.6)
+P
+nmv
+v
+=
+=
+1
+3
+1
+3
+2
+2
+ρ
+
+(9.13)
+where ρ = nm = mass density (Note n is 
+number density)
+Multiply and divide R.H.S of equation (9.13) 
+by 2, we get
+P
+v
+=
+
+
+
+
+
+
+2
+3 2
+2
+ρ
+
+(9.14)
+P
+KE
+= 2
+3
+
+(i)	 	 The average kinetic energy of the 
+molecule is directly proportional to 
+absolute temperature of the gas. The 
+equation (9.9) gives the connection 
+between 
+the 
+macroscopic 
+world 
+(temperature) to microscopic world 
+(motion of molecules). 
+(ii)		 The average kinetic energy of each 
+molecule depends only on temperature 
+of the gas not on mass of the molecule. 
+In other words, if the temperature 
+of an ideal gas is measured using 
+thermometer, the average kinetic 
+energy of each molecule can be 
+calculated without seeing the molecule 
+through naked eye.
+By multiplying the total number of gas 
+molecules with average kinetic energy of 
+each molecule, the internal energy of the gas 
+is obtained.
+Internal energy of ideal gas U
+N
+mv
+=
+
+
+
+
+1
+2
+2
+By using equation (9.9) 
+U
+NkT
+= 3
+2
+
+(9.11)
+From equation (9.11), we understand that 
+the internal energy of an ideal gas depends 
+only on absolute temperature and is 
+independent of pressure and volume.
+EXAMPLE 9.1
+A football at 27°C has 0.5 mole of air 
+molecules. Calculate the internal energy of 
+air in the ball.
+Solution
+The internal energy of ideal gas = 3
+2 NkT. 
+The number of air molecules is given in 
+terms of number of moles so, rewrite the 
+expression as follows
+UNIT-9(XI-Physics_Vol-2).indd   168
+UNIT-9(XI-Physics_Vol-2).indd   168
+26-03-2022   17:46:56
+26-03-2022   17:46:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 177
+------------------------------------------------------------
+
+169
+Unit 9  Kinetic theory of gases
+From equation (9.6)
+P
+N
+V m v
+N
+V m v
+=
+=
+1
+3
+1
+3
+1
+1 1
+2
+2
+2
+2
+2
+ 
+
+(9.15)
+where v1
+2 and v2
+2 are the mean square speed 
+for two gases and N1 and N2 are the number 
+of gas molecules in two different gases. 
+At the same temperature, average kinetic 
+energy per molecule is the same for two 
+gases.
+1
+2
+1
+2
+1 1
+2
+2
+2
+2
+m v
+m v
+=
+
+(9.16)
+Dividing the equation (9.15) by (9.16) we 
+get N1  = N2 
+This is Avogadro’s law. It is sometimes 
+referred to as Avogadro’s hypothesis or 
+Avogadro’s Principle.
+9.2.5  Root mean square 
+speed (vrms)
+Root mean square speed (vrms) is defined as the 
+square root of the mean of the square of speeds 
+of all molecules. It is denoted by vrms = 
+v2
+Equation (9.8) can be re-written as,
+mean square speed v
+kT
+m
+2
+3
+=
+
+(9.17)
+root mean square speed,
+vrms = 
+3
+1 73
+kT
+m
+kT
+m
+= .
+
+(9.18)
+From the equation (9.18) we infer the 
+following
+(i)	 	 rms speed is directly proportional to 
+square root of the temperature and 
+inversely proportional to square root 
+of mass of the molecule. At a given 
+temperature the  molecules of lighter 
+mass move faster on an average than 
+the molecules with heavier masses. 
+From the equation (9.14), pressure is equal to 
+2/3 of mean kinetic energy per unit volume.
+9.2.4  Some elementary 
+deductions from kinetic 
+theory of gases
+Boyle’s law:
+From equation (9.12), we know thatPV
+U
+= 2
+3
+But the internal energy of an ideal gas is equal 
+to N times the average kinetic energy (∈) of 
+each molecule.
+	
+U = N∈
+For a fixed temperature, the average 
+translational kinetic energy ∈ will remain 
+constant. It implies that
+PV = 2
+3 N∈ 	
+Thus 	 PV = constant
+Therefore, pressure of a given gas is inversely 
+proportional 
+to 
+its 
+volume 
+provided 
+the temperature remains constant. This is 
+Boyle’s law.
+Charles’ law:
+From the equation (9.12), we get PV
+U
+= 2
+3
+For a fixed pressure, the volume of the gas 
+is proportional to internal energy of the gas 
+or average kinetic energy of the gas and the 
+average kinetic energy is directly proportional 
+to absolute temperature. It implies that 
+V α T or V
+T = constant
+This is Charles’ law.
+Avogadro’s law:
+This law states that at constant temperature 
+and pressure, equal volumes of all gases 
+contain the same number of molecules. For 
+two different gases at the same temperature 
+and pressure, according to kinetic theory of 
+gases,
+UNIT-9(XI-Physics_Vol-2).indd   169
+UNIT-9(XI-Physics_Vol-2).indd   169
+26-03-2022   17:47:01
+26-03-2022   17:47:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 178
+------------------------------------------------------------
+
+170
+Unit 9  Kinetic theory of gases
+EXAMPLE 9.2
+A room contains oxygen and hydrogen 
+molecules in the ratio 3:1. The temperature 
+of the room is 27°C. The molar mass of 02 is 
+32 g mol-1 and of H2 is 2 g mol-1. The value 
+of gas constant R is 8.32 J mol-1 K-1
+Calculate 
+(a)	 rms speed of oxygen and hydrogen 
+molecule
+(b)	Average kinetic energy per oxygen 
+molecule 
+and 
+per 
+hydrogen 
+molecule
+(c)	 Ratio of average kinetic energy of 
+oxygen molecules and hydrogen 
+molecules
+Solution
+(a)	 Absolute Temperature  
+T=27°C =27+273=300 K.
+Gas constant R=8.32 J mol-1 k-1
+For Oxygen molecule: Molar mass 
+M=32 g =32 x 10-3 kg mol-1
+rms speed vrms= 
+3
+3
+8 32
+300
+32 10 3
+RT
+M
+=
+×
+×
+×
+−
+.
+
+483 73
+484
+1
+1
+m s
+m s
+=
+≈
+−
+−
+.
+For Hydrogen molecule:
+Molar mass M = 2 × 10-3 kg mol-1
+rms speed vrms= 
+3
+3
+8 32
+300
+2 10 3
+RT
+M
+=
+×
+×
+×
+−
+.
+
+1934
+1 93
+1
+1
+m s
+k m s
+=
+=
+−
+−
+.
+Note that the rms speed is inversely 
+proportional to M and the molar mass of 
+oxygen is 16 times higher than molar mass 
+of hydrogen. It implies that the rms speed 
+of hydrogen is 4 times greater than rms 
+speed of oxygen at the same temperature. 
+1934
+484 ≈4.
+Example: 
+Lighter 
+molecules 
+like 
+hydrogen and helium have high ‘vrms’ than 
+heavier molecules such as oxygen and 
+nitrogen at the same temperature.
+(ii)		 Increasing 
+the 
+temperature 
+will 
+increase the r.m.s speed of molecules
+We can also write the vrms in terms of gas 
+constant R.  Equation (9.18) can be rewritten 
+as follows
+vrms = 
+3N kT
+N m
+A
+A
+	 Where NA is Avogadro 
+number.
+Since NAk = R and NAm = M (molar mass)
+The root mean square speed or r.m.s speed
+vrms = 
+3RT
+M
+
+(9.19)
+The equation (9.6) can also be written in 
+terms of rms speed P
+nmv rms
+= 1
+3
+2
+since v
+v
+rms
+2
+2
+=
+Root mean square speed 
+is not the same as average 
+speed. Average speed is 0.92 
+times of r.m.s speed.
+Note
+Impact of vrms in nature:
+1.	 Moon has no atmosphere.
+The escape speed of gases on the surface 
+of Moon is much less than the root mean 
+square speeds of gases due to low gravity. 
+Due to this all the gases escape from the 
+surface of the Moon.
+2.	 No hydrogen in Earth’s atmosphere.
+As the root mean square speed of 
+hydrogen is much greater than that of 
+nitrogen, it easily escapes from the earth’s 
+atmosphere.
+In fact, the presence of nonreactive 
+nitrogen instead of highly combustible 
+hydrogen 
+deters 
+many 
+disastrous 
+consequences.
+UNIT-9(XI-Physics_Vol-2).indd   170
+UNIT-9(XI-Physics_Vol-2).indd   170
+26-03-2022   17:47:06
+26-03-2022   17:47:06
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 179
+------------------------------------------------------------
+
+171
+Unit 9  Kinetic theory of gases
+9.2.7.  Most probable speed 
+(Vmp)
+It is defined as the speed acquired by most of 
+the molecules of the gas.
+  v
+RT
+M
+kT
+m
+mp =
+=
+2
+2
+
+(9.22)
+  v
+kT
+m
+mp = 1 41
+.
+
+(9.23)
+The derivation of equations (9.20), (9.22) is 
+beyond the scope of the book
+Comparison of vrms, v and vmp
+Among the speeds vrms is the largest and vmp  
+is the least
+vrms > v > vmp  
+Ratio-wise,
+vrms: v :vmp = 3
+8
+2
+1 732 1 6 1 414
+:
+:
+.
+: . : .
+π
+=
+EXAMPLE 9.3
+Ten particles are moving at the speed of 
+2, 3, 4, 5, 5, 5, 6, 6, 7 and 9 m s-1. Calculate 
+rms speed, average speed and most 
+probable speed.
+Solution
+The average speed  
+v
+m s
+=
++ +
++
++
++
++
++
++
++
+=
+−
+2
+3
+4
+5
+5
+5
+6
+6
+7
+9
+10
+5 2
+1
+.
+To find the rms speed, first calculate the mean 
+square speed v2
+v2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+4
+5
+5
+5
+6
+6
+7
+9
+10
+=
++
++
++
++
++
++
++
++
++
+m s
+2
+2
+30 6
+=
+−
+.
+The rms speed 
+v
+v
+m s
+rms =
+=
+=
+−
+2
+1
+30 6
+5 53
+.
+.
+The most probable speed is 5 m s-1 because 
+three of the particles have that speed.
+(b)	 The average kinetic energy per 
+molecule is 
+3
+2 kT . It depends 
+only on absolute temperature 
+of the gas and is independent of 
+the nature of molecules. Since 
+both the gas molecules are at the 
+same temperature, they have the 
+same average kinetic energy per 
+molecule. k is Boltzmaan constant.
+3
+2
+3
+2
+1 38 10
+300
+6 21 10
+23
+21
+kT
+J
+=
+=
+×
+×
+×
+×
+−
+−
+.
+.
+(c)	 Average kinetic energy of total 
+oxygen molecules = 3 
+O
+2 N kT where 
+No- number of oxygen molecules in 
+the room
+Average kinetic energy of total 
+hydrogen molecules = 
+3 
+2 N kT
+H
+ 
+where NH- number of hydrogen 
+molecules in the room. 
+It is given that the number of oxygen 
+molecules is 3 times more than 
+number of hydrogen molecules in 
+the room. So the ratio of average 
+kinetic energy of oxygen molecules 
+with average kinetic energy of 
+hydrogen molecules is 3:1.
+9.2.6  Mean (or) average 
+speed (v)
+It is defined as the mean (or) average of all 
+the speeds of molecules
+If v1, v2, v3…..vN are the individual speeds of 
+molecules then
+ 
+v
+v
+v
+v
+v
+N
+RT
+M
+kT
+m
+n
+=
++
++
++
+=
+=
+1
+2
+3
+8
+8
+........
+π
+π
+(9.20)
+Here M- Molar Mass and m – mass of the 
+molecule. 
+ v
+kT
+m
+= 1 60
+.
+
+(9.21)
+UNIT-9(XI-Physics_Vol-2).indd   171
+UNIT-9(XI-Physics_Vol-2).indd   171
+26-03-2022   17:47:13
+26-03-2022   17:47:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 180
+------------------------------------------------------------
+
+172
+Unit 9  Kinetic theory of gases
+we calculated the rms speed of each molecule 
+and not the speed of each molecule which is 
+rather difficult. In this scenario we can find 
+the number of gas molecules that move with 
+the speed of 5 m s−1 to 10 m s−1 or 10 m s−1to 
+15 m s−1 etc. In general our interest is to find 
+how many gas molecules have the range 
+of speed from v to v + dv. This is given by 
+Maxwell’s speed distribution function.
+N
+N
+m
+kT
+v e
+v
+mv
+kT
+=
+
+
+
+
+
+
+−
+4
+2
+3
+2
+2
+2
+2
+π
+π
+
+(9.24)
+The above expression is graphically shown 
+as follows
+Nv
+v mp
+v avg
+v rms
+dv
+v
+Nv
+The number of molecules
+having speeds ranging from v
+to v+ dvequals the area of
+the rectangle, Nv
+dv
+Figure 9.3  Maxwell’s molecular speed 
+distribution
+From the Figure 9.3, it is clear that, for a 
+given temperature the number of molecules 
+having lower speed increases parabolically 
+(v2) but decreases exponentially (e
+mv
+kT
+-
+2
+2
+) 
+after reaching most probable speed. The rms 
+speed, average speed and most probable 
+speed are indicated in the Figure 9.3. It can 
+be seen that the rms speed is greatest among 
+the three.
+EXAMPLE 9.4
+Calculate the rms speed, average speed 
+and the most probable speed of 1 mole of 
+hydrogen molecules at 300 K. Neglect the 
+mass of electron.
+Solution
+The hydrogen atom has one proton and one 
+electron. The mass of electron is negligible 
+compared to the mass of proton. 
+Mass of one proton = 1.67 × 10−27kg. 
+One hydrogen molecule = 2 hydrogen 
+atoms = 2 × 1.67 × 10−27kg.
+The average speed
+	
+v
+kT
+m
+kT
+m
+=
+=
+=
+8
+1 60
+π
+.
+
+=
+=
+×
+×
+×
+×
+−
+−
+1 60
+1 38 10
+300
+2 1 67 10
+1 78 1
+23
+27
+.
+( .
+)
+)
+( .
+)
+.
+(
+03
+1
+ms−
+(Boltzmann Constant k = 1.38 × 10−23 J K-1)
+The rms speed	
+v
+kT
+m
+kT
+m
+rms =
+=
+3
+1 73
+.
+=
+=
+×
+×
+×
+−
+−
+1 73
+1 38 10
+300
+2 1 67 10
+1 93
+23
+27
+.
+( .
+)
+(
+)
+( .
+)
+.
+×
+−
+103
+1
+m s
+Most probable speed v
+kT
+m
+kT
+m
+mp =
+=
+2
+1 41
+.
+=
+=
+×
+×
+×
+×
+−
+−
+1 41
+1 38 10
+300
+2 1 67 10
+1 57
+23
+27
+.
+( .
+)
+(
+)
+( .
+)
+.
+103
+1
+ms−
+Note that	
+vrms > v > vmp  
+9.2.8  Maxwell-Boltzmann 
+speed distribution function
+In a classroom, the air molecules are moving 
+in random directions. The speed of each 
+molecule is not the same even though 
+macroscopic parameters like temperature 
+and pressure are fixed.  Each molecule 
+collides with every other molecule and they 
+exchange their speed. In the previous section 
+UNIT-9(XI-Physics_Vol-2).indd   172
+UNIT-9(XI-Physics_Vol-2).indd   172
+26-03-2022   17:47:16
+26-03-2022   17:47:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 181
+------------------------------------------------------------
+
+173
+Unit 9  Kinetic theory of gases
+9.3
+Interestingly 
+once 
+the 
+gas 
+molecule 
+attains 
+equilibrium, the number of 
+molecules in the given range 
+of speeds are fixed. For example if  a 
+molecule initially moving with speed 
+12 m s-1, collides with some other 
+molecule and changes its speed to 9 
+m s-1, then the other molecule initially 
+moving with different speed reaches 
+the speed 12 m s-1 due to another 
+collision. So in general once the gas 
+molecules attain equilibrium, the 
+number of molecules that lie in the 
+range of v to v+dv is always fixed. 
+Note
+DEGREES OF FREEDOM
+9.3.1  Definition
+The 
+minimum 
+number 
+of 
+independent 
+coordinates needed to specify the position and 
+configuration of a thermo-dynamical system in 
+space is called the degree of freedom of the system.
+To know the number of molecules in the range 
+of speed between 50 m s−1 and 60 m s−1, we 
+need to integrate 
+4
+2
+50
+60
+3
+2
+2
+2
+2
+π
+π
+N
+m
+kT
+v e
+dv
+mv
+kT
+∫
+
+
+
+
+
+
+=
+−
+ 
+50
+60
+1
+N
+to
+ms
+=
+−
+(
+). 
+In 
+general 
+the 
+number 
+of 
+molecules 
+within 
+the 
+range of speed v and v+dv is given by 
+4
+2
+3
+2
+2
+2
+2
+π
+π
+N
+m
+kT
+v e
+dv
+N v to v
+dv
+v
+v dv
+mv
+kT
++
+−
+∫
+
+
+
+
+
+
+=
++
+(
+) . 
+The exact integration is beyond the scope of 
+the book. But we can infer the behavior of 
+gas molecules from the graph.
+(i)  The area under the graph will give the total 
+number of gas molecules in the system
+(ii)  	Figure 9.4 shows the speed distribution 
+graph for two different temperatures. 
+As temperature increases, the peak 
+of the curve is shifted to the right. 
+It implies that the average speed of 
+each molecule will increase. But the 
+area under each graph is same since 
+it represents the total number of gas 
+molecules. 
+Figure 9.4  Maxwell distribution graph for two different temperatures
+UNIT-9(XI-Physics_Vol-2).indd   173
+UNIT-9(XI-Physics_Vol-2).indd   173
+26-03-2022   17:47:17
+26-03-2022   17:47:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 174
+PDF_PAGE: 182
+------------------------------------------------------------
+
+174
+Unit 9  Kinetic theory of gases
+about three mutually perpendicular axes 
+(figure 9.5 b). But the moment of inertia 
+about its own axis of rotation is negligible 
+(about y axis in the figure 9.5). Therefore, it 
+has only two rotational degrees of freedom 
+(one rotation is about Z axis and another 
+rotation is about X axis). Therefore totally 
+there are five degrees of freedom.
+f = 5
+2.  At High Temperature
+At a very high temperature such as 5000 K, 
+the diatomic molecules possess additional 
+Example:
+1.	 A free particle moving along x-axis 
+needs only one coordinate to specify it 
+completely. So its degree of freedom is 
+one.
+2.	 Similarly a particle moving over a plane 
+has two degrees of freedom. 
+3.	 A particle moving in space has three 
+degrees of freedom.
+Suppose if we have N number of gas 
+molecules in the container, then the total 
+number of degrees of freedom is f = 3N. 
+But, if the system has q number of constraints 
+(restrictions in motion) then the degrees of 
+freedom decreases and it is equal to f = 3N-q 
+where N is the number of particles.
+9.3.2  Monoatomic molecule
+A monoatomic molecule by virtue of its 
+nature has only three translational degrees 
+of freedom.
+	
+Therefore f = 3
+Example: Helium, Neon, Argon
+9.3.3  Diatomic molecule
+There are two cases.
+1.  At Normal temperature
+A molecule of a diatomic gas consists of 
+two atoms bound to each other by a force 
+of attraction.  Physically the molecule can 
+be regarded as a system of two point masses 
+fixed at the ends of a massless elastic spring.
+The center of mass lies in the center of the 
+diatomic molecule. So, the motion of the 
+center of mass requires three translational 
+degrees of freedom (figure 9.5 a). In 
+addition, the diatomic molecule can rotate 
+Figure 9.5  Degree of freedom of 
+diatomic molecule
+y
+z
+x
+CM
+Translational motion of 
+the center of mass
+y
+z
+x
+Rotational motion about
+the z axis
+Vibrational motion along
+the molecular axis
+Molecular
+Axis
+a
+b
+c
+UNIT-9(XI-Physics_Vol-2).indd   174
+UNIT-9(XI-Physics_Vol-2).indd   174
+26-03-2022   17:47:17
+26-03-2022   17:47:17
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 183
+------------------------------------------------------------
+
+175
+Unit 9  Kinetic theory of gases
+two degrees of freedom due to vibrational 
+motion[one due to kinetic energy of 
+vibration and the other is due to potential 
+energy] (Figure 9.5c). So totally there are 
+seven degrees of freedom.
+f = 7
+Examples: Hydrogen, Nitrogen, Oxygen.
+9.3.4  Triatomic molecules
+There are two cases.
+Linear triatomic molecule
+In this type, two atoms lie on either side of 
+the central atom as shown in the Figure 9.6
+Figure 9.6  A linear triatomic molecule.
+O
+O
+C
+Linear 
+triatomic 
+molecule 
+has 
+three 
+translational degrees of freedom. It has two 
+rotational degrees of freedom because it is 
+similar to diatomic molecule except there is 
+an additional atom at the center. At normal 
+temperature, linear triatomic molecule 
+will have five degrees of freedom. At high 
+temperature it has two additional vibrational 
+degrees of freedom. So a linear triatomic 
+molecule has seven degrees of freedom.
+Example: Carbon dioxide.
+9.4
+Non-linear triatomic molecule
+In this case, the three atoms lie at the vertices 
+of a triangle as shown in the Figure 9.7
+Figure 9.7  A non-linear triatomic 
+molecule
+H
+H
+O
+It has three translational degrees of freedom 
+and three rotational degrees of freedom 
+about three mutually orthogonal axes. The 
+total degrees of freedom,  f = 6
+Example: Water, Sulphurdioxide.
+LAW OF EQUIPARTITION 
+OF ENERGY
+We have seen in Section 9.2.1 that the 
+average kinetic energy of a molecule moving 
+in x direction is 1
+2
+1
+2
+2
+mv
+kT
+x =
+. 
+Similarly, when the motion is in y direction, 
+1
+2
+1
+2
+2
+mv
+kT
+y =
+ and for the motion along 
+z direction, 1
+2
+1
+2
+2
+mv
+kT
+z =
+.
+According to kinetic theory, the average kinetic 
+energy of system of molecules in thermal 
+equilibrium at temperature T is uniformly 
+distributed to all degrees of freedom (x or y or 
+UNIT-9(XI-Physics_Vol-2).indd   175
+UNIT-9(XI-Physics_Vol-2).indd   175
+26-03-2022   17:47:20
+26-03-2022   17:47:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 184
+------------------------------------------------------------
+
+176
+Unit 9  Kinetic theory of gases
+For one mole, the molar specific heat at 
+constant volume C
+dU
+dT
+d
+dT
+RT
+V =
+=
+
+
+
+
+3
+2
+C
+R
+V = 
+
+
+
+3
+2
+C
+C
+R
+R
+R
+R
+P
+V
+=
++
+=
++
+=
+3
+2
+5
+2
+The ratio of specific heats, 
+γ =
+=
+=
+=
+C
+C
+R
+R
+P
+V
+5
+2
+3
+2
+5
+3
+1 67
+.
+ii)  Diatomic molecule
+Average kinetic energy of a diatomic 
+molecule at low temperature = 5
+2 kT
+Total energy of one mole of gas
+= 5
+2
+5
+2
+kT
+N
+RT
+A
+×
+=
+(Here, the total energy is purely kinetic)
+For one mole Specific heat at constant 
+volume
+	
+C
+dU
+dT
+RT
+R
+V =
+= 
+
+
+=
+5
+2
+5
+2
+But C
+C
+R
+R
+R
+R
+P
+V
+=
++
+=
++
+=
+5
+2
+7
+2
+∴
+=
+=
+=
+=
+γ
+C
+C
+R
+R
+P
+V
+7
+2
+5
+2
+7
+5
+1 40
+.
+Energy of a diatomic molecule at high 
+temperature is equal to 7
+2 RT
+C
+dU
+dT
+RT
+R
+V =
+= 
+
+
+=
+7
+2
+7
+2
+	
+∴
+=
++
+=
++
+C
+C
+R
+R
+R
+P
+V
+7 2
+	
+C
+R
+P = 9
+2
+Note that the CV and CP  are higher for diatomic 
+molecules than the mono atomic molecules. 
+It implies that to increase the temperature of 
+z directions  of motion) so that each degree of 
+freedom will get 1
+2 kT of energy. This is called 
+law of equipartition of energy.
+Average kinetic energy of a monatomic 
+molecule (with  f=3) = 3
+1
+2
+3
+2
+×
+=
+kT
+kT
+Average 
+kinetic 
+energy 
+of 
+diatomic 
+molecule at low temperature (with f = 5) 
+= 5
+1
+2
+5
+2
+×
+=
+kT
+kT
+Average kinetic energy of a diatomic 
+molecule at high temperature (with f =7) 
+=7
+1
+2
+7
+2
+×
+=
+kT
+kT
+Average kinetic energy of linear triatomic 
+molecule (with f = 7) = 7
+1
+2
+7
+2
+×
+=
+kT
+kT
+Average kinetic energy of non linear triatomic 
+molecule (with f = 6) = 6
+1
+2
+3
+×
+=
+kT
+kT
+9.4.1  Application of law 
+of equipartition energy in 
+specific heat of a gas
+Meyer’s relation CP − CV = R connects the 
+two specific heats for one mole of an ideal 
+gas. 
+Equipartition law of energy is used to 
+calculate the value of CP − CV and the ratio 
+between them γ = C
+C
+P
+V
+. Here γ is called 
+adiabatic exponent. 
+i)  Monatomic molecule
+Average kinetic energy of a molecule 
+= 3
+2 kT
+
+
+
+
+Total energy of a mole of gas 
+= 3
+2
+3
+2
+kT
+N
+RT
+A
+×
+=
+UNIT-9(XI-Physics_Vol-2).indd   176
+UNIT-9(XI-Physics_Vol-2).indd   176
+26-03-2022   17:47:34
+26-03-2022   17:47:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 185
+------------------------------------------------------------
+
+177
+Unit 9  Kinetic theory of gases
+9.5
+Solution
+The specific heat of one mole of a monoatomic 
+gas CV = 3
+2 R
+For μ1 mole,	 CV = 3
+2 μ1 R  CP = 5
+2 μ1 R 
+The specific heat of one mole of a diatomic 
+gas 
+	
+CV = 5
+2 R
+For μ2 mole,	 CV = 5
+2 μ2 R  CP = 7
+2 μ2 R
+The specific heat of the mixture at constant 
+volume CV = 3
+2 μ1 R + 5
+2 μ2 R
+The specific heat of the mixture at constant 
+pressure CP = 5
+2 μ1 R+ 7
+2 μ2 R
+The adiabatic exponent γ = C
+C
+P
+V
+=
++
++
+5
+7
+3
+5
+1
+2
+1
+2
+µ
+µ
+µ
+µ
+diatomic gas molecules by 1°C it require more 
+heat energy than monoatomic molecules. 
+	
+∴
+=
+=
+=
+=
+γ
+C
+C
+R
+R
+P
+V
+9
+2
+7
+2
+9
+7
+1 28
+.
+iii)  Triatomic molecule
+	
+a)  Linear molecule
+Energy of one mole= 7
+2
+7
+2
+kT
+N
+RT
+A
+×
+=
+C
+dU
+dT
+d
+dT
+RT
+C
+R
+C
+C
+R
+R
+R
+R
+C
+C
+R
+V
+V
+P
+V
+P
+V
+=
+=
+
+
+
+
+
+
+=
+=
++
+=
++
+=
+∴
+=
+=
+7
+2
+7
+2
+7
+2
+9
+2
+9
+2
+7
+γ
+2
+9
+7
+1 28
+R
+=
+= .
+	
+b)  Non-linear molecule
+Energy of a mole = 6
+2
+6
+2
+3
+kT
+N
+RT
+RT
+A
+×
+=
+=
+	
+C
+dU
+dT
+R
+C
+C
+R
+R
+R
+R
+C
+C
+R
+R
+V
+P
+V
+P
+V
+=
+=
+=
++
+=
++
+=
+∴
+=
+=
+=
+=
+3
+3
+4
+4
+3
+4
+3
+1 33
+γ
+.
+Note that according to kinetic theory 
+model of gases the specific heat capacity at 
+constant volume and constant pressure are 
+independent of temperature. But in reality it 
+is not sure. The specific heat capacity varies 
+with the temperature.
+EXAMPLE 9.5
+Find the adiabatic exponent γ for 
+mixture of μ1 moles of monoatomic gas 
+and μ2 moles of a diatomic gas at normal 
+temperature (27°C) .
+MEAN FREE PATH
+Usually the average speed of gas molecules 
+is several hundred meters per second even 
+at room temperature (27°C). Odour from 
+an open perfume bottle takes some time 
+to reach us even if we are closer to the 
+room. The time delay is because the odour 
+of the molecules cannot travel straight 
+to us as it undergoes a lot of collisions 
+with the nearby air molecules and moves 
+in a zigzag path. This average distance 
+travelled by the molecule between two 
+successive collisions is called mean free path 
+(λ). We can calculate the mean free path 
+based on kinetic theory.
+Expression for mean free path
+We know from postulates of kinetic theory 
+that the molecules of a gas are in random 
+motion and they collide with each other. 
+Between two successive collisions, a molecule 
+UNIT-9(XI-Physics_Vol-2).indd   177
+UNIT-9(XI-Physics_Vol-2).indd   177
+26-03-2022   17:47:38
+26-03-2022   17:47:38
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 186
+------------------------------------------------------------
+
+178
+Unit 9  Kinetic theory of gases
+  ∴
+=
+λ
+π
+1
+2
+2
+n d 
+(9.26)
+The equation (9.26) implies that the mean 
+free path is inversely proportional to number 
+density. When the number density increases the 
+molecular collisions increases so it decreases 
+the distance travelled by the molecule before 
+collisions.
+Case1: Rearranging the equation (9.26) using 
+‘m’ (mass of the molecule)
+	
+∴
+=
+λ
+π
+m
+d mn
+2
+2
+But mn=mass per unit volume = ρ (density of 
+the gas)
+	
+∴
+=
+λ
+π
+ρ
+m
+d
+2
+2 
+(9.27)
+Also we know that PV = NkT
+	
+P =
+=
+N
+V kT
+nkT
+	
+∴
+=
+n
+P
+kT
+Substituting n= P
+kT in equation (9.26), we get
+	
+λ
+π
+=
+kT
+d P
+2
+2
+
+(9.28)
+The equation (9.28) implies the following
+1.	 Mean free path increases with increasing 
+temperature. 
+As 
+the 
+temperature 
+increases, the average speed of each 
+molecule will increase. It is the reason 
+why the smell of hot sizzling food 
+reaches several meter away than smell of 
+cold food.
+2.	 Mean free path increases with decreasing 
+pressure of the gas and diameter of the 
+gas molecules.
+moves along a straight path with uniform 
+velocity. This path is called mean free path. 
+Consider a system of molecules each with 
+diameter d. Let n be the number of molecules 
+per unit volume.  
+Assume that only one molecule is in motion 
+and all others are at rest as shown in the 
+Figure 9.8
+hit
+hit
+hit
+miss
+hit
+vt
+miss
+miss
+d
+Collision
+Diameter
+Figure 9.8  Mean free path
+If a molecule moves with average speed v in a 
+time t, the distance travelled is vt. In this time t, 
+consider the molecule to move in an imaginary 
+cylinder of volume πd2vt. It collides with any 
+molecule whose center is within this cylinder. 
+Therefore, the number of collisions is equal 
+to the number of molecules in the volume of 
+the imaginary cylinder. It is equal to πd2vtn.
+The total path length divided by the number of 
+collisions in  time t is the mean free path.
+Mean free path, λ =
+distance travelled
+Numberof collisions
+	
+λ
+π
+π
+=
+=
+vt
+n d vt
+n d
+2
+2
+1
+
+(9.25)
+	
+Though we have assumed that only 
+one molecule is moving at a time and other 
+molecules are at rest, in actual practice all the 
+molecules are in random motion. So the average 
+relative speed of one molecule with respect to 
+other molecules has to be taken into account. 
+After some detailed calculations (you will learn 
+in higher classes) the correct expression for 
+mean free path 
+UNIT-9(XI-Physics_Vol-2).indd   178
+UNIT-9(XI-Physics_Vol-2).indd   178
+26-03-2022   17:47:40
+26-03-2022   17:47:40
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 187
+------------------------------------------------------------
+
+179
+Unit 9  Kinetic theory of gases
+9.6
+proposed that Brownian motion is due to 
+the bombardment of suspended particles 
+by molecules of the surrounding fluid. But 
+during 19th century people did not accept 
+that every matter is made up of small atoms 
+or molecules. In the year 1905, Einstein 
+gave systematic theory of Brownian motion 
+based on kinetic theory and he deduced the 
+average size of molecules.
+	
+According to kinetic theory, any 
+particle suspended in a liquid or gas is 
+continuously bombarded from all the 
+directions so that the mean free path is 
+almost negligible. This leads to the motion 
+of the particles in a random and zig–zag 
+manner as shown in Figure 9.9. But when we 
+put our hand in water it causes no random 
+motion because the mass of our hand is so 
+large that the momentum transferred by the 
+molecular collision is not enough to move 
+our hand.
+Figure 9.9  Particles in Brownian motion
+1
+2
+3
+4
+5
+6
+10
+8
+7
+9
+14
+12
+13
+11
+Brownian motion
+Factors affecting Brownian Motion
+1.	 Brownian 
+motion 
+increases 
+with 
+increasing temperature.
+2.	 Brownian motion decreases with bigger 
+particle size, high viscosity and density 
+of the liquid (or) gas.
+EXAMPLE 9.6
+An oxygen molecule is travelling in air 
+at 300 K and 1 atm, and the diameter of 
+oxygen molecule is 1.2 × 10−10m. Calculate 
+the mean free path of oxygen molecule.
+Solution
+From (9.26)		
+λ
+π
+=
+1
+2
+2
+nd
+We have to find the number density n
+By using ideal gas law
+	
+n
+N
+V
+P
+kT
+=
+=
+=
+×
+×
+×
+−
+101 3 10
+1 381 10
+300
+3
+23
+.
+.
+	
+=2.449× 1025 molecues/m3
+	
+λ
+π
+=
+× ×
+×
+×
+×
+−
+1
+2
+2 449 10
+1 2 10
+25
+10 2
+.
+( .
+)
+	
+=
+×
+1
+15 65 105
+.
+	
+λ = 0.63 × 10−6m 
+BROWNIAN MOTION 
+In 1827, Robert Brown, a botanist reported 
+that grains of pollen suspended in a liquid 
+moves randomly from one place to other. 
+The random (Zig - Zag path) motion 
+of pollen suspended in a liquid is called 
+Brownian motion. In fact we can observe 
+the dust particle in water moving in 
+random directions. This discovery puzzled 
+scientists for long time. There were a lot 
+of explanations for pollen or dust to move 
+in random directions but none of these 
+explanations were found adequate. After 
+a systematic study, Wiener and Gouy 
+UNIT-9(XI-Physics_Vol-2).indd   179
+UNIT-9(XI-Physics_Vol-2).indd   179
+26-03-2022   17:47:42
+26-03-2022   17:47:42
+www.freetnbooks.com
+www.FREETNBOOKS.com
+

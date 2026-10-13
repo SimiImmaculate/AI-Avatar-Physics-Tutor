@@ -1,0 +1,2436 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit V – Electromagnetic Waves
+
+TEXTBOOK_PAGE_RANGE:
+266–285
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 266
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+258
+EVALUATION
+I    Multiple Choice Questions
+	 1.	 An electron moves on a straight line 
+path XY as shown in the fgure. Te 
+coil abcd is adjacent to the path of the 
+electron. What will be the direction of 
+current, if any, induced in the coil? 
+(NEET 2015)
+ 
+b
+a
+d
+x
+y
+c
+Electron
+(a)  Te 
+current 
+will 
+reverse 
+its 
+direction as the electron goes past 
+the coil
+(b)  No current will be induced
+(c)  abcd
+(d)  adcb
+	 2.	 A thin semi-circular conducting ring 
+(PQR) of radius r is falling with its 
+plane vertical in a horizontal magnetic 
+feld B, as shown in the fgure.
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+P
+R
+r
+Q
+	
+	 Te potential diference developed 
+across the ring when its speed v , is 
+(NEET 2014)
+(a)  Zero
+(b)  B
+r
+vπ 2
+2
+ and P is at higher potential
+(c)  πrBv and R is at higher potential
+(d)  2rBv and R is at higher potential
+	 3.	 Te fux linked with a coil at any instant 
+t is given by ΦB
+t
+t
+=
+−
++
+10
+50
+250
+2
+. Te 
+induced emf at t = 3 s is 
+(a)  −190 V	
+(b)  −10 V
+(c)  10 V	
+(d)  190 V
+	 4.	 When the current changes from +2A 
+to −2A in 0.05 s, an emf of 8 V is 
+induced in a coil.  Te co-efcient of 
+self-induction of the coil is
+(a)  0.2 H	
+(b)  0.4 H
+(c)  0.8 H	
+(d)  0.1 H
+	 5.	 Te current i fowing in a coil varies 
+with time as shown in the fgure.  Te 
+variation of induced emf with time 
+would be
+(NEET  2011)
+O
+T/4
+T/2
+3T/4
+T
+t
+i
+  (a)
+O
+T/4
+T/2
+3T/4
+T
+t
+emf
+ (b) 
+O
+T/4
+T/2
+3T/4
+T
+t
+emf
+  (c)
+O
+T/4
+T/2
+3T/4
+T
+t
+emf
+ (d) 
+O
+T/4
+T/2
+3T/4
+T
+t
+emf
+12th Physics_Vol-1_Unit 4_English Medium.indd   258
+12th Physics_Vol-1_Unit 4_English Medium.indd   258
+23-12-2022   17:59:21
+23-12-2022   17:59:21
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 267
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+259
+	 6.	 A circular coil with a cross-sectional 
+area of 4 cm2 has 10 turns.  It is placed 
+at the centre of a long solenoid that has 
+15 turns/cm and a cross-sectional area 
+of 10 cm2. Te axis of the coil coincides 
+with the axis of the solenoid. What is 
+their mutual inductance?
+(a)  7.54 µH	
+(b)  8.54 µH
+(c)  9.54 µH	
+(d)  10.54 µH
+	 7.	 In a transformer, the number of turns 
+in the primary and the secondary 
+are 410 and 1230 respectively. If the 
+current in primary is 6A, then that in 
+the secondary coil is
+(a)  2 A	
+(b)  18 A
+(c)  12 A	
+(d)  1 A
+	 8.	 A step-down transformer reduces the 
+supply voltage from 220 V to 11 V and 
+increase the current from 6 A to 100 A. 
+Ten its efciency is 
+(a)  1.2	
+(b)  0.83
+(c)  0.12	
+(d)  0.9
+	 9.	 In an electrical circuit, R, L, C and AC 
+voltage source are all connected in 
+series. When L is removed from the 
+circuit, the phase diference between 
+the voltage and current in the circuit is 
+π
+3. Instead, if C is removed from the 
+circuit, the phase diference is again π
+3. 
+Te power factor of the circuit is 
+(NEET 2012)
+(a)  12	
+(b) 1
+2
+(c)  1	
+(d) 3
+2
+	10.	 In a series RL circuit, the resistance 
+and inductive reactance are the same. 
+Ten the phase diference between the 
+voltage and current in the circuit is
+(a) π
+4 	
+(b) π
+2
+(c) π
+6 	
+(d) zero
+	11.	 In a series resonant RLC circuit, the 
+voltage across 100 Ω resistor is 40 V. 
+Te resonant frequency ω is 250 rad/s. 
+If the value of C is 4 µF, then the voltage 
+across L is
+(a)  600 V	
+(b) 4000 V
+(c)  400V	
+(d) 1 V
+	12.	 An inductor 20 mH, a capacitor 50 μF 
+and a resistor 40 Ω are connected in series 
+across a source of emf V = 10 sin 340 t. 
+Te power loss in AC circuit is
+(a) 0.76 W	
+(b) 0.89 W
+(c) 0.46 W	
+(d) 0.67 W
+	13.	 Te instantaneous values of alternating 
+current and voltage in a circuit are 
+	
+	 i
+t
+=
+(
+)
+1
+2
+100
+sin
+π
+ A and
+	
+	 v =
++
+
+
+
+
+
+
+1
+2
+100
+3
+sin
+π
+π
+t
+ V. 
+	
+	 Te average power in watts consumed 
+in the circuit is
+(IIT Main 2012)
+(a) 1
+4	
+(b) 3
+4
+(c) 1
+2	
+(d) 1
+8
+	14.	 In an oscillating LC circuit, the 
+maximum charge on the capacitor is Q. 
+Te charge on the capacitor when the 
+energy is stored equally between the 
+electric and magnetic felds is
+(a) Q
+2 	
+(b) Q
+3
+(c) Q
+2 	
+(d) Q
+12th Physics_Vol-1_Unit 4_English Medium.indd   259
+12th Physics_Vol-1_Unit 4_English Medium.indd   259
+23-12-2022   17:59:25
+23-12-2022   17:59:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 268
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+260
+	15.	 20
+2
+π H inductor is connected to a 
+capacitor of capacitance C. Te value of 
+C in order to impart maximum power 
+at 50 Hz is
+(a) 50 μF	
+(b) 0.5 μF
+(c) 500 μF	
+(d) 5 μF
+Answers
+	 1) a	
+2) d	
+3) b	
+4) d	
+5) a
+	 6) a	
+7) a	
+8) b	
+9) c	
+10) a
+	11) c	
+12) c	
+13) d	
+14) c	
+15) d
+II  Short Answer Questions 
+	 1.	 What is meant by electromagnetic 
+induction?
+	 2.	 State Faraday’s laws of electromagnetic 
+induction.
+	 3.	 State Lenz’s law.
+	 4.	 State Fleming’s right hand rule.
+	 5.	 How is Eddy current produced? How 
+do they fow in a conductor?
+	 6.	 Mention the ways of producing induced 
+emf.
+	 7.	 What for an inductor is used? Give 
+some examples. 
+	 8.	 What do you mean by self-induction?
+	 9.	 How will you defne the unit of 
+inductance?
+	10.	 What do you understand by self-
+inductance of a coil? Give its physical 
+signifcance.
+	11.	 What is meant by mutual induction?
+	12.	 Give the principle of AC generator.
+	13.	 List out the advantages of stationary 
+armature-rotating feld system of AC 
+generator.
+	14.	 What are step-up and step-down 
+transformers?
+	15.	 Defne average value of an alternating 
+current.
+	16.	 How will you defne RMS value of an 
+alternating current?
+	17.	 What are phasors?
+	18.	 Defne electric resonance.
+	19.	 What do you mean by resonant 
+frequency?
+	20.	 How will you defne Q-factor?
+	21.	 What is meant by wattles current?
+	22.	 Give any one defnition of power 
+factor.
+	23.	 What are LC oscillations?
+III Long Answer Questions 
+	 1.	 Establish the fact that the relative 
+motion between the coil and the 
+magnet induces an emf in the coil of a 
+closed circuit.
+	 2.	 Give an illustration of determining 
+direction of induced current by using 
+Lenz’s law.
+	3.	 Show that Lenz’s law is in accordance 
+with the law of conservation of 
+energy.
+	 4.	 Obtain an expression for motional emf 
+from Lorentz force.
+	 5.	 Give the uses of Foucault current.
+	 6.	 Defne self-inductance of a coil interms 
+of (i) magnetic fux and (ii) induced 
+emf.
+	 7.	 Assuming that the length of the 
+solenoid is large when compared to 
+its diameter, fnd the equation for its 
+inductance.
+12th Physics_Vol-1_Unit 4_English Medium.indd   260
+12th Physics_Vol-1_Unit 4_English Medium.indd   260
+23-12-2022   17:59:26
+23-12-2022   17:59:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 269
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+261
+	 8.	 An inductor of inductance L carries an 
+electric current i. How much energy is 
+stored while establishing the current in 
+it?
+	 9.	 Show that the mutual inductance 
+between a pair of coils is same (M12 = 
+M21).
+	10.	 How will you induce an emf by 
+changing the area enclosed by the coil?
+	11.	 Show mathematically that the rotation 
+of a coil in a magnetic feld over one 
+rotation induces an alternating emf of 
+one cycle.
+	12.	 Elaborate the standard construction 
+details of AC generator.
+	13.	 Explain the working of a single-phase 
+AC generator with necessary diagram.
+	14.	 How are the three diferent emfs 
+generated 
+in 
+a 
+three-phase 
+AC 
+generator? 
+Show 
+the 
+graphical 
+representation of these three emfs.
+	15.	 Explain the construction and working 
+of transformer.
+	16.	 Mention the various energy losses in a 
+transformer.
+	17.	 Give the advantage of AC in long 
+distance power transmission with an 
+illustration.
+	18.	 Find out the phase relationship between 
+voltage and current in a pure inductive 
+circuit.
+	19.	 Derive an expression for phase angle 
+between the applied voltage and 
+current in a series RLC circuit.
+	20.	 Defne 
+inductive 
+and 
+capacitive 
+reactance. Give their units.
+	21.	 Obtain an expression for average power 
+of AC over a cycle. Discuss its special 
+cases.
+	22.	 Explain 
+the 
+generation 
+of 
+LC 
+oscillations in a circuit containing 
+an inductor of inductance L and a 
+capacitor of capacitance C.
+	23.	 Prove that the total energy is conserved 
+during LC oscillations.
+	24.	 Compare 
+the 
+electromagnetic 
+oscillations of LC circuit with the 
+mechanical oscillations of block-
+spring system qualitatively to fnd the 
+expression for angular frequency of LC 
+oscillator.
+IV.  Numerical problems
+	 1.	 A square coil of side 30 cm with 500 
+turns is kept in a uniform magnetic 
+feld of 0.4 T. Te plane of the coil is 
+inclined at an angle of 30o to the feld. 
+Calculate the magnetic fux through 
+the coil.
+(Ans: 9 Wb)
+	 2.	 A straight metal wire crosses a magnetic 
+feld of fux 4 mWb in a time 0.4 s. Find 
+the magnitude of the emf induced in 
+the wire.
+(Ans: 10 mV)
+	 3.	 Te magnetic fux passing through 
+a coil perpendicular to its plane is 
+a function of time and is given by 
+ΦB
+t
+t
+t
+=
++
++
++
+(
+)
+2
+4
+8
+8
+3
+2
+ Wb. 
+If 
+the 
+resistance of the coil is 5 Ω, determine 
+the induced current through the coil at 
+a time t = 3 second.
+(Ans: 17.2 A)
+	 4.	 A closely wound circular coil of radius 
+0.02 m is placed perpendicular to the 
+magnetic feld. When the magnetic feld 
+is changed from 8000 T to 2000 T in 
+6 s, an emf of 44 V is induced in it. 
+Calculate the number of turns in the coil. 
+(Take π = 22
+7 )
+(Ans: 35 turns)
+12th Physics_Vol-1_Unit 4_English Medium.indd   261
+12th Physics_Vol-1_Unit 4_English Medium.indd   261
+23-12-2022   17:59:27
+23-12-2022   17:59:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 262
+PDF_PAGE: 270
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+262
+	 5.	 A rectangular coil of area 6 cm2 having 
+3500 turns is kept in a uniform magnetic 
+feld of 0.4 T. Initially, the plane of the 
+coil is perpendicular to the feld and is 
+then rotated through an angle of 180o. 
+If the resistance of the coil is 35 Ω, fnd 
+the amount of charge fowing through 
+the coil.
+
+(Ans: 48 × 10–3 C)
+	 6.	 An induced current of 2.5 mA 
+fows through a single conductor of 
+resistance 100 Ω. Find out the rate at 
+which the magnetic fux is cut by the 
+conductor.
+
+(Ans: 250 mWbs–1)
+	 7.	 A fan of metal blades of length 0.4 m 
+rotates normal to a magnetic feld of 
+4 10 3
+×
+−T. If the induced emf between 
+the centre and edge of the blade is 
+0.02 V, determine the rate of rotation 
+of the blade.
+
+(Ans: 9.95 revolutions/second)
+	 8.	 A bicycle wheel with metal spokes of 
+1 m long rotates in Earth’s magnetic 
+feld. Te plane of the wheel is 
+perpendicular 
+to 
+the 
+horizontal 
+component of Earth’s feld of 4 10 5
+×
+−T.
+If the emf induced across the spokes is 
+31.4 mV, calculate the rate of revolution 
+of the wheel.
+
+(Ans: 250 revolutions/second)
+	 9.	 Determine the self-inductance of 4000 
+turn air-core solenoid of length 2m and 
+diameter 0.04 m.
+(Ans: 12.62 mH)
+	10.	 A coil of 200 turns carries a current of 
+4 A. If the magnetic fux through the coil 
+is 6 × 10–5 Wb, fnd the magnetic energy 
+stored in the medium surrounding the 
+coil.
+(Ans: 0.024 J)
+	11.	 A 50 cm long solenoid has 400 turns 
+per cm. Te diameter of the solenoid is 
+0.04 m. Find the magnetic fux linked 
+with each turn when it carries a current 
+of 1 A.
+
+(Ans: 0.63 × 10–4 Wb)
+	12.	 A coil of 200 turns carries a current of 
+0.4 A. If the magnetic fux of 4 mWb is 
+linked with each turn of the coil, fnd 
+the inductance of the coil. (Ans: 2H)
+	13.	 Two air core solenoids have the 
+same length of 80 cm and same 
+cross–sectional area 5 cm2. Find the 
+mutual inductance between them if the 
+number of turns in the frst coil is 1200 
+turns and that in the second coil is 400 
+turns.
+(Ans: 0.38 mH)
+	14.	 A long solenoid having 400 turns per 
+cm carries a current 2A. A 100 turn coil 
+of cross-sectional area 4 cm2 is placed 
+co-axially inside the solenoid so that 
+the coil is in the feld produced by the 
+solenoid. Find the emf induced in the 
+coil if the current through the solenoid 
+reverses its direction in 0.04 sec.
+
+(Ans: 0.20 V)
+	15.	 A 200 turn circular coil of radius 
+2 cm is placed co-axially within a long 
+solenoid of 3 cm radius. If the turn 
+density of the solenoid is 90 turns per 
+cm, then calculate mutual inductance 
+of the coil and the solenoid.
+
+(Ans: 2.84 mH)
+	16.	 Te solenoids S1 and S2 are wound on 
+an iron-core of relative permeability 
+900. Teir areas of their cross-section 
+and their lengths are the same and 
+are 4 cm2 and 0.04 m respectively. If 
+the number of turns in S1 is 200 and 
+12th Physics_Vol-1_Unit 4_English Medium.indd   262
+12th Physics_Vol-1_Unit 4_English Medium.indd   262
+23-12-2022   17:59:28
+23-12-2022   17:59:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 271
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+263
+that in S2 is 800, calculate the mutual 
+inductance between the solenoids. 
+If the current in solenoid 1 is increased 
+form 2A to 8A in 0.04 second, calculate 
+the induced emf in solenoid 2.
+
+(Ans: 1.81H; –271.5 V)
+	17.	 A step-down transformer connected to 
+main supply of 220 V is used to operate 
+11V,88W lamp. Calculate (i) Voltage 
+transformation ratio and (ii) Current 
+in the primary.
+
+(Ans: 1/20 and 0.4 A)
+	18.	 A 200V/120V step-down transformer 
+of 90% efciency is connected to an 
+induction stove of resistance 40 Ω. 
+Find the current drawn by the primary 
+of the transformer.
+
+(Ans: 2 A)
+	19.	 Te 300 turn primary of a transformer 
+has resistance 0.82 Ω and the resistance 
+of its secondary of 1200 turns is 6.2 Ω. 
+Find the voltage across the primary if 
+the power output from the secondary 
+at 1600V is 32 kW. Calculate the 
+power losses in both coils when the 
+transformer efciency is 80%.
+
+(Ans: 8.2 kW and 2.48 kW)
+20.	 Calculate the instantaneous value at 
+60o, average value and RMS value of an 
+alternating current whose peak value is 
+20 A. (Ans: 17.32A, 12.74A, 14.14A)
+V.  Conceptual Questions
+	 1.	 A graph between the magnitude of the 
+magnetic fux linked with a closed loop 
+and time is given in the fgure. Arrange 
+the regions of the graph in ascending 
+order of the magnitude of induced emf 
+in the loop.
+0
+time
+Magnetic ﬂux
+a
+b
+c
+d
+	 2.	 Using Lenz’s law, predict the direction 
+of induced current in conducting rings 
+1 and 2 when current in the wire is 
+steadily decreasing.
+1
+2
+	 3.	 A fexible metallic loop abcd in the 
+shape of a square is kept in a magnetic 
+feld with its plane perpendicular to the 
+feld. Te magnetic feld is directed into 
+the paper normally. Find the direction 
+of the induced current when the square 
+loop is crushed into an irregular shape 
+as shown in the fgure. 
+b
+b
+c
+a
+a
+d
+c
+d
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+12th Physics_Vol-1_Unit 4_English Medium.indd   263
+12th Physics_Vol-1_Unit 4_English Medium.indd   263
+23-12-2022   17:59:28
+23-12-2022   17:59:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 264
+PDF_PAGE: 272
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+264
+	 4.	 Predict the polarity of the capacitor in 
+a closed circular loop when two bar 
+magnets are moved as shown in the 
+fgure.
+A
+B
+N
+S
+N
+S
+	 5.	 In series LC circuit, the voltages across 
+L and C are 180° out of phase. Is it 
+correct? Explain.
+	 6.	 When does power factor of a series 
+RLC circuit become maximum?
+BOOK FOR REFERENCES
+	 1.	 H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawan publishers.
+	 2.	 Halliday, Resnick and Walker, Principles of Physics, Wiley publishers.
+	 3.	 D.C.Tayal, Electricity and Magnetism, Himalaya Publishing House.
+	 4.	 K.K.Tewari, Electricity and Magnetism with Electronics, S.Chand Publishers.
+	 5.	 B.L.Teraja and A.K.Teraja, A text book of Electrical Technology, Volume 1 and 2, 
+S.Chand publishers.
+12th Physics_Vol-1_Unit 4_English Medium.indd   264
+12th Physics_Vol-1_Unit 4_English Medium.indd   264
+23-12-2022   17:59:28
+23-12-2022   17:59:28
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 265
+PDF_PAGE: 273
+------------------------------------------------------------
+
+Unit 4  ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+265
+Electromagnetic induction and alternating current
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+In this activity you will be able to  
+(1) understand electromagnetic induction. 
+(2) verify Faraday’s laws in virtual lab.
+STEPS:
+• Open the browser and type “phet.colorado.edu” in the address bar. Click play with 
+simulation tab. Search Faraday’s electromagnetic lab in the search box.
+• Select ‘pick coil’ tab. Move the magnet through the coil. Note what happens when the 
+magnetic field linked with the coil changes. Change the loop area, flux change and observe 
+the intensity of current with the help of glowing bulb.
+• Select ‘Electromagnet’ tab, Change the current flowing through the coil and observe the 
+change in magnetic flux generated. 
+• Select ‘Generator’ tab. Observe induced emf in the coil if you change the angular velocity 
+of the coil.
+Topic: Faraday’s 
+electromagnetic lab
+Note:
+Install Java application if it is not in your system. You can download all the phet 
+simulation and works in off line from https://phet.colorado.edu/en/offline-access.
+URL:
+https://phet.colorado.edu/en/simulation/legacy/faraday
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+12th Physics_Vol-1_Unit 4_English Medium.indd   265
+12th Physics_Vol-1_Unit 4_English Medium.indd   265
+23-12-2022   17:59:29
+23-12-2022   17:59:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 266
+PDF_PAGE: 274
+------------------------------------------------------------
+
+U N I T
+5
+ELECTROMAGNETIC WAVES
+In this unit, the student is exposed to 
+•	 the displacement current 
+•	 Maxwell’s correction to Ampere's circuital law
+•	 Maxwell’s equation in integral form
+•	 production and properties of electromagnetic waves – Hertz’s experiment
+•	 sources of electromagnetic waves
+•	 electromagnetic spectrum
+“One scientific epoch ended and another began with James Clerk Maxwell”
+– Albert Einstein
+Learning Objectives
+Figure 5.1  Visible spectrum – rainbow 
+and lightning
+We see the world around us through 
+light. Light from the Sun is one of the sources 
+of energy without which human beings 
+cannot survive in this planet. Light plays 
+crucial role in understanding the structure 
+5.1
+INTRODUCTION
+and properties of various things from atom 
+to universe. Without light, even our eyes 
+cannot see objects. What is light?. This puzzle 
+made many physicists sleepless until middle 
+of 19th century. Earlier, many scientists 
+thought that optics and electromagnetism 
+are two different branches of physics. But 
+from the work of James Clerk Maxwell, who 
+actually enlightened the concept of light 
+from his theoretical prediction that light 
+is an electromagnetic wave which moves 
+with the speed equal to 3 × 108 ms–1 (in free 
+space or vacuum). Later, it was confirmed 
+that visible light is just only small portion 
+of electromagnetic spectrum, which ranges 
+from gamma rays to radio waves.
+In unit 4, we studied that time varying 
+magnetic 
+field 
+produces 
+an 
+electric 
+field (Faraday’s law of electromagnetic 
+induction). Maxwell strongly believed that 
+nature must possess symmetry and he asked 
+266
+12th Physics_Vol-1_Unit 5_English Medium.indd   266
+12th Physics_Vol-1_Unit 5_English Medium.indd   266
+24-12-2021   15:57:23
+24-12-2021   15:57:23
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 267
+PDF_PAGE: 275
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+267
+In today's digital world, cell phones 
+(Figure 5.2 (a)) have greater influence 
+in our day to day life. It is a faster and 
+more effective mode of transferring 
+information from one place to another. 
+It works on the basis that light is an 
+electromagnetic wave. In hospitals, the 
+location of bone fracture can be detected 
+using X-rays as shown in Figure 5.2 (b), 
+which is also an electromagnetic wave. 
+For cooking microwave oven is used. The 
+microwave is also an electromagnetic 
+wave. There are plenty of applications of 
+electromagnetic waves in engineering, 
+medicine (example LASER surgery, etc), 
+defence (example, RADAR signals) and 
+also in fundamental scientific research. 
+In this unit, basics of electromagnetic 
+waves are discussed.
+5.1.1  Displacement current 
+and Maxwell’s correction to 
+Ampere's circuital law
+Induced magnetic field
+Faraday’s 
+law 
+of 
+electromagnetic 
+induction states that the change in 
+magnetic field produces an electric field. 
+Mathematically, it is written as
+ 
+E dl
+d
+dt
+d
+dt
+B dA
+l
+B
+S
+−
+−
+=
+=
+∫
+∫
+Φ
+.
+.
+(5.1)
+ 
+Electric field
+induced along 
+a closed loop
+Variation of 
+magnetic flux 
+with time
+Changing magnetic 
+flux ΦB in the region 
+enclosed by the loop
+where ΦB is the magnetic flux and d
+dt
+ is 
+the total derivative with respect to time. 
+Equation (5.1) means that the electric field 
+
+E is induced along a closed loop by the 
+changing magnetic flux ΦB in the region 
+encircled by the loop. 
+the following question, “when the time 
+varying magnetic field produces an electric 
+field, why not the time varying electric field 
+produce a magnetic field?”
+Symmetry in nature
+Later he proved that it is indeed 
+true. In 1888, H. Hertz experimentally 
+verified 
+Maxwell’s 
+prediction 
+and 
+hence, this understanding resulted in 
+new technological invention, especially 
+in 
+wireless 
+communication, 
+LASER 
+(Light 
+Amplification 
+by 
+Stimulated 
+Emission 
+of 
+Radiation) 
+technology, 
+RADAR (Radio Detection And Ranging) 
+etc.
+Figure 5.2  (a) Cell phone tower and cell 
+phone (b) X-ray radiograph 
+(a)
+(b)
+12th Physics_Vol-1_Unit 5_English Medium.indd   267
+12th Physics_Vol-1_Unit 5_English Medium.indd   267
+24-12-2021   15:57:24
+24-12-2021   15:57:24
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 268
+PDF_PAGE: 276
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+268
+Ampere’s circuital law can be used to find 
+the magnetic field produced around the 
+current carrying wire.
+To calculate the magnetic field at a point 
+P near the wire and outside the capacitor, 
+let us draw a circular Amperian loop which 
+encloses the circular surface S1 (Figure 5.3). 
+Using Ampere’s circuital law for this loop, 
+we get  
+
+
+
+B dl
+iC
+⋅
+=
+∫
+µ0
+enclosing S1
+
+(5.3)
+where µo is the permeability of free space.
+Figure 5.4  Applying Ampere's circuital 
+law - loop enclosing surface S2 
+S2
+P
+iC
+iC
++
+–
+Amperian loop
+Now, the same loop is enclosed by 
+balloon shaped surface S2 such that 
+boundaries of two surfaces S1 and S2 are 
+same but the shape of the surfaces is 
+different (Figure 5.4). As Ampere’s law 
+applied for a given closed loop does not 
+depend on the shape of the enclosing 
+surface, the integrals should give the same 
+answer. But by applying Ampere’s circuital 
+law for the surface S2, we get
+
+
+
+B dl
+⋅
+=
+∫
+0
+enclosing S2
+
+(5.4)
+The right hand side of equation is zero 
+because the surface S2 nowhere touches 
+the wire carrying conduction current and 
+further, there is no current flowing between 
+From symmetry considerations, James 
+Clerk Maxwell showed that the change in 
+electric field also produces a magnetic field 
+which is given by
+B dl
+d
+dt
+d
+dt
+E dA
+l
+E
+S
+= −
+−
+=
+∫
+∫
+Φ
+.
+.
+ (5.2)
+ 
+Magnetic field 
+induced along 
+a closed loop
+Variation of 
+electric flux 
+with time
+Changing electric 
+flux ΦE in the region 
+enclosed by the loop
+where ΦE is the electric flux. This is known 
+as Maxwell’s law of induction which 
+explains that the magnetic field 
+
+B is induced 
+along a closed loop by the changing electric 
+flux ΦE in the region encircled by that 
+loop. This symmetry between electric and 
+magnetic fields explains the existence of 
+electromagnetic waves such as radio waves, 
+gamma rays, infrared rays etc.
+Displacement current − Maxwell’s 
+correction
+In order to understand how the 
+changing electric field induces magnetic 
+field, let us consider a situation of charging 
+a parallel plate capacitor which contains 
+non−conducting medium between the 
+plates.
+Let a time−dependent current ic, 
+called conduction current be passed 
+through the wire to charge the capacitor. 
+Figure 5.3  Applying Ampere's circuital 
+law - loop enclosing surface 
+S1
+iC
+iC
+P
+Amperian loop
++
+–
+12th Physics_Vol-1_Unit 5_English Medium.indd   268
+12th Physics_Vol-1_Unit 5_English Medium.indd   268
+24-12-2021   15:57:25
+24-12-2021   15:57:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 269
+PDF_PAGE: 277
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+269
+where 
+d
+dq = i
+dt
+ is known as displacement 
+current or Maxwell’s displacement current. 
+The displacement current can be defined 
+as the current which comes into play in the 
+region in which the electric field (or the 
+electric flux) is changing with time. In other 
+words, whenever the change in electric field 
+takes place, displacement current is produced. 
+Maxwell modified Ampere's law as 
+0
+0
+0
+0
+[
+]
+c
+d
+l
+E
+c
+0
+l
+B.dl =
+i =
+i +i
+d
+B.dl = 
+i +
+dt
+µ
+µ
+Φ
+µ
+µ
+∫
+∫
+
+
+
+
+e
+
+(5.6)
+where the total current enclosed by the surface 
+becomes the sum of conduction current and 
+displacement current. Therefore, =
++
+c
+d
+i
+i
+i . 
+The equation (5.6) is known as Ampere−
+Maxwell law. When the current in the 
+circuit is constant, the displacement current 
+is zero. 
+Between the plates, the conduction 
+current is zero while the displacement current 
+is non−zero. This displacement current or 
+time−varying electric field can also produce 
+a magnetic field between the plates of the 
+capacitor. The magnetic field at a point inside 
+the capacitor is perpendicular to the electric 
+field and is shown in Figure 5.6. This magnetic 
+field can be determined using equation (5.6). 
+the plates of the capacitor (gap between the 
+plates). So the magnetic field at a point P 
+is zero. Hence there is an inconsistency 
+between equations (5.3) and (5.4).
+Maxwell resolved this inconsistency 
+as follows: While the capacitor is being 
+charged up, varying electric field is 
+produced between capacitor plates. There 
+must be a current associated with the 
+changing electric field between capacitor 
+plates. In other words, time−varying 
+electric field (or time−varying electric 
+flux) produces a current. This is known as 
+displacement current flowing between the 
+plates of the capacitor (Figure 5.5). 
+Figure 5.5  Applying Gauss’s law between 
+the plates of the capacitor
+S2
+E
+→
+iC
+iC
+P
++
+–
+id
+From Gauss’s law of electrostatics, 
+the electric flux between the plates of the 
+capacitor is 
+ΦE
+S
+E dA
+EA
+q
+=
+⋅
+=
+=
+∫
+
+
+
+
+e 
+where A is the area of the plates of capacitor. 
+The change in electric flux is given by
+(
+)
+ or
+E
+o
+E
+o
+E
+d
+o
+d
+1 dq
+=
+      
+dt
+dt
+d
+dq =
+dt
+dt
+d
+i =
+      
+dt
+Φ
+Φ
+Φ
+e
+e
+e
+
+(5.5)
+Figure 5.6  Magnetic feld produced by 
+conduction and displacement currents
++
+–
+iC
+id
+iC
+E
+→
+B
+→
+B
+→
+B
+→
+12th Physics_Vol-1_Unit 5_English Medium.indd   269
+12th Physics_Vol-1_Unit 5_English Medium.indd   269
+24-12-2021   15:57:26
+24-12-2021   15:57:26
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 278
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+270
+EXAMPLE 5.1
+Consider a parallel plate capacitor which 
+is connected to an 230 V RMS value and 
+50 Hz frequency. If the separation distance 
+between the plates of the capacitor and 
+area of the plates are 1  mm and 20 cm2 
+respectively. Calculate the displacement 
+current at t = 1 s. 
+Solution
+Potential difference between the plates of 
+the capacitor, 
+    V = Vmax sin2pft 
+        = 230 2 sin(2p × 50t)
+∴
+=
+V
+t
+325
+100
+sin
+π
+d = 1 mm = 1 × 10–3 m
+A = 20 cm2 = 20 × 10–4 m2 
+Displacement current, i
+d
+dt
+d(EA)
+dt
+d
+E
+=
+= e
+
+Φ
+e
+
+ 
+∴
+=
+
+
+
+
+
+
+=
+
+
+
+
+
+
+=
+=
+i
+A
+d
+dV
+dt
+E
+V
+d
+A
+d
+t
+d
+e
+e
+0
+0
+325 100
+100
+
+(
+)(
+) cos
+π
+π
+8 85 10
+20 10
+325
+100
+3 14
+100
+1
+1
+12
+4
+.
+.
+cos(
+)
+×
+×
+×
+×
+×
+×
+×
+×
+
+
+
+
+
+
+−
+−
+π
+×
+(
+)
+=
+×
+× =
+−
+−
+10
+1 81 10
+100
+1
+1
+3
+6
+.
+[
+cos(
+)
+]
+A=1.81 A
+µ
+π
+
+5.1.2  Maxwell’s equations in 
+integral form
+Electrodynamics can be summarized in 
+four basic equations, known as Maxwell’s 
+equations. These equations are analogous 
+to Newton’s equations in mechanics. 
+Maxwell’s equations completely explain 
+the behaviour of charges, currents and 
+properties of electric and magnetic 
+fields. These equations can be written in 
+integral form (or integration form) or 
+derivative form (or differential form). The 
+Importance of Maxwell’s correction:
+Earth receives radiations from Sun and 
+other stars. These radiations travel through 
+empty space where there are no electric 
+charges and hence no electric current. 
+Ampere’s law says that only electric current 
+can produce a magnetic field. If Ampere’s law 
+alone is true, there will not be any radiation. 
+Maxwell’s correction term 
+E
+0
+0
+d
+dt
+µ
+Φ
+
+
+
+
+
+
+e
+in Ampere’s law ensures that time−varying 
+electric field or displacement current can 
+also produce a magnetic field. Though 
+conduction current is zero in an empty 
+space, displacement current does exist. So, 
+the equation (5.6) becomes
+E
+0
+d
+dt
+0
+l
+B.dl =
+Φ
+µ
+∫
+
+
+e
+In stars, due to thermal excitation 
+of atoms, time−varying electric field is 
+produced which in turn, produces time−
+varying magnetic field. According to 
+Faraday’s law, this time−varying magnetic 
+field produces again time−varying electric 
+field and so on. The coupled time−varying 
+electric and magnetic fields travel through 
+empty space with the speed of light and is 
+called electromagnetic wave. 
+Even though Maxwell initially started 
+with purely symmetry argument, his 
+correction term explains one of the important 
+aspects of the universe, namely the existence 
+of electromagnetic waves.
+Displacement current
+The name stuck because 
+Maxwell named it. The word 
+displacement is poorly chosen because 
+nothing is being displaced here.
+Note
+12th Physics_Vol-1_Unit 5_English Medium.indd   270
+12th Physics_Vol-1_Unit 5_English Medium.indd   270
+24-12-2021   15:57:27
+24-12-2021   15:57:27
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 271
+PDF_PAGE: 279
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+271
+Third equation
+It is Faraday’s law of electromagnetic 
+induction. This law relates electric field 
+with the changing magnetic flux which is 
+mathematically written as
+
+
+ E dl
+d
+dt
+l
+B
+⋅
+=−
+∫
+Φ
+(Faraday’s law)
+(5.9)
+where 
+
+E is the electric field. This 
+equation implies that the line integral of 
+the electric field around any closed path 
+is equal to the rate of change of magnetic 
+flux through the closed path bounded by 
+the surface. 
+Our modern technological revolution 
+is due to Faraday’s laws of electromagnetic 
+induction. 
+Fourth equation 
+It is modified Ampere’s circuital law. 
+This is also known as Ampere – Maxwell 
+law. This law relates the magnetic field 
+around any closed path to the conduction 
+current and displacement current through 
+that path. 
+ 
+  
+
+
+B dl
+i
+d
+dt
+E dA
+l
+C
+s
+.
+.
+∫
+∫
+=
++
+µ
+µ
+0
+0
+0e
+(Ampere-
+)
+Maxwell law
+
+(5.10)
+where 
+
+B is the magnetic field. This equation 
+shows that both conduction current and 
+displacement current produce magnetic field. 
+These four equations are known as 
+Maxwell’s equations in electrodynamics. 
+This 
+equation 
+ensures 
+the 
+existence 
+of electromagnetic waves. The entire 
+communication system in the world 
+depends on electromagnetic waves. In fact 
+our understanding of stars, galaxy, planets 
+etc come by analysing the electromagnetic 
+waves emitted by these astronomical objects.
+differential form of Maxwell’s equation 
+is beyond higher secondary level. So we 
+focus only the integral form of Maxwell’s 
+equations.
+First equation
+It is nothing but the Gauss’s law of 
+electricity. It relates the net electric flux to 
+net electric charge enclosed in a surface. 
+Mathematically, it is expressed as 
+
+
+
+ E dA
+Qenclosed
+s
+⋅
+=
+∫
+e
+(Gauss’slaw for electricity)
+
+(5.7)
+where 
+
+E is the electric field and Q enclosed 
+is the net charge enclosed by the surface S. 
+This equation is true for both discrete and 
+continuous distribution of charges. 
+It also indicates that the electric field 
+lines start from positive charge and 
+terminate at negative charge. This implies 
+that the electric field lines do not form a 
+continuous closed path. In other words, it 
+means that an isolated positive charge or 
+negative charge can exist.
+Second equation 
+This law is similar to Gauss’s law for 
+electricity. So this law can also be called 
+as Gauss’s law for magnetism. The surface 
+integral of magnetic field over a closed 
+surface is zero. Mathematically,
+
+
+ B dA
+s
+⋅
+=
+∫
+0
+(Gauss’s law for magnetism)(5.8)
+where 
+
+B is the magnetic field. 
+This equation implies that the magnetic 
+lines of force form a continuous closed path. 
+In other words, it means that no isolated 
+magnetic monopole exists.
+12th Physics_Vol-1_Unit 5_English Medium.indd   271
+12th Physics_Vol-1_Unit 5_English Medium.indd   271
+24-12-2021   15:57:29
+24-12-2021   15:57:29
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 280
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+272
+type — not completely closed) which is kept 
+at far distance. This implies that the energy 
+is transmitted from electrode to the receiver 
+(ring electrode) in the form of waves, known 
+as electromagnetic waves. 
+If the receiver is rotated by 90°, then 
+no spark is observed by the receiver. This 
+confirms that electromagnetic waves are 
+transverse waves as predicted by Maxwell. 
+Hertz detected radio waves and also 
+computed the speed of radio waves which is 
+equal to the speed of light (3 × 108 m s–1).
+LC oscillator circuit with 
+proper setup can be used to 
+generate radio waves whose 
+frequency is same as frequency of LC 
+oscillations f =
+
+
+
+
+
+
+1
+2π LC
+Hz .
+Note
+Properties of electromagnetic waves
+	 1.	 Electromagnetic waves are produced 
+by any accelerated charge.
+	 2.	 Electromagnetic waves do not require any 
+medium for propagation. So electromagnetic 
+wave is a non-mechanical wave. 
+	 3.	 Electromagnetic waves are transverse 
+in nature. The oscillating electric field 
+vector, oscillating magnetic field vector 
+and propagation vector (gives direction of 
+propagation) are mutually perpendicular to 
+5.2
+ELECTROMAGNETIC WAVES
+Electromagnetic 
+waves 
+are 
+non-
+mechanical waves which move with speed 
+equals to the speed of light (in vacuum). 
+It is a transverse wave. In the following 
+subsections, we discuss the production of 
+electromagnetic waves and its properties, 
+sources of electromagnetic waves and also 
+classification of electromagnetic spectrum. 
+5.2.1  Production and 
+properties of electromagnetic 
+waves 
+Production of electromagnetic waves - Hertz 
+experiment
+Maxwell’s prediction was experimentally 
+confirmed by Heinrich Rudolf Hertz in 
+1888. The experimental set up used is shown 
+in Figure 5.7 (b). 
+It consists of two metal electrodes which 
+are made of small spherical metals. These are 
+connected to larger spheres and the ends of 
+them are connected to induction coil with 
+very large number of turns. This is to produce 
+very high electromotive force (emf). 
+Since the coil is maintained at very high 
+potential, air between the electrodes gets 
+ionized and spark (spark means discharge 
+of electricity) is produced. This discharge 
+of electricity affects another electrode (ring 
+Figure 5.7  (a) Heinrich Rudolf Hertz      (b) Schematic diagram of Hertz apparatus
+Input
+Transmitter
+Receiver
+Induction
+coil
+q
+–q
++
+_
++
+_
+(a)
+(b)
+12th Physics_Vol-1_Unit 5_English Medium.indd   272
+12th Physics_Vol-1_Unit 5_English Medium.indd   272
+24-12-2021   15:57:30
+24-12-2021   15:57:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 281
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+273
+Figure 5.8  Electromagnetic waves – 
+transverse wave 
+E
+Direction of
+propagation
+
+B
+
+y
+x
+z
+each other. For example, if the electric and 
+magnetic fields are as shown in Figure 5.8, 
+then the direction of propagation will be 
+along x-direction. 
+	 4.	 Electromagnetic waves travel with speed 
+which is equal to the speed of light in vacuum 
+or free space, c =
+= ×
+−
+1
+3 10
+0
+0
+8
+e µ
+ms 1, where 
+eo is the permittivity of free space or vacuum 
+and µo is the permeability of free space or 
+vacuum (refer Unit 1 for permittivity and 
+Unit 3 for permeability).
+	 5.	 In a medium with permittivity ε and 
+permeability µ, the speed of electromagnetic 
+wave v is less than that in free space or 
+vacuum (v < c). 
+	 In a medium of refractive index, 
+ 
+n
+c
+n
+r
+r
+=
+=
+∴
+=
+v
+1
+1
+0
+0
+e
+e
+e
+µ
+µ
+µ
+ 
+	 where er is the relative permittivity of 
+the medium (also known as dielectric 
+constant) and µr is the relative permeability 
+of the medium. 
+	 6.	 Electromagnetic waves are not deflected 
+by electric field or magnetic field.
+	 7.	 Electromagnetic waves can exhibit 
+interference, diffraction and polarization. 
+	 8.	 Like other waves, electromagnetic 
+waves also carry energy, linear momentum 
+and angular momentum.
+	 9.	 If the electromagnetic wave incident on a 
+material surface is completely absorbed, then 
+the energy delivered is U and momentum 
+imparted on the surface is p
+U
+c
+=
+.
+	 10.	If the incident electromagnetic wave 
+of energy U is totally reflected from the 
+surface, then the momentum delivered to 
+the surface is ∆=
+−−
+
+
+
+
+
+=
+p
+U
+c
+U
+c
+U
+c
+2
+.
+•	 It is surprising to realize that EM waves have linear momentum and angular 
+momentum like particles. In the year 2018, Nobel prize in physics was awarded 
+for the invention of optical tweezers and production of high intense light pulses. 
+•	 Optical tweezer is nothing but a laser light, used to move micro sized particles or 
+molecules from one location to another location. It has a lot of applications in the medical 
+field. The bacteria and virus can alone be separated from regular tissue using this optical 
+tweezer and cancerous cells can be separated from normal healthy cells. The optical tweezer 
+utilizes  momentum property of EM waves.  
+•	 In fact, the comet has tail shape because the sun light impart large amount of linear 
+momentum which pushes the masses of the comet away from the sun.
+•	 Angular momentum of EM waves can be understood in simple way. Consider a setup of 
+oppositely-charged coaxial cylindrical shells and in between them a solenoid is kept. An AC current 
+is flowing through it and when the current in the solenoid is reduced to zero, then the inner and 
+outer cylindrical shells start to rotate in opposite directions. The rotation of these cylinders is due to 
+the impart of angular momentum from the electromagnetic field produced by the AC current.
+12th Physics_Vol-1_Unit 5_English Medium.indd   273
+12th Physics_Vol-1_Unit 5_English Medium.indd   273
+24-12-2021   15:57:31
+24-12-2021   15:57:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 274
+PDF_PAGE: 282
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+274
+particle accelerates, it produces magnetic 
+field in addition to electric field. Both 
+electric and magnetic fields are time 
+varying fields. Since the electromagnetic 
+waves are transverse waves, the direction 
+of propagation of electromagnetic waves 
+is perpendicular to the planes containing 
+electric and magnetic field vectors.
+Any oscillatory motion is also an 
+accelerated motion. So, when the charge 
+oscillates (oscillating molecular dipole) 
+about their mean position (Figure 5.9), it 
+produces electromagnetic waves. 
+Suppose the electromagnetic field in 
+free space propagates along z-direction 
+and if the electric field vector points along 
+x-axis, then the magnetic field vector will 
+be mutually perpendicular to both electric 
+field and the direction of wave propagation. 
+Thus 
+E
+E
+kz
+t
+x =
+−
+(
+)
+0 sin
+ω
+B
+B
+kz
+t
+y =
+−
+(
+)
+0 sin
+ω
+where Eo and Bo are amplitudes of oscillating 
+electric and magnetic field, k is a wave 
+number, ω is the angular frequency of the 
+EXAMPLE 5.2
+The 
+relative 
+magnetic 
+permeability 
+of the medium is 2.5 and the relative 
+electrical permittivity of the medium is 
+2.25. Compute the refractive index of the 
+medium. 
+Solution
+Dielectric constant (relative permittivity 
+of the medium), er = 2.25 
+Magnetic permeability, µr = 2.5 
+Refractive index of the medium, 
+n
+r
+r
+=
+=
+×
+=
+e µ
+2 25
+2 5
+2 37
+.
+.
+.
+5.2.2  Sources of 
+electromagnetic waves
+Any stationary charge produces only 
+electric field (refer Unit 1). When the 
+charge moves with uniform velocity, it 
+produces steady current which gives rise to 
+magnetic field (not time dependent, only 
+space dependent) around the conductor 
+in which charge flows. If the charged 
+Figure 5.9  Oscillating charges - sources of electromagnetic waves
+Propagation of an Electromagnetic Wave
+E
+
+B
+
+Source
+Direction of 
+propagation
+Electric
+ﬁeld
+vectors
+Magnetic
+ﬁeld
+vectors
+Discharging
+spark or
+oscillating
+molecular
+dipole
+z
+x
+y
+12th Physics_Vol-1_Unit 5_English Medium.indd   274
+12th Physics_Vol-1_Unit 5_English Medium.indd   274
+24-12-2021   15:57:32
+24-12-2021   15:57:32
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 283
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+275
+5.2.3  Electromagnetic 
+spectrum
+Figure 5.10  Electromagnetic spectrum - 
+Radio
+Microwave
+Wavelength
+Energy
+1 cm = 10,000,000 nanometers
+0.000000248
+5,000,000,000
+0.124
+2.48
+4.96
+2480
+2,480,000 electron volts
+10,000
+500
+250
+0.5
+0.0005
+nanometers
+Infrared
+Visible
+light
+UV
+X-Ray
+Gamma
+Electromagnetic spectrum is an orderly 
+distribution of electromagnetic waves in terms 
+of wavelength or frequency (Figure 5.10).
+Radio waves
+They are produced by accelerated 
+motion of charges in conducting wires. The 
+frequency range is from a few Hz to 109 Hz. 
+They show reflection and diffraction.
+They are used in radio and television 
+communication systems and also in cellular 
+phones to transmit voice communication 
+in the ultra high frequency band. 
+Microwaves
+It is produced by special vacuum tubes 
+such as klystron, magnetron and gunndiode. 
+The frequency range of microwaves is 109 Hz 
+to 1011 Hz.These waves undergo reflection 
+and can be polarised. 
+It is used in radar system for aircraft 
+navigation, speed of the vehicle, microwave 
+oven for cooking and very long distance 
+wireless communication through satellites.
+Infrared radiation
+It is produced by hot bodies (also 
+known as heat waves) and also by when 
+the molecules undergoing rotational and 
+vibrational transitions. The frequency range 
+is 1011 Hz to 4 × 1014 Hz. 
+It provides electrical energy to satellites 
+by means of solar cells. It is used to produce 
+wave and k (unit vector, here it is called 
+propagation vector) denotes the direction of 
+propagation of electromagnetic wave. 
+Note that both electric field and 
+magnetic field oscillate with a frequency 
+(frequency of electromagnetic wave) which 
+is equal to the frequency of the source 
+(here, oscillating charge is the source for 
+the production of electromagnetic waves). 
+In free space or in vacuum, the ratio 
+between Eo and Bo is equal to the speed of 
+electromagnetic wave and is equal to speed 
+of light c. 
+c
+E
+B
+=
+0
+0
+In any medium, the ratio of Eo and Bo is 
+equal to the speed of electromagnetic wave 
+in that medium. Thus 
+v =
+<
+E
+B
+c
+0
+0
+Further, the energy of electromagnetic 
+waves comes from the energy of the 
+oscillating charge. 
+EXAMPLE 5.3
+Compute the speed of the electromagnetic 
+wave in a medium if the amplitude of 
+electric and magnetic fields are 3 × 104 N C–1 
+and 2 × 10–4 T, respectively.
+Solution
+The amplitude of the electric field,  
+Eo = 3 × 104 N C–1
+The amplitude of the magnetic field, 
+Bo = 2 × 10–4 T. Therefore, speed of the 
+electromagnetic wave in that medium is 
+v =
+×
+×
+=
+×
+−
+−
+3 10
+2 10
+1 5 10
+4
+4
+8
+1
+.
+ms
+12th Physics_Vol-1_Unit 5_English Medium.indd   275
+12th Physics_Vol-1_Unit 5_English Medium.indd   275
+24-12-2021   15:57:33
+24-12-2021   15:57:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 276
+PDF_PAGE: 284
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+276
+It has less penetrating power. It can be 
+absorbed by atmospheric ozone and is harmful 
+to human body. It is used to destroy bacteria 
+in sterilizing the surgical instruments, burglar 
+alarm, to detect the invisible writing, finger 
+prints and also in the study of atomic structure. 
+X-rays
+It is produced when there is sudden 
+stopping of high speed electrons at high-
+atomic number target, and also by electronic 
+transitions among the innermost orbits of 
+atoms. The frequency range of X-rays is 
+from 1017 Hz to 1019 Hz. 
+X-rays have more penetrating power 
+than ultraviolet radiation. X-rays are used 
+extensively in studying structures of inner 
+atomic electron shells and crystal structures. 
+It is used in detecting fractures, diseased 
+organs, formation of bones and stones, 
+dehydrated fruits, in green houses to keep 
+the plants warm, heat therapy for muscular 
+pain or sprain, TV remote as a signal carrier, 
+to look through haze fog or mist and used in 
+night vision or infrared photography. 
+Visible light
+It is produced by incandescent bodies 
+and also it is radiated by excited atoms 
+in gases. The frequency range is from 
+4 × 1014 Hz to 8 × 1014 Hz. 
+It obeys the laws of reflection and refraction. 
+It undergoes interference, diffraction and can 
+be polarised. It exhibits photo-electric effect 
+also. It can be used to study the structure of 
+molecules, arrangement of electrons in external 
+shells of atoms. It causes sensation of vision. 
+Ultraviolet radiation
+It is produced by Sun, arc and ionized 
+gases. 
+Its 
+frequency 
+range 
+is 
+from 
+8 × 1014 Hz to 1017 Hz. 
+Measuring the speed of light using the microwave oven
+Nowadays the microwave oven is very commonly used to heat the food items. Micro waves 
+of wavelengths 1 mm to 30 cm are produced in these ovens. Such waves form the standing 
+waves between the interior walls of the oven. It is interesting to note that the speed of light 
+can be measured using micro wave oven.   
+(a)
+(b)
+             Hot
+             Hot
+             Hot
+             Hot
+             Hot
+H
+H
+H
+o
+Ho
+o
+             
+(c)
+(d)
+We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves 
+have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero 
+and at antinodes point, the amplitude is maximum. In other words, the maximal energy of 
+microwaves is located at antinode points. When we keep some food items like chappathi or 
+choclate (after removing the rotating platform) inside the oven, we can notice that at antinode 
+locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) 
+and (d). The distance between two successive burnt spots will give the half wavelength of 
+microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength 
+and frequency of microwaves, using the formula vλ = c, we can calculate the speed of light c.
+Activity
+12th Physics_Vol-1_Unit 5_English Medium.indd   276
+12th Physics_Vol-1_Unit 5_English Medium.indd   276
+24-12-2021   15:57:33
+24-12-2021   15:57:33
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 19
+PDF_PAGE: 285
+------------------------------------------------------------
+
+Unit 5  Electromagnetic waves
+277
+B =
+×
+(
+)
+×
+(
+)
+×
+(
+)
+=
+×
+−
+−
+−
+9 11 10
+1 54 10
+1 60 10
+8 7683 10
+31
+10
+19
+2
+.
+.
+.
+.
+T
+ B = 0.08768 T
+This magnetic field can be easily produced 
+with a permanent magnet. So, electromagnetic 
+waves of frequency 2450 MHz can be used 
+for heating and cooking food because they 
+are strongly absorbed by water molecules. 
+5.3
+TYPES OF SPECTRUM-  
+EMISSION AND 
+ABSORPTION SPECTRUM- 
+FRAUNHOFER LINES
+When an object burns, 
+it emits radiations. That is, 
+it emits electromagnetic 
+radiation which depends on 
+temperature. If the object 
+becomes hot, it glows in 
+red colour. If the temperature of the object is 
+further increased, then it glows in reddish-
+orange colour and becomes white when it is 
+hottest. The spectrum in Figure 5.11 usually 
+observing the progress of healing bones. 
+Further, in a finished metal product, it is 
+used to detect faults, cracks, flaws and holes. 
+Gamma rays
+It is produced by transitions of 
+radioactive nuclei and decay of certain 
+elementary 
+particles. 
+They 
+produce 
+chemical reactions on photographic plates, 
+fluorescence, ionisation, diffraction. The 
+frequency range is 1018 Hz and above. 
+Gamma rays have higher penetrating 
+power than X-rays and ultraviolet radiations; 
+it has no charge but harmful to human body. 
+Gamma rays provide information about the 
+structure of atomic nuclei. It is used in radio 
+therapy for the treatment of cancer and 
+tumour, in food industry to kill pathogenic 
+microorganism.
+EXAMPLE 5.4
+A magnetron in a microwave oven emits 
+electromagnetic waves (em waves) with 
+frequency f = 2450 MHz. What magnetic 
+field strength is required for electrons to 
+move in circular paths with this frequency?.
+Solution
+Frequency of the electromagnetic waves 
+given, f = 2450 MHz
+The corresponding angular frequency is 
+ω = 2πf = 2 × 3.14 × 2450 × 106 
+    = 15,386 × 106 Hz 
+    = 1.54 × 1010 s–1 
+The required magnetic field, B
+m
+q
+e
+=
+ω
+Mass of the electron, me = 9.11 × 10–31 kg 
+Charge of the electron, 
+ q
+q
+=−
+×
+⇒
+=
+×
+−
+−
+1 60 10
+1 60 10
+19
+19
+.
+.
+C
+C
+Figure 5.11  Black body radiation 
+spectrum – variation with temperature
+Intensity
+6000 K
+4000 K
+3000 K
+Infrared
+Ultraviolet
+Wavelength
+Bodies radiating at similar
+temperatures
+Surface of the sun ≈ 6000 K
+Carbon arc lamp ≈ 4000 K
+Lamp ﬁlament ≈ 3000 K
+12th Physics_Vol-1_Unit 5_English Medium.indd   277
+12th Physics_Vol-1_Unit 5_English Medium.indd   277
+24-12-2021   15:57:34
+24-12-2021   15:57:34
+www.freetnbooks.com
+www.FREETNBOOKS.com
+

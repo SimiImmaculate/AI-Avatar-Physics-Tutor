@@ -1,0 +1,4216 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XI Physics Volume I
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XI
+
+VOLUME:
+Volume I
+
+UNIT:
+Unit I – Nature of Physical World and Measurement
+
+TEXTBOOK_PAGE_RANGE:
+1–40
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 1
+------------------------------------------------------------
+
+GOVERNMENT OF TAMIL NADU
+PHYSICS
+VOLUME - I
+A publication under Free Textbook Programme of Government of Tamil Nadu
+Department of School Education
+HIGHER SECONDARY FIRST YEAR
+Untouchability is Inhuman and a Crime
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 2
+------------------------------------------------------------
+
+Government of Tamil Nadu
+First Edition - 2018
+Tamil NaduTextbook and Educational 
+Services Corporation
+www.text bookso
+nline.tn.nic. in
+State Council of Educational 
+Research and Training
+© SCERT 2018
+Printing & Publishing
+Content Creation
+II
+The wise
+possess all
+NOT FOR SALE
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 300
+PDF_PAGE: 3
+------------------------------------------------------------
+
+III
+CONTENTS
+E-book
+Assessment
+DIGI links
+UNIT I 
+Nature of Physical World and Measurement 
+01
+UNIT II  
+Kinematics 
+41
+UNIT III 
+Laws of motion 
+105
+UNIT IV 
+Work, Energy and Power 
+167
+UNIT V 
+ Motion of System of Particles and Rigid Bodies 
+208
+ 
+ Appendix 1 
+266
+ 
+ Appendix 2 
+290
+ 
+ Appendix 3 
+297
+ 
+ Appendix 4 
+298
+ 
+ Glossary 
+300
+PHYSICS
+Let’s use the QR code in the text books ! How ?
+• Download the QR code scanner from the Google PlayStore/ Apple App Store into your smartphone
+• Open the QR code scanner application
+• Once the scanner button in the application is clicked, camera opens and then bring it closer to the QR code in the text book. 
+• Once the camera detects the QR code, a url appears in the screen.Click the url and goto the content page.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 4
+PDF_PAGE: 4
+------------------------------------------------------------
+
+HOW TO USE THE BOOK
+IV
+Scope of Physics
+•  Awareness on higher learning -courses, institutions and required   
+competitive exams
+•  Financial assistance possible to help students to climb academic ladder
+ Learning Objectives:
+• Overview of the unit
+• Gives clarity on the goals and intention of the topics
+•  Additional facts related to the topics covered to facilitate 
+curiosity driven learning
+Example problems
+•  To ensure understanding, problems/illustrations are given at every stage 
+before advancing to next level
+• Visual representation of concepts with illustrations
+• Videos, animations, and tutorials
+Books for Reference 
+• List of relevant books for further reading
+Glossary
+• Scientifi c terms frequently used with their Tamil equivalents 
+Solved examples
+•  Numerical/conceptual questions are solved to enable students to tackle 
+standard problems in mechanics in appendix 1 
+Competitive 
+Exam corner 
+ •  Model Questions - To motivate students aspiring to take up competitive 
+examinations such as NEET, JEE, Physics Olympiad, JIPMER  etc
+Appendix 
+•  Additional information including the chronological development 
+of physics is provided
+ICT
+• To harness the digital skills to class room learning and experimenting 
+Summary
+• Recap of salient points of the lesson 
+Concept Map
+• Schematic outline of salient learning of the unit
+Evaluation
+•  Evaluate students’  understanding  and get them  acquainted with the 
+application of physical concepts  to numerical and conceptual questions 
+Physics learning - Correct method 
+•  Th e correct way to learn is to understand the concept, 
+express the same in the language of mathematics 
+which are equations. 
+•  Each equation conveys the meaning of a phenomena 
+or relationship between various parameters in the 
+equations. Such relationship can be diagrammatically 
+expressed as graphs. 
+•  Th is interlink should be clear in mind while going 
+through the entire text.  
+Value addition of the book
+•  Mathematical topics such as vectors, diff erentiation 
+and integration are essential to understand and express 
+physical phenomena. 
+•  Inclusion of these topics and usage of vector notation 
+wherever necessary is the salient feature of this book. 
+•  Becoming familiar with vector notations and basic 
+mathematics for physics will solve a lot of diffi  culty 
+currently faced by students pursuing higher education 
+in engineering, technology and science disciplines.  
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 5
+------------------------------------------------------------
+
+V
+Scope of Physics - Higher Education
+xB.Sc (Physics)
+xIntegrated M.Sc (Physics) (Central Universities)
+xIntegrated M.Sc (in Central Research Institutes through 
+NEST and KVPY with stipend)
+xB.Sc./B.S./B.Stat./B.Math./M.S. in Mathematics,
+   Chemistry and Biology. (KVPY)
+xB.E/B.Tech/ B.Arch (JEE, AIEEE in IITs and NITs)
+   MBBS/ B.D.S/B.Pharm (NEET, JIPMER, AIIMS )
+xB.Sc. (Agriculture) (ICAR -AIEEA)
+xDual Degree Program BS & MS
+   (JEE, JEST in IITs and IISERs)
+xB.Sc (Hospitality administration)
+xB.Sc (Optoectronics)
+xB.Sc (Optometry)
+xB.Tech (Optics and Optoelectronics)
+After  completing +2
+xJEE-Joint Entrance Examination
+xPhysics Olympiad Exam
+xNEET- National Eligibility and Entrance Test
+xNEST- National Entrance Screening Test
+xAIEEE- All India Engineering Entrance Exam
+xAIIMS- All India Institute of Medical Science (Entrance 
+Examination)
+xJIPMER- Jawaharlal institute of Postgraduate Medical 
+Education and Research (Entrance Examination)
+xKVPY- Kishore Vaigyanik Protsahan Yojana
+xJAM- Joint Admission Test
+xTIFR GS - Tata Institute of Fundamental Research  
+ 
+ 
+        Graduate School Admissions Examination
+xJEST- Joint Entrance Screening Test
+xNET- National Eligibility Test (CSIR and UGC)
+xGATE-Graduate Aptitude Test in Engineering
+xICAR -AIEEA-Indian Council of Agricultural Research 
+All India Entrance Examination
+Exams
+xM.Sc. (Physics) (In Central and State 
+   Universities and Colleges)
+xM.Sc. Physics (JAM in IISc ,IITs and NITs)
+xM.Sc. (In State and Central Universities)
+xMedical Physics
+xMaterials Science
+xEnergy
+xEarth Sciences
+xSpace science
+xOceanography 
+xRemote sensing 
+xElectronics
+xPhotonics
+xOptoelectronics
+xAcoustics
+xApplied electronics
+xAstronomy and Astrophysics 
+xNanoscience and Nanotechnology
+xBiostatistics 
+xBio informatics
+xVacuum sciences
+After completing 
+undergraduate course in Physics 
+(B.Sc Physics)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 6
+------------------------------------------------------------
+
+VI
+xIndian Forest Services
+xScientist Job in ISRO, DRDO, CSIR labs
+xUnion Public Service Commission
+xStaff selection commission
+xIndian Defence services etc.
+xPublic sector Bank
+xState PCS
+xGrade III & Compiler Post
+xTax Assistant
+xStatistical Investigator
+xCombined Higher Secondary
+xCombined Graduate Level Exam etc.
+Opportunities after B.Sc. Physics
+Jobs in Government Sector
+Scholarships for graduate and post 
+graduate courses
+xInternational Olympiad: for getting stipend for Higher 
+Education in Science and Mathematics 
+xDST – INSPIRE Scholarships (for UG and PG)
+xDST – INSPIRE Fellowships (for Ph.D)
+xUGC National Fellowship (for Ph.D)
+xIndira Gandhi Fellowship for Single girl child 
+(for UG and PG)
+xMoulana Azad Fellowship for minorities (for Ph.D)
+xIn addition various fellowships for SC/ST/PWD,
+   OBC etc are available.
+x Visit website of University Grants Commission 
+(UGC) and Department of Science and
+   Technology (DST)
+Financial assistance to
+pursue higher education
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 7
+PDF_PAGE: 7
+------------------------------------------------------------
+
+xQuantum Physics andQuantum Optics 
+xAstrophysics, Astronomy 
+xString theory, Quantum gravity
+xMathematical Physics, Statistical Mechanics 
+xQuantum Field Theory 
+xParticle Physics and Quantum Thermodynamics 
+xQuantum information theory
+xCondensed Matter Physics, Materials Science
+xElectro magnetic Theory 
+xBlack Holes, Cosmology
+xCrystal Growth, Crystallography
+xSpectroscopy, Atomic, Molecular and Optical Physics
+xNano Science and Nanotechnology 
+xEnergy and Environment Studies
+xBiophysics, Medical Physics
+xCryptography, Spintronics
+xOptics and Photonics 
+xMeteorology and Atmospheric Science
+After completing  
+Post Graduate course in 
+Physics (M.Sc Physics)
+Institutes in india to pursue research in physics
+Research Institutions in various areas of science
+Name of the Institution
+Website
+Indian Institute of Science (IISc) Bangalore
+www.iisc.ac.in
+Raman Research Institute (RRI) Bangalore
+www.rri.res.in
+Institute of Mathematical Sciences (IMSc) Chennai
+www.imsc.res.in
+Indian Association for Cultivation of Science (IACS) Calcutta
+www.iacs.res.in
+Chennai Mathematical Institute (CMI) Chennai
+www.cmi.ac.in
+Tata Institute of  Fundamental Research (TIFR) Mumbai
+www.tifr.res.in
+Bhaba Atomic Research centre (BARC) Mumbai
+www.barc.gov.in
+SN Bose centre Basic Natural science  Calcutta
+www.bose.res.in
+Indian Institute of Space Science and Technology  (IIST) Trivandrum
+www.iist.ac.in
+Physics Research Laboratory (PRL) Ahmedabad
+www.prl.res.in
+Indian Institute of Astrophysics (IIA) Bangalore
+www.iiap.res.in
+Institute of Physics (IOP) Bhubaneswar
+www.iopb.res.in
+Institute for Plasma Research (IPR) Gujarat
+www.ipr.res.in
+Inter university centre for Astronomy and Astrophysics  (IUCAA) Pune
+www.iucaa.in
+Indira Gandhi centre for Atomic  Research (IGCAR), Kalpakkam
+www.igcar.gov.in
+Hyderabad central university, Hyderabad
+www.uohyd.ac.in
+Delhi University, Delhi
+www.du.ac.in
+Mumbai University, Mumbai
+www.mu.ac.in
+SavithiribaiPhule Pune university, Pune
+www.unipune.ac.in
+National Institute of Science Education  and Research (NISER), Bhubaneshwar
+www.niser.ac.in
+IISER Educational Institutions
+www.iiseradmission.in
+Indian Institute of Technology in various places (IIT’s)
+www.iitm.ac.in
+National Institute of Technology (NITs) 
+www.nitt.edu
+Jawaharlal Nehru University (JNU)
+www.jnu.ac.in
+Central Universities
+www.ugc.ac.in
+State Universities  
+https://www.ugc.ac.in
+CSIR – Academy (National laboratories, Delhi, 
+Hyderabad, Trivandrum, Chennai, Calcutta etc) 
+Topics of Research
+VII
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 8
+------------------------------------------------------------
+
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 9
+------------------------------------------------------------
+
+1
+1.1
+LEARNING OBJECTIVES
+In this unit, the student is exposed to
+• excitement generated by the discoveries in Physics
+• an understanding of physical quantities of importance
+• diff erent system of units
+• an understanding of errors and corrections in physics measurements
+• the importance of signifi cant fi gures
+• usage of dimensions to check the homogeneity of physical quantities
+SCIENCE—
+I
+NTRODUCTION
+The word ‘science’ has its root in the Latin 
+verb scientia, meaning “to know”. In Tamil 
+language, 
+it 
+is 
+‘2Jà’ 
+(Ariviyal) 
+meaning ‘knowing the truth’. The human 
+mind is always curious to know and 
+understand different phenomena like the 
+bright celestial objects in nature, cyclic 
+changes in the seasons, occurrence of 
+rainbow, etc. The inquisitive mind looks for 
+meaningful patterns and relations in such 
+phenomena. Today’s modern science and 
+technology is an offshoot of the understanding 
+of nature. Science is the systematic 
+organization of knowledge gained through 
+observation, experimentation and logical 
+reasoning. The knowledge of science dealing 
+with non-living things is physical science 
+U N I T
+1
+NATURE OF PHYSICAL WORLD 
+AND MEASUREMENT
+“Science is a method for describing, creating and understanding human experience” – Bruce Lindsay
+(Physics and Chemistry), and that dealing 
+with living things is biological science 
+(Botany, Zoology etc.).
+Curiosity-driven observations of natural 
+happenings was the origin of science. 
+Th e word ‘science’ was coined only in 
+the 19th century. Natural philosophy was 
+the earlier name given to science, when 
+ancient civilization knew and practised 
+astronomy, chemistry, human physiology 
+and 
+agriculture. 
+Oral 
+communication 
+was the mode of conveying knowledge when 
+writing systems were not yet developed. 
+One 
+of 
+the 
+oldest 
+forerunners 
+of 
+scientifi c advancements, from astronomy to 
+medicine, were the Egyptians. Scientifi c and 
+mathematical excellence in India dates back 
+to prehistoric human activity in the Indus 
+Valley Civilization (3300 – 1300 BCE).
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 10
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+2
+1.2
+The 
+name 
+Physics 
+was 
+introduced 
+by 
+Aristotle in the year 
+350 BC
+PHYSICS - INTRODUCTION
+The word ‘physics’ is derived from the 
+Greek word “Fusis”, meaning nature. The 
+study of nature and natural phenomena 
+is dealt within physics. Hence physics 
+is considered as the most basic of all 
+sciences. 
+Unification and Reductionism are 
+the two approaches in studying physics. 
+Attempting to explain diverse physical 
+phenomena with a few concepts and laws 
+is unification. For example, Newton’s 
+universal law of gravitation (in unit  6) 
+explains the motion of freely falling bodies 
+towards the Earth, motion of planets around 
+the Sun, motion of the Moon around the 
+Earth, thus unifying the fundamental 
+forces of nature.
+An attempt to explain a macroscopic 
+system in terms of its microscopic 
+constituents is reductionism. For example, 
+thermodynamics (unit 8) was developed 
+to 
+explain 
+macroscopic 
+properties 
+like temperature, entropy, etc., of bulk 
+systems. The above properties have been 
+interpreted in terms of the molecular 
+constituents (microscopic) of the bulk 
+system by kinetic theory (unit 9) and 
+statistical mechanics. 
+1.1.1 7KH6FLHQWL¿F0HWKRG
+The scientific method is a step-by-step 
+approach in studying natural phenomena 
+and establishing laws which govern these 
+phenomena. Any scientific method involves 
+the following general features.
+ (i) Systematic observation
+ (ii) Controlled experimentation
+ (iii) Qualitative and quantitative reasoning
+ (iv) Mathematical modeling
+ (v) Prediction 
+and 
+verification 
+or 
+falsification of theories
+Example
+Consider a metalic rod being heated. When 
+one end of the rod is heated, heat is felt at 
+the other end. The following questions can 
+be asked on this observation
+ a) What happens within the rod when it 
+is heated?
+ b) How does the heat reach the other 
+end?
+ c) Is this effect true for all materials?
+ d) If heat flows through the material, is it 
+possible to visualize heat?
+The process of finding the answers to these 
+queries is scientific investigation. 
+The basic phenomenon of heat is 
+discussed in unit 8.
+According to part IV Article 51A (h) 
+of Indian Constitution “It shall be the 
+duty of every citizen of India to develop 
+scientific temper, humanism and spirit of 
+inquiry and reform’’. This is the aim of 
+our Science Education.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 11
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+3
+Some of the fundamental concepts of 
+basic areas of physics are discussed in higher 
+secondary first year physics books volume 1 
+and 2. Mechanics is covered in unit 1 to 6. 
+Unit 1 gives an idea of the development 
+of physics along with discussion on basic 
+elements such as measurement, units etc. 
+Unit 2 gives the basic mathematics needed 
+to express the impact of physical principles 
+and their governing laws. The impact of 
+forces acting on objects in terms of the 
+fundamental laws of motion of Newton are 
+very systematically covered in unit 3. Work 
+and energy which are the basic parameters 
+of investigation of the mechanical world 
+are presented in unit  4. Unit 5 deals with 
+the mechanics of rigid bodies (in contrast, 
+objects are viewed as point objects in units 
+1.2.1 %UDQFKHVRI3K\VLFV
+Physics as a fundamental science helps to 
+uncover the laws of nature. The language of its 
+expression is mathematics. In ancient times, 
+humans lived with nature – their lifestyles 
+were integrated with nature. They could 
+understand the signals from the movement 
+of the Stars and other celestial bodies. They 
+could determine the time to sow and reap 
+by watching the sky. Thus, astronomy and 
+mathematics were the first disciplines to be 
+developed. The chronological development 
+of various branches of physics is presented 
+in Appendix A1.1. The various branches 
+of physics are schematically shown in 
+figure  1.1. The essential focus of different 
+areas is given in Table 1.1. 
+Figure 1.1 Branches of Physics
+Classical
+Mechanics
+Thermodynamics &
+Kinetic Theory of Gases
+Optics
+Electricity & Magnetism
+Acoustics
+Astrophysics
+Relativity
+Statics
+Physics
+Modern
+Quantum Physics 
+Non-relativistic
+Relativistic
+Atomic Physics
+Nuclear Physics
+Molecular Physics
+High Energy
+Physics
+Condensed Matter
+Physics
+Kinematics
+Kinetics
+Dynamics
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 4
+PDF_PAGE: 12
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+4
+Table 1.1 Branches of Physics
+Classical Physics
+Refers to traditional physics that was recognized and 
+developed before the beginning of the 20th century
+Branch
+Major focus
+1.
+Classical mechanics
+The study of forces acting on bodies whether at rest or in 
+motion 
+2.
+Thermodynamics
+The study of the relationship between heat and other forms 
+of energy 
+3.
+Optics
+The study of light
+4.
+Electricity and 
+magnetism
+The study of electricity and magnetism and their mutual 
+relationship
+5.
+Acoustics
+The study of the production and propagation of sound waves
+6.
+Astrophysics
+The branch of physics which deals with the study of the 
+physics of astronomical bodies 
+7.
+Relativity
+One of the branches of theoretical physics which deals with 
+the relationship between space, time and energy particularly 
+with objects moving in different ways .
+Modern Physics
+Refers to the concepts in physics that have surfaced since 
+the beginning of the 20th century.
+1.
+*Quantum mechanics
+The study of the discrete nature of phenomena at the atomic 
+and subatomic levels 
+2.
+Atomic physics 
+The branch of physics which deals with the structure and 
+properties of the atom
+3.
+Nuclear physics
+The branch of physics which deals with the structure, 
+properties and reaction of the nuclei of atoms.
+4.
+Condensed matter 
+physics
+The study of the properties of condensed materials (solids, 
+liquids and those intermediate between them and dense 
+gas). It branches into various sub-divisions including 
+developing fields such as nano science, photonics etc. 
+It covers the basics of materials science, which aims at 
+developing new material with better properties for promising 
+applications.
+5.
+High energy physics
+The study of the nature of the particles.
+*Quantum mechanics is a broader approach; classical results can be reproduced in quantum mechanics also. 
+Detailed explanation is beyond the scope of this book.
+3 and 4). The basics of gravitation and 
+its consequences are discussed in unit 6. 
+Older branches of physics such as different 
+properties of matter are discussed in unit 7. 
+The impact of heat and investigations of its 
+consequences are covered in units 8 and 9. 
+Important features of oscillations and wave 
+motion are covered in units 10 and 11.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 13
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+5
+
+
+Range of masses: from heavenly bodies 
+to electron, 1055 kg (mass of known 
+observable universe) to 10−31 kg (mass 
+of an electron) [the actual mass of an 
+electron is 9.11×10–31 kg]. 
+The study of physics is not only educative 
+but also exciting in many  ways.
+
+
+A small number of basic concepts 
+and laws can explain diverse physical 
+phenomena.
+
+
+The most interesting part is the designing 
+of useful devices based on the physical 
+laws.
+For example i) use of robotics  
+ii) journey to Moon and to 
+nearby planets with controls from 
+the ground iii)  technological 
+advances in health sciences etc.
+
+
+Carrying 
+out 
+new 
+challenging 
+experiments to unfold the secrets of 
+nature and in verifying or falsifying the 
+existing theories.
+
+
+Probing and understanding the science 
+behind natural phenomena like the 
+eclipse, and why one feels the heat when 
+there is a fire? (or) What causes the 
+wind, etc.
+In today’s world of technological 
+advancement, the building block of all 
+engineering and technical education is 
+physics which is explained with the help of 
+mathematical tools. 
+1.2.2 6FRSHDQG([FLWHPHQW
+RI3K\VLFV
+Discoveries in physics are of two types; 
+accidental discoveries and well-analysed 
+research outcome in the laboratory based 
+on intuitive thinking and prediction. For 
+example, 
+magnetism 
+was 
+accidentally 
+observed but the reason for this strange 
+behavior of magnets was later analysed 
+theoretically. This analysis revealed the 
+underlying phenomena of magnetism. With 
+this knowledge, artificial magnets were 
+prepared in the laboratories. Theoretical 
+predictions 
+are 
+the 
+most 
+important 
+contribution of physics to the developments 
+in technology and medicine. For example, the 
+famous equation of Albert Einstein, E=mc2 
+was a theoretical prediction in 1905 and 
+experimentally proved in 1932 by Cockcroft 
+and Walton. Theoretical predictions aided 
+with recent simulation and computation 
+procedures are widely used to identify the 
+most suited materials for robust applications. 
+The pharmaceutical industry uses this 
+technique very effectively to design new 
+drugs. Bio compatible materials for organ 
+replacement are predicted using quantum 
+prescriptions of physics before fabrication. 
+Thus, experiments and theory work hand in 
+hand complimenting one another. 
+Physics has a huge scope as it covers a 
+tremendous range of magnitude of various 
+physical quantities (length, mass, time, 
+energy etc). It deals with systems of very large 
+magnitude as in astronomical phenomena 
+as well as those with very small magnitude 
+involving electrons and protons.
+
+
+Range of time scales: astronomical scales 
+to microscopic scales, 1018s to 10−22s.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 14
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+6
+1.3
+PHYSICS IN RELATION 
+TO TECHNOLOGY AND 
+SOCIETY
+Technology is the application of the 
+principles of physics for practical purposes. 
+The application of knowledge for practical 
+purposes in various fields to invent and 
+produce useful products or to solve 
+problems  is known as technology. Thus, 
+physics and technology can both together 
+impact our society directly or indirectly. For 
+example,
+ 
+i.  Basic 
+laws 
+of 
+electricity 
+and 
+magnetism led to the discovery of 
+wireless communication technology 
+which has shrunk the world with 
+effective communication over large 
+distances. 
+ ii.  The launching of satellite into space 
+has revolutionized the concept of 
+communication.
+ iii.  Microelectronics, lasers, computers, 
+superconductivity and nuclear energy 
+have comprehensively changed the 
+thinking and living style of human 
+beings.
+Physics being a fundamental science has 
+played a vital role in the development of all 
+other sciences. A few examples:
+1. Physics in relation to Chemistry: In 
+physics, we study the structure of atom, 
+radioactivity, X-ray diffraction etc. 
+Such studies have enabled researchers 
+in chemistry to arrange elements in the 
+periodic table on the basis of their atomic 
+numbers. This has further helped to 
+know the nature of valence and chemical 
+bonding and to understand the complex 
+chemical structures. Inter-disciplinary 
+branches like Physical chemistry and 
+Quantum chemistry play important 
+roles here.
+2. Physics 
+in 
+relation 
+to 
+biology: 
+Biological 
+studies 
+are 
+impossible 
+without a microscope designed using 
+physics principles. The invention of 
+the electron microscope has made it 
+possible to see even the structure of 
+a cell. X-ray and neutron diffraction 
+techniques 
+have 
+helped 
+us 
+to 
+understand the structure of nucleic 
+acids, which help to control vital 
+life processes. X-rays are used for 
+diagnostic purposes. Radio-isotopes 
+are used in radiotherapy for the cure 
+of cancer and other diseases. In recent 
+years, biological processes are being 
+studied from the physics point of view.
+3. Physics in relation to mathematics: 
+Physics is a quantitative science. It is 
+most closely related to mathematics as a 
+tool for its development. 
+4. Physics in relation to astronomy: 
+Astronomical telescopes are used to 
+study the motion of planets and other 
+heavenly bodies in the sky. Radio 
+telescopes have enabled the astronomers 
+to observe distant points of the universe. 
+Studies of the universe are done using 
+physical principles.
+5. Physics 
+in 
+relation 
+to 
+geology: 
+Diffraction techniques helps to study 
+the crystal structure of various rocks. 
+Radioactivity is used to estimate the age 
+of rocks, fossils and the age of the Earth. 
+6. Physics in relation to oceanography: 
+Oceanographers seek to understand the 
+physical and chemical processes of the 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 7
+PDF_PAGE: 15
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+7
+The comparison of any physical quantity 
+with  its standard unit is known as 
+measurement.
+Measurement is the basis of all 
+scientific studies and experimentation. 
+It plays an important role in our daily 
+life. Physics is a quantitative science 
+and physicists always deal with numbers 
+which are the measurement of physical 
+quantities. 
+1.4.1 'H¿QLWLRQRI3K\VLFDO
+4XDQWLW\
+Quantities that can be measured, and 
+in terms of which, laws of physics are 
+described are called physical quantities. 
+Examples are length, mass, time, force, 
+energy, etc.
+1.4.2 7\SHVRI3K\VLFDO
+Quantities
+Physical quantities are classified into two 
+types. They are fundamental and derived 
+quantities. 
+Fundamental or base quantities are 
+quantities which cannot be expressed in 
+terms of any other physical quantities. These 
+are length, mass, time, electric current, 
+temperature, 
+luminous 
+intensity 
+and 
+amount of substance. 
+Quantities that can be expressed in terms 
+of fundamental quantities are called derived 
+quantities. For example, area, volume, 
+velocity, acceleration, force.
+1.4
+oceans. They measure parameters such 
+as temperature, salinity, current speed, 
+gas fluxes, chemical components. 
+7. Physics in relation to psychology: All 
+psychological interactions can be derived 
+from a physical process. The movements 
+of neurotransmitters are governed by 
+the physical properties of diffusion and 
+molecular motion. The functioning of our 
+brain is related to our underlying dualism.
+Nature teaches true science with physics 
+as an efficient tool. Science and technology 
+should be used in a balanced manner 
+so that they do not become weapons to 
+destroy nature which taught us science. 
+Global warming and other negative impacts 
+of technology need to be checked. Safe 
+science with moderate and appropriate use 
+of technology is the need of this century.
+The scope and opportunities for higher 
+education in physics and various fellowships 
+offered is given in the beginning of the book.
+0($685(0(17
+“When you can measure what you are 
+speaking about and can express it in 
+numbers, you know something about 
+it; but when you cannot express it in 
+numbers, your knowledge is of a meager 
+and unsatisfactory kind”  - Lord Kelvin
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 16
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+8
+and second as the three basic units 
+for measuring length, mass and time 
+respectively. 
+ (c) The m.k.s system is based on metre, 
+kilogram and second as the three basic 
+units for measuring length, mass and 
+time respectively. 
+The cgs, mks and SI 
+are metric or decimal 
+system of units. The 
+fps system is not a 
+metric system.
+1.4.5 6,XQLW6\VWHP
+The system of units used by scientists 
+and engineers around the world is 
+commonly called the metric system 
+but, since 1960, it has been known 
+officially as the International System, 
+or SI (the abbreviation for its French 
+name, Système International). The SI 
+with a standard scheme of symbols, units 
+and abbreviations, were developed and 
+recommended by the General Conference 
+on Weights and Measures in 1971 for 
+international usage in scientific, technical, 
+industrial and commercial work. The 
+advantages of the SI system are,
+ i) This system makes use of only one unit 
+for one physical quantity, which means 
+a rational system of units
+ ii) In this system, all the derived units 
+can be easily obtained from basic and 
+supplementary units, which means it is 
+a coherent system of units.
+1.4.3 'H¿QLWLRQRI8QLWDQG
+LWV7\SHV
+The process of measurement is basically 
+a process of comparison. To measure 
+a quantity, we always compare it with 
+some  reference  standard. For example, 
+when we state that a rope is 10 meter long, 
+it is to say that it is 10 times as long as an 
+object whose length is defined as 1 metre. 
+Such a standard is known as the unit of the 
+quantity. Here 1 metre is the unit of the 
+quantity ‘length’.
+An 
+arbitrarily 
+chosen 
+standard 
+of 
+measurement of a quantity, which is accepted 
+internationally is called unit of the quantity. 
+The units in which the fundamental 
+quantities 
+are 
+measured 
+are 
+called 
+fundamental or base units and the units 
+of measurement of all other physical 
+quantities, which can be obtained by a 
+suitable multiplication or division of powers 
+of fundamental units, are called derived 
+units.
+1.4.4 'LIIHUHQWW\SHVRI
+0HDVXUHPHQW6\VWHPV
+A complete set of units which is used to 
+measure all kinds of fundamental and 
+derived quantities is called a system of units. 
+Here are the common system of units used 
+in mechanics:
+ (a) the f.p.s. system is the British 
+Engineering system of units, which uses 
+foot, pound and second as the three 
+basic units for measuring length, mass 
+and time respectively. 
+ (b) The c.g.s system is the Gaussian 
+system, which uses centimeter, gram 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 17
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+9
+FPO
+ iii) It is a metric system which means that 
+multiples and submultiples can be 
+expressed as powers of 10. 
+In SI, there are seven fundamental units as 
+given in Table 1.2
+Table 1.2 SI Base Quantities and Units
+Base 
+Quantity
+SI Units
+Unit
+Symbol
+Definition
+Length
+metre
+m
+One metre is the length of the path travelled by light in 
+vacuum in 1/299,792,458 of a second (1983)
+Mass
+kilogram
+kg
+One kilogram is the mass of the prototype cylinder 
+of platinum iridium alloy (whose height is equal to 
+its diameter), preserved at the International Bureau of 
+Weights and Measures at Serves, near Paris, France. (1901)
+Time
+second
+s
+One second is the duration of 9,192,631,770 periods of 
+radiation corresponding to the transition between the 
+two hyperfine levels of the ground state of Cesium-133 
+atom.(1967)
+Electric 
+current
+ampere
+A
+One ampere is the constant current, which when 
+maintained in each of the two straight parallel conductors 
+of infinite length and negligible cross section, held one 
+metre apart in vacuum shall produce a force per unit 
+length of 2 × 10−7 N/m between them. (1948)
+Temperature
+kelvin
+K
+One kelvin is the fraction of  
+1
+273 16
+.
+⎛
+⎝⎜
+⎞
+⎠⎟ of the 
+thermodynamic temperature of the triple point* of 
+the water. (1967)
+Amount of 
+substance
+mole
+mol
+One mole is the amount of substance which contains as 
+many elementary entities as there are atoms in 0.012 kg 
+of pure carbon-12. (1971)
+Luminous 
+intensity
+candela
+cd
+One candela is the luminous intensity in a given direction, 
+of a source that emits monochromatic radiation of 
+frequency 5.4 × 1014 Hz and that has a radiant intensity 
+of 1
+683 watt/steradian in that direction. (1979)
+*  Triple point of water is the temperature at which saturated vapour, pure and melting ice 
+are all in equilibrium. The triple point temperature of water is 273.16K
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 10
+PDF_PAGE: 18
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+10
+Table 1.3 Derived Quantities and their Units
+Physical quantity
+Expression
+Unit
+Plane angle
+arc / radius
+rad
+Solid angle
+surface area/radius2
+sr
+Area
+length × breadth
+m2
+Volume
+area × height
+m3
+Velocity
+displacement / time
+m s−1
+Acceleration
+velocity / time
+m s−2
+Angular velocity
+angular displacement / time
+rad s−1
+Angular acceleration
+angular velocity / time
+rad s−2
+Density
+mass / volume
+kg m−3
+Linear momentum
+mass × velocity
+kg m s−1
+Moment of inertia
+mass × (distance)2
+kg m2
+Force
+mass × acceleration 
+kg m s−2 or N
+Pressure
+force / area
+N m−2 or Pa
+Energy (work)
+force × distance
+N m or J
+Power
+Work / time
+J s−1 or watt
+Impulse
+force × time
+N s
+Surface tension
+force / length
+N m−1
+Moment of force (torque)
+force × distance
+N m
+Electric charge
+current × time
+A s or C
+Current density
+current / area
+A m−2
+Magnetic induction
+force / (current × length)
+N A−1 m−1 or tesla
+Force constant
+force / displacement
+N m–1
+Plank’s constant
+energy of photon / frequency
+J s
+Specific heat (S)
+heat energy / mass × temp
+J kg–1 K–1
+Boltzmann constant (k)
+energy/temperature 
+J K–1
+Table 1.3 lists some of the derived quantities and their units.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 19
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+11
+1.5
+in  which both objects and distances 
+are large. On the contrary, objects like 
+molecules, 
+atoms, 
+proton, 
+neutron, 
+electron, bacteria etc., and their distances 
+constitute microcosm, which means a 
+small world in which both objects and 
+distances are small-sized. 
+Distances ranging from 10−5 m to 102 m 
+can be measured by direct methods. 
+For  example, a metre scale can be used 
+to measure the distance from 10−3 m to 1 
+m, vernier calipers up to 10−4 m, a screw 
+gauge up to 10−5 m and so on. The atomic 
+and astronomical distances cannot be 
+measured by any of the above mentioned 
+direct methods. Hence, to measure the 
+very small and the very large distances, 
+indirect methods have to be devised  and 
+used. In Table 1.4, a list of powers of 10 
+(both positive and negative powers) is 
+given. Prefixes for each power are also 
+mentioned. These prefixes are used along 
+with units of length, and of mass. 
+The supplementary 
+quantities of plane and 
+solid angle was converted 
+into Derived quantities in 
+1995 (GCWM)
+The Radian (rad): One radian is the angle 
+subtended at the centre of a circle by an arc 
+equal in length to the radius of the circle.
+The Steradian (sr): One steradian is 
+the solid angle subtended at the centre 
+of a sphere, by that surface of the 
+sphere, which is equal in area, to the 
+square of radius of the sphere
+Note:
+π radian = 180°  
+1 radian 
+ 
+
+180
+180
+7
+22
+57 27
+
+.
+
+Also, 1° (degree of arc) = 60′ (minute 
+of arc) and 1′ (minute of arc) = 60″ 
+(seconds of arc)
+0($685(0(172)%$6,&
+QUANTITIES
+1.5.1 0HDVXUHPHQWRI 
+length
+The concept of length in physics is related 
+to the concept of distance in everyday life. 
+Length is defined as the distance between 
+any two points in space. The SI unit of 
+length is metre. The objects of our interest 
+vary widely in sizes. For example, large 
+objects like the galaxy, stars, Sun, Earth, 
+Moon etc., and their distances constitute 
+a macrocosm. It refers to a large world, 
+ZĞůĂƟŽŶƐďĞƚǁĞĞŶƌĂĚŝĂŶ͕ ĚĞŐƌĞĞĂŶĚ
+ŵŝŶƵƚĞƐ͗
+1° = π
+180 rad = 1.745 × 10-2 rad
+
+
+
+
+≈
+
+
+
+1΄
+1
+60
+1 745
+10
+60
+2 908
+10
+2 91 10
+2
+4
+4
+
+.
+.
+.
+rad
+rad
+×
+
+
+ 
+
+
+
+
+
+
+1΄΄
+1
+3600
+1 745
+10
+3600
+	
+4.85 
+10-6 rad 
+4 847
+10
+2
+6
+
+.
+.
+rad
+×
+
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 10
+PDF_PAGE: 20
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+12
+the circular motion of a screw. The least 
+count of the screw gauge is 0.01 mm
+Vernier caliper: A vernier caliper is a 
+versatile instrument for measuring 
+the dimensions of an object namely 
+diameter of a hole, or a depth of a 
+hole.  The least count of the vernier 
+caliper is 0.1 mm
+Table 1.4 Prefixes for Powers of Ten
+Multiple
+Prefix
+Symbol
+Sub multiple
+Prefix
+Symbol
+101
+deca
+da
+10−1
+deci
+d
+102
+hecto
+h
+10−2
+centi
+c
+103
+kilo
+k
+10−3
+milli
+m
+106
+mega
+M
+10−6
+micro
+μ
+109
+giga
+G
+10−9
+nano
+n
+1012
+tera
+T
+10−12
+pico
+p
+1015
+peta
+P
+10−15
+femto
+f
+1018
+exa
+E
+10−18
+atto
+a
+1021
+zetta
+Z
+10−21
+zepto
+z
+1024
+yotta
+Y
+10−24
+yocto
+y
+ i)  Measurement of small distances: 
+screw gauge and vernier caliper
+Screw gauge: The screw gauge is 
+an instrument used for measuring 
+accurately the dimensions of objects 
+up to a maximum of about 50 mm. 
+The principle of the instrument is the 
+magnification of linear motion using 
+Figure 1.2 Screw gauge and vernier caliper with errors
+0
+0
+5
+10
+15
+20
+25
+0
+0
+5
+15
+20
+(a) No error
+(b) +ve error
+(c) - ve error
+(d) screw gauge reading
+A model reading 
+PSR =  6 mm ;  HSC=40 divisions; 
+Reading = [6mm+(40x0.01mm)]=6.40mm
+(d) Vernier reading
+A model reading
+MSR = 2.2 cm ; VSC = 4 divisions;
+Reading = [2.2 cm+(4x0.01cm)] = 2.24 cm
+Vernier Caliper
+Screw Gauge
+10
+5
+0
+0
+(b) +ve error
+0
+1
+0
+5
+10
+(c) - ve error
+0
+1
+0
+5
+10
+0
+5
+10
+0
+1
+0
+5
+10
+(a) No error
+Main Scale
+Vernier Scale
+5
+0
+95
+0
+95
+90
+Pitch Scale
+45
+40
+35
+0
+5
+0
+95
+10
+5
+0
+0
+1
+2
+3
+4
+0
+5
+10
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 13
+PDF_PAGE: 21
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+13
+ ii) Measurement of large distances
+ 
+For measuring larger distances such as 
+the height of a tree, distance of the Moon 
+or a planet from the Earth, some special 
+methods are adopted. Triangulation 
+method, parallax method and radar 
+method are used to determine very 
+large distances. 
+Triangulation method for the height of an 
+accessible object
+Let AB = h be the height of the tree or 
+tower to be measured. Let C be the point 
+of observation at distance x from B. Place a 
+range finder at C and measure the angle of 
+elevation, ∠ACB = θ as shown in Figure 1.3.
+From right angled triangle ABC, 
+tanθ =
+=
+AB
+BC
+h
+x
+(or)
+height h = x tan θ
+Knowing the distance x, the height h can 
+be determined.
+Figure 1.3 Triangulation method
+h
+A
+B
+x
+C
+θ
+(;$03/(
+From a point on the ground, the top of a 
+tree is seen to have an angle of elevation 
+60°. The distance between the tree and a 
+point is 50 m. Calculate the height of the 
+tree?
+Solution
+Angle θ = 60°
+The distance between the tree and a point 
+x = 50 m
+Height of the tree (h) = ?
+For triangulation method tan θ = h
+x
+ 
+h = x tan θ 
+ 
+= 50 × tan 60°
+ 
+= 50 × 1.732
+ 
+h = 86.6 m
+The height of the tree is 86.6 m.
+Parallax method
+Very large distances, such as the distance 
+of a planet or a star from the Earth can be 
+measured by the parallax method. Parallax 
+is the name given to the apparent change 
+in the position of an object with respect to 
+the background, when the object is seen 
+from two different positions. The distance 
+between the two positions (i.e., points of 
+observation) is called the basis (b). For 
+example, consider Figure 1.4., an observer 
+is specified by the position O. The observer 
+is holding a pen before him, against the 
+background of a wall. When the pen is 
+Range and order of lengths of various 
+objects are listed in Table 1.5
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 14
+PDF_PAGE: 22
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+14
+looked at first by our left eye L (closing 
+the right eye) and then by our right eye 
+R (closing the left eye), the position of 
+the pen changes with respect to the back 
+ground of the wall. The shift in the position 
+of an object (say, a pen) when viewed with 
+two eyes, keeping one eye closed at a time 
+is known as Parallax. The distance between 
+the left eye (L) and the right eye (R) in this 
+case is the basis.
+∠LOR is called the parallax angle or 
+parallactic angle. 
+Taking LR as an arc of length b and 
+radius LO = RO = x 
+we get q = b
+x; b-basis, x-unknown 
+distance
+Knowing ‘b’ and measuring θ, we can 
+calculate x.
+Figure 1.4 Parallax 
+method
+L
+R
+b
+x
+x
+θ
+O
+Determination of distance of Moon 
+from Earth
+In Figure 1.5, C is the centre of the Earth. 
+A and B are two diametrically opposite 
+places on the surface of the Earth. From A 
+and B, the parallaxes θ1 and θ2 respectively 
+of Moon M with respect to some distant 
+star are determined with the help of an 
+astronomical telescope. Thus, the total 
+parallax of the Moon subtended on Earth 
+∠AMB = θ1 + θ2 = θ.
+If θ is measured in radians, then 
+θ = AB
+AM ; AM≈MC
+θ
+θ
+=
+=
+AB
+MC
+MC
+AB
+or
+; Knowing the 
+values of AB and θ, 
+we can calculate the distance MC of 
+Moon from the Earth.
+Figure 1.5 Parallax 
+method determination of 
+distance of Moon from 
+Earth
+M
+S1
+S2
+A
+B
+θ
+θ1
+θ2
+C
+(;$03/(
+The Moon subtends an angle of 1° 55c at 
+the base line equal to the diameter of the  
+Earth. What is the distance of the 
+Moon from the Earth? (Radius of the Earth 
+is 6.4 × 106m)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 23
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+15
+to get the actual distance of the object. This 
+method can also be used to determine the 
+height, at which an aeroplane flies from the 
+ground.
+Figure 1.6 RADAR method
+(;$03/(
+A RADAR signal is beamed towards a 
+planet and its echo is received 7 minutes 
+later. If the distance between the planet 
+and the Earth is 6.3 × 1010 m. Calculate the 
+speed of the signal?
+Solution
+The distance of the planet from the Earth 
+d = 6.3 × 1010 m
+ 
+Time t = 7 minutes = 7 × 60 s.
+ 
+the speed of signal v = ?
+The speed of signal
+ 
+v
+d
+t
+ms
+=
+=
+×
+×
+×
+=
+×
+−
+2
+2
+6 3
+10
+7
+60
+3
+10
+10
+8
+1
+.
+Solution
+angle θ = 1° 55c c
+ × ˝ × (×) rad
+ × 10−2 rad
+since 1˝   4.85 × 10 rad
+Radius of the Earth  = 6.4 × 106m
+From the Figure 1.5 AB is the diameter of 
+the Earth (b)= 2 × 6.4 × 106m Distance of 
+the Moon from the Earth x = ?
+ 
+x = b
+θ =
+×
+×
+×
+−
+2
+6 4
+10
+3 34
+10
+6
+2
+.
+.
+
+x   3.83 × 108m
+RADAR method 
+The word RADAR stands for radio 
+detection and ranging. A radar can be used 
+to measure accurately the distance of a 
+nearby planet such as Mars. In this method, 
+radio waves are sent from transmitters 
+which, after reflection from the planet, are 
+detected by the receiver. By measuring, 
+the time interval (t) between the instants 
+the radio waves are sent and received, the 
+distance of the planet can be determined as
+Speed = distance travelled / time taken
+(Speed is explained in unit 2)
+Distance(d) = Speed of radio  
+waves × time taken 
+d
+v
+t
+=
+×
+2
+where v is the speed of the radio wave. 
+As the time taken (t) is for the distance 
+covered during the forward and backward 
+path of the radio waves, it is divided by 2 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 102
+PDF_PAGE: 24
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+16
+Table 1.5 Range and Order of Lengths
+Size of objects and distances
+Length (m)
+Distance to the boundary of observable 
+universe
+1026
+Distance to the Andromeda galaxy
+1022
+Size of our galaxy
+1021
+Distance from Earth to the nearest star 
+(other than the Sun)
+1016
+Average radius of Pluto’s orbit
+1012
+Distance of the Sun from the Earth
+1011
+Distance of Moon from the Earth
+108
+Radius of the Earth
+107
+Height of the Mount Everest above sea level
+104
+Length of a football field
+102
+Thickness of a paper
+10−4
+Diameter of a red blood cell
+10−5
+Wavelength of light
+10−7
+Length of typical virus
+10−8
+Diameter of the hydrogen atom
+10−10
+Size of atomic nucleus
+10−14
+Diameter of a proton
+10−15
+Some Common Practical 
+Units
+ (i) Fermi = 1 fm = 10−15 m
+ (ii) 1 angstrom = 1 Å = 10−10 m
+ (iii) 1 nanometer = 1 nm = 10−9 m
+ (iv) 1 micron = 1μm = 10−6 m
+ (v) 1 Light year (Distance 
+travelled by light in vacuum 
+in one year) 1 Light Year = 
+9.467 × 1015 m
+ (vi) 1 astronomical unit  
+(the mean distance of 
+the Earth from the Sun) 
+1 AU = 1.496 × 1011 m
+ (vii) 1 parsec (Parallactic 
+second) (Distance at 
+which an arc of length 
+1 AU subtends an angle 
+of 1 second of arc)
+ 
+ 1 parsec = 3.08 × 1016 m 
+=3.26 light year
+Why is the cylinder 
+used in defining 
+kilogram made up of 
+platinum-iridium alloy?
+This is because the 
+platinum-iridium alloy is least affected 
+by environment and time.
+Chandrasekhar Limit (CSL) is 
+the largest practical unit of mass.
+1 CSL =  1.4 times the mass of the Sun
+The smallest practical unit of time is Shake.
+1 Shake = 10−8 s
+Figure 1.7 The international 
+1 kg standard of mass, a 
+platinum-iridium (9:1) 
+cylinder 3.9 cm in height and 
+diameter.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 105
+PDF_PAGE: 25
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+17
+1.5.2 0HDVXUHPHQWRIPDVV
+Mass is a property of matter. It does not 
+depend on temperature, pressure and 
+location of the body in space. Mass of a body 
+is defined as the quantity of matter contained 
+in a body. The SI unit of mass is kilogram 
+(kg). The masses of objects which we shall 
+study in this course vary over a wide range. 
+These may vary from a tiny mass of electron 
+(9.11×10−31kg) to the huge mass of the known 
+universe (=1055 kg). The order of masses of 
+various objects is shown in Table 1.6.
+Ordinarily, the mass of an object is 
+determined in kilograms using a common 
+balance like the one used in a grocery 
+shop. For measuring larger masses like 
+Table 1.6 Range of masses
+Object
+Order of mass (kg)
+Electron
+10−30
+Proton or Neutron
+10−27
+Uranium atom
+10−25
+Red blood corpuscle
+10−14
+A cell
+10−10
+Dust particle
+10−9
+Raindrop
+10−6
+Mosquito
+10−5
+Grape
+10−3
+Frog
+10−1
+Human
+102
+Car
+103
+Ship
+105
+Moon
+1023
+Earth
+1025
+Sun
+1030
+Milky way
+1041
+Observable Universe
+1055
+that of planets, stars etc., we make use of 
+gravitational methods. For measurement of 
+small masses of atomic/subatomic particles 
+etc., we make use of a mass spectrograph.
+Some of the weighing balances commonly 
+used are common balance, spring balance, 
+electronic balance, etc.
+1.5.3 0HDVXUHPHQWRI7LPH
+intervals
+“Time flows uniformly forward”
+ 
+– Sir Issac Newton
+“Time is what a clock reads”
+– Albert Einstein
+A clock is used to measure the time interval. 
+An atomic standard of time, is based on the 
+periodic vibration produced in a Cesium 
+atom. Some of the clocks developed later 
+are electric oscillators, electronic oscillators, 
+solar clock, quartz crystal clock, atomic clock, 
+decay of elementary particles, radioactive 
+dating etc. The order of time intervals are 
+tabulated in Table 1.7.
+Figure 1.8 The atomic clock, which 
+keeps time on the basis of radiation from 
+cesium atoms is accurate to about three 
+millionths of a second per year.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 109
+PDF_PAGE: 26
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+18
+to be distinguished at this stage. Accuracy 
+refers to how far we are from the true 
+value, and precision refers to how well we 
+measure.
+Table 1.7 Order of Time Intervals
+Event
+Order of time interval (s)
+Lifespan of the most unstable particle
+10−24
+Time taken by light to cross a distance of nuclear size
+10−22
+Period of X-rays
+10−19
+Time period of electron in hydrogen atom
+10−15
+Period of visible light waves
+10−15
+Time taken by visible light to cross through a window pane
+10−8
+Lifetime of an excited state of an atom
+10−8
+Period of radio waves
+10−6
+Time period of audible sound waves
+10−3
+Wink of an eye
+10−1
+Time interval between two successive heart beats
+100
+Travel time of light from Moon to Earth
+100
+Travel time of light from Sun to Earth
+102
+Halflife time of a free neutron
+103
+Time period of a satellite
+104
+Time period of rotation of Earth around its axis (one day)
+105
+Time period of revolution of Earth around the Sun (one year)
+107
+Average life of a human being
+109
+Age of Egyptian pyramids
+1011
+Age of Universe
+1017
+In India, the National 
+Physical Laboratory 
+(New Delhi) has 
+the responsibility of 
+maintenance and improvement of physical 
+standards of length, mass, time, etc.
+1.6
+7+(25<2)(55256
+The foundation of all experimental science 
+and technology is measurement. The 
+result obtained from any measurement 
+will contain some uncertainty. Such an 
+uncertainty is termed error. Any calculation 
+made using the measured values will also 
+have an error. It is not possible to make 
+exact measurements in an experiment. 
+In measurements, two different terms 
+accuracy and precision are used and need 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 19
+PDF_PAGE: 27
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+19
+temperature is 40oC, the thermometer is 
+accurate. If the thermometer consistently 
+registers this exact temperature in a row, the 
+thermometer is precise. 
+Consider another example. Let the 
+temperature of a refrigerator repeatedly 
+measured by a thermometer be given as 
+10.4oC, 10.2oC, 10.3oC, 10.1oC, 10.2oC, 
+10.1oC, 10.1oC, 10.1oC. However, if the real 
+temperature inside the refrigerator is  9oC, 
+we say that the thermometer is not accurate 
+(it is almost one degree off the true value), 
+but since all the measured values are close to 
+10oC, hence it is precise.
+A visual example:
+Target shooting is an example which 
+explains the difference between accuracy 
+and precision. In Figure 1.9 (a), the shots 
+are focused so as to reach the bull’s eye 
+(midpoint), but the arrows have reached 
+only around this point. Hence the shots are 
+not accurate and also not precise.
+In Figure 1.9 (b), all the shots are close 
+to each other but not at the central point. 
+Hence the shots are said to be precise but 
+not accurate. In Figure 1.9 (c), the shots are 
+closer and also at the central point. Hence 
+the shots are both precise and accurate.
+1.6.1 $FFXUDF\DQG3UHFLVLRQ
+Let us say, you know your true height is 
+exactly 5′9″. You first measure your height 
+with a yardstick and get the value 5′0″. 
+Your measurement is hence not accurate. 
+Now you measure your height with a 
+laser yardstick and get 5′9″ as the value. 
+Now your measurement is accurate. The 
+true value is also called theoretical value. 
+The level of accuracy required for each 
+application varies greatly. Highly accurate 
+data can be very difficult to produce and 
+compile. For example, if you consistently 
+measure your height as 5′0″ with a yard 
+stick, your measurements are precise. The 
+level of precision required for different 
+applications vary to a great extent. 
+Engineering projects such as road and 
+utility construction require very precise 
+information measured to the millimeter 
+or one-tenth of an inch.
+If a measurement is precise, that does 
+not necessarily mean that it is accurate. 
+However, if the measurement is consistently 
+accurate, it is also precise.
+For example, if the temperature outside 
+a building is 40oC as measured by a weather 
+thermometer and if the real outside 
+Figure 1.9 Visual example of accuracy and precision
+(a) Not accurate
+      Not precise
+(b) Not accurate
+      Precise
+(c) Accurate
+      Precise
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 20
+PDF_PAGE: 28
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+20
+performing experiments with a 
+calorimeter, if there is no proper 
+insulation, there will be radiation 
+losses. This results in errors and to 
+overcome these, necessary correction 
+has to be applied.
+3) Personal errors
+These errors are due to individuals 
+performing the experiment, may be 
+due to incorrect initial setting up of 
+the experiment or carelessness of the 
+individual making the observation 
+due to improper precautions.
+4) Errors due to external causes
+The change in the external conditions 
+during an experiment can cause 
+error in measurement. For example, 
+changes in temperature, humidity, or 
+pressure during measurements may 
+affect the result of the measurement.
+5) Least count error
+Least count is the smallest value that 
+can be measured by the measuring 
+instrument, and the error due to this 
+measurement is least count error. 
+The instrument’s resolution hence is 
+the cause of this error. Least count 
+error can be reduced by using a 
+high precision instrument for the 
+measurement.
+ii) Random errors
+Random errors may arise due to 
+random and unpredictable variations in 
+experimental conditions like pressure, 
+temperature, voltage supply etc. Errors 
+may also be due to personal errors by the 
+observer who performs the experiment. 
+Random errors are sometimes called 
+“chance error”. When different readings 
+are obtained by a person every time he 
+A numerical example
+The true value of a certain length is near 
+5.678 cm. In one experiment, using a 
+measuring instrument of resolution 0.1 cm, 
+the measured value is found to be 5.5 cm. 
+In another experiment using a measuring 
+instrument of greater resolution, say 0.01 
+cm, the length is found to be 5.38 cm. We 
+find that the first measurement is more 
+accurate as it is closer to the true value, but 
+it has lesser precision. On the contrary, the 
+second measurement is less accurate, but it 
+is more precise. 
+1.6.2 (UURUVLQ0HDVXUHPHQW
+The uncertainty in a measurement is called 
+an error. Random error, systematic error 
+and gross error are the three possible errors. 
+i) Systematic errors
+Systematic 
+errors 
+are 
+reproducible 
+inaccuracies that are consistently in the 
+same direction. These occur often due 
+to a problem that persists throughout 
+the experiment. Systematic errors can be 
+classified as follows
+1) Instrumental errors
+When 
+an 
+instrument 
+is 
+not 
+calibrated properly at the time of 
+manufacture, instrumental errors 
+may arise. If a measurement is 
+made with a meter scale whose end 
+is worn out, the result obtained 
+will have errors. These errors 
+can be corrected by choosing the 
+instrument carefully.
+2)  Imperfections 
+in 
+experimental 
+technique or procedure
+These errors arise due to the 
+limitations in the experimental 
+arrangement. As an example, while 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 29
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+21
+Certain procedures to be followed 
+to 
+minimize 
+experimental 
+errors, 
+along with examples are shown in 
+Table 1.8.
+iii) Gross Error
+The error caused due to the shear 
+carelessness of an observer is called 
+gross error. 
+For example
+ 
+(i) Reading an instrument without 
+setting it properly. 
+ 
+(ii) Taking observations in a wrong 
+manner without bothering about 
+the sources of errors and the 
+precautions. 
+ 
+(iii) Recording wrong observations.
+ 
+(iv) Using wrong values of the 
+observations in calculations.
+These errors can be minimized only 
+when an observer is careful and 
+mentally alert.
+repeats the experiment, personal error 
+occurs. For example, consider the case of 
+the thickness of a wire measured using a 
+screw gauge. The readings taken may be 
+different for different trials. In this case, 
+a large number of measurements are 
+made and then the arithmetic mean is 
+taken.
+If n number of trial readings are taken 
+in an experiment, and the readings 
+are a1, a2, a3,…………………. an. The 
+arithmetic mean is 
+ 
+a
+a
+a
+a
+a
+n
+m
+n
+=
++
++
++
+1
+2
+3
+.............
+ (1.1)
+ 
+or
+ 
+a
+n
+a
+m
+i
+i
+n
+=
+=∑
+1
+1
+ 
+(1.2)
+Usually this arithmetic mean is taken 
+as the best possible true value of the 
+quantity.
+Table 1.8 Minimizing Experimental Error
+Type of error
+Example
+How to minimize it
+Random error
+Suppose you measure the mass of 
+a ring three times using the same 
+balance and get slightly different 
+values. 15.46 g, 15.42 g, 15.44 g 
+Take more data. Random errors 
+can be evaluated through 
+statistical analysis and can  
+be reduced by averaging  
+over a large number of 
+observations.
+Systematic error
+Suppose the cloth tape measure 
+that you use to measure the length 
+of an object has been stretched out 
+from years of use. (As a result all of 
+the length measurements are not 
+correct).
+Systematic errors are difficult to 
+detect and cannot be analysed 
+statistically, because all of the data 
+is in the same direction. (Either 
+too high or too low) 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 30
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+22
+ iii) Relative error
+The ratio of the mean absolute error 
+to the mean value is called relative 
+error. This is also called as fractional 
+error (or) relative error. Thus
+ 
+Relative error =
+=
+Mean absolute error
+Mean value
+a
+a
+m
+m
+Δ
+ 
+Relative error expresses how large 
+the absolute error is compared to 
+the total size of the object measured. 
+For example, a driver’s speedometer 
+shows that his car is travelling at 
+60 km h−1 when it is actually moving 
+at 62 km h−1. Then absolute error of 
+speedometer is 62-60 km h−1 = 2 km h−1 
+Relative error of the measurement is 2 
+km h−1 / 60 km h−1 = 0.033.
+ iv) Percentage error
+The relative error expressed as a 
+percentage is called percentage error.
+ 
+Percentage error = Δa
+a
+m
+m
+×100%
+A percentage error very close to zero 
+means one is close to the targeted value, 
+which is good and acceptable. It is always 
+necessary to understand whether error is 
+due to impression of equipment used or 
+a mistake in the experimentation.
+(;$03/(
+In a series of successive measurements in 
+an experiment, the readings of the period 
+of oscillation of a simple pendulum were 
+found to be 2.63s, 2.56 s, 2.42s, 2.71s and 
+1.6.3 (UURU$QDO\VLV
+ i) Absolute Error
+The magnitude of difference between 
+the true value and the measured value of 
+a quantity is called absolute error. If a1, 
+a2, a3, ……….an are the measured values 
+of any quantity ‘a’ in an experiment 
+performed n times, then the arithmetic 
+mean of these values is called the true 
+value (am) of the quantity.
+ 
+a
+a
+a
+a
+a
+n
+a
+n
+a
+m
+n
+m
+i
+i
+n
+=
++
++
++
++
+=
+=∑
+1
+2
+3
+1
+1
+..............
+or
+ 
+ 
+The absolute error in measured values 
+is given by 
+ 
+|Δa1| = |am – a1|
+ 
+|Δa2| = |am – a2|
+ 
+………………
+ 
+………………
+ 
+|Δan| = |am – an|
+ ii) Mean Absolute error
+The arithmetic mean of absolute errors 
+in all the measurements is called the 
+mean absolute error.
+ Δ
+Δ
+Δ
+Δ
+Δ
+a
+a
+a
+a
+a
+n
+m
+n
+=
++
++
++
++
+1
+2
+3
+...............
+or =
+=∑
+1
+1
+n
+ai
+i
+n
+Δ
+If am is the true value and Δam is the 
+mean absolute error then the magnitude 
+of the quantity may lie between am + 
+Δam and am - Δam
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 31
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+23
+ (iv) Relative error:
+ 
+ST = ΔT
+T
+m
+m
+=
+=
+0 11
+2 62
+0 0
+.
+.
+. 419
+ 
+ST = 0.04
+ (v)  Percentage error in T = 0.04 
+× 100% = 4%
+ (vi)  Time period of simple pendulum = 
+T = (2.62 r.11)s
+1.6.4 3URSDJDWLRQRIHUURUV
+A number of measured quantities may 
+be involved in the final calculation of an 
+experiment. Different types of instruments 
+might have been used for taking readings. 
+Then we may have to look at the errors in 
+measuring various quantities, collectively.
+The error in the final result depends on 
+ (i) The 
+errors 
+in 
+the 
+individual 
+measurements
+ (ii) On the nature of mathematical 
+operations performed to get the final 
+result. So we should know the rules to 
+combine the errors.
+The 
+various 
+possibilities 
+of 
+the 
+propagation or combination of errors in 
+different 
+mathematical 
+operations 
+are 
+discussed below:
+ (i) Error in the sum of two quantities
+Let ΔA and ΔB be the absolute errors in 
+the two quantities A and B respectively. 
+Then,
+ 
+Measured value of A = A ± ΔA
+ 
+Measured value of B = B ± ΔB
+ 
+Consider the sum, Z = A + B
+2.80s. Calculate (i) the mean value of 
+the period of oscillation (ii) the absolute 
+error in each measurement (iii) the mean 
+absolute error (iv) the relative error (v) 
+the percentage error. Express the result in 
+proper form.
+Solution
+t
+s
+1
+2 63
+= .
+, t
+s
+2
+2 56
+= .
+, t
+s
+3
+2 42
+= .
+, 
+t
+s
+4
+2 71
+= .
+, t
+s
+5
+2 80
+= .
+ 
+(i) T
+t
+t
+t
+t
+t
+m =
++
++
++
++
+=
++
++
++
++
+1
+2
+3
+4
+5
+5
+2 63
+2 56
+2 42
+2 71
+2 80
+5
+.
+.
+.
+.
+.
+Tm = 13 12
+5
+2 624
+.
+.
+=
+s
+Tm= 2 62
+.
+s  (Rounded off to 2nd 
+ decimal place)
+ (ii) Absolute error ΔT = Tm - t
+ 
+Δ
+Δ
+Δ
+T
+s
+T
+s
+T
+1
+2
+3
+2 62
+2 63
+0 01
+2 62
+2 56
+0 06
+2 62
+2 42
+0 2
+=
+−
+= −
+=
+−
+= +
+=
+−
+= +
+.
+.
+.
+.
+.
+.
+.
+.
+. 0
+2 62
+2 71
+0 09
+2 62
+2 80
+0 18
+4
+5
+s
+T
+s
+T
+s
+Δ
+Δ
+=
+−
+= −
+=
+−
+= −
+.
+.
+.
+.
+.
+.
+ (iii) Mean absolute error = Σ ΔT
+n
+i
+ 
+ΔTm =
++
++
++
++
+0 01
+0 06
+0 20
+0 09
+0 18
+5
+.
+.
+.
+.
+.
+ΔT
+s
+s
+m =
+=
+=
+0 54
+5
+0 108
+0 11
+.
+.
+.
+ 
+(Rounded 
+off to 2nd decimal place)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 150
+PDF_PAGE: 32
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+24
+ 
+ = (A − B) ± ΔA ± ΔB
+ 
+ = Z ± ΔA ± ΔB
+ (or) ΔZ = ΔA + ΔB………………(1.4)
+The maximum error in difference of 
+two quantities is equal to the sum of 
+the absolute errors in the individual 
+quantities.
+(;$03/(
+The temperatures of two bodies measured 
+by a thermometer are t1 = (20 + 0.5)°C, t2 = 
+(50 ± 0.5)°C. Calculate the temperature 
+difference and the error therein.
+Solution
+ t1 = (20 ± 0 5. )°C 
+t2
+ = (50 ± 0 5. )°C 
+ 
+ 
+temperature difference t=?
+ t =  t2 - t1
+ = (50 ± 0 5. ) - (20 ± 0 5. )°C 
+(Using equation1.4)
+ 
+ = (50 – 20) ±
++
+( .
+. )
+0 5
+0 5
+ t = (30 ±1)°C
+ (iii) Error in the product of two quantities
+Let ΔA and ΔB be the absolute errors 
+in the two quantities A, and B,
+respectively. Consider the product 
+Z = AB
+The error ΔZ in Z is given by Z ± ΔZ = 
+(A ± ΔA) (B ± ΔB)
+ = (AB) ± (A ΔB) ± (B ΔA) ± (ΔA . ΔB)
+Dividing L.H.S by Z and R.H.S by AB, 
+we get,
+ 
+1
+1
+±
+= ±
+±
+±
+Δ
+Δ
+Δ
+Δ
+Δ
+Z
+Z
+B
+B
+A
+A
+A
+A
+B
+B
+.
+The error ΔZ in Z is then given by
+ 
+Z ± ΔZ = (A ± ΔA) + (B ± ΔB)
+ 
+ = (A + B) ± (ΔA + ΔB)
+ 
+ = Z ± (ΔA + ΔB)
+ (or)   ΔZ = ΔA + ΔB 
+(1.3)
+The maximum possible error in the sum 
+of two quantities is equal to the sum 
+of the absolute errors in the individual 
+quantities.
+(;$03/(
+Two resistances R1 = (100 ± 3) :, R2 = 
+(150 ± 2) :, are connected in series. What 
+is their equivalent resistance? 
+Solution
+ 
+R1 = 100 ±
+=
+3
+150
+2
+Ω; R
+ ± 2Ω
+Equivalent resistance R = ?
+Equivalent resistance R = R1
+2
++ R 
+ 
+= (100 ±
++
+3
+150
+)
+(
+ ± 2)
+ 
+= (100 + 150) ± (3 + 2)
+ 
+R = (250 ± 5) Ω
+ (ii) Error in the difference of two 
+quantities
+Let ΔA and ΔB be the absolute 
+errors in the two quantities, A and B, 
+respectively. Then,
+Measured value of A = A ± ΔA
+Measured value of B = B ± ΔB
+Consider the difference, Z = A – B
+The error ΔZ in Z is then given by 
+Z ± ΔZ = (A ± ΔA) – (B ± ΔB)
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 33
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+25
+ (iv) Error in the division or quotient of 
+two quantities
+Let ΔA and ΔB be the absolute errors in 
+the two quantities A and B respectively. 
+Consider the quotient, Z
+A
+B
+=
+The error ΔZ in Z is given by
+ 
+Z
+Z
+A
+A
+B
+B
+A
+A
+A
+B
+B
+B
+A
+B
+A
+A
+B
+B
+±
+=
+±
+±
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+±
+⎛
+Δ
+Δ
+Δ
+Δ
+Δ
+Δ
+Δ
+1
+1
+1
+1
+⎝⎜
+⎞
+⎠⎟
+−1
+or Z
+Z
+Z
+A
+A
+B
+B
+±
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δ
+Δ
+Δ
+1
+1B
+ [using 
+(1+x)n ≈1+nx, when x<<1]
+ 
+Dividing both sides by Z, we get,
+ 
+1
+1
+1
+±
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δ
+Δ
+Δ
+Z
+Z
+A
+A
+B
+B
+B
+ 
+= ±
+±
+1
+Δ
+Δ
+Δ
+Δ
+A
+A
+B
+B
+A
+A
+B
+B
+B
+.
+As the terms ΔA/A and ΔB/B are small, 
+their product term can be neglected.
+The maximum fractional error in Z is 
+given by Δ
+Δ
+Δ
+Z
+Z
+A
+A
+B
+B
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+(1.6)
+The maximum fractional error in the 
+quotient of two quantities is equal to 
+the sum of their individual fractional 
+errors.
+(Alternative 
+method 
+is 
+given 
+in 
+Appendix A1.2)
+As ΔA /A, ΔB / B are both small 
+quantities, their product term Δ
+Δ
+A
+A
+B
+B
+.
+ 
+can be neglected. The maximum 
+fractional error in Z is
+ 
+Δ
+Δ
+Δ
+Z
+Z
+A
+A
+B
+B
+= ±
++
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+(1.5)
+The maximum fractional error in the 
+product of two quantities is equal to 
+the sum of the fractional errors in the 
+individual quantities.
+[Alternative method is given in 
+Appendix A1.2]
+(;$03/(
+The length and breadth of a rectangle 
+are (5.7 ± 0 1. ) cm and (3.4 ± 0 2. ) cm 
+respectively. Calculate the area of the 
+rectangle with error limits.
+Solutions
+ 
+Length A = (5.7 ± 0 1. ) cm
+ 
+Breadth b =(3.4 ± 0 2. ) cm
+Area A with error limit = A ± ΔA = ?
+Area A =  A × b = 5.7 × 3.4 = 19.38 = 19.4 cm2
+ 
+Δ
+Δ
+Δ
+Δ
+Δ
+Δ
+A
+A
+l
+l
+b
+b
+A
+l
+l
+b
+b
+A
+=
++
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ΔA =
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+0 1
+5 7
+0 2
+3 4 19 4
+.
+.
+.
+.
+.
+ 
+= (0.0175+0.0588) × 19.4
+ 
+= 1.48 = 1.5
+Area with error limit
+ 
+A = (19.4±1.5) cm2
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 34
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+26
+We get [(1+x)n ≈1+nx, when x<<1] 
+neglecting remaining terms, Dividing 
+both sides by Z
+ 
+1
+1
+±
+= ±
+=
+Δ
+Δ
+Δ
+Δ
+Z
+Z
+n A
+A or
+Z
+Z
+n
+A
+A
+.
+ 
+(1.7)
+The fractional error in the nth power 
+of a quantity is n times the fractional 
+error in that quantity.
+General rule: If Z
+A B
+C
+p
+q
+r
+=
+Then 
+maximum fractional error in Z is 
+given by Δ
+Δ
+Δ
+Δ
+Z
+Z
+p
+A
+A
+q
+B
+B
+r
+C
+C
+=
++
++
+The percentage error in Z is given by
+ 
+Δ
+Δ
+Δ
+Δ
+Z
+Z
+p
+A
+A
+q
+B
+B
+r
+C
+C
+×
+=
+×
++
+×
++
+×
+100
+100
+100
+100
+(;$03/(
+A physical quantity x is given by x = a b
+c d
+2
+3
+. 
+If the percentage errors of measurement 
+in a, b, c and d are 4%, 2%, 3% and 1% 
+respectively then calculate the percentage 
+error in the calculation of x. (Related to 
+NEET 2013)
+Solution
+ 
+Given x = a b
+c d
+2
+3
+(;$03/(
+The voltage across a wire is (100 ± 5)V and 
+the current passing through it is (10±0.2) 
+A. Find the resistance of the wire.
+Solution
+ 
+Voltage V = (100±5)V
+ 
+ Current I = (10±0.2) A
+ 
+Resistance R = ?
+Then resistance R is given by Ohm’s law, 
+R = V
+I
+ 
+= 100
+10
+10
+=
+Ω
+ 
+Δ
+Δ
+Δ
+R
+R
+V
+V
+I
+I
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+Δ
+Δ
+Δ
+R
+V
+V
+I
+I
+R
+=
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+= 
+5
+100
+0 2
+10 10
++
+⎛
+⎝⎜
+⎞
+⎠⎟
+.
+ 
+= (0.05 + 0.02)10
+ 
+= 0.07 × 10 = 0.7
+ 
+The resistance R = (10 ± 0.7)Ω
+(v) Error in the power of a quantity
+Consider the nth power of A, Z = An
+The error ΔZ in Z is given by
+Z
+Z
+A
+A
+A
+A
+A
+Z
+n
+A
+A
+n
+n
+n
+±
+=
+±
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+±
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δ
+Δ
+Δ
+Δ
+(
+)
+1
+1
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 100
+PDF_PAGE: 35
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+27
+1.7
+(;$03/(
+State the number of significant figures in 
+the following
+ i) 600800 
+iv) 5213.0
+ ii) 400 
+ v) 2.65 × 1024m
+iii) 0.007 
+vi) 0.0006032
+Solution:  i) four ii) one iii) one
+ 
+iv) five v) three vi) four
+1.7.2 5RXQGLQJ2II
+Calculators are widely used now-a-days 
+to do calculations. The result  given  by a 
+calculator has too many figures. In no case 
+should the result have more  significant 
+figures than the figures involved in the 
+data used for calculation. The result of 
+calculation with numbers containing more 
+than one uncertain digit should be rounded 
+off. The rules for rounding off are shown in 
+Table 1.10.
+(;$03/(
+Round off the following numbers as 
+indicated
+ i) 18.35 up to 3 digits 
+ ii) 19.45 up to 3 digits
+ iii) 101.55 × 106 up to 4 digits
+ iv) 248337 up to digits 3 digits
+ v) 12.653 up to 3 digits.
+Solution
+ i) 18.4 ii) 19.4 iii) 101.6 × 106
+iv) 248000         v) 12.7
+The percentage error in x is given by
+ 
+×
+=
+×
+Δ
+Δ
+x
+x
+a
+a
+100
+2
+100 +
+×
+3
+100
+Δb
+b
+ 
++
+×
++
+×
+100
+1
+2
+100
+Δ
+Δ
+c
+c
+d
+d
+ 
+=  (2 × 4%) + (3 × 2%) + (1 × 3%) + 
+(½ ×1%)
+         = 8% +6%+3% +0.5% 
+The percentage error is x = 17.5%
+6,*1,),&$17),*85(6
+1.7.1 'H¿QLWLRQDQG 
+5XOHVRI6LJQL¿FDQW
+)LJXUHV
+The digits which tell us the number of units 
+we are reasonably sure of having counted in 
+making a measurement are called significant 
+figures. 
+The digits that are known reliably plus the 
+first uncertain digit are known as significant 
+figures or significant digits.
+For example, the value of gravitational 
+constant is 6.67 × 10−11 N m2 kg−2. Here 
+the digits 6 and 6 are reliable and certain, 
+while the digit 7 is uncertain. Thus the 
+measured value has three significant 
+figures. 
+The rules for counting significant figures 
+are given in Table 1.9.
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 28
+PDF_PAGE: 36
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+28
+7DEOH Rules for counting significant figures
+Rule
+Example
+i) All non-zero digits are significant
+1342 has four significant figures
+ii) All zeros between two non zero digits are significant
+2008 has four significant figures
+iii) All zeros to the right of a non-zero digit but  
+to the left of a decimal point are significant.
+30700. has five significant figures
+iv) a)  The number without a decimal point, the 
+terminal or trailing zero(s) are not significant.
+b)  All zeros are significant if they come  
+from a measurement 
+a)  30700 has three significant figures
+b)  30700 m has five significant figures
+v) If the number is less than 1, the zero (s) on the 
+right of the decimal point but to left of the first 
+non zero digit are not significant.
+0.00345 has three significant figures
+vi) All zeros to the right of a decimal point and  
+to the right of non-zero digit are significant.
+40.00 has four significant figures and 
+0.030400 has five significant figures
+vii) The number of significant figures does not 
+depend on the system of units used
+1.53 cm, 0.0153 m, 0.0000153 km, 
+all have three significant figures 
+Note: 1 Multiplying or dividing factors, which are neither rounded numbers nor numbers  representing 
+measured values, are exact and they have infinite numbers of significant figures as per the situation. For 
+example, circumference of circle S = 2πr, Here the factor 2 is exact number. It can be written as 2.0, 2.00 or 
+2.000 as required.
+Note: 2 The power of 10 is irrelevant to the determination of significant figures. 
+For example x = 5.70 m = 5.70 × 102 cm = 5.70 × 103 mm = 5.70 × 10−3 km. 
+In each case the number of significant figures is three.
+7DEOH Rules for Rounding Off
+Rule
+Example
+ i) If the digit to be dropped is smaller than 5, then 
+the preceding digit should be left unchanged.
+ i) 7.32 is rounded off to 7.3
+ ii) 8.94 is rounded off to 8.9
+ ii) If the digit to be dropped is greater than 5, then 
+the preceding digit should be increased by 1
+ i) 17.26 is rounded off to 17.3
+ ii) 11.89 is rounded off to 11.9
+ iii) If the digit to be dropped is 5 followed by digits 
+other than zero, then the preceding digit should 
+be raised by 1
+ i) 7.352, on being rounded off to 
+first decimal becomes 7.4
+ ii) 18.159 on being rounded off to 
+first decimal, become 18.2
+ iv) If the digit to be dropped is 5 or 5 followed by 
+zeros, then the preceding digit is not changed if 
+it is even
+ i) 3.45 is rounded off to 3.4
+ ii) 8.250 is rounded off to 8.2
+ v) If the digit to be dropped is 5 or 5 followed by 
+zeros, then the preceding digit is raised by 1 if it 
+is odd
+ i) 3.35 is rounded off to 3.4
+ ii) 8.350 is rounded off to 8.4
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 29
+PDF_PAGE: 37
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+29
+1.8
+',0(16,21$/$1$/<6,6
+1.8.1 'LPHQVLRQRI3K\VLFDO
+Quantities
+All the derived physical quantities can be 
+expressed in terms of some combination of 
+the seven fundamental or base quantities. 
+These base quantities are known as 
+dimensions of the physical world, and are 
+denoted with square bracket [ ]. The three 
+dimensions in mechanics are [L] for length, 
+[M] for mass and [T] for time. In electricity, 
+[A] is the dimension of electric current. In 
+thermodynamics, [K] is the dimension for 
+the temperature. In optics [cd] or [Φ] is 
+the dimension for luminous intensity. The 
+dimension of amount of substance is [mol].
+The dimensions of a physical quantity 
+are the powers to which the units of base 
+quantities are raised to represent a derived 
+unit of that quantity. 
+For example,
+ velocity
+Displacement
+time
+L
+T
+M LT
+=
+=
+=
+−
+[ ]
+[ ]
+[
+]
+0
+1 .  
+Hence the dimensions of velocity are 0 in 
+mass, 1 in length and -1 in time.
+Dimensional formula and equation
+Dimensional formula is an expression which 
+shows how and which of the fundamental 
+units are required to represent the unit of a 
+physical quantity.
+For example, [M0LT−2] is the dimensional 
+formula of acceleration.
+When the dimensional formula of 
+a physical quantity is expressed in the 
+form  of  an equation, such an equation 
+is known as the dimensional equation. 
+1.7.3  Arithmetical 
+2SHUDWLRQVZLWK
+6LJQL¿FDQW)LJXUHV
+ (i) Addition and subtraction
+ 
+  In addition and subtraction, the final 
+result should retain as many decimal 
+places as there are in the number 
+with the smallest number of decimal 
+places.
+Example:
+1. 3.1 + 1.780 + 2.046 = 6.926
+Here the least number of significant 
+digits after the decimal is one. Hence the 
+result will be 6.9.
+2. 12.637 – 2.42 = 10.217
+Here the least number of significant 
+digits after the decimal is two. Hence the 
+result will be 10.22
+(ii) Multiplication and Division
+In multiplication or division, 
+the final result should retain as 
+many significant figures as there 
+are in the original number with 
+smallest number of significant 
+figures.
+Example:
+1. 1.21 × 36.72 =  44.4312 = 44.4
+Here the least number of significant 
+digits 
+in 
+the 
+measured 
+values 
+is three. Hence the result when 
+rounded off to three significant digits 
+is 44.4
+2. 36.72 ÷ 1.2 = 30.6 = 31
+Here the least number of significant 
+digits 
+in 
+the 
+measured 
+values 
+is two. Hence the result when 
+rounded off to significant digit 
+becomes 31. 
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 30
+PDF_PAGE: 38
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+30
+1.8.3 $SSOLFDWLRQDQG
+/LPLWDWLRQVRIWKH
+0HWKRGRI'LPHQVLRQDO
+$QDO\VLV
+This method is used to
+ (i) Convert a physical quantity from one 
+system of units to another.
+ (ii) Check the dimensional correctness of a 
+given physical equation.
+ (iii) Establish relations among various 
+physical quantities.
+ (i) To convert a physical quantity from 
+one system of units to another
+ 
+ This is based on the fact that the 
+product of the numerical values (n) 
+and its corresponding unit (u) is 
+a  constant.  i.e, n [u] = constant (or) 
+n1[u1] = n2[u2].
+ 
+  Consider a physical quantity which 
+has dimension ‘a’ in mass, ‘b’ in length 
+and ‘c’ in time. If the fundamental 
+units in one system are M1, L1 and T1 
+and the other system are M2, L2 and T2 
+respectively, then we can write, n1 [M1
+a 
+L1
+b T1
+c] = n2 [M2
+a L2
+b T2
+c]
+ 
+  We have thus converted the numerical 
+value of physical quantity from one 
+system of units into the other system.
+(;$03/(
+Convert 76 cm of mercury pressure 
+into 
+Nm−2 
+using 
+the 
+method 
+of 
+dimensions.
+Solution
+In cgs system 76 cm of mercury 
+pressure = 76 × 13.6 × 980 dyne cm−2
+The dimensional formula of pressure P 
+is [ML−1T−2]
+Example, acceleration = [M0LT−2]. The 
+dimensional formula of various physical 
+quantities are tabulated in Table 1.11.
+1.8.2 'LPHQVLRQDO
+Quantities, 
+'LPHQVLRQOHVV
+Quantities, Principle 
+RI+RPRJHQHLW\
+On the basis of dimension, we can classify 
+quantities into four categories.
+ (1) Dimensional variables
+ 
+ Physical quantities, which possess 
+dimensions and have variable values are 
+called dimensional variables. Examples 
+are length, velocity, and acceleration etc.
+ (2) Dimensionless variables
+ 
+ Physical quantities which have no 
+dimensions, but have variable values 
+are called dimensionless variables. 
+Examples are specific gravity, strain, 
+refractive index etc.
+ (3) Dimensional Constant
+ 
+ Physical quantities which possess 
+dimensions and have constant values 
+are called dimensional constants. 
+Examples are Gravitational constant, 
+Planck’s constant etc.
+ (4) Dimensionless Constant
+ 
+ Quantities which have constant values 
+and also have no dimensions are called 
+dimensionless constants. Examples are 
+π, e, numbers etc.
+Principle of homogeneity of dimensions
+The principle of homogeneity of dimensions 
+states that the dimensions of all the terms in 
+a physical expression should be the same. For 
+example, in the physical expression v2 = u2 + 
+2as, the dimensions of v2, u2 and 2 as are the 
+same and equal to [L2T−2].
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 31
+PDF_PAGE: 39
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+31
+Table 1.11 Dimensional Formula
+Physical quantity
+Expression
+Dimensional formula
+Area
+length × breadth
+[L2]
+Volume
+Area × height
+[L3]
+Density
+mass / volume
+[ML−3]
+Velocity
+displacement/time
+[LT−1]
+Acceleration
+velocity / time
+[LT−2]
+Momentum
+mass × velocity
+[MLT−1]
+Force
+mass × acceleration 
+[MLT−2]
+Work
+force × distance
+[ML2T−2]
+Power 
+work / time
+[ML2T−3]
+Energy
+Work
+[ML2T−2]
+Impulse
+force × time
+[MLT−1]
+Radius of gyration
+Distance
+[L]
+Pressure (or) stress
+force / area
+[ML−1T−2]
+Surface tension
+force / length
+[MT−2]
+Frequency
+1 / time period
+[T−1]
+Moment of Inertia
+mass × (distance)2
+[ML2]
+Moment of force (or torque)
+force × distance
+[ML2T−2]
+Angular velocity
+angular displacement / time
+[T−1]
+Angular acceleration 
+angular velocity / time
+[T−2]
+Angular momentum
+linear momentum × distance
+[ML2T−1]
+Co-efficient of Elasticity
+stress/strain
+[ML−1T−2]
+Co-efficient of viscosity
+(force × distance) / (area × velocity)
+[ML−1T−1]
+Surface energy
+work / area
+[MT−2]
+Heat capacity
+heat energy / temperature
+[ML2T−2K−1]
+Charge
+current × time
+[AT]
+Magnetic induction
+force / (current × length) 
+[MT−2A−1]
+Force constant
+force / displacement
+[MT−2]
+Gravitational constant
+[force × (distance)2] / (mass)2
+[M−1L3T−2]
+Planck’s constant
+energy / frequency
+[ML2T−1]
+Faraday constant
+avogadro constant × elementary charge
+[AT mol−1]
+Boltzmann constant
+energy / temperature
+[ML2 T–2 K–1]
+www.tntextbooks.in
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 40
+------------------------------------------------------------
+
+Unit 1 Nature of Physical World and Measurement
+32
+ 
+M1 = 1 kg L1 = 1m T1 = 1s
+ 
+M2 = 1 g L2 = 1 cm T2 = 1s
+The dimensional formula for G is M−
+−
+1
+3
+2
+LT
+ 
+a = -1 b = 3 and c = -2
+ 
+Gcgs= 6.6 ×
+−
+10 11 1
+1
+1
+1
+1
+1
+1
+3
+2
+kg
+g
+m
+cm
+s
+s
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+−
+−
+ = 6.6 ×
+−
+10 11
+1
+10
+1
+10
+1
+1
+3
+1
+2
+3
+2
+kg
+kg
+m
+m
+s
+s
+−
+−
+−
+−
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+= 6.6 × 10−11 × 10−3x 106 × 1
+ 
+Gcgs= 6.6 × 10−8dyne cm2
+2
+g −
+ (ii)  To check the dimensional correctness 
+of a given physical equation
+Let us take the equation of motion 
+v = u + at
+Apply dimensional formula on both sides 
+[LT−1] = [LT−1] + [LT−2] [T]
+ 
+[LT−1] = [LT−1] + [LT−1] 
+(Quantities of same dimension  
+only can be added)
+We see that the dimensions of both 
+sides are same. Hence the equation is 
+dimensionally correct.
+(;$03/(
+Check the correctness of the equation 
+1
+2
+2
+mv
+mgh
+=
+ using dimensional analysis 
+method.
+P M L T
+P
+M L T
+a
+b
+c
+a
+b
+c
+1
+1
+1
+1
+2
+2
+2
+2
+⎡⎣
+⎤⎦=
+⎡⎣
+⎤⎦
+We have P
+P
+M
+M
+L
+L
+T
+T
+a
+b
+c
+2
+1
+1
+2
+1
+2
+1
+2
+=
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+M1 = 1g, M2 = 1kg
+ 
+L1 = 1 cm, L2 = 1m
+ 
+T1 = 1 s, T2 = 1s
+So a =1, b= -1, and c = -2
+Then
+P
+g
+kg
+cm
+m
+s
+s
+2
+1
+1
+2
+76
+13 6
+980 1
+1
+1
+1
+1
+1
+=
+×
+×
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+−
+−
+.
+=
+×
+×
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+−
+−
+−
+−
+76 13 6 980 10
+1
+10
+1
+1
+1
+3
+1
+2
+1
+2
+.
+kg
+kg
+m
+m
+s
+s
+= 76 × 13.6 × 980 × [10−3] × 102 
+P2 = 1.01 × 105 Nm−2
+(;$03/(
+If the value of universal gravitational 
+constant in SI is 6.6x10−11 Nm2 kg−2, then 
+find its value in CGS System?
+Solution
+Let GSI be the gravitational constant in the 
+SI system and Gcgs in the cgs system. Then
+ 
+GSI = 6.6 ×
+−
+10 11Nm2 kg−2
+ 
+Gcgs=?
+ 
+n
+n
+M
+M
+L
+L
+T
+T
+a
+b
+c
+2
+1
+1
+2
+1
+2
+1
+2
+=
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+Gcgs= GSI M
+M
+L
+L
+T
+T
+a
+b
+c
+1
+2
+1
+2
+1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎡
+⎣⎢
+⎤
+⎦⎥
+www.tntextbooks.in
+

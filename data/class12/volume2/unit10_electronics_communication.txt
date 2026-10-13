@@ -1,0 +1,6601 @@
+SOURCE_TITLE:
+Government of Tamil Nadu – Higher Secondary XII Physics Volume II
+
+SOURCE_TYPE:
+Official Tamil Nadu Government Physics textbook
+
+CLASS:
+XII
+
+VOLUME:
+Volume II
+
+UNIT:
+Unit X – Electronics and Communication
+
+TEXTBOOK_PAGE_RANGE:
+195–252
+
+======================================================================
+EXTRACTED TEXTBOOK CONTENT
+======================================================================
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 195
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+187
+ 
+
+Te binding energy of nucleus B E
+Zm
+Nm
+M c
+p
+n
+.
+=
++
+−
+(
+)
+2
+ 
+
+Te average binding energy per nucleon is maximum for iron which is 8.8 MeV.
+ 
+
+Alpha decay: Z
+A
+Z
+A
+X
+Y
+He
+→
++
+−
+−
+2
+4
+2
+4
+ 
+
+β-decay:        Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
++
+−
+1
+ν
+ 
+
+β+decay:         Z
+A
+Z
+A
+X
+Y
+e
+→
++
++
+−
++
+1
+ν
+ 
+
+Gamma emission: Z
+A
+Z
+A
+X
+X
+* →
++ γ
+ 
+
+Law of radioactive decay: N
+N e
+t
+=
+−
+0
+λ
+ 
+
+In general, afer n half lives, the number of nuclei lef undecayed is N
+N
+n
+= 
+
+
+
+1
+2
+0
+ 
+
+Te relation between half-life and decay constant is T1 2
+2
+0 6931
+/
+ln
+.
+=
+=
+λ
+λ
+.
+ 
+
+Mean lite τ
+λ
+= 1 ; T1 2
+0 6931
+0 6931
+/
+.
+.
+=
+=
+λ
+τ .
+ 
+
+If a heavier nucleus decays into lighter nuclei, it is called nuclear fssion
+ 
+
+If two lighter nuclei fuse to form heavier nucleus, it is called nuclear fusion
+ 
+
+In nuclear reactors, the nuclear chain reaction is controlled. In stars, the energy 
+generation is through nuclear fusion.
+XII_Physics_Vol-2_UNIT-9_EM.indd   187
+XII_Physics_Vol-2_UNIT-9_EM.indd   187
+19-12-2022   16:07:14
+19-12-2022   16:07:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 188
+PDF_PAGE: 196
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+188
+Atomic and Nuclear Physics
+Atom models
+α - scattering
+experiment
+J.J. Tomson
+Rutherford
+Bohr atom
+model
+Nucleus
+Hydrogen
+spectrum
+Properties
+Binding
+energy
+Radioactive
+decays
+Nuclear
+fusion & ﬁssion
+Elementary
+particles
+C O N C E P T M A P
+XII_Physics_Vol-2_UNIT-9_EM.indd   188
+XII_Physics_Vol-2_UNIT-9_EM.indd   188
+19-12-2022   16:07:14
+19-12-2022   16:07:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 197
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+189
+(a)
+V
+V
+w
+a 	
+(b) V
+V
+a
+w
+	
+(c) λ
+λ
+w
+a
+	
+(d) V
+V
+a
+a
+w
+w
+λ
+λ
+	 6.	 Stars twinkle due to,
+(a) refection
+(b) total internal refection
+(c) refraction
+(d) polarisation 
+	 7.	 When a biconvex lens of glass having 
+refractive index 1.47 is dipped in a 
+liquid, it acts as a plane sheet of glass. 
+Tis implies that the liquid must have 
+refractive index,
+(a) less than one
+(b) less than that of glass
+(c) greater than that of glass
+(d) equal to that of glass
+	 8.	 Te radius of curvature of curved 
+surface at a thin planoconvex lens is 10 
+cm and the refractive index is 1.5. If the 
+plane surface is silvered, then the focal 
+length  will be,
+(a) 5 cm	
+(b) 10 cm
+(c) 15 cm	
+(d) 20 cm
+	 9.	 An air bubble in glass slab of refractive 
+index 1.5 (near normal incidence) is 5 
+cm deep when viewed from one surface 
+and 3 cm deep when viewed from the 
+opposite face. Te thickness of the slab 
+is,
+(a) 8 cm	
+(b) 10 cm
+(c) 12 cm	
+(d) 16 cm
+10.	 A ray of light travelling in a transparent 
+medium of refractive index n falls, on a 
+Multiple choice questions
+	 1.	 Te speed of light in an isotropic 
+medium depends on,
+(a) its intensity 
+(b)its wavelength 
+(c) the nature of propagation 
+(d) the motion of the source w.r.to 
+medium 
+	 2.	 A rod of length 10 cm lies along the 
+principal axis of a concave mirror of 
+focal length 10 cm in such a way that 
+its end closer to the pole is 20 cm away 
+from the mirror. Te length of the 
+image is, (AIPMT Main 2012)
+(a) 2.5 cm	
+(b) 5cm
+(c) 10 cm 	
+(d) 15cm
+	 3.	 An object is placed in front of a convex 
+mirror of focal length of f and the 
+maximum and minimum distance of 
+an object from the mirror such that the 
+image formed is real and magnifed. 
+(IEE Main 2009)]
+(a) 2f and c	
+(b) c and ∞
+(c) f and O	
+(d) None of 
+these 
+	 4.	 For light incident from air onto a slab of 
+refractive index 2. Maximum possible 
+angle of refraction is,
+(a) 30o	
+(b) 45o
+(c) 60o	
+(d) 90o
+	 5.	 If the velocity and wavelength of light 
+in air is Va and λ a and that in water is 
+Vw and λ w, then the refractive index of 
+water is,
+EVALUATION
+I Multiple Choice Questions
+	 1.	 Suppose an alpha particle accelerated 
+by a potential of V volt is allowed 
+to collide with a nucleus of atomic 
+number Z, then the distance of closest 
+approach of alpha particle to the 
+nucleus is 
+(a) 14 4. Z
+V Å	
+(b) 14 4. V
+Z Å 
+(c) 1 44
+.
+Z
+V Å	
+(d) 1 44
+.
+V
+Z Å
+	 2.	 In a hydrogen atom, the electron 
+revolving in the fourth orbit, has 
+angular momentum equal to
+(a) h	
+(b) h
+π
+(c) 4h
+π 	
+(d) 2h
+π
+	 3.	 Atomic number of H-like atom with 
+ionization potential 122.4 V for n = 1 is 
+(a) 1    (b) 2    (c) 3    (d) 4
+	 4.	 Te ratio between the radius of frst 
+three orbits of hydrogen atom is 
+(a) 1:2:3	
+(b) 2:4:6
+(c) 1:4:9  	
+(d) 1:3:5
+	 5.	 Te charge of cathode rays particle is
+(a) positive	
+(b) negative  
+(c) neutral	
+(d) not defned 
+	 6.	 In J.J. Thomson e/m experiment, 
+electrons are accelerated through 
+2.6  kV enter the region of crossed 
+electric field and magnetic field of 
+strength 3.0 × 104  Vm–1 and 1.0 × 10–3  T, 
+respectively, and pass through it and 
+undeflected, then the specific charge is
+(a) 1.6 × 1010  C kg–1
+(b) 1.7 × 1011  C kg–1
+(c) 1.5 × 1011  C kg–1
+(d) 1.8 × 1011  C kg–1
+	 7.	 Te ratio of the wavelengths radiation 
+emitted for the transition from n =2 to 
+n = 1 in Li++, He+ and H is 
+(a)1: 2: 3	
+(b) 1: 4: 9 
+(c) 3:2:1	
+(d) 4: 9: 36
+	 8.	 Te electric potential of an electron is 
+given by V
+V
+r
+r
+=
+
+
+
+
+0
+0
+ln
+, where r0 is a 
+constant. If Bohr atom model is valid, 
+then variation of radius of nth orbit rn 
+with the principal quantum number n 
+is 
+(a) r
+n
+n ∝1 	
+(b)r
+n
+n ∝
+(c) r
+n
+n ∝1
+2 	
+(d) r
+n
+n ∝
+2
+	 9.	 If the nuclear radius of 
+27Al is 
+3.6 fermi, the approximate nuclear 
+radius of 64Cu in fermi is 
+(a) 2.4	
+(b) 1.2
+(c) 4.8	
+(d)3.6 
+	10.	 Te nucleus is approximately spherical 
+in shape. Ten the surface area of 
+nucleus having mass number A varies 
+as
+(a) A2 3
+/ 	
+(b) A4 3
+/
+(c) A1 3
+/ 	
+(d) A5 3
+/
+	11.	 Te mass of a 3
+7Li nucleus is 0.042 u 
+less than the sum of the masses of all its 
+nucleons. Te average binding energy 
+per nucleon of 3
+7Li nucleus is nearly
+(a) 46 MeV	
+(b) 5.6 MeV
+(c) 3.9MeV	
+(d)23 MeV
+XII_Physics_Vol-2_UNIT-9_EM.indd   189
+XII_Physics_Vol-2_UNIT-9_EM.indd   189
+19-12-2022   16:07:22
+19-12-2022   16:07:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 8
+PDF_PAGE: 198
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+190
+Answers
+	 1) b	
+2) d	
+3) c	
+4) c	
+5) b
+	 6) b	
+7) d	
+8) b	
+9) c	
+10) A
+	11) b	
+12) c	
+13) b	
+14) c	
+15) b
+II Short answer questions
+	 1.	 What are cathode rays?.
+	 2.	 Write the properties of cathode rays.
+	 3.	 Give the results of Rutherford alpha 
+scattering experiment.
+	 4.	 Write down the postulates of Bohr 
+atom model. 
+	 5.	 What is meant by excitation energy.
+	 6.	 Defne the ionization energy and 
+ionization potential.
+	 7.	 Write down the draw backs of Bohr 
+atom model. 
+	 8.	 What is distance of closest approach? 
+	 9.	 Defne impact parameter.
+	10.	 Write a general notation of nucleus 
+of element X. What does each term 
+denote?
+	11.	 What is isotope? Give an example.
+	12.	 What is isotone? Give an example.
+	13.	 What is isobar? Give an example.
+	14.	 Defne atomic mass unit u.
+	15.	 Show that nuclear density is almost 
+constant for nuclei with Z > 10.
+	16.	 What is mass defect?
+	17.	 What is binding energy of a nucleus? 
+Give its expression.
+	18.	 Calculate the energy equivalent of 
+1 atomic mass unit.
+	19.	 Give the physical meaning of binding 
+energy per nucleon.
+	20.	 What is meant by radioactivity?
+	12.	 M p denotes the mass of the proton 
+and M n denotes mass of a neutron. 
+A given nucleus of binding energy B, 
+contains Z protons and N neutrons. 
+Te mass M(N,Z) of the nucleus is 
+given by(where c is the speed of light)
+(a) M N Z
+NM
+ZM
+Bc
+n
+p
+,
+(
+) =
++
+−
+2
+(b) M N Z
+NM
+ZM
+Bc
+n
+p
+,
+(
+) =
++
++
+2
+(c) M N Z
+NM
+ZM
+B c
+n
+p
+,
+/
+(
+) =
++
+−
+2
+(d) M N Z
+NM
+ZM
+B c
+n
+p
+,
+/
+(
+) =
++
++
+2
+	13.	 A radioactive nucleus (initial mass 
+number A and atomic number Z) 
+emits two α-particles and 2 positrons. 
+Te ratio of number of neutrons to that 
+of proton in the fnal nucleus will be
+(a) A
+Z
+Z
+−
+−
+−
+4
+2
+	
+(b) A
+Z
+Z
+−
+−
+−
+2
+6
+(c) A
+Z
+Z
+−
+−
+−
+4
+6
+	
+(d) A
+Z
+Z
+−
+−
+−
+12
+4
+	14.	 Te half-life period of a radioactive 
+element A is same as the mean life 
+time of another radioactive element B. 
+Initially both have the same number of 
+atoms. Ten
+(a) A and B have the same decay rate 
+initially
+(b) A and B decay at the same rate always
+(c) B will decay at faster rate than A
+(d) A will decay at faster rate than B. 
+	15.	 A radiative element has N0 number 
+of nuclei at t=0. Te number of nuclei 
+remaining afer half of a half-life (that 
+is, at time t
+T
+= 1
+2
+1
+2
+)
+(a) N0
+2 	
+(b) N0
+2
+(c) N0
+4 	
+(d) N0
+8
+XII_Physics_Vol-2_UNIT-9_EM.indd   190
+XII_Physics_Vol-2_UNIT-9_EM.indd   190
+19-12-2022   16:07:30
+19-12-2022   16:07:30
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 199
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+191
+	 9.	 Discuss the gamma emission process 
+with example.
+	10.	 Obtain the law of radioactivity.
+	11.	 Discuss the properties of neutrino and 
+its role in beta decay.
+	12.	 Explain the idea of carbon dating.
+	13.	 Discuss the process of nuclear fssion 
+and its properties.
+	14.	 Discuss the process of nuclear fusion 
+and how energy is generated in stars?
+	15.	 Describe the working of nuclear reactor 
+with a block diagram.
+	16.	 Explain in detail the four fundamental 
+forces in nature.
+	17.	 Briefy explain the elementary particles 
+present in nature.
+Exercises
+	 1.	 Consider two hydrogen atoms HA 
+and HB in ground state. Assume that 
+hydrogen atom HA is at rest and 
+hydrogen atom HB is moving with a 
+speed and make head-on collision 
+with the stationary hydrogen atom HA. 
+Afer the collision, both of them move 
+together. What is minimum value 
+of the kinetic energy of the moving 
+hydrogen atom HB, such that any one 
+of the hydrogen atoms reaches frst 
+excitation state.   	
+
+[Ans: 20.4 eV]
+	 2.	 In the Bohr atom model, the frequency 
+of transitions is given by the following 
+expression
+	
+	 v
+Rc n
+m
+=
+−
+
+
+
+
+1
+1
+2
+2
+, where n < m,
+	21.	 Give the symbolic representation of 
+alpha decay, beta decay and gamma 
+emission.
+	22.	 In alpha decay, why the unstable 
+nucleus emits  2
+4He nucleus? Why it 
+does not emit four separate nucleons?
+	23.	 What is mean life of a radia active 
+nucleus? Give the expression.
+	24.	 What is half-life of a radia active 
+nucleus? Give the expression.
+	25.	 What is meant by activity or decay 
+rate? Give its unit. 
+	26.	 Defne curie.
+	27.	 What are the constituent particles of 
+neutron and proton?
+III Long answer questions
+	 1.	 Explain the J.J. Tomson experiment 
+to determine the specifc charge of 
+electron. 
+	 2.	 Discuss 
+the 
+Millikan’s 
+oil 
+drop 
+experiment to determine the charge of 
+an electron. 
+	 3.	 Derive the energy expression for an 
+eletron is the hydrogen atom using 
+Bohr atom model. 
+	 4.	 Discuss the spectral series of hydrogen 
+atom. 
+	 5.	 Explain the variation of average binding 
+energy with the mass number using 
+graph and discuss about its features.
+	 6.	 Explain in detail the nuclear force.
+	 7.	 Discuss the alpha decay process with 
+example.
+	 8.	 Discuss the beta decay process with 
+examples.
+XII_Physics_Vol-2_UNIT-9_EM.indd   191
+XII_Physics_Vol-2_UNIT-9_EM.indd   191
+19-12-2022   16:07:31
+19-12-2022   16:07:31
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 92
+PDF_PAGE: 200
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+192
+	
+	 Consider the following transitions: 
+Transitions
+m
+n
+→
+1
+3
+2
+→
+2
+2
+1
+→
+3
+3
+1
+→
+	
+	 Show that the frequency of these 
+transitions obey sum rule (which is 
+known as Ritz combination principle) 
+
+[Ans: v
+v
+v
+3
+2
+2
+1
+3
+1
+→
+→
+→
++
+=
+]
+	 3.	 (a) A hydrogen atom is excited by 
+radiation of wavelength 97.5 nm. Find 
+the principal quantum number of the 
+excited state. 
+	
+	 (b) Show that the total number of lines 
+in emission spectrum is 
+n n
+(
+)
+-1
+2
+. 
+Compute the total number of possible 
+lines in emission spectrum as given in(a). 
+
+[Ans: (a) n =4 (b) 6 possible transitions]
+	 4.	 Calculate the radius of the earth if 
+the density of the earth is equal to the 
+density of the nucleus.[mass of earth 
+5 97 1024
+.
+×
+kg ].
+
+[Ans:180m]
+	 5.	 Calculate the mass defect and the 
+binding energy per nucleon of the 
+47
+108Ag nucleus. [atomic mass of Ag = 
+107.905949]
+
+Ans: 
+∆m
+u
+B E
+MeV
+=
+=
+
+
+
+
+
+
+0 990391
+8 5
+.
+.
+.
+ and
+	 6.	 Half lives of two radioactive elements 
+A and B are 20 minutes and 40 minutes 
+respectively. Initially, the samples have 
+equal number of nuclei. Calculate the 
+ratio of decayed numbers of A and B 
+nuclei afer 80 minutes.
+	
+
+[Ans: 5:4]
+	 7.	 On your birthday, you measure the 
+activity of the sample 210Bi which has a 
+half-life of 5.01 days. Te initial activity 
+that you measure is 1µCi . (a) What is 
+the approximate activity of the sample 
+on your next birthday? Calculate (b) 
+the decay constant (c) the mean life (d) 
+initial number of atoms.
+	
+[Ans: (a) 10 22
+- µCi (b) 1 6 10 6
+1
+. ×
+−
+−s 
+(c) 7.23days (d) 2 31 1010
+.
+×
+]
+	 8.	 Calculate the time required for 60% 
+of a sample of radon undergo decay. 
+Given T1 2
+/ of radon =3.8 days
+
+[Ans: 5.022 days]
+	 9.	 Assuming that energy released by 
+the fssion of a single 
+92
+235U nucleus 
+is 200MeV, calculate the number of 
+fssions per second required to produce 
+1 watt power.
+
+[Ans: 3 125 1010
+.
+×
+]
+	10.	 Show that the mass of radium ( 88
+226Ra ) 
+with an activity of 1 curie is almost a 
+gram. Given T1 2
+/ =1600 years.
+	11.	 Characol pieces of tree is found from 
+an archeological site. Te carbon-14 
+content of this characol is only 17.5% 
+that of equivalent sample of carbon 
+from a living tree. What is the age of 
+tree?
+	
+
+[Ans: 1.44 × 104 yr]
+XII_Physics_Vol-2_UNIT-9_EM.indd   192
+XII_Physics_Vol-2_UNIT-9_EM.indd   192
+19-12-2022   16:07:39
+19-12-2022   16:07:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 193
+PDF_PAGE: 201
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+193
+BOOKS FOR REFERENCE
+	 1.	 Introduction to Modern Physics,  H.S. Mani and G.K. Mehta, East-West Press, New Delhi
+	 2.	 Concepts of Modern Physics, Arthur Beiser, McGraw Hill, 6th edition
+	 3.	 Concepts of Physics – H. C. Verma,  Volume 2, Bharati Bhawan Publisher 
+	 4.	 Fundamentals of Physics, Halliday, Resnick and Walker, Wiley Publishers, 10th  edition 
+	 5.	 Physics for scientist and engineers with modern physics, Serway and Jewett, Brook/Coole 
+publishers, 8th edition
+	 6.	 Physics for scientist and engineers with modern physics, Paul Tipler and Gene Mosca, 
+Sixth edition, W.H.Freeman and Company
+ 
+XII_Physics_Vol-2_UNIT-9_EM.indd   193
+XII_Physics_Vol-2_UNIT-9_EM.indd   193
+19-12-2022   16:07:39
+19-12-2022   16:07:39
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 202
+------------------------------------------------------------
+
+Unit 9  Atomic and Nuclear physics
+194
+Atomic and Nuclear physics
+In this activity you will be able to(i) experimentally demon-
+strate the concept of Millikan’s oil drop experiment (ii) fnd the 
+terminal velocity of the drop and (iii) fnd the charge on a drop. 
+STEPS:
+•  Open the browser and type“vlab.amrita.edu” in the address bar. 
+•  Click ‘Physical Sciences’tab. Tenclick ‘Modern Physics Virtual Lab’ and then click ‘Millikan's oil drop 
+experiment’. Go to “simulator” tab to do the experiment. 
+•  Click on ‘START’ button. Click on Combo box to choose the oil.
+•  Click ‘START’ button of stop watch and notice the time taken t1 by a drop, to travel distance l1 between 
+any two points. Calculate the terminal velocity υ1
+1
+1
+= l
+t
+•  Click ‘Voltage On’ to suspend the same oil drop in air, which is the balancing voltage V.
+•  Click the ‘X Ray ON’ button and notice the time taken t2 by same drop to travel distance l2 between any 
+two points. Calculate the terminal velocity υ2
+2
+2
+=
+l
+t
+•  Charge of drop is calculated using the equation q = 6
+1
+2
+πη υ
+υ
+r
+d
+V
+(
+)
++
+. r-radius of oil drop (can be 
+measure using Microscope), η-viscosity of air (1.81 × 10-5 kgm-1s-1), d is the distance between the plates.
+Note:
+1. One time sign up is needed to do simulation. Then login using that username and 
+password. 
+2. Install flash player in your browserif it is not there.
+URL:
+http://vlab.amrita.edu/index.php?sub=1&brch=195&sim=357&cnt=4
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ICT CORNER
+Step4
+Step2
+Step1
+Step3
+Topic: Millikan's oil 
+drop experiment
+XII_Physics_Vol-2_UNIT-9_EM.indd   194
+XII_Physics_Vol-2_UNIT-9_EM.indd   194
+19-12-2022   16:07:41
+19-12-2022   16:07:41
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 195
+PDF_PAGE: 203
+------------------------------------------------------------
+
+195
+U N I T 
+10
+ELECTRONICS AND 
+COMMUNICATION
+In this unit, the students are exposed to
+•	 Energy band diagram in semiconductors
+•	 Types of semiconductors
+•	 Formation of p-n junction diode and its V-I characteristics
+•	 Rectifcation process
+•	 Special purpose diodes
+•	 Transistors and their immediate applications
+•	 Digital and analog signals
+•	 Logic gates, Boolean algebra and De Morgan’s theorem
+•	 Modulation and its types
+•	 Basic elements of communication system
+•	 Propagation of electromagnetic waves through space
+•	 Some important communication systems
+Electronics is clearly the winner of the day 
+– John Ford.
+Learning Objectives
+INTRODUCTION
+Electronics has become a part of our 
+daily life. All gadgets like mobile phones, 
+computers, televisions, music systems 
+etc work on the electronic principles. 
+Electronic circuits are used to perform 
+various operations in devices like air 
+conditioners, 
+microwave 
+oven, 
+dish 
+washers and washing machines. Besides 
+this, its applications are widespread in 
+all fields like communication systems, 
+medical diagnosis and treatments and 
+even handling money through ATMs. 
+10.1
+Evolution of Electronics:
+The history of electronics began with the 
+invention of vacuum diode by J.A. Fleming 
+in 1897. This was followed by a vacuum 
+triode implemented by Lee De Forest to 
+control electrical signals. This led to the 
+introduction of tetrode and pentode tubes.
+Subsequently, the transistor era began 
+with the invention of bipolar junction 
+transistor by Bardeen, Brattain and  Shockley 
+in 1948 for which they received Nobel prize 
+in 1956. The emergence of germanium 
+and silicon semiconductor materials made 
+this transistor gain popularity, in turn its 
+application in different electronic circuits.
+195
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   195
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   195
+19-12-2022   16:38:46
+19-12-2022   16:38:46
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 196
+PDF_PAGE: 204
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+196
+Passive 
+components: 
+components that cannot 
+generate power in a circuit.
+Active components: components that 
+can generate power in a circuit.
+Note
+ 
+(a)
+ 
+	
+(b)	
+(c)
+ 
+	
+(d)	
+(e)
+Figure 10.1  Evolution of computers  
+(a) One of the world’s frst computers  
+(b) Desktop computer (c) Laptop computer 
+(d) Palmtop computer (e) Smallest computer 
+by IBM kept near the tip of the rice grain
+The world’s first computer 
+‘ENIAC’ was invented by 
+J. 
+Presper 
+Eckert 
+and 
+John Mauchly at the University of 
+Pennsylvania. The construction work 
+started in 1943 and got over in 1946. It 
+occupied an area of around 1800 square 
+feet. It had 18,000 vacuum tubes and it 
+weighed around 50 tons.
+The following years witnessed the 
+invention of the integrated circuits (ICs) 
+that helped to integrate the entire electronic 
+circuit on a single chip which is small in size 
+and cost-effective. Since 1958 ICs capable 
+of holding several thousand electronic 
+components on a single chip such as small-
+scale, medium-scale, large-scale, and very-
+large scale integration started coming 
+into existence. Digital integrated circuits 
+became another robust IC development 
+that 
+enhanced 
+the 
+architecture 
+of 
+computers. All these radical changes led to 
+the introduction of microprocessor in 1969 
+by Intel.
+The electronics revolution, in due 
+course of time, accelerated the computer 
+revolution. Now the world is on its way 
+towards small particles of nano-size, 
+far too small to see. This helps in the 
+miniaturization to an unimaginable size. 
+A room-size computer during its invention 
+has now emerged as a laptop, palmtop, 
+iPad, etc. In the recent past, IBM has 
+released the smallest computer whose size 
+is comparable to the tip of the rice grain, 
+measuring just 0.33 mm on each side.
+Electronics is the branch of physics which 
+incorporates technology to design electrical 
+circuits using transistors and microchips. 
+It depicts the behaviour and movement of 
+electrons and holes in a semiconductor, 
+electrons and ions in vacuum or gas. 
+Electronics deals with electrical circuits 
+that involve active components such as 
+transistors, 
+diodes, 
+integrated 
+circuits 
+and sensors, associated with the passive 
+components 
+like 
+resistors, 
+inductors, 
+capacitors and transformers.
+This chapter deals with semiconductor 
+devices like p-n junction diodes, bipolar 
+junction transistors and logic circuits.
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   196
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   196
+19-12-2022   16:38:47
+19-12-2022   16:38:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 197
+PDF_PAGE: 205
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+197
+energy levels will be closely spaced and will 
+be difficult to differentiate the orbitals of 
+one atom from the other and they look like 
+a band as shown in Figure 10.2. This band 
+of very large number of closely spaced 
+energy levels in a very small energy range 
+is known as energy band. 
+The energy band formed due to the 
+valence orbitals is called valence band (VB) 
+and that formed due to the unoccupied 
+orbitals to which electrons can jump when 
+energised is called the conduction band 
+(CB). The energy gap between the valence 
+band and the conduction band is called 
+forbidden energy gap (Eg). Electrons 
+cannot exist in the forbidden energy gap.
+A simple pictorial representation of 
+the valence band and conduction band 
+is shown in Figure 10.2(a). EV  represents 
+the maximum energy of the valence band 
+and EC represents minimum energy of the 
+conduction band. The forbidden energy gap, 
+Eg = EC– Ev. We know that the Coulomb force 
+of attraction between the orbiting electron 
+and the nucleus is inversely proportional to 
+the distance between them. Therefore, the 
+electrons in the orbitals closer to the nucleus 
+are strongly bound to it. Hence, the electrons 
+closer to nucleus require a lot of energy to be 
+excited. The electrons in the valence band 
+are loosely bound to the nucleus and can be 
+easily excited to become free electrons.
+10.1.1  Energy band diagram 
+of solids
+In an isolated atom, the electronic energy 
+levels are widely separated and are far apart 
+and the energy of the electron is decided by the 
+orbit in which it revolves around the nucleus. 
+However, in the case of a solid, the atoms 
+are closely spaced and hence the electrons in 
+the outermost energy levels of nearby atoms 
+influence each other. This changes the nature 
+of the electron motion in a solid from that in 
+an isolated atom to a large extent.
+The valence electrons in an atom are 
+responsible for the bonding nature. Let 
+us consider an atom with one electron 
+in the outermost orbit. It means that the 
+number of valence electrons is one. When 
+two such atoms are brought close to each 
+other, the valence orbitals are split up into 
+two. Similarly the unoccupied orbitals of 
+each atom will also split up into two. The 
+electrons have the choice of choosing any 
+one of the orbitals as the energy of both the 
+orbitals is the same. When the third atom of 
+the same element is brought to this system, 
+the valence orbitals of all the three atoms are 
+split into three.The unoccupied orbitals also 
+will split into three. 
+In reality, a solid is made up of millions of 
+atoms. When millions of atoms are brought 
+close to each other, the valence orbitals and 
+the unoccupied orbitals are split according 
+to the number of atoms. In this case, the 
+Conduction band
+Valence band
+Forbidden
+energy gap
+Electron
+(a)
+EV
+EC
+Eg
+Conduction 
+band
+Valence 
+band
+Eg = 6eV
+Eg = 1eV
+Free 
+electrons
+Holes
+Insulator
+Semiconductor
+Conductor
+(b)
+(c)
+(d)
+CB
+CB
+CB
+VB
+VB
+VB
+Figure 10.2  (a) Schematic representation of valence band, conduction band and forbidden 
+energy gap. Energy band structure of (b) Insulator (c) Conductor (d) Semiconductor
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   197
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   197
+19-12-2022   16:38:47
+19-12-2022   16:38:47
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 3
+PDF_PAGE: 206
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+198
+(Figure 10.2(d)). At a finite temperature, 
+thermal agitations in the solid can break the 
+covalent bond between the atoms (covalent 
+bond is formed due to the sharing of electrons 
+to attain stable electronic configuration). 
+This releases some electrons from valence 
+band to conduction band. Since free electrons 
+are small in number, the conductivity of 
+the semiconductors is not as high as that 
+of the conductors.  The resistivity value of 
+semiconductors is from 10–5 Ωm to 106 Ωm.
+In semiconductors, electrons 
+in the valence band are bound 
+electrons which cannot move. 
+Hence, they cannot contribute for 
+conduction.
+Note
+When the temperature is increased further, 
+more number of electrons are promoted to 
+the conduction band and they increase the 
+conduction. Thus, we can say that the electrical 
+conduction increases with the increase in 
+temperature. In other words, resistance 
+decreases with increase in temperature. Hence, 
+semiconductors are said to have negative 
+temperature coefficient of resistance. The 
+most important commonly used elemental 
+semiconducting materials are silicon (Si) and 
+germanium (Ge). The values of forbidden 
+energy gap for Si and Ge at room temperature 
+are 1.1 eV and 0.7 eV respectively.
+TYPES OF 
+SEMICONDUCTRORS
+10.2.1  Intrinsic 
+semiconductors
+A semiconductor in its pure form 
+without any impurity is called an intrinsic 
+semiconductor. Here, impurity means 
+10.2
+The energy of the orbiting 
+electrons is measured in electron 
+volts (eV).
+Note
+10.1.2  Classification of 
+materials
+The classification of solids into insulators, 
+metals, and semiconductors can be explained 
+with the help of the energy band diagram. 
+i)  Insulators
+The energy band structure of insulators 
+is shown in Figure 10.2(b). The valence band 
+and the conduction band are separated by a 
+large energy gap. The forbidden energy gap 
+is approximately 6 eV in insulators. The gap 
+is very large that electrons from valence band 
+cannot move into conduction band even on 
+the application of strong external electric field 
+or the increase in temperature. Therefore, the 
+electrical conduction is not possible as the free 
+electrons are not available for conduction and 
+hence these materials are called insulators. Its 
+resistivity is in the range of 1011–1019 Ωm.
+ii)  Conductors
+In condutors, the valence band and 
+conduction band overlap as shown in Figure 
+10.2(c). Hence, electrons can move freely 
+into the conduction band which results in 
+a large number of free electrons available in 
+the conduction band. Therefore, conduction 
+becomes possible even at low temperatures. 
+The application of electric field provides 
+sufficient energy to the electrons to drift in a 
+particular direction to constitute a current. 
+For condutors, the resistivity value lies 
+between 10–2 Ωm and 10–8 Ωm.
+iii)  Semiconductors
+In semiconductors, there exists a narrow 
+forbidden energy gap 
+E
+eV
+g <
+(
+)
+3
+ between 
+the valence band and the conduction band 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   198
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   198
+19-12-2022   16:38:48
+19-12-2022   16:38:48
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 199
+PDF_PAGE: 207
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+199
+electrons as shown in Figure 10.4(b). The 
+vacancies produced in the valence band are 
+called holes. As the holes are deficiency of 
+electrons, they are treated to possess positive 
+charges. Hence, electrons and holes are the 
+two charge carriers in semiconductors.
+In intrinsic semiconductors, the number 
+of electrons in the conduction band is equal to 
+the number of holes in the valence band. The 
+electrical conduction is due to the electrons 
+in the conduction band and holes in the 
+valence band. The corresponding currents 
+are represented as Ie and Ih respectively.
+EV
+Free
+electron
+Hole
+Eg
+EC
+(b)
+Conduction Band
+Valence Band
+Figure 10.4  (a) Te presence of free 
+electron, hole and broken covalent bond 
+in the intrinsic silicon crystal  
+(b) Presence of electrons in the 
+conduction band and holes in the 
+valence band at room temperature
+presence of any other foreign atom in the 
+crystal lattice. The silicon lattice is shown 
+in Figure 10.3(a). Each silicon atom has 
+four electrons in the outermost orbit and is 
+covalently bonded with four neighbouring 
+atoms to form the lattice. The band diagram 
+for this case is shown in Figure 10.3(b). 
+A small increase in temperature is 
+sufficient enough to break some of the 
+covalent bonds and release the electrons 
+free from the lattice (10.4(a)). As a result, 
+some states in the valence band become 
+empty and the same number of states in 
+the conduction band will be occupied by 
+(b)
+EV
+EC
+Eg
+Conduction Band
+Valence Band
+Figure 10.3  (a) Two dimensional 
+crystal lattice of silicon (b) Valence 
+band and conduction band of intrinsic 
+semiconductor
+Covalent bond
+Valence electron
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+(a)
+Si
+Si
+Si
+Free electron
+Broken 
+covalent bond
+Hole
+Si
+Si
+Si
+Si
+Si
+Si
+(a)
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   199
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   199
+19-12-2022   16:38:49
+19-12-2022   16:38:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 200
+PDF_PAGE: 208
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+200
+i)  n-type semiconductor
+ii)  p-type semiconductor
+i)  n-type semiconductor
+A n-type semiconductor is obtained 
+by doping a pure silicon (or germanium) 
+crystal with pentavalent impurity atoms 
+(from V group  of periodic table) such 
+as phosphorus, arsenic and antimony as 
+shown in Figure 10.5(a). The dopant has 
+five valence electrons while the silicon 
+atom has four valence electrons. During 
+the process of doping, a few of the 
+silicon atoms are replaced by pentavalent 
+Definition of a hole: When an 
+electron is excited, covalent 
+bond is broken. Now octet rule 
+will not be satisfied.  Thus each excited 
+electron leaves a vacancy to complete 
+bonding. This ‘deficiency’ of electron is 
+termed as a ‘hole’ 
+Note
+The total current I is always the sum of 
+the electron current and the hole current. 
+That is, I
+I
+I
+e
+h
+=
++
+.
+An intrinsic semiconductor behaves 
+like an insulator at 0 K. The increase in 
+temperature increases the number of 
+charge carriers (electrons and holes). 
+The schematic diagram of the intrinsic 
+semiconductor in band diagram is shown 
+in Figure 10.4(b). The intrinsic carrier 
+concentration is the number of electrons 
+in the conduction band or the number of 
+holes in the valence band in an intrinsic 
+semiconductor.
+10.2.2  Extrinsic semiconductors
+The carrier concentration in an 
+intrinsic semiconductor is not sufficient 
+enough to develop efficient electronic 
+devices. Another way of increasing the 
+carrier concentration in an intrinsic 
+semiconductor is by adding impurity 
+atoms. 
+The process of adding impurities to 
+the intrinsic semiconductor is called 
+doping. It increases the concentration of 
+charge carriers (electrons and holes) in the 
+semiconductor and in turn, its electrical 
+conductivity. The impurity atoms are called 
+dopants and its order is approximately 
+100 ppm (parts per million). 
+On the basis of the type of impurity 
+added, 
+extrinsic 
+semiconductors 
+are 
+classified into:
+Free 
+electron
+(a)
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+P
++5
+Donor 
+energy 
+levels
+Conduction band
+Valence band
+Figure 10.5  n-type extrinsic 
+semiconductor: (a) Free electron which  
+is loosely attached to the lattice  
+(b) Representation of donor energy level
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   200
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   200
+19-12-2022   16:38:49
+19-12-2022   16:38:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 201
+PDF_PAGE: 209
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+201
+each impurity atom provides one extra 
+electron to the conduction band in addition 
+to the thermally generated electrons. These 
+thermally generated electrons leave holes in 
+valence band. Hence, the majority carriers 
+of current in an n-type semiconductor are 
+electrons and the minority carriers are 
+holes. Such a semiconductor doped with 
+a pentavalent impurity is called an n-type 
+semiconductor. 
+ii)  p-type semiconductor
+In p-type semiconductor, trivalent impurity 
+atoms (from III group of periodic table) such 
+as boron, aluminium, gallium and indium are 
+added to the silicon (or germanium) crystal. 
+The dopant with three valence electrons can 
+form three covalent bonds with three silicon 
+atoms. Of the four covalent bonds, three bonds 
+are complete and the remaining one bond is 
+incomplete with one electron. This electron 
+vacancy present in the fourth covalent bond is 
+represented as a hole. 
+To make complete covalent bonding 
+with all four neighbouring atoms, the 
+dopant is in need of one more electron. 
+These dopants can accept electrons from 
+the neighbouring atoms. Therefore, this 
+impurity is called an acceptor impurity. 
+The energy level of the hole created by 
+each impurity atom is just above the 
+valence band and is called the acceptor 
+energy level, as shown in Figure 10.7(b).
+For each acceptor atom, there will 
+be a hole in the valence band; this is in 
+addition to the holes left by the thermally 
+generated electrons. In such an extrinsic 
+semiconductor, holes are the majority 
+carriers and thermally generated electrons 
+are minority carriers as shown in Figure 
+10.8. The extrinsic semiconductor thus 
+formed is called a p-type semiconductor.
+dopants. Four of the five valence electrons 
+of the impurity atom form covalent 
+bonds with four silicon atoms. The fifth 
+valence electron of the impurity atom is 
+loosely attached with the nucleus as it is 
+not used in the formation of the covalent 
+bond. 
+The energy level of the loosely attached 
+fifth electron from the dopant is found 
+just below the conduction band edge and 
+is called the donor energy level as shown 
+in Figure 10.5(b). At room temperature, 
+these electrons can easily move to the 
+conduction band with the absorption of 
+thermal energy. It is shown in the Figure 
+10.6. Besides, an external electric field also 
+can set free the loosely bound electrons 
+and lead to conduction. 
+EV
+EC
+Eg
+Termally 
+generated
+hole
+Electrons from
+dopants
+Donor energy 
+level
+Figure 10.6  Thermally generated 
+holes in the valence band and the free 
+electrons generated by the dopants 
+in the conduction band (n-type 
+semiconductor)
+It is important to note that the energy 
+required for an electron to jump from the 
+valence band to the conduction band in an 
+intrinsic semiconductor is 0.7 eV for Ge and 
+1.1 eV for Si, while the energy required to 
+set free a donor electron is only 0.01 eV for 
+Ge and 0.05 eV for Si. 
+The V group pentavalent impurity atoms 
+donate electrons to the conduction band 
+and are called donor impurities. Therefore, 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   201
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   201
+19-12-2022   16:38:49
+19-12-2022   16:38:49
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 202
+PDF_PAGE: 210
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+202
+The n-type and p-type 
+semiconductors are neutral 
+because only neutral atoms are 
+doped to the intrinsic semiconductors. 
+DIODES
+10.3.1  P-N Junction formation 
+i)  Formation of depletion layer
+A single piece of semiconductor crystal 
+is suitably doped such that its one side is 
+p-type semiconductor and the other side is 
+n-type semiconductor. The contact surface 
+between the two sides is called p-n junction. 
+Whenever p-n junction is formed, some of 
+the free electrons diffuse from the n-side to 
+the p-side while the holes from the p-side to 
+the n-side. The diffusion of charge carriers 
+happens due to the fact that the n-side 
+has higher electron concentration and the 
+p-side has higher hole concentration. The 
+diffusion of the majority charge carriers 
+across the junction gives rise to an electric 
+current, called diffusion current. 
+When an electron leaves the n-side, a 
+pentavalent atom in the n-side becomes a 
+positive ion. The free electron migrating 
+into p-side recombines with a hole present 
+in a trivalent atom near the junction and the 
+trivalent atom becomes a negative ion. Since 
+such ions are bonded to the neighbouring 
+atoms in the crystal lattice, they are unable 
+to move. As the diffusion process continues, 
+a layer of positive ions and a layer of 
+negative ions are created on either side of the 
+junction accordingly. The thin region near 
+10.3
+Figure 10.8  Termally generated 
+electron in the conduction band and the 
+holes generated by the dopants in the 
+valence band (p-type semiconductor)
+Hole from 
+dopant
+Termally 
+generated
+electron
+EV
+Eg
+Ec
+Acceptor energy
+level
+Conduction band
+Valence band
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Si
++4
+Hole
+Si
++4
+Si
++4
+B
++3
+(a)
+Conduction band
+Valence band
+(b)
+Acceptor
+ energy
+ levels
+Figure 10.7  p-type extrinsic semiconductor 
+(a) Hole generated by the dopant  
+(b) Representation of acceptor energy level
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   202
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   202
+19-12-2022   16:38:50
+19-12-2022   16:38:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 203
+PDF_PAGE: 211
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+203
+there is no net electric current across the 
+junction. Thus, a p-n junction is formed.
+ii)  Junction potential or barrier potential
+The movement of charge carriers across 
+the junction takes place only to a certain point 
+beyond which the depletion layer acts like 
+a barrier to further diffusion of free charges 
+across the junction. This is due to the fact 
+that the immobile ions on both sides establish 
+an electric potential difference across the 
+junction. 
+p
+n
+Vb
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
+Depletion region
+Figure 10.10  Barrier potential formed 
+across the junction
+This difference in potential across 
+the depletion layer is called the barrier 
+potential (Vb) as shown in Figure 
+10.10. At 25 0C, this barrier potential is 
+approximately 0.7 V for silicon and 0.3 V 
+for germanium.
+10.3.2  P-N Junction diode
+A p-n junction diode is formed when 
+a p-type semiconductor is fused with an 
+n-type semiconductor. It is a device with 
+single p-n junction as shown in Figure 
+10.11(a) and its circuit symbol is shown 
+in Figure 10.11(b).
+the junction which is free from charge 
+carriers (free electrons and holes) is called 
+depletion region (Figure 10.9).
+An electric field is set up between the 
+positively charged layer in the n-side and 
+the negatively charged layer in the p-side 
+in the depletion region as shown in the 
+Figure 10.9. This electric field makes 
+electrons in the p-side drift into the  n-side 
+and the holes in the n-side into the p-side. 
+The electric current produced due to the 
+motion of the minority charge carriers 
+by the electric field is known as drift 
+current. The diffusion current and drift 
+current flow in opposite directions. 
+Though drift current is less than diffusion 
+current initially, equilibrium is reached 
+between them at a particular time. With each 
+electron (or hole) diffusing across the junction, 
+the strength of the electric field increases 
+thereby increasing the drift current till the two 
+currents become equal. Hence at equilibrium, 
+p
+n
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
+Depletion region
+Hole diﬀusion
+Electron diﬀusion
+Electron drif
+Free electron
+Hole
+Electric ﬁeld 
+Drif current
+Diﬀusion current
+Hole drif
+Figure 10.9  Formation of p–n junction
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   203
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   203
+19-12-2022   16:38:50
+19-12-2022   16:38:50
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 204
+PDF_PAGE: 212
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+204
+the junction. In addition, the accelerated 
+electrons experience a strong attraction by 
+the positive potential applied to the p-side. 
+This results in the movement of electrons in 
+the n-side towards the p-side and similarly, 
+holes in the p-side towards the n-side. When 
+the applied voltage is increased, the width of 
+the depletion region and hence the barrier 
+potential are further reduced. This results in 
+a large number of electrons passing through 
+the junction resulting in an exponential rise 
+in current through the junction. 
+Electrons
+Holes
++
++
+–
+–
+p
+n
+–
+–
+–
+–
+–
++
++
++
++
++
+Depletion region
+Figure 10.12  Schematic representation of 
+a p-n junction diode under forward bias  
+ii)  Reverse bias 
+If the positive terminal of the battery is 
+connected to the n-side and the negative 
+terminal to the p-side, the junction is said to 
+be reverse biased as shown in Figure 10.13.
+Electrons
+Holes
++
++
+–
+–
+p
+n
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Depletion region
+Figure 10.13  Schematic representation of 
+a p-n junction diode under reverse bias
+As the positive terminal is connected 
+to the n-type material, the electrons in the 
+n-side are attracted towards the positive 
+P
+N
+(a)
+p
+n
+Conventional current ﬂow
+(b)
+Figure 10.11  p-n junction diode  
+(a) Schematic representation  
+(b) Circuit symbol 
+Biasing a diode
+Biasing means providing external 
+energy to charge carriers to overcome the 
+barrier potential and make them move in 
+a particular direction. The charge carriers 
+can either move towards the junction or away 
+from the junction. The external voltage 
+applied to the p-n junction is called bias 
+voltage. Depending on the polarity of the 
+external source to the p-n junction, we have 
+two types of biasing:
+i)	 Forward bias
+ii)	 Reverse bias
+i)  Forward bias
+If the positive terminal of the external 
+voltage source is connected to the p-side 
+and the negative terminal to the n-side, it is 
+called forward bias as shown in Figure 10.12. 
+The application of a forward bias potential 
+pushes electrons in the n-side and the holes 
+in the p-side towards the junction. This 
+initiates the recombination with the ions 
+near the junction which in turn reduces the 
+width of the depletion region and hence the 
+barrier potential. 
+The electron from the n-side is now 
+accelerated towards the p-side as it 
+experiences a reduced barrier potential at 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   204
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   204
+19-12-2022   16:38:51
+19-12-2022   16:38:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 205
+PDF_PAGE: 213
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+205
+current through the diode. The voltage across 
+the diode is varied by varying the biasing 
+voltage across the DC power supply. The 
+forward bias voltage and the corresponding 
+forward bias current are noted. A graph is 
+plotted by taking the forward bias voltage (VF) 
+along the x-axis and the current (IF) through 
+the diode along the y-axis. This graph is 
+called the forward V-I characteristics of the 
+p-n junction diode and is shown in Figure 
+10.14(b). Four inferences can be brought out 
+from the graph: 
++
++
++
+mA
+(0 –12V)
+–
+–
+–
+V
+R
+D
+(a)
+Knee
+voltage
+Forward
+bias
+(b)
+IF (mA)
+VF(V)
+Figure 10.14  p-n junction diode 
+(a) Diode under forward bias  
+(b) Forward characteristics
+(i)  At room temperature, a potential 
+difference equal to the barrier potential 
+is required before a reasonable forward 
+current starts flowing across the diode. This 
+voltage is known as threshold voltage or 
+cut-in voltage or knee voltage (Vknee). It 
+terminal and the holes in the p-side are 
+attracted by the negative terminal. This 
+increases the immobile ion concentration 
+at the junction. The net effect is the 
+widening of the depletion region leading 
+to an increase in the barrier potential. 
+Consequently, the majority charge carriers 
+from both sides experience a great potential 
+barrier to cross the junction. This reduces 
+the diffusion current across the junction 
+drastically. 
+Yet, a small current flows across the 
+junction due to the minority charge carriers 
+in both regions. The reverse bias for majority 
+charge carriers serves as the forward bias for 
+minority charge carriers. The current that 
+flows under a reverse bias is called the reverse 
+saturation current. It is represented as Is. 
+The reverse saturation current is 
+independent of the applied voltage and 
+it depends only on the concentration of 
+the thermally generated minority charge 
+carriers. Even a small voltage is sufficient 
+enough to drive the minority charge 
+carriers across the junction. 
+The reverse saturation current 
+of a silicon diode doubles for 
+every 10 °C rise in temperature.
+Note
+10.3.3  Characteristics of a 
+junction diode
+i)  Forward characteristics 
+It is the study of the variation in current 
+through the diode with respect to the applied 
+voltage across the diode when it is forward 
+biased. 
+The p-n junction diode is forward biased 
+as shown in Figure 10.14(a). An external 
+resistance (R) is used to limit the flow of 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   205
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   205
+19-12-2022   16:38:51
+19-12-2022   16:38:51
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 206
+PDF_PAGE: 214
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+206
+is approximately 0.3 V for germanium and 
+0.7 V for silicon. The current flow is 
+negligible when the applied voltage is less 
+than the threshold voltage. Beyond the 
+threshold voltage, increase in current is 
+significant even for a small increase in 
+voltage. 
+(ii)  The graph clearly infers that the 
+current flow is not linear and is exponential. 
+Hence it does not obey Ohm’s law. 
+(iii)  The forward resistance (rF) of the 
+diode is the ratio of the small change in 
+voltage ∆VF
+(
+)to the small change in current
+∆IF
+(
+). That is, r
+V
+I
+F
+F
+F
+= ∆
+∆
+.
+(iv)  Thus the diode behaves as a 
+conductor when it is forward biased.
+However, if the applied voltage is 
+increased beyond a rated value, it will 
+produce an extremely large current which 
+may destroy the junction due to overheating. 
+This is called as the breakdown of the diode 
+and the voltage at which the diode breaks 
+down is called the breakdown voltage. 
+Thus, it is safe to operate a diode between 
+the threshold voltage and the breakdown 
+voltage. 
+ii)  Reverse characteristics 
+The circuit to study the reverse 
+characteristics is shown in Figure 10.15(a). 
+In the reverse bias, the p-side of the diode 
+is connected to the negative terminal and 
+n-side to the positive terminal of the dc 
+power supply.
+A graph drawn between the reverse bias 
+voltage and the current across the junction 
+is called the reverse characteristics of a 
+p-n junction diode. It is shown in Figure 
+10.15(b). Under this bias, a very small 
++
++
++
+µA
+(0 –15V)
+–
+–
+–
+V
+R
+(a)
+D
+Reverse bias
+Reverse
+breakdown
+voltage
+(b)
+IF (mA)
+–IR (µA)
+–VR(V)
+Figure 10.15  p-n junction diode  
+(a) Diode under reverse bias  
+(b) Reverse characteristics
+current in µA flows across the junction. 
+This is due to the flow of the minority 
+charge carriers and is called the leakage 
+current or reverse saturation current. 
+This reverse current is independent of the 
+voltage up to a certain voltage, known as 
+breakdown voltage.
+Ideal diode: It acts like a 
+conductor when it is forward 
+biased. When it is reverse 
+biased, it acts like an insulator. For 
+ideal diodes,  the forward resistance 
+is zero and barrier potential is 
+considered negligible.
+Note
+The forward and reverse charactristics 
+are given in one graph as shown in 
+Figure 10.16.
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   206
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   206
+19-12-2022   16:38:52
+19-12-2022   16:38:52
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 215
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+207
+EXAMPLE 10.2
+A silicon diode is connected with 1kΩ 
+resistor as shown. Find the value of current 
+flowing through AB.
+A
+B
+1kΩ
+–7.4 V
++3.3 V
+Solution
+The P.D. between A and B is given by
+V = [VA–VB]–Vb(Si)
+    = [3.3 – (–7.4)] – 0.7
+    = 10.7 – 0.7 = 10 V
+The value of current flowing through AB 
+can be obtained using Ohm’s law.
+I
+V
+R
+=
+=
+×
+=
+=
+−
+10
+1 10
+10
+10
+3
+2 A
+mA
+10.3.4  Rectification
+The process in which alternating voltage 
+or alternating current is converted into 
+direct voltage or direct current  is known 
+as rectification. The device used for this 
+process is called as rectifier. In this section, 
+we will discuss two types of rectifiers namely, 
+half wave rectifier and full wave rectifier
+i)  Half wave rectifier circuit
+The half wave rectifier circuit consists 
+of a transformer, a p-n junction diode and 
+a resistor (Figure 10.17(a)). In a half wave 
+rectifier circuit, either a positive half or the 
+negative half of the AC input is passed through 
+by the diode while the other half is blocked. 
+Only one half of the input wave is rectified. 
+Therefore, it is called half wave rectifier. Here, 
+a p-n junction diode acts as a rectifier diode.
+During the positive half cycle
+When the positive half cycle of the AC 
+input signal passes through the circuit, 
+EXAMPLE 10.1
+An ideal diode and a 5 Ω 
+resistor are connected in 
+series with a 15 V power 
+supply as shown in figure 
+below. Calculate the current that flows 
+through the diode.
+5Ω
+15V
++
+–
+Solution
+The diode is forward biased and it is 
+an ideal one. Hence, it acts like a closed 
+switch with no barrier voltage. Therefore, 
+current that flows through the diode can 
+be calculated using Ohm’s law.
+V
+IR
+=
+I
+V
+R
+=
+=
+=
+15
+5
+3A
+IF (mA)
+–IR (µA)
+Forward
+bias
+Reverse
+bias
+–VR(V)
+VF(V)
+Figure 10.16  Forward and reverse 
+charactristics of a diode
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   207
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   207
+19-12-2022   16:38:53
+19-12-2022   16:38:53
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 216
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+208
+The output of the half wave rectifier 
+is not a steady DC voltage but a pulsating 
+wave. This pulsating voltage cannot be used 
+for electronic equipments. A constant or 
+a steady voltage is required which can be 
+obtained with the help of filter circuits and 
+voltage regulator circuits.  
+Efficiency (η) is the ratio of the output DC 
+power to the AC input power supplied to the 
+circuit. Its value for half wave rectifier is 40.6 %.
+If the direction of the diode 
+is reversed, the negative half 
+of the AC signal is passed 
+through and the positive half is blocked.
+Note
+ii)  Full wave rectifier
+The positive and negative half cycles 
+of the AC input signal are rectified in this 
+circuit and hence it is called the full wave 
+rectifier. The circuit is shown in Figure 
+10.18(a). It consists of two p-n junction 
+diodes, a centre tap transformer and a load 
+resistor RL. The centre is usually taken as 
+the ground or zero voltage reference point. 
+With the help of the centre tap transformer, 
+each diode rectifies one half of the total 
+secondary voltage. 
+During positive half cycle
+When the positive half cycle of the AC 
+input signal passes through the circuit, 
+terminal M is positive, C is at zero potential and 
+N is at negative potential. This forward biases 
+diode D1 and reverse biases diode D2. Hence, 
+being forward biased, diode D1conducts and 
+current flows along the path MD ABC
+1
+. 
+During negative half cycle
+When the negative half cycle of the AC 
+input signal passes through the circuit, 
+terminal N becomes positive, C is at zero 
+terminal A becomes positive with respect 
+to terminal B. The diode is forward biased 
+and hence it conducts. The current flows 
+through the load resistor RL and the AC 
+voltage developed across RL constitutes 
+the output voltage V0 and the waveform 
+of the output voltage is shown in Figure 
+10.17(b).
+During the negative half cycle
+When the negative half cycle of the AC 
+input signal passes through the circuit, 
+terminal A is negative with respect to 
+terminal B. Now the diode is reverse biased 
+and does not conduct. Hence no current 
+passes through RL. The reverse saturation 
+current in a diode is negligible. Since there 
+is no voltage drop across RL, the negative 
+half cycle of AC supply is suppressed at the 
+output.  
+I
+A
+B
+AC
+Input
+Diode
+RL
+Vo
++
+–
+(a)
+(b)
+vi
+vo
+0
+time
+time
+0
+Figure 10.17  (a) Half wave rectifer 
+circuit (b) Input and output waveforms
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   208
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   208
+19-12-2022   16:38:54
+19-12-2022   16:38:54
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 217
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+209
+Centre tap transformer: 
+There is a facility to tap 
+at halfway point in the 
+secondary windings. This helps to 
+measure the induced voltage from 
+one end of the secondary to the 
+centre point. If the centre tap point is 
+grounded, then the voltage across the 
+secondary will be divided into two 
+halves. For example, if the voltage 
+across the secondary is 240 V, then the 
+voltage across one end and the centre 
+tap point is +120 V and at the other 
+end it is –120 V. 
+Note
+10.3.5  Breakdown mechanism 
+The reverse current or the reverse 
+saturation current due to the minority 
+charge carriers is small. If the reverse bias 
+applied to a p-n junction is increased beyond 
+a point, the junction breaks down and the 
+reverse current rises sharply. The voltage 
+at which breakdown happens is called the 
+breakdown voltage and it depends on the 
+width of the depletion region, which in 
+turn depends on the doping level. 
+A normal p-n junction diode gets 
+damaged at this point. Specially designed 
+diodes like Zener diode can be operated at 
+this region and can be used for the purpose 
+of voltage regulation in circuits. There are 
+two mechanisms that are responsible for 
+breakdown under increasing reverse voltage.
+i)  Avalanche breakdown
+Avalanche breakdown occurs in a lightly 
+doped junctions which have wide depletion 
+region. When reverse bias voltage exceeds a 
+certain value, the minority charge carriers are 
+accelerated by reverse voltage and their kinetic 
+energy increases. These charge carriers collide 
+potential and M is at negative potential. 
+This forward biases diode D2 and reverse 
+biases diode D1. Hence, being forward 
+biased, diode D2 conducts and current 
+flows along the path ND ABC
+2
+. 
+During both postive and negative half 
+cycles of the input signal, the current flows 
+through the load in the same direction. The 
+output signal corresponding to the input 
+signal is shown in Figure 10.18(b). Though 
+both half cycles of AC input are rectified, 
+the output is still pulsating in nature. 
+The efficiency (η) of full wave rectifier 
+is twice that of a half wave rectifier and is 
+found to be 81.2 %. It is because of power 
+losses in the winding, the diode and the load 
+resistance.
+M
+N
+RL
+–
++
+D1
+D2
+Current ﬂow during 
+positive half cycle
+Current ﬂow during 
+negative half cycle
+(a)
+B
+A
+C
+AC
+Input
+Vo
+(b)
+vi
+vo
+0
+time
+time
+0
+Figure 10.18  (a) Full wave rectifer 
+circuit (b) Input and output waveforms
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   209
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   209
+19-12-2022   16:38:55
+19-12-2022   16:38:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 210
+PDF_PAGE: 218
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+210
+10.3.6  Zener diode
+Zener diode is a heavily doped silicon 
+diode used in reverse biased condition and 
+is named after its inventor Clarence Melvin 
+Zener. It is specially designed to be operated in 
+the breakdown region. The doping level of the 
+silicon diode can be varied to have a wide range 
+of breakdown voltages from 2 V to over 1000 V.
+As explained in the previous section, Zener 
+breakdown occurs due to the breaking up of 
+covalent bonds by the strong electric field 
+set up in the depletion region by the reverse 
+voltage. It produces an extremely large number 
+of electrons and holes which constitute the 
+reverse saturation current. The current is 
+limited by both external resistance and power 
+dissipation of the diode. A Zener diode is 
+shown in Figure 10.19(a) and its circuit symbol 
+is given in Figure 10.19(b).
+It looks like an ordinary p-n junction 
+diode except that n-side lead resembles the 
+shape of the letter ‘z’. The arrow head points 
+the direction of conventional current. In 
+Figure 10.19(a), black ring indicates the 
+n-side lead.
+   
+Figure 10.19  Zener diode  
+(a) Commercial picture (b) Circuit symbol
+V-I Characteristics of Zener diode
+The circuit to study the forward and reverse 
+characteristics of a Zener diode is shown in 
+Figure 10.20(a) and Figure 10.20 (b). The V-I 
+characteristics of a Zener diode is shown in 
+Figure 10.20(c). The forward characteristic of 
+a Zener diode is similar to that of an ordinary 
+p-n junction diode. It starts conducting 
+approximately around 0.7 V. However, the 
+reverse characteristics is highly significant in 
+Zener diode. The increase in reverse voltage 
+with semiconductor atoms while passing 
+through the depletion region. This leads to the 
+breaking up of covalent bonds and this results 
+in the generation of electron - hole pairs. 
+The newly generated charge carriers are 
+also accelerated by the reverse voltage resulting 
+in more collisions and further production of 
+charge carriers. This cumulative process leads 
+to an avalanche (uncontrollably large number) 
+of charge carriers across the junction. This 
+causes diode current to rise abruptly and 
+breakdown takes place. This breakdown is 
+called avalanche breakdown.
+ii)  Zener breakdown
+Heavily doped p-n junctions have narrow 
+depletion layers whose width is of the order 
+of <10–6 m. When reverse voltage across 
+this junction is increased to the breakdown 
+limit, a very strong electric field of strength 
+3 × 107 V m–1 is set up across the narrow 
+layer. This electric field is strong enough to 
+break or rupture the covalent bonds in the 
+lattice and thereby generating electron-hole 
+pairs. This effect is called Zener effect. 
+Even a small further increase in reverse 
+voltage produces a large number of charge 
+carriers which move across the junction 
+through the thin depletion region. This process 
+gives rise to a large amount reverse current 
+or breakdown current and this breakdown is 
+called Zener breakdown.
+In 
+Avalanche 
+breakdown, 
+the minority charge carriers 
+gain sufficient energy from 
+excessive reverse bias voltage to 
+break covalent bond in order to produce 
+new charge carriers. But Zener breakdown 
+occurs due to the direct rupture of covalent 
+bonds because of the existence of the 
+strong electric field. Since depletion region 
+is thin, Zener breakdown occurs usually 
+at lesser reverse bias voltage compared to 
+Avalanche breakdown voltage.
+Note
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   210
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   210
+19-12-2022   16:38:55
+19-12-2022   16:38:55
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 211
+PDF_PAGE: 219
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+211
+•  Maximum current limited by maximum 
+power dissipation, IZ max
+(
+)
+The Zener diode is operated in the reverse 
+bias condition with the voltage greater than 
+VZ and current less than IZ(max). The reverse 
+characteristic is not exactly vertical which 
+means that the diode possesses some small 
+resistance called Zener dynamic impedance. 
+Zener resistance is the inverse of the slope of 
+the curve in the breakdown region. It means 
+an increase in the Zener current produces 
+only a very small increase in the reverse 
+voltage. However this can be neglected. 
+The voltage of an ideal Zener diode does 
+not change once it goes into breakdown. In 
+other words, VZ  remains almost constant 
+even when IZ  increases considerably.
+The maximum reverse bias 
+that can be applied before 
+entering into the Zener 
+region is called the peak inverse voltage, 
+commercially referred as PIV rating.
+Note
+Applications
+The zener diode can be used
+•  as voltage regulator
+•  for calibrating voltages
+•  to provide fixed reference voltage in a 
+network for biasing 
+•  to protect of any gadget against damage 
+from accidental application of excessive 
+voltage.
+Zener diode as a voltage regulator
+Zener diode working in the breakdown 
+region can serve as a voltage regulator whose 
+circuit diagram is given in Figure 10.21. A 
+series resistance Rs of suitable value is used to 
+limit the Zener current to avoid any damage 
+to the diode. This resistance also plays a role 
+in voltage regulation. The fluctuating DC 
+normally generates very small reverse current. 
+While in Zener diode, when the reverse voltage 
+is increased to the breakdown voltage (VZ), the 
+increase in current is very sharp. The voltage 
+remains almost constant throughout the 
+breakdown region. In Figure 10.20(c), IZ(max) 
+represents the maximum reverse current. If the 
+reverse current is increased further, the diode 
+will be damaged. The important parameters 
+of the reverse characteristics are
+•  Zener breakdown voltage, VZ
+•  Minimum current to sustain breakdown, 
+IZ min
+(
+)
+Iz(min)
+Iz(max)
+–VZ
+Forward
+bias 
+region
+Constant
+zener voltage
+Zener breakdown
+region
+Knee
+voltage
+(c)
+IF (mA)
+–IR (µA)
+–VR(V)
+VF(V)
++
++
++
++
+mA
+(a)
+(0 –12V)
+V
+–
+–
+–
+–
+R
+D
++
++
++
++
+µA
+(0 –15V)
+V
+–
+–
+–
+–
+R
+D
+(b)
+Figure 10.20  Zener diode (a) Forward 
+bias (b) Reverse bias (c) V-I characteristics 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   211
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   211
+19-12-2022   16:38:56
+19-12-2022   16:38:56
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 6
+PDF_PAGE: 220
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+212
+EXAMPLE 10.3
+Find the current through the Zener diode 
+when the load resistance is 2 kΩ. Use diode 
+approximation.
+VZ = 9 V
+RL= 2kΩ
+RS = 1 kΩ
+A
+B
+I
+IL
+15 V
+Solution
+Voltage across AB, VZ = 9V
+Voltage drop across RS = 15 – 9 = 6V
+Therefore current through the resistor RS, 
+      I = ×
+=
+6
+1 10
+6
+3
+mA
+Voltage across the load resistor, VAB
+V
+=9
+Current through load resistor,   
+      I
+V
+R
+L
+AB
+L
+=
+= ×
+=
+9
+2 10
+4 5
+3
+. mA
+The current through the Zener diode,  
+      I
+I
+I
+Z
+L
+= −
+=
+−
+=
+6
+4 5
+1 5
+mA
+mA
+mA
+.
+.
+10.3.7  Optoelectronic devices
+Optoelectronics deals with devices which 
+convert electrical energy into light and light 
+into electrical energy using semiconductors. 
+Optoelectronic device is an electronic device 
+which utilizes light for useful applications.  We 
+will discuss some important optoelectronic 
+devices namely, light emitting diodes, photo 
+diodes and solar cells. 
+i)  Light Emitting Diode (LED)
+LED is a p-n junction diode which 
+emits visible or invisible light when it is 
+input voltage is applied to the circuit and 
+constant output voltage Vo is taken across 
+the load resistance RL which is connected 
+in parallel with Zener diode. The output 
+voltage is maintained constant as long as the 
+input voltage is greater than VZ .
+Vi
+Rs
+IL
+RL
+Iz
+V
+V
+I
+–
++
+o
+z
+Figure 10.21  Circuit to study voltage 
+regulation by Zener diode
+If the input DC voltage is increased, the 
+Zener current increases thereby increasing 
+current through Rs and the voltage drop 
+across Rs is also increased. The increased 
+current flows through the diode without 
+affecting the IL. Since Zener diode is 
+operated in the breakdown region, the 
+Zener breakdown voltage across the diode 
+is nearly constant even though the reverse 
+bias current through the diode increases 
+considerably. The increase in input voltage 
+is dropped across Rs and hence it is also 
+called dropping resistance. Because of the 
+parallel connection, the voltage across RL 
+is also equal to Zener breakdown voltage 
+which is taken as constant output voltage V0.
+If the input DC voltage is decreased, 
+the diode takes a smaller current and the 
+voltage drop across Rs is reduced. Thus, 
+the output voltage V0 remains constant. 
+To sum up, if there is any change in input 
+voltage, the voltage drop across Rs changes 
+accordingly. But the voltage across Zener 
+diode or voltage across RL remains 
+constant. Thus the Zener diode acts as a 
+voltage regulator. 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   212
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   212
+19-12-2022   16:38:58
+19-12-2022   16:38:58
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 10
+PDF_PAGE: 221
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+213
+The colour of the light is determined 
+by the energy band gap of the material. 
+Therefore, LEDs are available in a wide 
+range of colours such as blue (SiC), green 
+(AlGaP) and red (GaAsP). Now a days, 
+LED which emits white light (GaInN) is 
+also available. 
+Applications
+The light emitting diodes are used in 
+· indicator lamps on the front panel of the 
+scientifc and laboratory equipments. 
+· seven-segment displays. 
+· trafc signals, emergency vehicle lighting 
+etc.
+· remote 
+control 
+of 
+television, 
+air­
+conditioner etc.
+EXAMPLE 10.4
+Determine the wavelength 
+of light emitted from LED 
+which is made up of GaAsP semiconductor 
+whose forbidden energy gap is 1.875 eV. 
+Mention the colour of the light emitted 
+(Take h = 6.6 × 10–34 Js).
+Solution
+E
+hc
+hc
+E
+g
+g
+=
+=
+=
+×
+× ×
+×
+×
+−
+−
+λ
+λ
+Therefore,
+6 6
+3 10
+1 875
+10
+34
+8
+19
+.
+.
+10
+1.6
+         
+= 660 nm
+The wavelength 660 nm corresponds to 
+red colour light.
+ii)  Photodiodes
+A p-n junction diode which converts 
+an optical signal into electric signal is 
+known as photodiode. Thus, the operation 
+forward biased. Since electrical energy is 
+converted into light energy, this process 
+is also called electroluminescence. The 
+circuit symbol of LED is shown in Figure 
+10.22(a). The direction of arrows indicates 
+that light is emitted from the diode.
+(a)
+p
+n
++
+–
+P-type
+N-type
+Hole
+Light
+Electron
+Conduction 
+band
+Eg
+Valence 
+band
+Recombi-
+nation
+(b)
+Figure 10.22  (a) Circuit symbol of 
+LED (b) Schematic diagram to explain 
+recombination process 
+When the p-n junction is forward 
+biased, the conduction band electrons on 
+n-side and valence band holes on p-side 
+diffuse across the junction. When they 
+cross the junction, they become excess 
+minority carriers (electrons in p-side and 
+holes in n-side). These excess minority 
+carriers recombine with oppositely charged 
+majority carriers in the respective regions, 
+i.e. the electrons in the conduction band 
+recombine with holes in the valence band 
+as shown in the Figure 10.22(b). 
+During recombination process, energy 
+is released in the form of light (radiative) 
+or heat (non-radiative). For radiative 
+recombination, a photon of energy hv is 
+emitted. For non-radiative recombination, 
+energy is liberated in the form of heat. 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   213
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   213
+19-12-2022   16:38:59
+19-12-2022   16:38:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 214
+PDF_PAGE: 222
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+214
+This reverse current in the absence of any 
+incident light is called dark current and is 
+due to the thermally generated minority 
+carriers.
+Applications
+The photodiodes are used in
+· alarm system
+· count items on a conveyor belt
+· photoconductors
+· compact disc players, smoke detectors 
+· medical applications such as detectors for 
+computed tomography etc.
+iii)  Solar cell
+A solar cell, also known as photovoltaic 
+cell, works on the principle of photovoltaic 
+effect. Accordingly, the p-n junction of 
+the solar cell generates emf when solar 
+radiation falls on it. The construction 
+details and cross-sectional view are shown 
+in Figure 10.24.
+In a solar cell, electron–hole pairs are 
+generated due to the absorption of light 
+photons near the junction. Then the charge 
+carriers are separated due to the electric 
+field of the depletion region. Electrons move 
+towards n–type silicon layer and holes move 
+towards p-type silicon layer. The electrons 
+reaching the n-side are collected by the front 
+contact (metal finger contact) and holes 
+reaching p-side are collected by the back 
+of photodiode is exactly inverse to that of 
+an LED. Photodiode works in reverse bias 
+condition. Its circuit symbol is shown in 
+Figure 10.23(a). The direction of arrows 
+indicates that the light is incident on the 
+photodiode. 
+The device consists of a p-n junction 
+semiconductor made of photosensitive 
+material kept safely inside a plastic case as 
+shown in Figure 10.23(b). It has a small 
+transparent window that allows light to be 
+incident on the p-n junction. Photodiodes 
+can generate current when the p-n junction 
+is exposed to light and hence are called as 
+light sensors. 
+(a)
+p
+n
+(b)
+Figure 10.23  (a) Circuit symbol  
+(b) Schematic view of photodiode
+When a photon of sufficient energy 
+(hv) strikes the depletion region of the 
+diode, some of the valence band electrons 
+are elevated into conduction band, in turn 
+holes are developed in the valence band. 
+This creates electron-hole pairs. The 
+amount of electron-hole pairs generated 
+depends on the intensity of light incident 
+on the p-n junction. 
+These electrons and holes are swept 
+across the p-n junction by the electric 
+field created by reverse voltage before 
+recombination takes place. Thus, holes 
+move towards the p-side and electrons 
+towards the n-side. When the external 
+circuit is made, the electrons flow through 
+the external circuit and constitute the 
+photocurrent. 
+When there is no incident light, there 
+exists a reverse current which is negligible. 
+Figure 10.24  Cross-sectional view of a 
+solar cell
+Sunlight
+Front electrical 
+contacts
+Anti-reﬂective 
+coating
+n-side
+Back electrical 
+contact
+p-side
+Depletion 
+region
+–
+–
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   214
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   214
+19-12-2022   16:38:59
+19-12-2022   16:38:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 215
+PDF_PAGE: 223
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+215
+a p-type material sandwiched between 
+two n-type materials (NPN transistor). 
+To protect it against moisture, it is sealed 
+inside a metal or a plastic case. The two 
+types of transistors with their circuit 
+symbols are shown in Figure 10.25.
+Emitter
+Collector
+NPN Transistor
+B
+B
+N
+N
+Base
+C
+C
+E
+JCB
+JEB
+E
+P
+(a)
+Emitter
+Collector
+PNP Transistor
+B
+B
+P
+P
+Base
+C
+C
+E
+JCB
+JEB
+E
+ N
+(b)
+Figure 10.25  Schematic Diagram of  
+(a) NPN transistor and circuit symbol  
+(b) PNP transistor and circuit symbol
+The three regions formed are called 
+as emitter, base and collector which are 
+provided with terminals or ohmic contacts 
+labeled as E, B, and C. As BJT has two p-n 
+junctions, two depletion layers are formed 
+across the emitter-base junction (JEB) and 
+collector-base junction (JCB) respectively. 
+The circuit symbol carries an arrowhead 
+at the emitter lead pointing from p to n 
+indicating the direction of conventional 
+current. 
+Emitter: 
+The main function of the emitter is 
+to supply majority charge carriers to the 
+collector region through the base region. 
+Hence, emitter is more heavily doped than 
+the other two regions.
+electrical contact. Thus a potential difference 
+is developed across solar cell.When an 
+external load is connected to the solar cell, 
+photocurrent ­­flows through the load.
+Many solar cells are connected together 
+either in series or in parallel combination 
+to form a solar panel. Many solar panels 
+are connected with each other to form solar 
+arrays. For high power applications, solar 
+panels and solar arrays are used.
+Applications:
+i)  Solar cells are widely used in 
+calculators, watches, toys, portable power 
+supplies, etc.
+ii)  Solar cells are used in satellites and 
+space applications.
+iii)  Solar panels are used for commercial 
+production of electricity.
+THE BIPOLAR JUNCTION 
+TRANSISTOR [BJT]
+Introduction
+In 1951, William Schockley invented 
+the modern version of transistor. It is 
+a semiconductor device that led to a 
+technological revolution in the twentieth 
+century. The heat loss in transistor is 
+very less. This has laid the foundation 
+for 
+integrated 
+chips 
+which 
+contain 
+thousands of miniaturized transistors. 
+The emergence of the integrated chips 
+led to increasing applications in the fast 
+developing electronics industry. 
+Bipolar Junction Transistor (BJT)
+The BJT consists of a semiconductor 
+(silicon or germanium) crystal in which 
+an n-type material is sandwiched between 
+two p-type materials (PNP transistor) or 
+10.4
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   215
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   215
+19-12-2022   16:38:59
+19-12-2022   16:38:59
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 216
+PDF_PAGE: 224
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+216
+In a PNP transistor, base and 
+collector will be negative with 
+respect to emitter indicated 
+by the middle letter N whereas base 
+and collector will be positive in an 
+NPN transistor indicated by the middle 
+letter P.
+Note
+10.4.1  Transistor circuit 
+configurations
+There are three types of circuit 
+connections for operating a transistor based 
+on the terminal that is used in common to 
+both input and output circuits.
+i)  Common-Base (CB) configuration 
+The base is common to both the input 
+and output circuits. The schematic and 
+circuit symbol are shown in Figure 10.26(a) 
+and 10.26(b). The input current is the 
+emitter current IE and the output current is 
+the collector current IC. The input signal is 
+applied between emitter and base while the 
+output is measured between collector and 
+base.
++
+–
++
+–
+E
+B
+C
+IC
+IE
+IB
+VCB
+VEB
+N
+N
+P
+(a)
++
+–
++
+–
+VEB
+VCB
+E
+B
+C
+IC
+IB
+IE
+(b)
+Figure 10.26  NPN transistor in common 
+base confguration (a) Schematic circuit 
+diagram (b) Circuit symbol
+Base: 
+Base is very thin (10–6 m) and very lightly 
+doped region when compared to the other 
+two regions. 
+Collector: 
+The main function of collector is to 
+collect the majority charge carriers supplied 
+by the emitter through the base. Hence, 
+collector is made physically larger than the 
+other two as it has to dissipate more power. 
+It is modarately doped.
+Because of the difering size 
+and the amount of doping, 
+the emitter and collector 
+cannot be interchanged.
+Note
+Transistor Biasing
+The application of suitable DC voltages 
+across the transistor terminals is called 
+biasing. The transistor biasing is done 
+differently for different uses. The different 
+modes of transistor biasing are given below.
+Forward Active: 
+In this bias, the emitter-base junction 
+is forward biased and the collector-base 
+junction is reverse biased. The transistor 
+is in the active mode of operation. In 
+this mode, the transistor functions as an 
+amplifier.
+Saturation: 
+Here, the emitter-base junction and 
+collector-base junction are forward biased. 
+The transistor has a very large flow of 
+currents across the junctions. In this mode, 
+transistor is used as a closed switch.
+Cut-off: 
+In this bias, the emitter-base junction and 
+collector-base junction are reverse biased. 
+Transistor in this mode acts an open switch.
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   216
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   216
+19-12-2022   16:39:00
+19-12-2022   16:39:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 217
+PDF_PAGE: 225
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+217
+VBC
+VEC
+C
+IB
+IE
+IC
+E
++
++
+–
+–
+B
+N
+N
+P
+(a)
+VEC
+RE
+VBC
+C
+IC
+IB
+IE
+E
++
++
+–
+–
+B
+(b)
+Figure 10.28  NPN transistor in 
+common collector confguration  
+(a) Schematic circuit diagram  
+(b) Circuit symbol
+10.4.2  Transistor action in 
+the common base mode
+The operation of an NPN transistor 
+in the common base mode is explained 
+below. The current flow in a common 
+base NPN transistor in the forward active 
+mode is shown in Figure 10.29. 
+C
+iB1
+iB2
+IB
+IE
+IC
+n++
+n+
+P
+E
+B
+VEB
+VCB
+Electrons
+Recombination
+Figure 10.29  Flow of current in a NPN 
+transistor
+Basically, a BJT can be considered as 
+two p-n junction diodes connected back-
+to-back. In the forward active bias of the 
+ii)  Common-Emitter (CE) configuration 
+In this configuration, the emitter is 
+common to both the input and output 
+circuits as shown in Figure 10.27. The 
+base current IB is the input current and the 
+collector current IC is the output current. The 
+input signal is applied between emitter and 
+base while the output is measured between 
+collector and emitter.
+VCE
+VBE
+C
+IC
+IB
+IE E
++
++
+–
+–
+B P
+N
+N
+(a)
+VCE
+VBE
+C
+IC
+IB
+IE
+E
++
++
+–
+–
+B
+(b)
+Figure 10.27  NPN transistor in common 
+emitter confguration (a) Schematic 
+circuit diagram (b) Circuit symbol
+iii)  Common-Collector (CC) 
+configuration 
+Here, the collector is common to both 
+the input and output circuits as shown in 
+Figure 10.28. The base current IB is the 
+input current and the emitter current IE 
+is the output current. The input signal is 
+applied between base and collector while 
+the output is measured between emitter 
+and collector.
+As the output is taken from 
+the emitter in common 
+collector confguration, it is 
+called an emitter follower. 
+Note
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   217
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   217
+19-12-2022   16:39:00
+19-12-2022   16:39:00
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 218
+PDF_PAGE: 226
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+218
+milliamperes for emitter and collector 
+currents.
+It is to be noted that if the emitter current 
+is zero, then the collector current is almost 
+zero. It is therefore imperative that a BJT is 
+called a current controlled device. Applying 
+Kirchoff’s law, we can write the emitter 
+current as the sum of the collector current 
+and the base current. 
+I
+I
+I
+E
+B
+C
+=
++
+
+(10.1)
+Since the base current is very small, 
+we can write I
+I
+E
+C
+≈
+. There is another 
+component of collector current due to 
+the thermally generated electrons called 
+reverse saturation current, denoted as 
+ICO . This factor is temperature sensitive. 
+Therefore, care must be taken towards 
+the stability of the system at high 
+temperatures. 
+The ratio of the collector current to the 
+emitter current is called the forward current 
+gain α
+( ) of a transistor.
+α= I
+I
+C
+E
+
+(10.2)
+The a of a transistor is a measure of 
+the quality of a transistor. Higher the 
+value of a, better is the quality of the 
+transistor. It means that the collector 
+current is closer to the emitter current. 
+The value of a is less than unity and it 
+ranges from 0.95 to 0.99. This indicates 
+that the collector current is 95% to 99% 
+of the emitter current.
+Working of a PNP transistor
+The working of a PNP transistor is similar 
+to that of the NPN transistor except for the 
+transistor, the emitter-base junction is 
+forward biased by a DC power supply VEB 
+and the collector-base junction is reverse 
+biased by the bias power supply VCB. The 
+forward bias decreases the depletion 
+region across the emitter-base junction 
+and the reverse bias increases the depletion 
+region across the collector-base junction. 
+Hence, the barrier potential across the 
+emitter-base junction is decreased and 
+that across the collector-base junction is 
+increased. The voltage across the emitter-
+base junction is represented as VEB and 
+that across the collector-base junction 
+as VCB.
+In an NPN transistor, the majority 
+charge carriers in the emitter are electrons. 
+As it is heavily doped, it has a large number 
+of electrons. The forward bias across the 
+emitter-base junction causes the electrons 
+in the emitter region to flow towards the 
+base region and constitutes the emitter 
+current (IE). The electrons after reaching 
+the base region recombine with the holes 
+in the base region. Since the base region is 
+very narrow and lightly doped, the number 
+of holes in it is not sufficient to recombine 
+with electrons from emitter. Hence 
+most of the electrons reach the collector 
+region. 
+Eventually, the electrons that reach 
+the collector region will be attracted by 
+the collector terminal as it has positive 
+potential and flow through the external 
+circuit. This constitutes the collector 
+current (IC). The holes that are lost due 
+to recombination in the base region are 
+replaced by the positive potential of the 
+bias voltage VBE and constitute the base 
+current (IB). The magnitude of the base 
+current will be in microamperes as against 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   218
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   218
+19-12-2022   16:39:01
+19-12-2022   16:39:01
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 227
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+219
+of an NPN transistor in the common emitter 
+mode is given in Figure 10.30. The bias supply 
+voltages VBB and VCC bias the base-emitter 
+junction and collector-emitter junction 
+respectively. The junction potential at the 
+base-emitter is represented as VBE and that at 
+the collector-emitter as VCE. The rheostats R1 
+and R2 are used to vary the base current and 
+collector current respectively.
+The static characteristics of the BJT are 
+i)	 Input characteristics
+ii)	 Output characteristics
+iii)	Transfer characteristics
+i)  Input characteristics
+Input characteristic curves give the 
+relationship between the base current (IB)  
+and base to emitter voltage (VBE) at constant 
+collector to emitter voltage (VCE) and are 
+shown in Figure 10.31.
+Initially, 
+the 
+collector 
+to 
+emitter 
+voltage is set to a particular value (above 
+0.7 V to reverse bias the junction). Then the 
+base-emitter voltage is increased in suitable 
+steps and the corresponding base-current is 
+recorded. A graph is plotted with VBE  along the 
+x-axis and IB along the y-axis. The procedure is 
+repeated for different values of VCE.
+fact that the emitter current IE is due to holes 
+and the base current IB is due to electrons. 
+However, the current through the external 
+circuit is due to the flow of electrons. 
+EXAMPLE 10.5
+In a transistor connected in the common 
+base configuration, α=0 95
+.
+, I
+mA
+E =1
+. 
+Calculate the values of IC and IB .
+Solution
+    
+α= I
+I
+C
+E
+   I
+I
+C
+E
+=
+=
+× =
+α
+0 95 1
+0 95
+.
+.
+mA
+   I
+I
+I
+E
+B
+C
+=
++
+∴
+=
+−
+= −
+=
+I
+I
+I
+B
+E
+C
+1
+0 95
+0 05
+.
+.
+mA
+10.4.3  Static Characteristics 
+of Transistor in Common 
+Emitter Mode
+The know-how of certain parameters like 
+the input resistance, output resistance, and 
+current gain of a transistor are very important 
+for the effective use of transistors in circuits. 
+The circuit to study the static characteristics 
+VCE
+VCC
+VBE
+R2
+R1
+VBB
+IB
+IC
+IE
+mA
+_
+_
+_
+_
+_
+_
++
++
++
++
++
++
+B
+C
+E
+μA
+Figure 10.30  NPN transistor in common emitter confguration
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   219
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   219
+19-12-2022   16:39:03
+19-12-2022   16:39:03
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 220
+PDF_PAGE: 228
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+220
+r
+V
+I
+V
+i
+BE
+B
+CE
+=
+
+
+
+
+
+∆
+∆
+
+(10.3)
+The input impedance is high for a 
+transistor in common emitter configuration. 
+ii)  Output characteristics
+The output characteristics give the 
+relationship between the collector current (IC) 
+and the collector to emitter voltage (VCE)  at 
+constant input current (IB) and are shown in 
+Figure 10.32. 
+Initially, the base current is set to a 
+particular value. Then collector-emitter 
+voltage is increased in suitable steps and 
+the corresponding collector current is 
+recorded. A graph is plotted with VCE along 
+the x-axis and IC along the y-axis. This 
+procedure is repeated for different values of 
+IB. The four important regions in the output 
+characteristics are:
+VCE
+Cut-oﬀ region
+IC
+I  = 40 μA
+I  = 30 μA
+I  = 20 μA
+I  = 10 μA
+I  =0 
+B  
+B  
+B  
+B  
+B  
+Saturation region
+Active region
+(mA)
+(V)
+IC
+0
+Δ
+VCE
+Δ
+A
+Figure 10.32  Output characteristics
+i)  Saturation region
+When VCE is increased above 0 V, the IC 
+increases rapidly and reaches a saturation 
+value at a particular value of VCE , called 
+knee voltage. The initial part of the curve 
+OA (the ohmic region) between the origin 0 
+and the knee point A is called saturation 
+region. Transistors are always operated 
+above this knee voltage. 
+VCE =1V
+VCE = 2V
+IB
+Vknee
+(µA)
+VBE(V)
+∆VBE
+∆IB
+0
+Figure 10.31  Input characteristics
+The following observations are made 
+from the graph.
+·  Te curve looks like the forward 
+characteristics of an ordinary p-n junction 
+diode.
+·  Tere exists a threshold voltage or knee 
+voltage (Vknee) below which the base current 
+is very small. Tis value is 0.7 V for silicon 
+and 0.3 V for germanium transistors. 
+Beyond the knee voltage, the base current 
+increases with the increase in base-emitter 
+voltage. 
+·  It is also noted that the increase in 
+the collector-emitter voltage decreases 
+the base current. This shifts the curve 
+outward. This is because the increase in 
+collector-emitter voltage increases the 
+width of the depletion region which in 
+turn, reduces the effective base width and 
+thereby the base current.
+Input impedance
+The ratio of the change in base-emitter 
+voltage ∆VBE
+(
+) to the corresponding change 
+in base current ∆IB
+(
+) at a constant collector-
+emitter voltage VCE
+(
+) is called the input 
+impedance (ri). The input impedance is not 
+constant in the lower region of the curve. 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   220
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   220
+19-12-2022   16:39:05
+19-12-2022   16:39:05
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 229
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+221
+Forward current gain
+The ratio of the change in collector current 
+∆IC
+(
+) to the corresponding change in base 
+current ∆IB
+(
+) at constant collector-emitter 
+voltage (VCE) is called forward current gain (β). 
+β= 
+
+
+
+
+
+∆
+∆
+I
+I
+C
+B
+VCE
+
+(10.5)
+Its value is very high and it generally 
+ranges from 50 to 200. 
+∆
+IC
+IB
+IB
+∆IC
+(mA)
+(A)
+Figure 10.33  Current transfer 
+characteristics
+10.4.4  Relation between α 
+and β
+There is a relation between current 
+gain in the common base configuration α 
+and current gain in the common emitter 
+configuration β which is given below.
+α
+β
+β
+= +
+1
+ (or) β
+α
+α
+= −
+1
+
+(10.6)
+The collector current is 
+independent of the collector-
+emitter voltage in the active 
+region.
+Note
+EXAMPLE 10.6
+In the circuit shown in the figure, the input 
+voltage Vi is 20 V, VBE = 0 V and VCE = 0 V. 
+What are the values of IB , IC , β? 
+ii)  Cut-off region
+A small collector current exists even after 
+the base current is reduced to zero. This 
+region below the curve for IB = 0 is called 
+cut-off region because the main collector 
+current is cut-off.
+iii)  Active region
+The central region of the curves is called 
+active region. In this region, the base-emitter 
+junction remains in the forward biased 
+condition and the collector-emitter junction 
+remains in the reverse biased condition. 
+The transistor in this region can be used for 
+voltage, current and power amplification. 
+iv)  Breakdown region
+If the collector-emitter voltage is 
+increased beyond the rated value given by 
+the manufacturer, the collector current 
+increases enormously leading to the junction 
+breakdown of the transistor. This avalanche 
+breakdown can damage the transistor.
+Output impedance
+The ratio of the change in the collector-
+emitter voltage ∆VCE
+(
+) to the corresponding 
+change in the collector current ∆IC
+(
+) at 
+constant base current (IB) is called output 
+impedance (r0). 
+r
+V
+I
+o
+CE
+C
+IB
+=
+
+
+
+
+
+∆
+∆
+
+(10.4)
+The output impedance for transistor in 
+common emitter configuration is very low.
+iii)  Current transfer characteristics
+This gives the relationship between the 
+collector current (IC) and the base current 
+(IB) at constant collector-emitter voltage 
+(VCE) and is shown in Figure 10.33. It is seen 
+that a small IC flows even when IB is zero. 
+This current is called the common emitter 
+leakage current (ICEO), which is due to the 
+flow of minority charge carriers.
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   221
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   221
+19-12-2022   16:39:06
+19-12-2022   16:39:06
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 125
+PDF_PAGE: 230
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+222
+which determine the operating point or 
+the working point of a transistor. If the 
+operating point is chosen at the middle of 
+the DC load line (point Q), the transistor 
+can effectively work as an amplifier. The 
+operating point determines the maximum 
+signal that can be obtained without being 
+distorted. 
+For a transistor to work as a open switch, 
+the Q point can be chosen at the cut-off 
+region and to work as a closed switch, the Q 
+point can be chosen in the saturation region.
+10.4.6  Transistor as a switch
+A transistor in saturation region acts 
+as a closed switch while in cut-off region; 
+it acts as an open switch. It functions like 
+an electronic switch that helps to turn ON 
+or OFF a given circuit by a small control 
+signal which keeps the transistor either in 
+saturation region or in cut-off region. The 
+circuit is shown in Figure 10.35. 
+RB
+5V
+V
+V
+V
+IB
+IE
+IC
+RC
+B
+E
+C
+CC
+in
+O
+Figure 10.35  Transistor as a switch
+· When the input is low:
+When the input is low (say 0V), the base 
+current is zero and transistor is not properly 
+forward biased. It is in cut off region. As 
+a result, the collector current is zero and 
+correspondingly the voltage drop across RC 
+also becomes nearly zero. The output voltage 
+is high and is equal to VCC. It means that the 
+no current flows through the transistor and 
+it is said to be switched off. The transistor 
+acts as an open switch. 
+4 kΩ
+500 kΩ
+20 V
+RB
+Vi
+RC
+E
+C
+B
+I
+V
+R
+V
+B
+i
+B
+=
+=
+=
+20
+500
+40
+k
+A
+Ω
+µ 
+VBE =
+
+
+0V 
+I
+V
+R
+C
+CC
+C
+=
+=
+=
+20
+4
+5
+V
+k
+mA
+Ω
+
+VCE =
+
+
+0V
+β
+µ
+=
+=
+=
+I
+I
+C
+B
+5
+40
+125
+mA
+A
+ 
+10.4.5  Operating Point 
+The operating point is a point where 
+the transistor can be operated efficiently. 
+A straight line drawn by joining the points 
+A (VCC, 0) and B (0, VCC/RC ) is called the DC 
+load line. The DC load line superimposed on 
+the output characteristics of a transistor is 
+used to learn the concept of operating point 
+of the transistor as shown in Figure 10.34.
+VCE
+VCE
+VCC
+=
+P
+Q
+B
+IC
+IC = RC
+VCC
+I  = 40 μA
+I  = 30 μA
+I  = 20 μA
+I  = 10 μA
+I  =0 
+B  
+B  
+B  
+B  
+B  
+DC load line
+(mA)
+(V)
+R
+A
+0
+Figure 10.34  Output characteristics of a 
+transistor in common emitter mode with 
+the DC load line
+In Figure 10.34, the points P,  Q, R 
+are called Q points or quiescent points 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   222
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   222
+19-12-2022   16:39:08
+19-12-2022   16:39:08
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 25
+PDF_PAGE: 231
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+223
+We know that
+ β = I
+I
+C
+B   
+(or)
+IC = βIB = 120 × 25 μA
+    = 3000 μA = 3 mA
+V
+V
+I R
+CE
+CC
+C
+C
+=
+−
+=
+−
+×
+25
+3
+5
+(
+)
+mA
+k =10V
+(mA)
+(V)
+B (0, 5mA)
+A (25V, 0)
+Q
+I C
+VCE
+0
+5
+10
+15
+20
+25
+30
+2
+4
+6
+ 
+10.4.7  Transistor as an 
+amplifier
+A transistor operating in the active 
+region has the capability to amplify weak 
+signals. Amplification is the process of 
+increasing the signal strength (increase in 
+the amplitude). If a large amplification is 
+required, the transistors are cascaded with 
+coupling elements like resistors, capacitors, 
+and transformers and they are called 
+multistage amplifiers. 
+Here, the amplification of an electrical 
+signal is explained with a single stage 
+transistor amplifier which is shown in 
+Figure 10.36(a). Single stage indicates that 
+the circuit consists of one transistor with 
+the allied components. An NPN transistor 
+is connected in the common emitter 
+configuration. 
+· When the input is high:
+When the input voltage is increased to a 
+certain high value (say +5 V), the base current 
+(IB) increases and in turn increases the collector 
+current to its maximum. The transistor will 
+move into the saturation region. The increase 
+in collector current (IC) increases the voltage 
+drop across RC, thereby lowering the output 
+voltage, close to zero (since V0 = VCC – ICRC). It 
+means that maximum current flows through 
+the transistor and it is said to be switched on. 
+The transistor acts as a closed switch. 
+It is manifested that a high input to 
+the transistor gives a low output and a 
+low input gives a high output. In addition, 
+we can say that the output voltage is 
+opposite to the applied input voltage. 
+Therefore, a transistor can be used as an 
+inverter (NOT gate) in computer logic 
+circuitry.
+EXAMPLE 10.7
+The current gain of a common emitter 
+transistor circuit shown in figure is 120. 
+Draw the DC load line and mark the Q 
+point on it. (VBE to be ignored).
+5 kΩ
+RC
+IB
+RB
+IC
+IE
+V    = 25 V
+CC
+VCE
+1MΩ
+B
+C
+E
+Solution
+ β = 120
+Base current, I
+V
+M
+B =
+= ×
+25
+1
+25
+1 106
+Ω
+ 
+	
+	
+      = 25 μA
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   223
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   223
+19-12-2022   16:39:10
+19-12-2022   16:39:10
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 224
+PDF_PAGE: 232
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+224
+Working of the amplifier
+· During the positive half cycle 
+Input signal (VS) increases the forward 
+voltage across the emitter-base. As a result, 
+the base current (IB in μA) increases. 
+Consequently, the collector current (IC in 
+mA) increases β times. This increases the 
+voltage drop across Rc (IcRc) which in turn 
+decreases the collector-emitter voltage (VCE). 
+Therefore, the input signal during the 
+positive half cycle produces negative half 
+cycle of the amplified signal at the output. 
+Hence, the output signal is reversed by 180° 
+as shown in Figure 10.36(b).
+· During the negative half cycle
+Input signal (VS) decreases the forward 
+voltage across the emitter-base. As a result, 
+base current (IB in μA) decreases and in turn 
+decreases the collector current (IC in mA). The 
+decrease in collector current (IC) decreases 
+the potential drop across RC which in turn 
+increases the collector-emitter voltage (VCE). 
+Thus, the input signal during the negative 
+half cycle produces positive half cycle of the 
+amplified signal at the output.Therefore, 
+1800 phase reversal is observed during the 
+negative half cycle of the input signal also as 
+shown in Figure 10.36(b).
+10.4.8  Transistor as an 
+oscillator
+An electronic oscillator basically converts 
+DC energy into AC energy of frequency 
+ranging from a few Hz to several MHz. 
+Hence, it is a source of alternating current or 
+voltage. Unlike an amplifier, oscillator does 
+not require any external signal source. 
+Basically, there are two types of oscillators: 
+Sinusoidal and non-sinusoidal. Sinusoidal 
+oscillators generate oscillations in the form 
+of sine waves at constant amplitude and 
++VCC
+V
+RE
+R1
+RC
+R2
+IC
+VS
+C1
+CC
+CE
+0V
+O
+B
+E
+C
+IB
+IE
+ 
+Input AC signal
++ve
+–ve
+0
++ve
+–ve
+0
+Output AC signal
+Figure 10.36  (a) Transistor as an 
+amplifer (b) Input and output waveforms 
+showing 1800 phase reversal.
+To start with, the Q point or the 
+operating point of the transistor is fixed so 
+as to get the maximum signal swing at the 
+output (neither towards saturation point 
+nor towards cut-off).
+A load resistance RC is connected 
+in series with the collector circuit 
+to measure the output voltage. The 
+resistance R1, R2 and RE form the biasing 
+and stabilization circuit. The capacitor C1 
+allows only the AC signal to pass through. 
+The emitter bypass capacitor CE provides 
+a low reactance path to the amplified 
+AC signal. The coupling capacitor CC is 
+used to couple one stage of the amplifier 
+with the next stage while constructing 
+multistage amplifiers. 
+VS is the sinusoidal input signal source 
+applied across the base-emitter. The output 
+is taken across the collector-emitter. 
+Collector current, I
+I
+C
+B
+=β
+
+b =
+
+
+
+
+
+
+I
+I
+C
+B
+Applying Kirchhoff’s voltage law to the 
+output loop, the collector-emitter voltage is 
+given by 
+V
+V
+I R
+CE
+CC
+C
+C
+=
+−
+
+(10.7)
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   224
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   224
+19-12-2022   16:39:11
+19-12-2022   16:39:11
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 225
+PDF_PAGE: 233
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+225
+i)  Tank circuit
+The LC tank circuit consists of an 
+inductance L and a capacitor C connected in 
+parallel as shown in Figure 10.39(b). Whenever 
+energy is supplied to the tank circuit from a 
+DC source, the energy is stored in inductor 
+and capacitor alternatively. This produces 
+electrical oscillations of definite frequency. 
+ii)  Amplifier
+This is a single stage amplifier which 
+amplifies the weak signal produced by the 
+tank circuit. The required output is supplied 
+by this amplifier. 
+Ampliﬁer
+Tank circuit
+Feedback
+Network
+V
+(a)
+Vo
+F
+C
+L
+(b)
+Figure 10.39  (a) Block diagram of an 
+oscillator (b) Tank circuit
+iii)  Feedback network
+The circuit used to feed a portion of the 
+output back to the input is called the feedback 
+network. If the portion of the output fed to 
+the input is in phase with the input, then the 
+magnitude of the input signal increases. This 
+process is called positive feedback which is 
+necessary for sustained oscillations.
+Working
+The tank circuit generates electrical 
+oscillations and acts as the AC input source 
+to the transistor amplifier. Amplifier amplifies 
+frequency as shown in Figure 10.37(a). Non-
+sinusoidal oscillators generate complex, 
+non-sinusoidal waveforms like square-
+wave, triangular-wave and sawtooth-wave 
+as shown in Figure 10.36 (b), (c), (d).
+v
+t
+(d)
+t
+(a)
+v
+t
+(b)
+v
+v
+t
+(C)
+Figure 10.37  (a) Sinusoidal waveform  
+(b) Square waveform (c) Triangular 
+waveform (d)Sawtooth waveform
+Sinusoidal oscillations are of two types: 
+Damped and undamped. If the amplitude 
+of the electrical oscillations decreases with 
+time due to energy loss, it is called damped 
+oscillations as shown in Figure 10.38(a). 
+On the other hand, the amplitude of the 
+electrical oscillations remains constant with 
+time in undamped oscillations as shown in 
+Figure 10.38(b). 
+v
+t
+(a)
+v
+t
+(b)
+ 
+Figure 10.38  (a) Damped oscillations  
+(b) Undamped oscillations
+Transistor oscillator 
+An oscillator circuit consists of three 
+components. They are i) tank circuit ii) 
+amplifier and iii) feedback network. The 
+block diagram is shown in Figure 10.39(a).
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   225
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   225
+19-12-2022   16:39:12
+19-12-2022   16:39:12
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 234
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+226
+· to generate audio tones 
+· to generate clock signal in digital circuits
+· as sweep circuits in TV sets and CRO
+EXAMPLE 10.8
+Calculate the range of the variable capacitor 
+that is to be used in a tuned-collector 
+oscillator which has a fixed inductance 
+of 150 μH. The frequency band is from 
+500 kHz to 1500 kHz.
+Solution
+Resonant frequency, 
+f
+LC
+=
+1
+2π
+On simplifying, we get 
+C
+f L
+=
+1
+4
+2
+2
+π
+i) When frequency = 500 kHz,
+C =
+×
+×
+×
+×
+×
+−
+1
+4
+3 14
+500 10
+150 10
+2
+3 2
+6
+.
+(
+)
+    =676 pF
+ii) When frequency = 1500 kHz,
+C =
+×
+×
+×
+×
+×
+−
+1
+4
+3 14
+1500 10
+150 10
+2
+3 2
+6
+.
+(
+)
+    = 75 pF
+Therefore, the capacitor range is from 75 
+to 676 pF.
+DIGITAL ELECTRONICS
+Digital Electronics is the branch of 
+electronics which deals with digital signals. It 
+is increasingly used in numerous applications 
+ranging from high end processor circuits 
+to miniature circuits for signal processing, 
+communication etc. Digital signals are 
+preferred over analog signals due to their 
+better 
+performance, 
+accuracy, 
+speed, 
+flexibility and immunity to noise.
+10.5
+the input AC signal. In practical oscillator 
+circuits, there is loss of some energy in 
+inductor coils and capacitors due to electrical 
+resistance. A small amount of energy is used up 
+in overcoming these losses during every cycle 
+of charging and discharging of the capacitor. 
+Due to this, the amplitude of the oscillations 
+decreases gradually. Hence, the tank circuit 
+produces damped electrical oscillations.
+In 
+order 
+to 
+produce 
+undamped 
+oscillations, a positive feedback is provided 
+from output to input by feedback network. 
+This compensates energy loss in tank circuit. 
+The frequency of oscillations is determined 
+by the values of L and C and is given by
+f
+LC
+=
+1
+2π
+
+(10.8)
+Barkhausen conditions for sustained 
+oscillations 
+The 
+following 
+conditions 
+called 
+Barkhausen conditions should be satisfied 
+for sustained oscillations in the oscillator. 
+· Tere should be positive feedback.
+· Te loop phase shif must be 00 or integral 
+multiples of 2π.
+· Te loop gain must be unity. Tat is, 
+Aβ =1.
+Here, A is the voltage gain of the amplifier, 
+b is the feedback ratio (the fraction of the 
+output that is fed back to the input).
+There are different types of oscillator 
+circuits based on the different types of 
+tank circuits. Examples: Hartley oscillator, 
+Colpitts oscillator, Phase shift oscillator and 
+Crystal oscillator.
+Applications of oscillators
+Transistor oscillators are used
+· to generate periodic sinusoidal or non 
+sinusoidal wave forms 
+· to generate RF carriers 
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   226
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   226
+19-12-2022   16:39:13
+19-12-2022   16:39:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 235
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+227
+10.5.2  Logic gates
+A logic gate is an electronic circuit whose 
+function is based on digital signals. They 
+are binary in nature. The logic gates are 
+considered as the basic building blocks of 
+most of the digital systems. They have one 
+output with one or more inputs. There are 
+three types of basic logic gates: AND, OR, 
+and NOT. The other logic gates are Ex-OR, 
+NAND, and NOR. They can be constructed 
+from the basic logic gates.
+Digital 
+electronics 
+deals 
+with 
+logical operations. The variables are 
+called logical variables. The operators 
+like logical addition  (+) and logical 
+multiplication (.) are called logical 
+operators. When the logical operators 
+(+, .) operate on logical variables 
+(A, B), they give logical constant (Y). The 
+equation that represents this operation 
+is called logical statement. 
+For example,
+Logical operator: +
+Logical variable: A, B
+Logical constant: Y
+Logical statement: Y = A + B
+The possible combinations of inputs and 
+the corresponding output are given in the 
+form of a table called truth table. The circuits 
+which perform the basic logical operations 
+such as logical addition, multiplication and 
+inversion are discussed below.
+AND gate
+Circuit symbol
+The circuit symbol of a two input AND 
+gate is shown in Figure 10.41(a). A and B are 
+inputs and Y is the output. It is a logic gate 
+and hence A, B, and Y can have the value of 
+either 1 or 0. 
+10.5.1  Analog and Digital 
+Signals 
+There are 2 different types of signals 
+used in Electronics. They are (i) Analog 
+signals and (ii) Digital signals. An analog 
+signal is a continuously varying voltage or 
+current with respect to time. Such signals 
+are employed in rectifying circuits and 
+transistor amplifier circuits.
+Digital signals are signals which contain 
+only discrete values of voltages. Digital 
+signals need two states: switch ON and OFF. 
+ON is considered as one state and OFF is 
+considered as the other state. It can also be 
+defined as high (ON) or low (OFF) state, 
+closed (ON) or open (OFF). These high and 
+low states are defined using binary numbers 
+1 or 0 in Boolean Algebra. The state 1 
+represents the terms: circuit on, high voltage, 
+a closed switch. Similarly a 0 state represents 
+circuit off, low voltage or an open switch.
+Positive and Negative Logic
+In digital systems, there exists two 
+voltage levels: 5V (high) and 0V (low).  In a 
+positive logic system; a binary 1 stands for 
+5V and 0 stands for 0V while in negative 
+logic system, 1 stands for 0V and 0 stands 
+for 5V as shown in Figure 10.40. 
+(a)
+(b)
++5v
+0v
+Postive logic
+0
+0
+1
++5v
+0v
+Negative logic
+1
+1
+0
+Figure 10.40  (a) Positive logic  
+(b) Negative logic
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   227
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   227
+19-12-2022   16:39:13
+19-12-2022   16:39:13
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 236
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+228
+Boolean equation:
+Y
+A
+B
+=
++
+ 
+It performs logical addition and is 
+different from arithmetic addition.
+Logic operation
+The output of OR gate is high (logic 1 
+state) when either of the inputs or both are 
+high. The truth table of OR gate is shown in 
+Figure 10.42(b).
+NOT gate
+Circuit symbol
+The circuit symbol of NOT gate is shown 
+in Figure 10.43(a). A is the input and Y is the 
+output.
+A
+Y 
+NOT
+(a)
+Inputs
+Output
+A
+Y= A
+0
+1
+1
+0
+(b)
+Figure 10.43  (a) NOT gate (b) Truth table
+Boolean equation:
+Y
+A
+=
+Logic operation
+The output is the complement of the 
+input. It is represented with an overbar. It is 
+also called as inverter. The truth table infers 
+that the output Y is 1 when input A is 0 and 
+vice versa. The truth table of NOT is shown 
+in Figure 10.43(b).
+NAND gate 
+Circuit symbol
+The circuit symbol of NAND gate is 
+shown in Figure 10.44(a). A and B are inputs 
+and Y is the output.
+A
+B
+Y
+AND
+ 
+(a)
+Inputs
+Output
+A
+B
+Y=A.B
+0
+0
+0
+0
+1
+0
+1
+0
+0
+1
+1
+1
+(b)
+Figure 10.41  (a) Two input AND gate  
+(b) Truth table
+Boolean equation:
+Y
+A B
+=
+.
+ 
+It performs logical multiplication and is 
+different from arithmetic multiplication.
+Logic operation
+The output of AND gate is high only 
+when all the inputs are high. In the rest of 
+the cases, the output is low. It is represented 
+in the truth table (Figure 10.41(b)).
+OR gate
+Circuit Symbol
+The circuit symbol of a two input OR 
+gate is shown in Figure 10.42(a). A and B are 
+inputs and Y is the output. 
+A
+B
+Y
+OR
+(a)
+(b)
+Figure 10.42  (a) Two input OR gate  
+(b) Truth table
+Inputs
+Output
+A
+B
+Y= A+B
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   228
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   228
+19-12-2022   16:39:14
+19-12-2022   16:39:14
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 237
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+229
+Y
+A
+B
+NOR
+Y
+B
+A
+NOT 
+OR
+Z
+(a)
+Inputs
+Output (OR)
+Output (NOR)
+A
+B
+Z = A+B
+Y = A+B
+0
+0
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+(b)
+Figure 10.45  (a) NOR gate (b) Truth table
+Ex-OR gate
+Circuit symbol
+The circuit symbol of Ex-OR gate is 
+shown in Figure 10.46(a). A and B are inputs 
+and Y is the output. The Ex-OR operation is 
+denoted as ⊕.
+Boolean equation
+Y
+A B
+A B
+=
++
+.
+.
+Y
+A
+B
+=
+⊕
+Logic operation
+Te output is high only when either of the 
+two inputs is high. In the case of an Ex-OR 
+gate with more than two inputs, the output 
+will be high when odd number of inputs are 
+high. Te truth table of Ex-OR gate is shown 
+in Figure 10.46(b).
+A
+B
+Y
+(a)
+Inputs
+Output (Ex-OR)
+A
+B
+Y
+A
+B
+=
+⊕
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+0
+(b)
+Figure 10.46  (a) Ex-OR gate (b) Truth table
+Y
+A
+B
+NAND
+A
+B
+Y
+AND
+NOT
+Z
+(a)
+Inputs
+Output (AND)
+Output (NAND)
+A
+B
+Z = A.B
+Y = A.B
+0
+0
+0
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+0
+(b)
+Figure 10.44  (a)Two input NAND gate  
+(b) Truth table
+Boolean equation:
+Y
+A B
+=
+.
+Logic operation
+The output Y equals the complement 
+of AND operation. The circuit is an AND 
+gate followed by a NOT gate. Therefore, it 
+is summarized as NAND. The output is at 
+logic zero only when all the inputs are high. 
+The rest of the cases, the output is high 
+(Logic 1 state). The truth table of NAND 
+gate is shown in Figure 10.44(b).  
+NOR gate
+Circuit symbol
+The circuit symbol of NOR gate is shown 
+in Figure 10.45(a). A and B are inputs and 
+Y is the output.
+Boolean equation:
+Y
+A
+B
+=
++
+Logic operation
+The output Y equals the complement of OR 
+operation (A OR B). The circuit is an OR gate 
+followed by a NOT gate and is summarized 
+as NOR. The output is high when all the 
+inputs are low. The output is low for all other 
+combinations of inputs. The truth table of 
+NOR gate is shown in Figure 10.45(b).
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   229
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   229
+19-12-2022   16:39:16
+19-12-2022   16:39:16
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 238
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+230
+BOOLEAN ALGEBRA
+Boolean 
+Algebra 
+is 
+basically 
+a 
+choice between two options (i) yes or 
+no (ii) high or low. These two options 
+in Boolean algebra are represented by 
+binary numbers 0 or 1. It is a concept that 
+relates logic and mathematics which is a 
+century old, made up by George Boole in 
+1854. Later the importance of Boolean 
+algebra was realized in the design of 
+computer circuits. Today we are in a 
+digital world and most of the comforts 
+that we experience is due to digitization 
+with the foundation based on Boolean 
+algebra.
+The concept of high (1) 
+and low (0) is not a new 
+one. In fact, it was applied 
+in telephone switching circuits by 
+Shannon in 1938.
+Laws of Boolean Algebra
+The NOT, OR and AND operations 
+discussed in section 10.5.2 are the Boolean 
+operations. The results of these operations 
+can be summarised as:
+Complement law
+A
+Y
+A
+=
+0
+Y = =
+0 1
+1
+Y = =
+1
+0
+The complement law can be realised as 
+A
+A
+=
+10.6
+NAND and NOR gates are 
+known as universal gates 
+because any other logic gate 
+can be made from NAND or 
+NOR gates.
+Note
+EXAMPLE 10.9
+What is the output Y in the following 
+circuit, when all the three inputs A, B, and 
+C are first 0 and then 1?	
+
+X
+A
+B
+C
+Y
+P
+Q
+Solution
+A
+B
+C
+X = A.B
+Y
+X C
+=
+.
+0
+0
+0
+0
+1
+1
+1
+1
+1
+0
+EXAMPLE 10.10
+In the combination of the following gates, 
+write the Boolean equation for output Y in 
+terms of inputs A and B.
+A
+B
+Y
+1
+2
+Solution
+The output at the 1st  AND gate: AB
+The output at the 2nd AND gate: AB
+The output at the OR gate: Y
+A B
+A B
+=
++
+.
+.
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   230
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   230
+19-12-2022   16:39:18
+19-12-2022   16:39:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 239
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+231
+The above laws are used to simplify 
+complicated expressions and to simplify the 
+logic circuitry. 
+DE MORGAN’S THEOREM
+10.7.1  De Morgan’s First 
+Theorem
+Statement
+The first theorem states that the 
+complement of the sum of two logical 
+inputs is equal to the product of its 
+complements.
+Proof
+The Boolean equation for NOR gate is 
+Y
+A
+B
+=
++
+.
+The Boolean equation for a bubbled 
+AND gate is Y
+A B
+=
+.
+.
+Both cases generate same outputs for 
+same inputs. It can be verified using the 
+following truth table.
+A
+B
+A+B
+A+B
+A
+B
+A . B
+0
+0
+0
+1
+1
+1
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+From the above truth table, we can 
+conclude A
+B
+A B
++
+=
+.
+.
+Thus De Morgan’s first theorem is 
+proved. Hence, a NOR gate is equal to a 
+bubbled AND gate.
+The corresponding logic circuit diagram 
+is shown in Figure 10.47.
+10.7
+OR laws
+A
+B
+Y = A+B
+0
+0
+Y = 0+0 = 0
+0
+1
+Y = 0+1 = 1
+1
+0
+Y = 1+0 = 1
+1
+1
+Y = 1+1 = 1
+The OR laws can be realised as
+1st  law
+A + 0 = A
+2nd law
+A + 1 = 1
+3rd law
+A + A = A
+4th law
+A + A = 1
+AND laws
+A
+B
+Y = A.B
+0
+0
+Y = 0.0 = 0
+0
+1
+Y = 0.1 = 0
+1
+0
+Y = 1.0 = 0
+1
+1
+Y = 1.1 = 1
+The AND laws can be realised as
+1st  law
+A . 0 = 0
+2nd law
+A . 1 = A
+3rd law
+A . A = A
+4th law
+A . A = 0
+The Boolean operations obey the 
+following laws.
+Commutative laws
+A + B = B + A
+A . B = B . A
+Associative laws
+A + (B + C) = (A + B) + C
+A . (B . C) = (A .B) . C
+Distributive laws
+A( B + C) = AB + AC
+A + BC = (A + B) (A + C)
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   231
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   231
+19-12-2022   16:39:18
+19-12-2022   16:39:18
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 1
+PDF_PAGE: 240
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+232
+EXAMPLE 10.11 
+Prove the Boolean identity AC + ABC = AC 
+and give its circuit description.
+Solution
+Step 1: AC (1 + B) = AC.1 [OR law-2]
+Step 2: AC . 1 = AC [AND law – 2]
+Therefore, AC + ABC = AC
+Thus the Boolean identity is proved.
+Circuit description:
+A
+A
+C
+B
+C
+AC
+A
+C
+Y=AC
+Y=AC + ABC
+ABC
+=
+10.7.3  Integrated Chips 
+An integrated circuit is also referred 
+as an IC or a chip or a microchip (Figure 
+10.49). It consists of thousands to millions 
+of 
+transistors, 
+resistors, 
+capacitors, 
+etc. integrated on a small flat piece of 
+semiconductor material that is normally 
+silicon.
+Integrated circuits (ICs) are the 
+keystone of modern electronics. With 
+the advancement in technology and the 
+emergence of  Very Large Scale Integration 
+(VLSI) era it is possible to fit more 
+and more transistors on chips of same 
+piece.
+ICs have two main advantages over 
+ordinary circuits: cost and performance. 
+The size, speed, and capacity of chips 
+have progressed enormously with the 
+advancement in technology. Computers, 
+mobile phones, and other digital home 
+appliances are now made possible by the 
+Y
+A
+B
+A
+B
+Y
+Figure 10.47  NOR gate equals bubbled 
+AND gate
+10.7.2  De Morgan’s Second 
+Theorem
+Statement
+The second theorem states that the 
+complement of the product of two inputs is 
+equal to the sum of its complements.
+Proof
+The Boolean equation for NAND gate is 
+Y
+A B
+=
+. .
+The Boolean equation for bubbled OR 
+gate is Y
+A
+B
+=
++
+.
+A and B are the inputs and Y is the output. 
+The above two equations produces the same 
+output for the same inputs. It can be verified 
+by using the truth table 
+A
+B
+A.B
+A.B
+A
+B
+A + B
+0
+0
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+0
+0
+0
+0
+From the above truth table we can 
+conclude A B
+A
+B
+.
+=
++
+.
+Thus De Morgan’s second theorem is 
+proved.  Hence, a NAND gate is equal to a 
+bubbled OR gate.
+The corresponding logic circuit diagram 
+is shown in Figure 10.48
+Y
+A
+B
+A
+Y
+B
+Figure 10.48  NAND gate equals bubbled 
+OR gate
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   232
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   232
+19-12-2022   16:39:20
+19-12-2022   16:39:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 233
+PDF_PAGE: 241
+------------------------------------------------------------
+
+Unit 10  electronics and Communication
+233
+small size and low cost of ICs. ICs can 
+function as an amplifier, oscillator, timer, 
+microprocessor and computer memory.
+These extremely small ICs can perform 
+calculations and store data using either 
+digital or analog technology. Digital ICs use 
+logic gates, which work only with values 
+of ones and zeros. A low signal sent to a 
+component on a digital IC will result in a 
+value of 0, while a high signal creates a value 
+of 1.
+Digital 
+ICs 
+usually 
+find 
+their 
+applications in computers, networking 
+equipment, 
+and 
+most 
+consumer 
+electronics. Analog ICs or linear ICs 
+work with continuous values. This means 
+a component on a linear IC can take any 
+value and output another value. Linear 
+ICs are typically used in audio and radio 
+frequency amplification.
+Figure 10.49  Circuits with integrated 
+chips
+10.8
+COMMUNICATION 
+SYSTEMS
+Introduction
+Communication is the process of 
+exchanging 
+information 
+by 
+speaking, 
+writing or using some other medium.
+Communication has existed since the 
+dawn of life in this world. Growth in science 
+and technology removed the locational 
+disadvantage effectively. Information can 
+be exchanged from one person to another 
+anywhere on this Earth. Right from the 
+researches done in communication by great 
+scientists like J.C. Bose, G. Marconi and 
+Alexander Graham Bell, communication 
+has witnessed development by leaps and 
+bounds. The communication industry is one 
+of the largest in size and is the oldest since 
+communication through telegraph (1844), 
+telephone (1876), and Radio (1887) started 
+centuries back. 
+The intensive research in the mid- 
+and late nineteenth century has led to the 
+development of long-distance transmission 
+in the shortest possible time. However, 
+the 20th century witnessed a leap over the 
+development of communication, meeting the 
+demands of speed and secured transfer of data. 
+This section provides a glimpse of the basic 
+concepts of electronic communication, some 
+important communication systems and their 
+applications.
+10.9
+MODULATION
+The 
+transmission 
+of 
+information 
+through short distances does not require
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   233
+XII_Physics_Vol-2_UNIT-10_Part 1_EM.indd   233
+19-12-2022   16:39:20
+19-12-2022   16:39:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 234
+PDF_PAGE: 242
+------------------------------------------------------------
+
+234
+Unit 10  electronics and Communication
+phase of the carrier signal remain constant. 
+Amplitude modulation is used in radio 
+and TV broadcasting. 
+The signal shown in Figure 10.50(a) 
+is the baseband signal that carries 
+information. Figure 10.50(b) shows the 
+high-frequency carrier signal and Figure 
+10.50(c) 
+gives 
+amplitude 
+modulated 
+signal. We can see that amplitude of the 
+carrier wave is modified in proportion to 
+the amplitude of the baseband signal. 
+Amplitude Modulated
+Signal
+es
+Es
+ec
+em
+Minimum
+Amplitude
+Maximum
+Amplitude
+Envelope of
+Modulated Signal
+Time
+Time
+Baseband Signal
+Carrier Signal
+(a)
+(b)
+(c)
+Time
+Ec
+Em
+Figure 10.50  Amplitude Modulation  
+(a) Baseband signal (b) Carrier signal  
+(c) Modulated signal
+Advantages of AM
+i)	 Easy transmission and reception
+ii)	 Lesser bandwidth requirements
+iii)	 Low cost
+Limitations of AM
+i)	 Noise level is high
+ii)	 Low efficiency
+iii)	 Small operating range
+complicated 
+techniques. 
+The 
+energy 
+of the information signal is sufficient 
+enough to be sent directly. However if the 
+information in the audio frequency range 
+(20 to 20,000 Hz) needs to be transmitted 
+to long distances across the world, certain 
+techniques are required to transmit the 
+information without any loss.  
+For long distance transmission, the 
+low frequency baseband signal (input 
+signal) is superimposed onto a high 
+frequency radio signal by a process called 
+modulation. In the modulation process, a 
+very high frequency signal called carrier 
+signal (radio signal) is used to carry the 
+baseband signal. 
+As the frequency of the carrier signal 
+is very high, it can be transmitted to long 
+distances with less attenuation. The carrier 
+signal is usually a sine wave signal.  
+A sinusoidal carrier wave can be 
+represented as ec = Ec sin (2πνc t + ϕ), where 
+Ec is the amplitude, νc is the frequency and 
+ϕ is the initial phase of the carrier wave at 
+any instant of time t.
+Three characteristics in the carrier 
+signal can be modified by the baseband 
+signal during the process of modulation: 
+amplitude, frequency and phase of the 
+carrier signal. 
+Accordingly, we have (i) amplitude 
+modulation, (ii) frequency modulation and 
+(iii) phase modulation. 
+10.9.1  AMPLITUDE 
+MODULATION (AM)
+If the amplitude of the carrier 
+signal is modified in proportion to the 
+instantaneous amplitude of the baseband 
+signal, then it is called amplitude 
+modulation. Here the frequency and the 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   234
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   234
+04-03-2022   17:19:19
+04-03-2022   17:19:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 235
+PDF_PAGE: 243
+------------------------------------------------------------
+
+235
+Unit 10  electronics and Communication
+amplitude of the baseband signal increases 
+in the positive direction (A, C). The increase 
+in amplitude in the negative half cycle (B, 
+D) reduces the frequency of the modulated 
+wave (Figure 10.51(c)). 
+When the frequency of the baseband 
+signal is zero (no input signal), there is no 
+change in the frequency of the carrier wave. 
+It is at its normal frequency and is called 
+as centre frequency or resting frequency. 
+Practically this is the allotted frequency of 
+the FM transmitter.
+Advantages of FM
+i)	 In FM, there is a large decrease in 
+noise. This leads to an increase in signal-
+noise ratio.
+ii)	 The operating range is quite large.
+iii)	 The transmission efficiency is very 
+high as all the transmitted power is useful.
+iv)	 FM bandwidth covers the entire 
+frequency range which humans can hear. 
+Due to this, FM radio has better quality 
+compared to AM radio.
+Limitations of FM
+i)	 FM requires a much wider channel.
+ii)	 FM transmitters and receivers are 
+more complex and costly.
+iii)	 In FM reception, less area is covered 
+compared to AM.
+10.9.3  PHASE MODULATION 
+(PM)
+In phase modulation, the instantaneous 
+amplitude of the baseband signal modifies 
+the phase of the carrier signal keeping its 
+amplitude and frequency constant. This 
+modulation is used to generate frequency 
+modulated signals. It is similar to frequency 
+modulation except that the phase of the 
+carrier is varied instead of varying frequency. 
+10.9.2  FREQUENCY 
+MODULATION (FM)
+The frequency of the carrier signal 
+is 
+modified 
+in 
+proportion 
+to 
+the 
+instantaneous amplitude of the baseband 
+signal in frequency modulation. Here the 
+amplitude and the phase of the carrier signal 
+remain constant. 
+The increase in the amplitude of the 
+baseband signal increases the frequency of 
+the carrier signal and vice versa. This leads 
+to compressions and rarefactions in the 
+frequency spectrum of the modulated wave 
+as shown in Figure 10.51. Louder signal 
+leads to compressions and relatively weaker 
+signals to rarefactions.
+Frequency Modulated
+Signal
+es
+ec
+em
+Time
+Time
+Baseband Signal
+Carrier Signal
+C
+(a)
+(b)
+(c)
+A
+A
+B
+C
+D
+B
+D
+0
+0
+Time
+0
+Figure 10.51  Frequency Modulation  
+(a) Baseband signal (b) Carrier signal  
+(c) Frequency modulated signal
+When the amplitude of the baseband 
+signal is zero in Figure 10.51(a), the 
+frequency of the modulated signal is the 
+same as the carrier signal. The frequency 
+of the modulated wave increases when the 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   235
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   235
+04-03-2022   17:19:19
+04-03-2022   17:19:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 236
+PDF_PAGE: 244
+------------------------------------------------------------
+
+236
+Unit 10  electronics and Communication
+10.10
+THE ELEMENTS OF 
+AN ELECTRONIC 
+COMMUNICATION SYSTEM
+Electronics plays a major role in 
+communication. Electronic communication 
+is nothing but the transmission of sound, 
+text, pictures, or data through a medium. 
+Long distance transmission uses free space 
+as a medium. 
+The elements of the basic communication 
+system are explained with the block diagram 
+shown in Figure 10.52. 
+i)  Information (Baseband or input signal)
+Information can be in the form of 
+speech, music, pictures or computer data. 
+This information is given as input to the 
+input transducer. 
+ii)  Input transducer
+In 
+communication 
+system, 
+the 
+transducer converts the information 
+(in the form of sound, music, pictures 
+or computer data) into corresponding 
+electrical 
+signals. 
+The 
+electrical 
+equivalent of the original information is 
+called the baseband signal. 
+The best example for the transducer is 
+the microphone that converts sound energy 
+into electrical energy. 
+iii)  Transmitter
+It feeds the electrical signal from the 
+transducer to the communication channel. 
+It consists of circuits such as amplifier, 
+oscillator, modulator and power amplifier. 
+The transmitter is located at the broadcasting 
+station. 
+Amplifier: The transducer output is very 
+weak and is amplified by the amplifier. 
+Input
+Transducer
+Information
+Ampliﬁer
+Oscillator
+Radio
+Receiver
+Demodulator
+Carrier
+waves
+Ampliﬁer
+Base Band
+Signal
+Output
+Transducer
+Modulator
+Transmission
+Reception
+Power
+Amplifer
+Communication
+Channel
+Communication
+Channel
+Receiving
+Antenna
+Transmission 
+Antenna
+Information
+Figure 10.52  Block diagram of transmission and reception of voice signals
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   236
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   236
+04-03-2022   17:19:19
+04-03-2022   17:19:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 237
+PDF_PAGE: 245
+------------------------------------------------------------
+
+237
+Unit 10  electronics and Communication
+retransmitted with a carrier signal of different 
+frequency to the destination. The best example 
+is the communication satellite in space.
+viii)  Output transducer
+It converts the electrical signal back to its 
+original form such as sound, music, pictures 
+or data. Examples of output transducers 
+are loudspeakers, picture tubes, computer 
+monitor etc.
+10.10.1  BASIC DEFINITIONS IN 
+ELECTRONIC COMMUNICATION 
+SYSTEM
+For 
+better 
+understanding 
+of 
+the 
+communication systems, it is essential to 
+know about the following terms.
+i)  Range
+It is the maximum distance between the 
+source and the destination up to which the 
+signal is received with sufficient strength.
+ii)  Noise
+It is the undesirable electrical signal 
+that interferes with the transmitted signal. 
+Noise attenuates or reduces the quality 
+of the transmitted signal. It may be man-
+made (automobiles, welding machines, 
+electric motors etc.) or natural (lightning, 
+environmental effects, radiation from sun 
+and stars). Noise cannot be completely 
+eliminated. However, it can be reduced 
+using various techniques.
+iii)  Attenuation 
+The loss of strength of a signal while 
+propagating through a medium is known as 
+attenuation.
+iv)  Bandwidth
+The frequency range over which the 
+baseband signals or the information 
+Oscillator: It generates high-frequency 
+carrier wave (a sinusoidal wave) for long 
+distance transmission into space. As the energy 
+of a wave is proportional to its frequency, the 
+carrier wave has very high energy. 
+Modulator: It superimposes the baseband 
+signal onto the carrier signal and generates 
+the modulated signal.
+Power amplifier: It increases the power 
+level of the electrical signal in order to cover 
+a large distance.
+iv)  Transmitting antenna 
+It radiates the radio signal into space 
+in all directions. It travels in the form of 
+electromagnetic waves with the speed of light.
+v)  Communication channel
+Communication channel is used to carry 
+the electrical signal from transmitter to receiver 
+with less noise or distortion. The examples for 
+communication medium are wires, cables, 
+optical fibres in wireline communication and 
+free space in wireless communication.
+vi)  Receiver
+The signals that are transmitted through 
+the communication medium are received by 
+a receiving antenna which converts EM waves 
+into RF signals and are fed into the receiver. 
+The receiver consists of electronic 
+circuits like demodulator, amplifier etc. 
+The demodulator extracts the baseband 
+signal from the modulated signal. Then 
+the baseband signal is amplified using 
+amplifier. Finally, it is fed to the output 
+transducer.
+vii)  Repeaters
+Repeaters are used to increase the range or 
+distance through which the signals are sent. It 
+is a combination of transmitter and receiver. 
+The signals are received, amplified and 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   237
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   237
+04-03-2022   17:19:19
+04-03-2022   17:19:19
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 238
+PDF_PAGE: 246
+------------------------------------------------------------
+
+238
+Unit 10  electronics and Communication
+signals such as voice, music, picture etc are 
+transmitted is known as bandwidth. If ν1 
+and  ν2 are the lower and upper-frequency 
+limits of a signal, then the bandwidth, 
+BW = ν2 – ν1.
+v)  Bandwidth of transmission system
+The range of frequencies required to 
+transmit a piece of specified information 
+in a particular channel is called channel 
+bandwidth or the bandwidth of the 
+transmission system. 
+10.11
+PROPAGATION OF 
+ELECTROMAGNETIC WAVES
+The electromagnetic wave transmitted 
+by the transmitter travels in three different 
+modes to reach the receiver according to its 
+frequency range. They are
+• 
+Ground wave propagation (or) surface 
+wave propagation (nearly 2 kHz to 
+2 MHz)
+• 
+Sky wave propagation  (or) ionospheric 
+propagation (nearly 3 MHz to 30 MHz)
+• 
+Space wave propagation (nearly 30 
+MHz to 400 GHz)
+i)  Ground wave propagation 
+If 
+the 
+electromagnetic 
+waves 
+transmitted by the transmitter glide over 
+the surface of the Earth to reach the receiver, 
+then the propagation is called ground 
+wave propagation. The corresponding 
+waves are called ground waves or surface 
+waves. The pictorial representation is shown 
+in Figure 10.53(a).  Here both transmitting 
+and receiving antennas must be close to the 
+Earth's surface. 
+It is mainly used in local broadcasting, 
+radio navigation, for ship-to-ship, ship-
+to-shore 
+communication 
+and 
+mobile 
+communication.
+ii)  Sky wave propagation 
+The mode of propagation in which 
+the electromagnetic waves radiated from 
+an antenna, directed upwards at large 
+angles, gets reflected by the ionosphere 
+back to Earth is called sky wave 
+propagation or ionospheric propagation. 
+The corresponding waves are called sky 
+waves (Figure 10.53(b)). 
+Ionosphere acts as a reflecting surface. 
+It is at a distance of approximately 50 km 
+and spreads up to 400 km above the Earth's 
+surface. Due to the absorption of ultraviolet 
+rays, cosmic ray, and other high energy 
+radiations like α, β rays from sun, the air 
+molecules in the ionosphere get ionized. 
+This produces charged ions and these 
+Earth
+Home
+Atmosphere
+Radio
+tower
+(a)
+Skip distance
+T
+Sky wave coverage
+Skip zone
+Ionosphere
+Ground wave
+coverage
+(b)
+A
+B
+Earth
+wave
+Direct wave
+Receiver
+Transmitter
+Reﬂected
+(c)
+Figure 10.53  Propagation of EM waves 
+(a) Ground wave (b) Sky wave (c) Space wave 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   238
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   238
+04-03-2022   17:19:20
+04-03-2022   17:19:20
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 2
+PDF_PAGE: 247
+------------------------------------------------------------
+
+239
+Unit 10  electronics and Communication
+The range or distance (d) of coverage of 
+the propagation depends on the height (h) 
+of the antenna given by the equation, 
+d
+Rh
+=
+2
+
+(10.9)
+where R is the radius of the Earth. The 
+distance of coverage is shown pictorially in 
+Figure 10.54.
+d
+h
+Figure 10.54  Distance of coverage
+EXAMPLE 10.12
+A transmitting antenna has a height of 
+40 m and the height of the receiving 
+antenna is 30 m. What is the maximum 
+distance between them for line-of-sight 
+communication? The radius of the earth is 
+6.4×106 m.
+d1
+d2
+h1
+h2
+T
+R
+Solution: 
+The 
+total 
+distance 
+d 
+between 
+the 
+transmitting and receiving antennas will 
+be the sum of the individual distances of 
+coverage.
+ions provide a reflecting medium for the 
+reflection of radio waves or communication 
+waves back to Earth within the permitted 
+frequency range. The phenomenon of 
+bending the radio waves back to Earth is 
+nothing but the total internal reflection.
+When the angle of incidence at the 
+ionosphere is large, the sky wave returns 
+to the ground at a long distance from 
+the transmitter. As this angle is reduced, 
+the wave returns closer and closer to 
+the transmitter. If the angle of incidence 
+is reduced further, the radio waves 
+penetrate through the ionosphere. For a 
+particular angle of incidence, the point of 
+reception (B) is at the minimum distance 
+from transmitter. The shortest distance 
+between the transmitter and the point 
+of reception of the sky wave along the 
+surface is called as the skip distance.
+The ground waves get attenuated as they 
+move away from the transmitter. At a particular 
+point (A), there is no reception ground wave. 
+The zone (in between A and B) where there 
+is no reception of electromagnetic waves 
+neither ground nor sky is known as skip 
+zone or skip area (Figure 10.53(b)).
+iii)  Space wave propagation 
+The process of sending and receiving 
+information signal through space is 
+called 
+space 
+wave 
+communication 
+(Figure   10.53(c)). The electromagnetic 
+waves of very high frequencies above 30 
+MHz are called as space waves. These 
+waves travel in a straight line from the 
+transmitter to the receiver. Hence, it is used 
+for a line of sight communication (LOS).
+The 
+communication 
+systems 
+like 
+television telecast, satellite communication 
+and RADAR are based on space wave 
+propagation. 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   239
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   239
+04-03-2022   17:19:22
+04-03-2022   17:19:22
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 5
+PDF_PAGE: 248
+------------------------------------------------------------
+
+240
+Unit 10  electronics and Communication
+i)	 Weather satellites: They are used to 
+monitor the weather and climate of Earth. 
+By measuring cloud mass, these satellites 
+enable us to predict rain and dangerous 
+storms like hurricanes, cyclones etc. 
+ii)	 Communication satellites: They are 
+used to transmit television, radio, internet 
+signals etc. Multiple satellites are used for 
+long distance communication.
+iii)	 Navigation satellites: These are 
+employed to determine the geographic 
+location of ships, aircrafts or any other 
+object. 
+10.12.2  FIBRE OPTIC 
+COMMUNICATION
+The 
+method 
+of 
+transmitting 
+information from one place to another in 
+terms of light pulses through an  optical 
+fiber is called fiber optic communication. 
+It works on the principle of total internal 
+reflection.
+d
+d
+d
+Rh
+Rh
+=
++
+=
++
+1
+2
+1
+2
+2
+2
+R
+h
+h
+1
+2
+2
+=
++
+(
+)
+6
+2
+6 4 10
+40
+30
+=
+×
+×
+×
++
+(
+)
+.
+2
+16 10
+5
+6 32
+5 48
+=
+×
+×
++
+(
+)
+.
+.
+42217
+42 217
+=
+=
+m
+km
+.
+10.12
+SOME IMPORTANT 
+COMMUNICATION 
+SYSTEMS
+There 
+are 
+a 
+large 
+number 
+of 
+communication systems available in the 
+market for varied purposes. Here some 
+of the important communication systems 
+are introduced and their applications are 
+briefly discussed. 
+10.12.1  SATELLITE AND ITS 
+COMMUNICATION
+The satellite communication is a mode 
+of transmission of the signal between 
+transmitter and receiver via satellite. The 
+message signal from the Earth station 
+is transmitted to the satellite on board 
+via an uplink (frequency band 6 GHz), 
+amplified by a transponder and then 
+retransmitted to another Earth station 
+via a downlink (frequency band 4 GHz) 
+(Figure 10.55).
+Applications 
+Satellites are classified into different 
+types based on their applications. 
+Earth
+Earth
+receiving
+station
+Earth
+transmitting
+station
+Downlink
+Uplink
+Satellite
+(in geostationary orbit)
+Figure 10.55  Satellite communication 
+system
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   240
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   240
+04-03-2022   17:19:25
+04-03-2022   17:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 241
+PDF_PAGE: 249
+------------------------------------------------------------
+
+241
+Unit 10  electronics and Communication
+the objects that are invisible to the human eye 
+can be determined.
+Radar uses electromagnetic waves for 
+communication. The electromagnetic signal 
+is initially radiated into space by an antenna 
+in all directions. When this signal strikes the 
+targeted object, it gets reflected or reradiated in 
+many directions. This reflected (echo) signal is 
+received by the radar antenna which in turn is 
+delivered to the receiver. Then, it is processed 
+and amplified to determine the geographical 
+statistics of the object. The range is determined 
+by calculating the time taken by the signal to 
+travel from RADAR to the target and back.
+Applications
+Radars find extensive applications in 
+many fields.
+i)	 In military, it is used for locating and 
+detecting the targets. 
+ii)	 It is used in navigation systems such 
+as ship borne surface search, air search and 
+missile guidance systems. 
+iii)	 Radars 
+are 
+used 
+to 
+measure 
+precipitation rate and wind speed in 
+meteorological observations. 
+iv)	 It is employed to locate and rescue 
+people in emergency situations.
+10.12.4  MOBILE 
+COMMUNICATION
+Mobile communication is used to 
+communicate with others in different 
+locations without the use of any physical 
+connection like wires or cables. It allows 
+the transmission over a wide range of area 
+without the use of the physical link. It enables 
+the people to communicate with each other 
+regardless of a particular location like office, 
+house etc. It also provides communication 
+access to remote areas.
+Figure 10.56  Optical fbers
+Applications
+Optical fiber system has a number 
+of 
+applications 
+namely, 
+international 
+communication, inter-city communication, 
+data links, plant and traffic control and 
+defense applications.  
+Merits 
+i)	 Fiber cables are very thin and weigh 
+less than copper cables.
+ii)	 This system has much larger band 
+width. This means that its information 
+carrying capacity is larger.
+iii)	 Fiber optic system is immune to 
+electrical interferences.
+iv)	 Fiber optic cables are cheaper than 
+copper cables.
+Demerits
+i)	 Fiber optic cables are more fragile 
+when compared to copper wires. 
+ii)	 It is an expensive technology. 
+10.12.3  RADAR AND 
+APPLICATIONS
+Radar basically stands for Radio 
+Detection and Ranging System. It is one of 
+the important applications of communication 
+systems and is mainly used to sense, detect, 
+and locate distant objects like aircraft, ships, 
+spacecraft, etc. The angle, range or velocity of 
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   241
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   241
+04-03-2022   17:19:25
+04-03-2022   17:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 242
+PDF_PAGE: 250
+------------------------------------------------------------
+
+242
+Unit 10  electronics and Communication
+iv)	 It enables smart classrooms, online 
+availability of notes, monitoring student 
+activities etc. in the field of education. 
+10.12.5  INTERNET
+Internet is a fast growing technology 
+in the field of communication system with 
+multifaceted tools. It provides new ways 
+and means to interact and connect with 
+people. Internet is the largest computer 
+network recognized globally that connects 
+millions of people through computers. It 
+finds extensive applications in all walks of 
+life. 
+Applications:
+i)	 Search engine: The search engine 
+is basically a web-based service tool used 
+to search for information on World Wide 
+Web. 
+ii)	 Communication: It helps millions 
+of people to connect with the use of social 
+networking: emails, instant messaging 
+services and social networking tools. 
+iii)	E-Commerce: Buying and selling 
+of goods and services, transfer of funds 
+are done over an electronic network.
+Figure 10.57  Mobile communication
+It provides the facility of roaming – that is, 
+the user may move from one place to another 
+without the need of compromising on the 
+communication. The maintenance and 
+cost of installation of this communication 
+network are also cheap.
+Applications 
+i)	 It is used for personal communication 
+and cellular phones offer voice and data 
+connectivity with high speed.
+ii)	 Transmission of news across the 
+globe is done within a few seconds. 
+iii)	 Using Internet of Things (IoT), it is 
+made possible to control various devices 
+from a single device. Example: home 
+automation using a mobile phone.
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   242
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   242
+04-03-2022   17:19:25
+04-03-2022   17:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 243
+PDF_PAGE: 251
+------------------------------------------------------------
+
+243
+Unit 10  electronics and Communication
+	 Energy bands in solids are used to classify them into metals, insulators, and 
+semiconductors
+	 In a N-type semiconductor, electrons are the majority charge carriers and holes are 
+the minority carriers.
+	 In P-type semiconductor, holes are the majority charge carriers and electrons are the 
+minority charge carriers.
+	 Te thin region near the junction which is free from charge carriers (free electrons 
+and holes) is called depletion region.
+	 When a PN junction diode is forward biased, the width of the depletion region 
+decreases and the diode conducts.
+	 A PN junction diode in reverse biased condition functions as a open switch as it does 
+not conduct. Te width of the depletion region increases in this case.
+	 A forward biased PN junction diode functions as a rectifer. Te process in which 
+alternating voltage or alternating current is converted into direct voltage or direct 
+current  is known as rectifcation. 
+	 Te half wave rectifer rectifes one half of the input signal and produces a pulsating 
+DC output.
+	 Full wave rectifer rectifes both halves of the input signal.
+	 Zener breakdown happens in a heavily doped PN junction diode when a strong 
+electric feld is applied.
+	 Avalanche breakdown occurs in lightly doped junctions which have wide depletion 
+layers. It is due to the breaking of covalent bonds by the thermally generated minority 
+charge carriers. 
+	 Zener diode is a heavily doped PN junction diode which works in the reverse biased 
+condition.
+	 Light emitting diode is a forward biased semiconductor device that emits emits visible or 
+invisible light when energized. Te recombination of minority charge carriers with the 
+majority charge carriers in the respective regions release energy in the form of photons.
+	 A PN junction diode which converts an optical signal into electric signal is called a 
+photodiode.
+	 When a photon of sufcient energy strikes the diode, it creates an electron-hole pair. 
+Tese electrons and holes are swept across the p-n junction by the electric feld created 
+by reverse voltage before recombination takes place and in turn generates photo current.
+	 A solar cell, also known as photovoltaic cell, works on the principle of photovoltaic 
+efect. Accordingly, the p-n junction of the solar cell generates emf when solar 
+radiation falls on it. .
+	 A bipolar junction transistor (BJT) is a semiconductor device and there are two types 
+in that: NPN and PNP.
+SUM MA R Y
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   243
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   243
+04-03-2022   17:19:25
+04-03-2022   17:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
+
+------------------------------------------------------------
+SOURCE_PAGE: 244
+PDF_PAGE: 252
+------------------------------------------------------------
+
+244
+Unit 10  electronics and Communication
+	 A BJT can be operated in three diferent confgurations: Common base, common 
+emitter, common collector.
+	 Te forward current gain in common base confguration α gives the ratio of the collector 
+current to emitter current.
+	 Te forward current gain in common emitter confguration β gives the ratio of the 
+collector current to the base current
+	 Te BJT connected in common emitter confguration can be used as an amplifer. Tere 
+exists a phase reversal of 1800 between the input signal and the amplifed output signal.
+	 A transistor amplifer combined with a tank circuit and positive feedback acts as an 
+oscillator
+	 Te logic gates are logical circuits providing output only for a combination of inputs. 
+	 De Morgan’s First theorem states that the complement of the sum of two inputs is equal 
+to the product of its complements. 
+	
+
+Te second theorem states that the complement of the product of two inputs is equal to 
+the sum of its complements.
+	
+
+Te basic elements required for the transmission and reception of a signal through 
+long distance communication using electromagnetic waves are transducer, amplifer, 
+carrier signal, modulator, power amplifer, medium of transmission, transmitting and 
+receiving antenna, demodulator, detector.
+	
+
+For long-distance transmission, the baseband signal is modulated with the carrier wave. 
+	
+
+If the amplitude of the carrier signal is modifed with the instantaneous amplitude of 
+the baseband signal then it is called amplitude modulation.
+	
+
+Te frequency of the carrier signal is modifed with the instantaneous amplitude of the 
+baseband signal in frequency modulation.
+	
+
+Te instantaneous amplitude of the baseband signal modifes the phase of the carrier 
+signal keeping the amplitude and frequency constant in phase modulation
+	
+
+If the EM waves transmitted by the transmitter glide over the surface of the earth to 
+reach the receiver, then the propagation of EM waves is called ground wave propagation.
+	
+
+Te mode of propagation in which electromagnetic waves radiated from an antenna, 
+directed upwards at large angles gets refected by the ionosphere back to earth is called 
+sky wave propagation.
+	
+
+Te process of sending and receiving information signal through space is called space 
+wave communication.
+	
+
+Te satellite communication is a mode of communication of signal between transmitter 
+and receiver via satellite.
+	
+
+Fiber-optic communication is a method of transmitting information by sending pulses 
+of light through an optical fber.
+	
+
+Radar basically stands for Radio Detection and Ranging System. It is one of the 
+important applications of communication systems for remote sensing.
+	
+
+Mobile Communication is used to communicate with others in diferent locations 
+without the use of any physical connection like wires or cables.
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   244
+XII_Physics_Vol-2_UNIT-10_Part 2_EM.indd   244
+04-03-2022   17:19:25
+04-03-2022   17:19:25
+www.freetnbooks.com
+www.FREETNBOOKS.com
+
